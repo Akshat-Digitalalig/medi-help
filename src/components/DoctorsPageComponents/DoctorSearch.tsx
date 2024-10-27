@@ -11,6 +11,12 @@ const hospitals = [
   { id: 5, name: 'Apollo Clinic', city: 'Chennai', department: 'Oncology' },
 ];
 
+interface QueryParams {
+  country: string;
+  city?: string;
+  department?: string;
+}
+
 const SearchDoctors = () => {
   const router = useRouter();
   const [selectedCountry, setSelectedCountry] = useState('India');
@@ -18,13 +24,13 @@ const SearchDoctors = () => {
   const [selectedDepartment, setSelectedDepartment] = useState('');
 
   const handleSearch = () => {
-    const query = {
+    const query:QueryParams = {
       country: selectedCountry,
       city: selectedCity || undefined, // Exclude from query if not selected
       department: selectedDepartment || undefined, // Exclude from query if not selected
     };
     // Update the URL with the new query parameters
-    const queryString = new URLSearchParams(query).toString();
+    const queryString = new URLSearchParams(query as unknown as Record<string, string>).toString();
     router.push(`/doctors?${queryString}`);
 
   };
