@@ -1,11 +1,11 @@
 window.__GOOGLE_TRANSLATION_CONFIG__ = {
   languages: [
-    { title: "English", name: "en" },
-    { title: "French", name: "fr" },
-    // { title: "Turkmen", name: "tk" }, // for Turkmenistan
-    // { title: "Kazakh", name: "kk" }, // for Kazakhstan
-    { title: "Bengali", name: "bn" }, // for Bangladesh
-    { title: "Arabic", name: "ar" },
+    { title: "🇬🇧  English", name: "en" },
+    { title: "🇦🇪  Arabic", name: "ar" },
+    { title: "🇷🇺  Russian", name: "ru" },
+    { title: "🇧🇩  Bengali", name: "bn" },
+    { title: "🇺🇿  Uzbek", name: "uz" },
+    { title: "🇫🇷  French", name: "fr" },
   ],
   defaultLanguage: "en",
 };

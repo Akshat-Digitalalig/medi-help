@@ -38,11 +38,11 @@ const SearchBar = () => {
 
     return (
         <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto">
-            <div className="flex max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl md:rounded-full font-sans">
-                <div className='flex items-center w-full'>
+            <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl md:rounded-full font-sans">
+                <div className='flex items-center  w-full'>
                     <MapPin size={24} className="text-indigo-950" />
                     <select
-                        className="flex-1 p-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                        className="flex-1 p-2 rounded focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedCountry}
                         onChange={(e) => {
                             setSelectedCountry(e.target.value);
@@ -59,7 +59,7 @@ const SearchBar = () => {
                 <div className='flex items-center w-full'>
                     <MapPinHouse size={24} className="text-indigo-950" />
                     <select
-                        className="flex-1 p-2 rounded border-transparent focus:outline-none focus:ring-2 focus:ring-blue-500"
+                        className="flex-1 p-2 rounded border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedCity}
                         onChange={(e) => setSelectedCity(e.target.value)}
                     >
@@ -73,7 +73,7 @@ const SearchBar = () => {
                 <div className='flex items-center w-full'>
                     <Building size={24} className="text-indigo-950" />
                     <select
-                        className="flex-1 p-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                        className="flex-1 p-2 rounded focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedDepartment}
                         onChange={(e) => setSelectedDepartment(e.target.value)}
                     >

@@ -1,6 +1,13 @@
 "use client";
 import { useEffect, useState } from "react";
 import { parseCookies, setCookie } from "nookies";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select"; // Adjust the import path as necessary
 
 const COOKIE_NAME = "googtrans";
 
@@ -21,14 +28,14 @@ declare global {
 }
 
 const LanguageSwitcher: React.FC = () => {
-  const [currentLanguage, setCurrentLanguage] = useState<string>('');
+  const [currentLanguage, setCurrentLanguage] = useState<string>("");
   const [languageConfig, setLanguageConfig] = useState<GoogleTranslationConfig | null>(null);
 
   useEffect(() => {
     const cookies = parseCookies();
     const existingLanguageCookieValue = cookies[COOKIE_NAME];
 
-    let languageValue = '';
+    let languageValue = "";
 
     // Get the language from the cookie
     if (existingLanguageCookieValue) {
@@ -59,7 +66,7 @@ const LanguageSwitcher: React.FC = () => {
     return null;
   }
 
-  const switchLanguage = (lang: string) => () => {
+  const switchLanguage = (lang: string) => {
     setCookie(null, COOKIE_NAME, "/auto/" + lang, {
       path: '/', // Ensure cookie is available across the site
     });
@@ -67,22 +74,19 @@ const LanguageSwitcher: React.FC = () => {
   };
 
   return (
-    <div className="text-center notranslate">
-      {languageConfig.languages.map((ld: LanguageDescriptor) => (
-        <span key={ld.name} className="mx-3">
-          {currentLanguage === ld.name || 
-          (currentLanguage === "auto" && languageConfig.defaultLanguage === ld.name) ? (
-            <span className="text-orange-300">{ld.title}</span>
-          ) : (
-            <a
-              onClick={switchLanguage(ld.name)}
-              className="text-blue-300 cursor-pointer hover:underline"
-            >
+    <div className="text-center notranslate mx-1">
+      <Select onValueChange={switchLanguage} defaultValue={currentLanguage}>
+        <SelectTrigger className="w-[110px]">
+          <SelectValue placeholder="Select Language" />
+        </SelectTrigger>
+        <SelectContent>
+          {languageConfig.languages.map((ld: LanguageDescriptor) => (
+            <SelectItem key={ld.name} value={ld.name}>
               {ld.title}
-            </a>
-          )}
-        </span>
-      ))}
+            </SelectItem>
+          ))}
+        </SelectContent>
+      </Select>
     </div>
   );
 };

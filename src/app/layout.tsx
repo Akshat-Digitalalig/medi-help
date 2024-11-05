@@ -3,7 +3,6 @@ import "./globals.css";
 import Navbar from "@/components/Universal/Navbar";
 import { Manrope } from 'next/font/google';
 import Footer from "@/components/Universal/Footer";
-import { LanguageSwitcher } from "@/components/Universal/LangSwitcher";
 import Script from "next/script";
 
 const manrope = Manrope({
@@ -39,10 +38,8 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${manrope.className}  antialiased`}
+        className={`${manrope.className} antialiased`}
       >
-        <LanguageSwitcher />
-        
         <Navbar />
         {children}
         <Footer />
