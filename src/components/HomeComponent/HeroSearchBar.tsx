@@ -42,7 +42,7 @@ const SearchBar = () => {
                 <div className='flex items-center  w-full'>
                     <MapPin size={24} className="text-indigo-950" />
                     <select
-                        className="flex-1 p-2 rounded focus:outline-none focus:ring-2 focus:ring-indigo-950"
+                        className="flex-1 p-2 rounded  bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedCountry}
                         onChange={(e) => {
                             setSelectedCountry(e.target.value);
@@ -59,7 +59,7 @@ const SearchBar = () => {
                 <div className='flex items-center w-full'>
                     <MapPinHouse size={24} className="text-indigo-950" />
                     <select
-                        className="flex-1 p-2 rounded border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
+                        className="flex-1 p-2 rounded bg-transparent border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedCity}
                         onChange={(e) => setSelectedCity(e.target.value)}
                     >
@@ -73,7 +73,7 @@ const SearchBar = () => {
                 <div className='flex items-center w-full'>
                     <Building size={24} className="text-indigo-950" />
                     <select
-                        className="flex-1 p-2 rounded focus:outline-none focus:ring-2 focus:ring-indigo-950"
+                        className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedDepartment}
                         onChange={(e) => setSelectedDepartment(e.target.value)}
                     >

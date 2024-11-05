@@ -52,7 +52,7 @@ export default function Navbar() {
                     <ClipboardPlus size={20} />
                 </button>
 
-                <button onClick={toggleSidebar} className='text-white block md:hidden border-[1px] p-1 rounded-md mx-2'>
+                <button onClick={toggleSidebar} className='text-indigo-950 block md:hidden border-[1px] p-1 rounded-md mx-2'>
                     <Menu size={24} />
                 </button>
 
