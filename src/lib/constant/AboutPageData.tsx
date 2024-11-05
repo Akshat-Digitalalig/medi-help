@@ -20,7 +20,7 @@ interface AboutPageData {
 }
 
 export const AboutPageData:AboutPageData = {
-    title: "Revolutionary way to build the web",
+    title: "Best Top Medical Care Web",
     mainImage: "https://images.pexels.com/photos/160994/family-outdoor-happy-happiness-160994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     social:[
         {

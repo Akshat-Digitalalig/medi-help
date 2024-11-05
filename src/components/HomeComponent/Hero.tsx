@@ -1,52 +1,46 @@
 import React from 'react'
-import GetFreeConsult from '../ReusableComponents/GetFreeConsult'
-import { Facebook, Instagram, Twitter } from 'lucide-react'
+import {  MessageCircleQuestion } from 'lucide-react'
 import AvatarCircles from '../ui/avatar-circles'
+import Image from 'next/image';
+import SearchBar from './HeroSearchBar';
 
 const patientsImg = [
-     "https://randomuser.me/api/portraits/men/34.jpg", "https://randomuser.me/api/portraits/men/31.jpg", "https://randomuser.me/api/portraits/women/30.jpg", "https://randomuser.me/api/portraits/women/35.jpg",
+    "https://randomuser.me/api/portraits/men/34.jpg", "https://randomuser.me/api/portraits/men/31.jpg", "https://randomuser.me/api/portraits/women/30.jpg", "https://randomuser.me/api/portraits/women/35.jpg",
 ]
-
-
 export default function Hero() {
     return (
-        <section
-            className=" gradient flex flex-col px-4 md:px-20  py-2 justify-between gap-6 sm:gap-10 md:gap-16 lg:flex-row">
-            <div className="flex flex-col  xl:w-5/12 ">
-                <div className="sm:text-center lg:py-10 lg:text-left ">
-                    <p className="mb-2 font-semibold text-indigo-950 mt-4 text-center md:mb-2 md:text-lg xl:text-xl">Connecting You to Trusted Medical Care Worldwide</p>
-                    <h1 className="mb-4 text-3xl font-bold text-[#4973fd] text-center sm:text-5xl md:mb-4 md:text-5xl">Quality <span className='text-red-500'>Medical </span>Treatment, Delivered with Compassion</h1>
-                </div>
-
-                <div className='flex gap-x-2 justify-center'>
-                    <AvatarCircles numPeople={100} avatarUrls={patientsImg} />
-                </div>
-
-                <p className='text-center mt-2'><span className='font-semibold'>1,00,000+ </span>Patients Assisted Since 2016</p>
-                <div className=" flex items-center my-2 justify-center gap-4 lg:justify-center">
-                    <span className="text-sm font-semibold uppercase tracking-widest text-black sm:text-base">Social</span>
-                    <span className="h-px w-12 bg-black"></span>
-
-                    <div className="flex gap-4">
-                        <a href="#" target="_blank" className="text-black transition duration-100 hover:text-gray-400 active:text-black">
-                            <Instagram />
-                        </a>
-
-                        <a href="#" target="_blank" className="text-black transition duration-100 hover:text-gray-400 active:text-black">
-                            <Twitter />
-                        </a>
-
-                        <a href="#" target="_blank" className="text-black transition duration-100 hover:text-gray-400 active:text-black">
-                            <Facebook />
-                        </a>
-
+        <section className="flex flex-col">
+            <div className="flex flex-col items-center w-full">
+                <div className="bg-[#e1f5ff] w-full pb-10">
+                    <p className="mb-2 font-semibold text-indigo-950 mt-4 py-4 text-center md:mb-2 md:text-2xl">Connecting Top Medical Care</p>
+                    <h1 className="mb-4 text-3xl font-bold text-indigo-950 text-center sm:text-5xl md:mb-4 md:text-6xl">Quality <span>Medical </span>Treatment</h1>
+                    <p className="mb-2 font-semibold text-indigo-950/70 mt-4 pt-4 text-center md:text-lg">24/7 You to Trusted Medical Care Worldwide</p>
+                    <p className="mb-2 font-semibold text-indigo-950/70 text-center md:mb-2 md:text-lg">Just Check out <span className='underline'>more</span></p>
+                    <div>
+                        <SearchBar />
                     </div>
                 </div>
-            </div>
-
-            <div className="h-fit overflow-hidden rounded-lg  lg:h-auto xl:w-5/12">
-                <GetFreeConsult />
+                <div className='relative bottom-10 bg-white shadow-lg rounded-xl h-fit w-[80vw] md:w-[50vw] p-4 '>
+                    <Image src='https://images.pexels.com/photos/3279209/pexels-photo-3279209.jpeg?auto=compress&cs=tinysrgb&w=600' className='rounded-xl' height={800} width={900} alt='bg' objectFit='cover' />
+                    <div className='hidden md:block absolute bottom-20 -left-20 bg-white rounded-xl w-56 border-indigo-950 border shadow h-40'>
+                        <div className='flex justify-center flex-col items-center'>
+                            <h1 className='font-semibold text-2xl text-indigo-950 mt-6'>1,00,000+</h1>
+                            <h1 className='text-sm mb-3 text-indigo-950/70'>Patients Assisted Since 2021</h1>
+                            <AvatarCircles numPeople={100} avatarUrls={patientsImg} />
+                        </div>
+                    </div>
+                    <div className='hidden md:block absolute bottom-40 -right-20 bg-white rounded-xl w-56 border-indigo-950 border shadow h-40'>
+                        <div className='flex justify-center flex-col items-center'>
+                            <h1 className='font-semibold text-2xl text-indigo-950 mt-6 flex justify-center items-center gap-x-2'><MessageCircleQuestion /> 24/7</h1>
+                            <h1 className='text-sm mb-3 text-indigo-950/70'>Available for you Assist!</h1>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
     )
 }
+
+
+
+

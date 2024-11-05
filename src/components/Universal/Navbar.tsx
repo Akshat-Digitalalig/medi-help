@@ -1,5 +1,5 @@
 'use client';
-import { CircleX, ClipboardPlus, Contact,  GraduationCap, HandCoins, HeartPulse,  HomeIcon, Hospital,  Menu, Search } from 'lucide-react'
+import { CircleX, ClipboardPlus, Contact, GraduationCap, HandCoins, HeartPulse, HomeIcon, Hospital, Menu, Search } from 'lucide-react'
 import Image from 'next/image'
 import React, { useRef, useState } from 'react'
 import { Manrope } from 'next/font/google';
@@ -14,31 +14,40 @@ const manrope = Manrope({
 
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
+    const [isExpanded, setIsExpanded] = useState(false);
 
     const toggleSidebar = () => {
-      setIsOpen(!isOpen);
+        setIsOpen(!isOpen);
     };
-  
+
     const sidebarRef = useRef<HTMLDivElement>(null);
 
     return (
-        <div className='bg-gradient-to-r from-[#4288fe] to-[#6817f7] w-full '>
+        <div className='bg-[#e1f5ff] w-full '>
             <header className={` ${manrope.className} max-w-screen-2xl mx-auto flex items-center justify-between`}>
-                <a className="inline-flex flex-row items-center gap-1 mx-1 md:mx-2 text-lg text-white font-semibold" aria-label="logo">
-                    <Image src="/logo1.png" alt="MediHelp" width={70} height={70} />
+                <a className="inline-flex flex-row items-center gap-1 my-2 mx-1 md:mx-2 text-lg text-white font-semibold" aria-label="logo">
+                    <Image src="/logo1.png" alt="MediHelp" width={70} className='bg-indigo-950 rounded-full' height={70} />
                     <div>
-                        <h1 className='leading-none text-xl font-bold'>MediHelp.in</h1>
-                        <p className="text-xs font-light leading-none">Your Health Partner</p>
+                        <h1 className='leading-none text-xl md:text-2xl font-bold text-indigo-950'>MediHelp.in</h1>
+                        <p className=" text-xs md:text-sm  leading-none text-indigo-950
+                        ">Your Health Partner</p>
                     </div>
                 </a>
-
-                <nav className="hidden md:flex items-center gap-2.5 bg-white border-2 px-2 py-1 rounded-2xl">
-                    <input type="text" placeholder="Search Disease, Procedure, Doctors or Hospital" className="bg-transparent text-xs outline-0 w-80 text-gray-600" />
-                    <Search color='blue' size={20} />
+                <Nav />
+                <nav  className="relative hidden md:flex items-center gap-2.5 bg-white border-2 px-2 py-1 rounded-2xl">
+                    <input
+                        type="text"
+                        placeholder="Search Disease, Procedure, Doctors or Hospital"
+                        
+                        className={`bg-transparent text-xs py-1 outline-0 ${isExpanded ? 'w-48' : 'w-0'
+                            } text-gray-600 transition-all duration-300 ease-in-out overflow-hidden`}
+                    />
+                    <Search onClick={() => setIsExpanded((prev) => !prev)}  color="blue" size={20} />
                 </nav>
 
+
                 <button className="flex items-center mx-2 leading-none text-xs font-semibold bg-red-500 gap-1 px-2 md:px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-red-700 duration-300">
-                    Get Free Consults
+                    Free Consults
                     <ClipboardPlus size={20} />
                 </button>
 
@@ -47,15 +56,15 @@ export default function Navbar() {
                 </button>
 
             </header>
-            <Nav />
+
             <div ref={sidebarRef} className={`flex flex-col justify-between fixed inset-y-0 right-0 bg-black bg-opacity-50 z-50 transition-transform transform ${isOpen ? "translate-x-0" : "translate-x-full"
                 } lg:hidden w-3/4 md:w-1/2`}
             >
-               
+
                 <div className="bg-[#f7faff]/90 h-full p-4 ">
-                <h1 onClick={() => toggleSidebar()} className='text-center flex justify-end'> 
-                <CircleX  />
-                </h1>
+                    <h1 onClick={() => toggleSidebar()} className='text-center flex justify-end'>
+                        <CircleX />
+                    </h1>
                     {[
                         { title: "Home", icon: <HomeIcon />, path: "/" },
                         {
@@ -70,7 +79,7 @@ export default function Navbar() {
                         },
                         { title: "Cost", icon: <HandCoins />, path: "/cost" },
                         { title: "Contact Us", icon: <Contact />, path: "/consult-online" },
-                        { title:"Knowledge", icon: <GraduationCap /> , path:"/knowledge-center"}
+                        { title: "Knowledge", icon: <GraduationCap />, path: "/knowledge-center" }
                     ].map((option, idx) => (
                         <Link
                             href={option.path}

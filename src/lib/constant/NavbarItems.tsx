@@ -17,10 +17,10 @@ export const navlink: NavLink[] = [
         title: 'Doctors',
         link: '/doctors',
     },
-    {
-        title: 'Cost',
-        link: '/cost',
-    },
+    // {
+    //     title: 'Cost',
+    //     link: '/cost',
+    // },
     {
         title: 'Knowledge',
         link:'/knowledge-center',
@@ -42,9 +42,5 @@ export const navlink: NavLink[] = [
     {
         title: 'About Us',
         link: '/about',
-    },
-    {
-        title: 'Free Consult',
-        link: '/consult-online',
     },
 ];

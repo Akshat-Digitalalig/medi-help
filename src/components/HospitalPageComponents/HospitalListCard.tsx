@@ -41,7 +41,7 @@ const HospitalCard: React.FC<HospitalCardProps> = ({ hospital }) => {
                 <BriefcaseMedical />
                 <div>
                   <p className="text-xs font-semibold text-center" > Specialty</p>
-                  <p className='text-center'>{hospital.speacialities.length}</p>
+                  <p className='text-center'>{hospital.specialties.length}</p>
                 </div>
               </div>
               <div className=" text-xs text-gray-600 flex flex-col items-center">

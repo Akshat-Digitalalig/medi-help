@@ -1,7 +1,6 @@
 "use client";
-import Image from 'next/image';
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
+import { Building, MapPin, MapPinHouse } from 'lucide-react';
 
 const hospitals = [
   { id: 1, name: 'City Hospital', city: 'Mumbai', department: 'Cardiology' },
@@ -16,74 +15,91 @@ interface QueryParams {
   city?: string;
   department?: string;
 }
-
 const SearchDoctors = () => {
-  const router = useRouter();
-  const [selectedCountry, setSelectedCountry] = useState('India');
-  const [selectedCity, setSelectedCity] = useState('');
-  const [selectedDepartment, setSelectedDepartment] = useState('');
-
-  const handleSearch = () => {
-    const query:QueryParams = {
-      country: selectedCountry,
-      city: selectedCity || undefined, // Exclude from query if not selected
-      department: selectedDepartment || undefined, // Exclude from query if not selected
-    };
-    // Update the URL with the new query parameters
-    const queryString = new URLSearchParams(query as unknown as Record<string, string>).toString();
-    router.push(`/doctors?${queryString}`);
-
-  };
-
+ 
   return (
-    <div className="flex hgradient flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto">
-      <h2 className="text-2xl font-semibold text-center text-gray-800">Find Your Ideal Doctor</h2>
-      <Image src={'/doctors.webp'} height={150} width={150} alt='hospital' />
-      <div className="flex max-w-3xl flex-col sm:flex-row gap-4 w-full bg-indigo-950 p-3 rounded-lg font-sans">
-        <select
-          className="flex-1 p-2 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          value={selectedCountry}
-          onChange={(e) => setSelectedCountry(e.target.value)}
-        >
-          <option value="India">India</option>
-          <option value="USA">USA</option>
-          <option value="UK">UK</option>
-        </select>
-        <select
-          className="flex-1 p-2 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          value={selectedCity}
-          onChange={(e) => setSelectedCity(e.target.value)}
-        >
-          <option value="">All Cities</option>
-          {Array.from(new Set(hospitals.map((hospital) => hospital.city))).map((city, index) => (
-            <option key={index} value={city}>
-              {city}
-            </option>
-          ))}
-        </select>
-        <select
-          className="flex-1 p-2 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          value={selectedDepartment}
-          onChange={(e) => setSelectedDepartment(e.target.value)}
-        >
-          <option value="">All Departments</option>
-          {Array.from(new Set(hospitals.map((hospital) => hospital.department))).map(
-            (department, index) => (
-              <option key={index} value={department}>
-                {department}
-              </option>
-            )
-          )}
-        </select>
-        <button
-          onClick={handleSearch}
-          className="p-2 bg-red-500 text-white rounded hover:bg-red-600 transition-colors"
-        >
-          Search
-        </button>
-      </div>
+    <div className="bg-[#e1f5ff] flex flex-col items-center pt-6 pb-8 px-4 rounded-md w-full mx-auto">
+      <h2 className="text-3xl font-bold text-center text-gray-800">Find Your Ideal Doctor</h2>
+      <SearchBar />
     </div>
   );
 };
 
 export default SearchDoctors;
+
+
+const SearchBar = () => {
+  const [selectedCountry, setSelectedCountry] = useState('India');
+  const [selectedCity, setSelectedCity] = useState('');
+  const [selectedDepartment, setSelectedDepartment] = useState('');
+
+  const handleSearch = () => {
+      const query: QueryParams = {
+          country: selectedCountry,
+          city: selectedCity || undefined,
+          department: selectedDepartment || undefined,
+      };
+      const queryString = new URLSearchParams(query as unknown as Record<string, string>).toString();
+      console.log(queryString)
+
+  };
+
+  return (
+      <div className="flex flex-col items-center pt-6 pb-10  px-4 rounded-md w-full mx-auto">
+
+          <div className="flex text-indigo-950 font-semibold  max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full border-[5px] border-indigo-950 bg-white p-3 rounded-xl md:rounded-full font-sans">
+              <div className='flex items-center w-full '>
+                  <MapPin size={24} className="text-indigo-950" />
+                  <select
+                      className="flex-1 p-2 rounded  focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      value={selectedCountry}
+                      onChange={(e) => setSelectedCountry(e.target.value)}
+                  >
+                      <option value="India">India</option>
+                      <option value="USA">USA</option>
+                      <option value="UK">UK</option>
+                  </select>
+              </div>
+              <div className='flex items-center  w-full'>
+                  <MapPinHouse size={24} className="text-indigo-950" />
+                  <select
+                      className="flex-1 p-2 rounded border-transparent focus:outline-none focus:ring-2  focus:ring-blue-500"
+                      value={selectedCity}
+                      onChange={(e) => setSelectedCity(e.target.value)}
+                  >
+                      <option value="">All Cities</option>
+                      {Array.from(new Set(hospitals.map((hospital) => hospital.city))).map((city, index) => (
+                          <option key={index} value={city}>
+                              {city}
+                          </option>
+                      ))}
+                  </select>
+              </div>
+              <div className='flex items-center w-full'>
+                  <Building size={24} className="text-indigo-950" />
+                  <select
+                      className="flex-1 p-2 rounded  focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      value={selectedDepartment}
+                      onChange={(e) => setSelectedDepartment(e.target.value)}
+                  >
+                      <option value="">All Departments</option>
+                      {Array.from(new Set(hospitals.map((hospital) => hospital.department))).map(
+                          (department, index) => (
+                              <option key={index} value={department}>
+                                  {department}
+                              </option>
+                          )
+                      )}
+                  </select>
+              </div>
+              <button
+                  onClick={handleSearch}
+                  className="p-2 bg-indigo-950 text-white rounded-full px-6 hover:bg-indigo-900 transition-colors"
+              >
+                  Search
+              </button>
+          </div>
+
+      </div>
+  )
+}

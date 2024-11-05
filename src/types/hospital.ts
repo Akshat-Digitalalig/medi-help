@@ -12,7 +12,7 @@ interface AboutSection {
     fullAddress: string;
     city: string;
     country: string;
-    pincode: string;
+    pinCode: string;
     location: {
         lat: number;
         lng: number;
@@ -35,8 +35,8 @@ export interface Hospital {
     about: AboutSection;
     established: number;
     numberOfBeds: number;
-    speacialities: string[];
-    teamSpeacialities: string[];
+    specialties: string[];
+    teamSpecialties: string[];
     facilities: string[];
     infrastructure: string[];
     address:Address;

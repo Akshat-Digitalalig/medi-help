@@ -26,7 +26,7 @@ export default function Footer() {
 
                             <div className="mb-4 lg:-mt-2">
                                 <a href="" className="inline-flex items-center gap-2 text-xl font-bold text-white md:text-2xl" aria-label="logo">
-                                <Image src="/logo.png" alt="MediHelp" width={70} height={70} />
+                                <Image src="/logo1.png" alt="MediHelp" width={70} height={70} />
 
                                 MediHelp.in
                                 </a>

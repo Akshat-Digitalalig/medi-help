@@ -10,18 +10,18 @@ import Link from "next/link";
         setOpenDropdown(null);
     };
     return (
-        <div className=' hidden md:block w-full bg-indigo-950'>
+        <div className=' hidden md:block w-full '>
             <ul className='flex space-x-2 justify-center  mx-auto  max-w-screen-2xl'>
                 {navlink.map((navItem, index) => (
                     <li
                         key={index}
-                        className="relative border-b-4 border-indigo-950 hover:border-white p-2"
+                        className="relative  p-2"
                         onMouseEnter={() => handleMouseEnter(navItem.title)}
                         onMouseLeave={handleMouseLeave}
                     >
                         <Link
                             href={navItem.link || '#'}
-                            className="cursor-pointer text-white text-sm  px-4 py-1  rounded-md"
+                            className="cursor-pointer text-indigo-950 text-sm  px-4 py-1  rounded-md hover:underline hover:font-semibold"
                         >
                             {navItem.title}
                         </Link>

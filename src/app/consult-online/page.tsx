@@ -1,12 +1,19 @@
 "use client"
 import React, { useState } from 'react';
 
+const countryCityData = {
+    India: ["Delhi", "Mumbai", "Bangalore", "Kolkata"],
+    "United States": ["New York", "Los Angeles", "Chicago", "Houston"],
+    "United Kingdom": ["London", "Manchester", "Birmingham", "Liverpool"],
+    Australia: ["Sydney", "Melbourne", "Brisbane", "Perth"],
+};
+
 const Page: React.FC = () => {
     const [formData, setFormData] = useState({
         name: '',
         email: '',
         country: 'India',
-        city: 'Select City',
+        city: '',
         phone: '',
         medicalProblem: '',
         ageOrDOB: '',
@@ -17,6 +24,8 @@ const Page: React.FC = () => {
         setFormData((prevData) => ({
             ...prevData,
             [name]: value,
+            // Reset city if country is changed
+            ...(name === 'country' ? { city: '' } : {}),
         }));
     };
 
@@ -27,7 +36,7 @@ const Page: React.FC = () => {
 
     return (
         <div>
-            <div className="max-w-xl mx-auto p-6 my-2 rounded-lg ">
+            <div className="max-w-xl mx-auto p-6 my-2 rounded-lg">
                 <h2 className="text-center text-xl font-semibold mb-2">Help Us With Patient Details</h2>
                 <form onSubmit={handleSubmit} className="space-y-2">
                     <div>
@@ -45,7 +54,7 @@ const Page: React.FC = () => {
                         />
                     </div>
                     <div>
-                        <label htmlFor="email" className="block py-1  text-sm font-medium">
+                        <label htmlFor="email" className="block py-1 text-sm font-medium">
                             Email<span className='text-red-500'>*</span>
                         </label>
                         <input
@@ -59,7 +68,7 @@ const Page: React.FC = () => {
                         />
                     </div>
                     <div>
-                        <label htmlFor="country" className="block py-1  text-sm font-medium">
+                        <label htmlFor="country" className="block py-1 text-sm font-medium">
                             Country<span className='text-red-500'>*</span>
                         </label>
                         <select
@@ -69,14 +78,15 @@ const Page: React.FC = () => {
                             onChange={handleChange}
                             className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                         >
-                            <option>India</option>
-                            <option>United States</option>
-                            <option>United Kingdom</option>
-                            <option>Australia</option>
+                            {Object.keys(countryCityData).map((country) => (
+                                <option key={country} value={country}>
+                                    {country}
+                                </option>
+                            ))}
                         </select>
                     </div>
                     <div>
-                        <label htmlFor="city" className="block py-1  text-sm font-medium">
+                        <label htmlFor="city" className="block py-1 text-sm font-medium">
                             City<span className='text-red-500'>*</span>
                         </label>
                         <select
@@ -85,16 +95,18 @@ const Page: React.FC = () => {
                             value={formData.city}
                             onChange={handleChange}
                             className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                            disabled={!formData.country} // Disable if no country is selected
                         >
-                            <option>Select City</option>
-                            <option>Delhi</option>
-                            <option>Mumbai</option>
-                            <option>Bangalore</option>
-                            <option>Kolkata</option>
+                            <option value="">Select City</option>
+                            {formData.country && countryCityData[formData.country]?.map((city) => (
+                                <option key={city} value={city}>
+                                    {city}
+                                </option>
+                            ))}
                         </select>
                     </div>
                     <div>
-                        <label htmlFor="phone" className="block py-1  text-sm font-medium">
+                        <label htmlFor="phone" className="block py-1 text-sm font-medium">
                             Phone Number<span className='text-red-500'>*</span>
                         </label>
                         <div className="flex">
@@ -113,7 +125,7 @@ const Page: React.FC = () => {
                         </div>
                     </div>
                     <div>
-                        <label htmlFor="medicalProblem" className="block py-1  text-sm font-medium">
+                        <label htmlFor="medicalProblem" className="block py-1 text-sm font-medium">
                             Medical Problem<span className='text-red-500'>*</span>
                         </label>
                         <textarea
@@ -126,7 +138,7 @@ const Page: React.FC = () => {
                         ></textarea>
                     </div>
                     <div>
-                        <label htmlFor="ageOrDOB" className="block py-1  text-sm font-medium">
+                        <label htmlFor="ageOrDOB" className="block py-1 text-sm font-medium">
                             Age or Date of Birth<span className='text-red-500'>*</span>
                         </label>
                         <input
