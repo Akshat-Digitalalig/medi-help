@@ -1,7 +1,7 @@
 "use client"
 import React, { useState } from 'react';
 
-const countryCityData = {
+const countryCityData: { [key: string]: string[] } = {
     India: ["Delhi", "Mumbai", "Bangalore", "Kolkata"],
     "United States": ["New York", "Los Angeles", "Chicago", "Houston"],
     "United Kingdom": ["London", "Manchester", "Birmingham", "Liverpool"],
