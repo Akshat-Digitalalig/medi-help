@@ -13,6 +13,7 @@ export interface Doctor {
     designation: string;
     image: string;
     workingAt: string;
+    hospitalId: string;
     about: AboutSection;
     specialties: string[];
     skilledAt: string[];

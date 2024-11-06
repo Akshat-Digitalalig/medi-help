@@ -3,9 +3,11 @@ import React from 'react'
 import { hospitalData } from "@/lib/constant/Hospital"
 import Image from 'next/image'
 import { MapPin } from 'lucide-react'
-// import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useParams } from 'next/navigation'
 import { Hospital } from '@/types/hospital'
+import Link from 'next/link'
+import { SlideRating } from '@/components/Universal/Sliderating'
 
 // interface DoctorCardProps {
 //     image: string;
@@ -42,12 +44,12 @@ export default function Page() {
                         </p>
                         <p className="text-gray-600 ">Establish :<span className="font-semibold">{hospital?.established}</span></p>
                         <p className="text-gray-600 ">Number Of Beds :<span className="font-semibold">{hospital?.numberOfBeds}</span></p>
-                        {hospital?.specialties.map((specialty, index) => (
+                        {/* {hospital?.teamSpecialties.map((specialty, index) => (
                             <span key={index} className="inline-block bg-blue-100 text-blue-800 mx-1 text-sm font-medium px-2 py-1 rounded mt-2">
                                 {specialty}
                             </span>
 
-                        ))}
+                        ))} */}
                         <div className="mt-4">
                             <button className="bg-blue-700 text-white px-4 py-2 rounded hover:bg-blue-800 focus:outline-none">
                                 &#x1F4C5; Schedule
@@ -84,49 +86,73 @@ export default function Page() {
                         </div>
                     ))}
                 </div>
-                <h1 className='text-start font-black text-2xl my-4'>Infrastructure</h1>
-                <h1 className='text-start font-black  my-1'>The expertise of {hospital?.name} in the following areas</h1>
-                <div className='flex flex-wrap gap-2'>
-                    {hospital?.infrastructure.map((infrastructure, index) => (
-                        <span key={index} className="inline-block bg-blue-100 text-blue-800 mx-1 text-sm  font-semibold px-2 py-1 rounded mt-2">
-                            {infrastructure}
-                        </span>
+                <Tabs defaultValue="facilities" className="w-[900px] my-2 pb-6">
+                    <TabsList className='bg-blue-600/20  mb-2'>
+                        <TabsTrigger  className='font-semibold' value="facilities">Facilities</TabsTrigger> 
+                        <TabsTrigger  className='font-semibold' value="Infrastructure">Infrastructure</TabsTrigger> 
+                    </TabsList>
+                    <TabsContent value="facilities">
+                        <div className='grid md:grid-cols-2'>
+                            {hospital?.facilities.map((item, index) => (
+                                <p key={index} className="text-gray-700 font-semibold flex gap-x-1 text-sm items-start  my-2"><span className='text-green-500'> &#x2714;</span>{item}</p>
+                            ))}
+                        </div>
+                    </TabsContent>
+                    <TabsContent value="Infrastructure">
+                        <div>
+                        {hospital?.infrastructure.map((infrastructure, index) => (
+                         <p key={index} className="text-gray-700 font-semibold flex gap-x-1 text-sm items-start  my-2"><span className='text-green-500'> &#x2714;</span>{infrastructure}</p>
+                        ))}
+                        </div>
+                    </TabsContent>
+                
+                </Tabs>
+                <h1 className='text-start font-black text-2xl my-4'>Department</h1>
+                <div className='grid grid-cols-2 md:grid-cols-3'>
+                    {hospital?.departments.map((departments, index) => (
+                        <div key={index} className="flex gap-2 items-start">
+                            <span className="text-green-500">●</span>
+                            <p className='font-semibold text-sm'>{departments}</p>
+                        </div>
                     ))}
                 </div>
                 <h1 className='text-start font-black text-xl mt-3'>Team and Specialities</h1>
-                <div className='grid grid-cols-2'>
-                    {/* {hospital?.specialties.map((item, index) => (
-                        <p key={index} className="text-gray-700 font-semibold flex gap-x-1 items-start max-w-4xl my-2"><span className='text-green-500'> &#x2714;</span>{item}</p>
-                    ))} */}
+                <div className='grid grid-cols-2 md:grid-cols-3'>
+                    {hospital?.specialties.map((item, index) => (
+                        <p key={index} className="font-semibold text-sm flex gap-x-1 items-start max-w-4xl my-1"><span className='text-green-500'> &#x2714;</span>{item}</p>
+                    ))}
                 </div>
-                {/* <Tabs defaultValue="education" className="w-[400px] my-2 pb-10">
-                    <TabsList className='bg-blue-600/20  mb-2'>
-                        <TabsTrigger  className='font-semibold' value="education">education</TabsTrigger>
-                        <TabsTrigger className='font-semibold' value="experience">experience</TabsTrigger>
-                        <TabsTrigger className='font-semibold' value="awards">awards</TabsTrigger>
-                    </TabsList>
-                    <TabsContent value="education">
-                        <div>
-                            {hospital.education.map((item, index) => (
-                                <p key={index} className="text-gray-700 font-semibold flex gap-x-1 text-sm items-start max-w-4xl my-2"><span className='text-green-500'> &#x2714;</span>{item}</p>
+               
+                <h1 className='text-start font-black text-2xl my-4'>Address </h1>
+                <div className='grid grid-cols-1 md:grid-cols-2'>
+                    <div className='Address'>
+                        <h1 className='font-semibold text-md'>{hospital?.address.fullAddress}</h1>
+                        <h1 className='font-semibold text-sm'>{hospital?.address.city} {hospital?.address.pinCode}</h1>
+                        <h1 className='font-semibold text-sm mb-3'>{hospital?.address.country}</h1>
+                         <Link className='text-white text-sm m bg-blue-600 font-semibold p-2 rounded-lg' href={`https://www.google.com/maps/search/?api=1&query=${hospital?.address.location.lat},${hospital?.address.location.lng}`}>View on Map</Link>
+                    </div>
+                    <div className='Locations mt-2'>
+                    <h1 className='font-bold text-xl '>{hospital?.location.title}</h1>
+                    {hospital?.location.items.map((item, index) => (
+                        <div key={index} className="flex gap-2 items-center">
+                            <span >●</span>
+                            <p className='font-semibold text-sm'>{item.content}</p>
+                            {item.subItems?.map((subItem, subIndex) => (
+                                <p key={`${index}-${subIndex}`} className="text-gray-700 flex text-sm  gap-x-1 items-start max-w-4xl my-2">
+                                    <span className="px-4 ">●</span>
+                                    {subItem}
+                                </p>
                             ))}
                         </div>
-                    </TabsContent>
-                    <TabsContent value="experience">
-                        <div>
-                            {hospital.experience.map((item, index) => (
-                                <p key={index} className="text-gray-700 font-semibold flex gap-x-1 text-sm items-start max-w-4xl my-2"><span className='text-green-500'> &#x2714;</span>{item}</p>
-                            ))}
-                        </div>
-                    </TabsContent>
-                    <TabsContent value="awards">
-                        <div>
-                            {hospital.awards.map((item, index) => (
-                                <p key={index} className="text-gray-700 font-semibold flex gap-x-1 text-sm items-start max-w-4xl my-2"><span className='text-green-500'> &#x2714;</span>{item}</p>
-                            ))}
-                        </div>
-                    </TabsContent>
-                </Tabs> */}
+                    ))}
+                    <p></p>
+                    </div>
+                </div>
+
+                <div>
+                <h1 className='text-start font-black text-2xl my-4 mt-8'>Users Reviews </h1>
+                <SlideRating reviews={hospital?.reviews || []}/>
+                </div>
             </div>
 
         </div>

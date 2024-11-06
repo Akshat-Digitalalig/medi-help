@@ -7,7 +7,7 @@ export default function Services() {
       <div className="mx-auto max-w-screen-2xl px-4 md:px-12">
         <div className="mb-10 md:mb-16">
           <h2 className="mb-4 text-center text-2xl font-bold text-indigo-950 md:mb-6 lg:text-3xl">
-            Our Services
+          Why Choose Us?
           </h2>  
         </div>
         <div className="grid gap-12 sm:grid-cols-2 xl:grid-cols-3 x">
@@ -31,7 +31,7 @@ interface FeatureItemProps {
 
 function FeatureItem({ title, description, ImgPath }: FeatureItemProps) {
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col bg-white shadow-lg rounded-3xl p-4 items-center">
       <div className="mb-2 flex h-12 w-12 items-center justify-center text-indigo-500 sm:mb-4 md:h-14 md:w-14">
         <Image src={ImgPath} alt={title} width={56} height={56} />
       </div>

@@ -11,6 +11,7 @@ import { benefitOne } from "@/lib/constant/homedata"
 import Testimonials from "@/components/HomeComponent/testimonials"
 import Services from '@/components/HomeComponent/Services';
 import Heading from '@/components/Universal/heading';
+import Image from 'next/image';
 
 export default function Home() {
   
@@ -30,7 +31,25 @@ export default function Home() {
         <GetFree />
         <Whatsapp />
       </div>
+      <div className='flex justify-center items-center px-6 md:px-10 '>
+        <div className='bg-[#240f6a] text-[#8c6df7] flex justify-around overflow-hidden items-center rounded-2xl h-56 w-full '>
+          <div className='pl-4'>
+          <h1 className='text-xl md:text-4xl leading-none font-bold'>Do You Want Free Consultant</h1>
+          <h1 className='text-xl leading-none md:text-6xl font-bold text-white'>With Top Doctors</h1>
+          </div>
+          <Image src={'/doctors.webp'} alt="Free Consult" className=''  height={190} width={190} />
+        </div>
+      </div>
       <Services />
+      <div className='flex justify-center items-center px-6 md:px-10 mb-4 '>
+        <div className='bg-[#240f6a] text-[#8c6df7] flex  justify-around overflow-hidden items-center rounded-2xl h-56 w-full '>
+          <div className='pl-4'>
+          <h1 className='text-xl md:text-4xl leading-none font-bold'>Connect!</h1>
+          <h1 className='text-xl leading-none md:text-6xl font-bold text-white'>With Top Hospitals</h1>
+          </div>
+          <Image src={'/hospital.webp'} alt="Free Consult" className=''  height={240} width={240} />
+        </div>
+      </div>
       <Heading>Testimonials</Heading>
       <Testimonials />
       <State />

@@ -26,14 +26,14 @@ export default function Navbar() {
     return (
         <div className='bg-[#e1f5ff] w-full '>
             <header className={` ${manrope.className} max-w-screen-2xl mx-auto flex items-center justify-between`}>
-                <a className="inline-flex flex-row items-center gap-1 my-2 mx-1 md:mx-2 text-lg text-white font-semibold" aria-label="logo">
-                    <Image src="/logo1.png" alt="MediHelp" width={70} className='bg-indigo-950 rounded-full' height={70} />
+                <Link href={'/'} className="inline-flex cursor-pointer flex-row items-center gap-1 my-2 mx-1 md:mx-2 text-lg text-white font-semibold" aria-label="logo">
+                    <Image src="/medilogo.svg" alt="MediHelp" width={70} className=' rounded-full' height={70} />
                     <div>
                         <h1 className='leading-none text-xl md:text-2xl font-bold text-indigo-950'>MediHelp.in</h1>
                         <p className=" text-xs md:text-sm  leading-none text-indigo-950
                         ">Your Health Partner</p>
                     </div>
-                </a>
+                </Link>
                 <Nav />
                 <nav  className="relative hidden md:flex items-center gap-2.5 bg-white border-2 px-2 py-1 rounded-2xl">
                     <input
