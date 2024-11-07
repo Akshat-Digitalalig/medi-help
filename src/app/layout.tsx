@@ -4,6 +4,7 @@ import Navbar from "@/components/Universal/Navbar";
 import { Manrope } from 'next/font/google';
 import Footer from "@/components/Universal/Footer";
 import Script from "next/script";
+import { Toaster } from "@/components/ui/sonner";
 
 const manrope = Manrope({
   subsets: ['latin'],
@@ -43,6 +44,7 @@ export default function RootLayout({
         <Navbar />
         {children}
         <Footer />
+        <Toaster />
       </body>
     </html>
   );

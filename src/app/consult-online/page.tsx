@@ -1,14 +1,10 @@
 "use client"
 import React, { useState } from 'react';
-
-const countryCityData: { [key: string]: string[] } = {
-    India: ["Delhi", "Mumbai", "Bangalore", "Kolkata"],
-    "United States": ["New York", "Los Angeles", "Chicago", "Houston"],
-    "United Kingdom": ["London", "Manchester", "Birmingham", "Liverpool"],
-    Australia: ["Sydney", "Melbourne", "Brisbane", "Perth"],
-};
+import { toast } from "sonner"
+import { countryCityData, countryCodeData } from "@/lib/constant/unversal"
 
 const Page: React.FC = () => {
+    const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
     const [formData, setFormData] = useState({
         name: '',
         email: '',
@@ -18,26 +14,67 @@ const Page: React.FC = () => {
         medicalProblem: '',
         ageOrDOB: '',
     });
+    console.log(process.env.EMAIL_USER)
 
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
+        
         const { name, value } = e.target;
+
+        
+        if (name === "country") {
+            setCountryCode(countryCodeData[value as keyof typeof countryCodeData]);
+        }
+
         setFormData((prevData) => ({
             ...prevData,
             [name]: value,
-            // Reset city if country is changed
             ...(name === 'country' ? { city: '' } : {}),
         }));
     };
 
-    const handleSubmit = (e: React.FormEvent) => {
+
+    const handleSubmit =  async (e: React.FormEvent) => {
+        toast.success("Email Sending....")
         e.preventDefault();
-        console.log(formData);
+        if (!formData.name || !formData.email || !formData.city || !formData.phone || !formData.medicalProblem || !formData.ageOrDOB) {
+            alert('All fields are required');
+            return;
+        }
+        
+        try {
+            const response = await fetch('/api/sendEmail', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    name: formData.name,
+                    email: formData.email,
+                    medicalProblem: formData.medicalProblem,
+                    country: formData.country,
+                    city: formData.city,
+                    phone: countryCode + formData.phone,
+                    ageOrDOB: formData.ageOrDOB,
+
+                })
+            });
+    
+            const data = await response.json();
+            if (response.ok) {
+                toast.success("Email Sent Successfully")
+                setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '' });
+            } else {
+                toast.error("Failed to send email")
+                console.log(data.message)
+            }
+        } catch (error) {
+            console.error('Error:', error);
+            alert('An error occurred while sending the email');
+        }
     };
 
     return (
         <div>
             <div className="max-w-xl mx-auto p-6 my-2 rounded-lg">
-                <h2 className="text-center text-xl font-semibold mb-2">Help Us With Patient Details</h2>
+                <h2   className="text-center text-xl font-semibold mb-2">Help Us With Patient Details</h2>
                 <form onSubmit={handleSubmit} className="space-y-2">
                     <div>
                         <label htmlFor="name" className="block py-1 text-sm font-medium">
@@ -68,23 +105,23 @@ const Page: React.FC = () => {
                         />
                     </div>
                     <div>
-                        <label htmlFor="country" className="block py-1 text-sm font-medium">
-                            Country<span className='text-red-500'>*</span>
-                        </label>
-                        <select
-                            id="country"
-                            name="country"
-                            value={formData.country}
-                            onChange={handleChange}
-                            className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                        >
-                            {Object.keys(countryCityData).map((country) => (
-                                <option key={country} value={country}>
-                                    {country}
-                                </option>
-                            ))}
-                        </select>
-                    </div>
+                    <label htmlFor="country" className="block py-1 text-sm font-medium">
+                        Country<span className='text-red-500'>*</span>
+                    </label>
+                    <select
+                        id="country"
+                        name="country"
+                        value={formData.country}
+                        onChange={handleChange}
+                        className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    >
+                        {Object.keys(countryCityData).map((country) => (
+                            <option key={country} value={country}>
+                                {country}
+                            </option>
+                        ))}
+                    </select>
+                </div>
                     <div>
                         <label htmlFor="city" className="block py-1 text-sm font-medium">
                             City<span className='text-red-500'>*</span>
@@ -111,7 +148,7 @@ const Page: React.FC = () => {
                         </label>
                         <div className="flex">
                             <span className="inline-flex items-center px-3 text-gray-600 bg-gray-200 border border-r-0 rounded-l-md">
-                                +91
+                                {countryCode}
                             </span>
                             <input
                                 type="text"

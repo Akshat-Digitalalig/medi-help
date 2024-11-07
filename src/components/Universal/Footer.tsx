@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
+import GetFree from '../ui/GetFree'
 
 export default function Footer() {
     return (
@@ -30,12 +31,14 @@ export default function Footer() {
 
                                 MediHelp.in
                                 </a>
+                                
                             </div>
+                           
 
 
                             <p className="mb-6 text-gray-500 sm:pr-8">Quality Medical Treatment, Delivered with Compassion</p>
 
-
+                              
                             <div className="flex gap-4">
                                 <a href="#" target="_blank" className="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
                                     <svg className="h-5 w-5" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -61,6 +64,7 @@ export default function Footer() {
                                     </svg>
                                 </a>
                             </div>
+                            <div className='w-fit my-2 pt-4'> <GetFree /></div>
 
                         </div>
 
