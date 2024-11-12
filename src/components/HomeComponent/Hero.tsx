@@ -12,10 +12,10 @@ export default function Hero() {
         <section className="flex flex-col">
             <div className="flex flex-col items-center w-full">
                 <div className="bg-[#e1f5ff] w-full pb-10">
-                    <p className="mb-2 font-semibold text-indigo-950 mt-4 py-4 text-center md:mb-2 md:text-2xl">Connecting Top Medical Care</p>
-                    <h1 className="mb-4 text-3xl font-bold text-indigo-950 text-center sm:text-5xl md:mb-4 md:text-6xl">Quality <span>Medical </span>Treatment</h1>
-                    <p className="mb-2 font-semibold text-indigo-950/70 mt-4 pt-4 text-center md:text-lg">24/7 You to Trusted Medical Care Worldwide</p>
-                    <p className="mb-2 font-semibold text-indigo-950/70 text-center md:mb-2 md:text-lg">Just Check out <span className='underline'>more</span></p>
+                    <p className="mb-2 font-semibold text-myblue mt-4 py-4 text-center md:mb-2 md:text-2xl">Healing  Beyond Borders</p>
+                    <h1 className="mb-4 text-3xl font-bold text-myblue text-center sm:text-5xl md:mb-4 md:text-6xl">One Destination For All Treatment</h1>
+                    <p className="mb-2 font-semibold text-myblue/70 mt-4 pt-4 text-center md:text-lg">24/7 You to Trusted Medical Care Worldwide</p>
+                    <p className="mb-2 font-semibold text-myblue/70 text-center md:mb-2 md:text-lg">Just Check out <span className='underline'>more</span></p>
                     <div>
                         <SearchBar />
                     </div>

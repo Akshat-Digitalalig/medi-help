@@ -1,6 +1,6 @@
 window.__GOOGLE_TRANSLATION_CONFIG__ = {
   languages: [
-    { title: "🇬🇧  EN;", name: "en" },
+    { title: "🇬🇧  EN", name: "en" },
     { title: "🇦🇪  AR", name: "ar" },
     { title: "🇷🇺  RU", name: "ru" },
     { title: "🇧🇩  BN", name: "bn" },

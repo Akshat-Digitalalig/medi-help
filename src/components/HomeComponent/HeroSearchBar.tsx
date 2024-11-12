@@ -3,25 +3,30 @@ import React, { useState } from 'react'
 import { Building, MapPin, MapPinHouse } from 'lucide-react'
 import { useRouter } from 'next/navigation';
 
-interface CountryData {
+export interface CountryData {
     [key: string]: {
         cities: string[];
         departments: string[];
     };
 }
 
-const countryData: CountryData = {
+export const countryData: CountryData = {
     "India": {
-        cities: ["Mumbai", "Delhi", "Bangalore", "Hyderabad", "Chennai"],
-        departments: ["Cardiology", "Neurology", "Orthopedics", "Pediatrics", "Oncology"]
-    },
-    
+        cities: [
+            "Mumbai", "Delhi", "Bangalore", "Chennai", "Hyderabad", 
+            "Kolkata", "Pune", "Ahmedabad", "Jaipur"
+        ],
+        departments: [
+            "Cardiology", "Neurology", "Orthopedics", "Pediatrics", "Oncology",
+            "Nephrology", "Urology", "Gastroenterology", "ENT (Ear, Nose, Throat)", "Gynecology",
+            "General Surgery", "Plastic Surgery", "Ophthalmology", "Radiology", "Anesthesiology",
+            "Critical Care", "Emergency Medicine", "Endocrinology", "Pulmonology", "Hematology"
+        ]
+    }
 };
 
-
-
 const SearchBar = () => {
-    const [selectedCountry, setSelectedCountry] = useState("India");
+    const [selectedCountry, setSelectedCountry] = useState<keyof typeof countryData>("India");
     const [selectedCity, setSelectedCity] = useState("");
     const [selectedDepartment, setSelectedDepartment] = useState("");
     const router = useRouter();
@@ -40,7 +45,7 @@ const SearchBar = () => {
         <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto">
             <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl md:rounded-full font-sans">
                 <div className='flex items-center  w-full'>
-                    <MapPin size={24} className="text-indigo-950" />
+                    <MapPin size={24} className="text-myblue" />
                     <select
                         className="flex-1 p-2 rounded  bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedCountry}
@@ -57,7 +62,7 @@ const SearchBar = () => {
                 </div>
 
                 <div className='flex items-center w-full'>
-                    <MapPinHouse size={24} className="text-indigo-950" />
+                    <MapPinHouse size={24} className="text-myblue" />
                     <select
                         className="flex-1 p-2 rounded bg-transparent border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedCity}
@@ -71,9 +76,9 @@ const SearchBar = () => {
                 </div>
 
                 <div className='flex items-center w-full'>
-                    <Building size={24} className="text-indigo-950" />
+                    <Building size={24} className="text-myblue" />
                     <select
-                        className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
+                        className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-mytext-myblue"
                         value={selectedDepartment}
                         onChange={(e) => setSelectedDepartment(e.target.value)}
                     >
@@ -86,7 +91,7 @@ const SearchBar = () => {
 
                 <button
                     onClick={handleSearch}
-                    className="p-2 bg-indigo-950 text-white rounded-full px-6 hover:bg-indigo-900 transition-colors"
+                    className="p-2 bg-myblue text-white rounded-full px-6 hover:bg-myblue/70 transition-colors"
                 >
                     Search
                 </button>

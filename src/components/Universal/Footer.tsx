@@ -4,18 +4,18 @@ import GetFree from '../ui/GetFree'
 
 export default function Footer() {
     return (
-        <footer className="bg-indigo-950 pt-4 sm:pt-6 lg:pt-8">
+        <footer className="bg-[#E1F5FF] pt-4 sm:pt-6 lg:pt-8">
             <div className="mx-auto max-w-screen-2xl px-4 md:px-8">
                 <div className="flex flex-col items-center justify-between gap-2 border-b border-t py-6 md:flex-row">
                     <div className="mb-3 text-center md:mb-0 md:text-left">
-                        <span className="font-bold uppercase tracking-widest text-white">Newsletter</span>
+                        <span className="font-bold uppercase tracking-widest text-myblue">Newsletter</span>
                         <p className="text-gray-500">Subscribe to our newsletter</p>
                     </div>
 
                     <form className="flex w-full gap-2 md:max-w-md">
                         <input placeholder="Email" className="w-full flex-1 rounded border bg-gray-50 px-3 py-2 text-gray-800 placeholder-gray-500 outline-none ring-indigo-300 transition duration-100 focus:ring" />
 
-                        <button className="inline-block rounded bg-blue-500 px-8 py-2 text-center text-sm font-semibold text-white outline-none ring-indigo-300 transition duration-100 hover:bg-indigo-600 focus-visible:ring active:bg-indigo-700 md:text-base">Send</button>
+                        <button className="inline-block rounded  px-8 py-2 text-center text-sm font-semibold text-white outline-none ring-indigo-300 transition duration-100 bg-indigo-600 focus-visible:ring active:bg-indigo-700 md:text-base">Send</button>
                     </form>
                 </div>
             </div>
@@ -27,19 +27,17 @@ export default function Footer() {
 
                             <div className="mb-4 lg:-mt-2">
                                 <a href="" className="inline-flex items-center gap-2 text-xl font-bold text-white md:text-2xl" aria-label="logo">
-                                <Image src="/logo1.png" alt="MediHelp" width={70} height={70} />
-
-                                MediHelp.in
+                                <Image src="/medilogo.webp" alt="MediHelp" width={300} height={150} />
                                 </a>
                                 
                             </div>
                            
 
 
-                            <p className="mb-6 text-gray-500 sm:pr-8">Quality Medical Treatment, Delivered with Compassion</p>
+                            <p className="mb-6 text-gray-500 sm:pr-8">One Destination For All Treatment</p>
 
                               
-                            <div className="flex gap-4">
+                            <div className="flex gap-4 pl-4">
                                 <a href="#" target="_blank" className="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
                                     <svg className="h-5 w-5" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -70,7 +68,7 @@ export default function Footer() {
 
 
                         <div>
-                            <div className="mb-4 font-bold uppercase tracking-widest text-white">Products</div>
+                            <div className="mb-4 font-bold uppercase tracking-widest text-myblue">Products</div>
 
                             <nav className="flex flex-col gap-4">
                                 <div>
@@ -92,7 +90,7 @@ export default function Footer() {
                         </div>
 
                         <div>
-                            <div className="mb-4 font-bold uppercase tracking-widest text-white">Company</div>
+                            <div className="mb-4 font-bold uppercase tracking-widest text-myblue">Company</div>
 
                             <nav className="flex flex-col gap-4">
                                 <div>
@@ -118,7 +116,7 @@ export default function Footer() {
                         </div>
 
                         <div>
-                            <div className="mb-4 font-bold uppercase tracking-widest text-white">Support</div>
+                            <div className="mb-4 font-bold uppercase tracking-widest text-myblue">Support</div>
 
                             <nav className="flex flex-col gap-4">
                                 <div>
@@ -140,7 +138,7 @@ export default function Footer() {
                         </div>
 
                         <div>
-                            <div className="mb-4 font-bold uppercase tracking-widest text-white">Legal</div>
+                            <div className="mb-4 font-bold uppercase tracking-widest text-myblue">Legal</div>
 
                             <nav className="flex flex-col gap-4">
                                 <div>

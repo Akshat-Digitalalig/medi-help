@@ -1,11 +1,11 @@
 'use client';
-import { CircleX, ClipboardPlus, Contact, GraduationCap, HandCoins, HeartPulse, HomeIcon, Hospital, Menu, Search } from 'lucide-react'
+import { CircleX, ClipboardPlus, Contact, GraduationCap, HandCoins, HeartPulse, HomeIcon, Hospital, Menu } from 'lucide-react'
 import Image from 'next/image'
 import React, { useRef, useState } from 'react'
 import { Manrope } from 'next/font/google';
 import { Nav } from './Nav';
 import Link from 'next/link';
-import { LanguageSwitcher } from './LangSwitcher';
+import UtilsBar from './UtilsBar';
 
 
 const manrope = Manrope({
@@ -15,41 +15,25 @@ const manrope = Manrope({
 
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
-    const [isExpanded, setIsExpanded] = useState(false);
-
     const toggleSidebar = () => {
         setIsOpen(!isOpen);
     };
-
     const sidebarRef = useRef<HTMLDivElement>(null);
 
     return (
+        <>
+        <UtilsBar />
         <div className='bg-[#e1f5ff] w-full '>
             <header className={` ${manrope.className} max-w-screen-2xl mx-auto flex items-center justify-between`}>
-                <Link href={'/'} className="inline-flex cursor-pointer flex-row items-center gap-1 my-2 mx-1 md:mx-2 text-lg text-white font-semibold" aria-label="logo">
-                    <Image src="/medilogo.svg" alt="MediHelp" width={70} className=' rounded-full' height={70} />
-                    <div>
-                        <h1 className='leading-none text-xl md:text-2xl font-bold text-indigo-950'>MediHelp.in</h1>
-                        <p className=" text-xs md:text-sm  leading-none text-indigo-950
-                        ">Your Health Partner</p>
-                    </div>
+                <Link href={'/'} className="inline-flex cursor-pointer flex-row items-center gap-1 my-1 mx-1 md:mx-2 text-lg text-white font-semibold" aria-label="logo">
+                    <Image src="/medilogo.webp" alt="MediHelp" width={200} className=' ' height={60} />
+
                 </Link>
                 <Nav />
-                <nav  className="relative hidden md:flex items-center gap-2.5 bg-white border-2 px-2 py-1 rounded-2xl">
-                    <input
-                        type="text"
-                        placeholder="Search Disease, Procedure, Doctors or Hospital"
-                        
-                        className={`bg-transparent text-xs py-1 outline-0 ${isExpanded ? 'w-48' : 'w-0'
-                            } text-gray-600 transition-all duration-300 ease-in-out overflow-hidden`}
-                    />
-                    <Search onClick={() => setIsExpanded((prev) => !prev)}  color="blue" size={20} />
-                </nav>
-
-                <LanguageSwitcher />
-                <Link href={'/consult-online'} className="hidden md:flex items-center mx-2 leading-none text-xs font-semibold bg-red-500 gap-1 px-2 md:px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-red-700 duration-300">
+            
+                <Link href={'/consult-online'} className="hidden md:flex items-center justify-center mx-2 leading-none text-xs font-semibold bg-myred gap-1 px-2 md:px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-white hover:text-myred hover:border-myred border-2 duration-300">
                     Free Consults
-                    <ClipboardPlus size={20} />
+                    <ClipboardPlus size={25} />
                 </Link>
 
                 <button onClick={toggleSidebar} className='text-indigo-950 block md:hidden border-[1px] p-1 rounded-md mx-2'>
@@ -96,6 +80,7 @@ export default function Navbar() {
                     ))} </div>
             </div>
         </div>
+        </>
     );
 }
 

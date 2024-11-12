@@ -74,9 +74,9 @@ const LanguageSwitcher: React.FC = () => {
   };
 
   return (
-    <div className="text-center notranslate mx-1">
-      <Select onValueChange={switchLanguage} defaultValue={currentLanguage}>
-        <SelectTrigger className="w-[110px]">
+    <div className="text-center notranslate ml-2 ">
+      <Select onValueChange={switchLanguage}  defaultValue={currentLanguage}>
+        <SelectTrigger className="w-[80px] border-white rounded-sm   my-1">
           <SelectValue placeholder="Select Language" />
         </SelectTrigger>
         <SelectContent>

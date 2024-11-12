@@ -8,6 +8,7 @@ import { useParams } from 'next/navigation'
 import { Hospital } from '@/types/hospital'
 import Link from 'next/link'
 import { SlideRating } from '@/components/Universal/Sliderating'
+import { HospitalImage } from '@/components/HospitalPageComponents/HospitalImages'
 
 // interface DoctorCardProps {
 //     image: string;
@@ -86,7 +87,7 @@ export default function Page() {
                         </div>
                     ))}
                 </div>
-                <Tabs defaultValue="facilities" className="w-[900px] my-2 pb-6">
+                <Tabs defaultValue="facilities" className="w-fit my-2 pb-6">
                     <TabsList className='bg-blue-600/20  mb-2'>
                         <TabsTrigger  className='font-semibold' value="facilities">Facilities</TabsTrigger> 
                         <TabsTrigger  className='font-semibold' value="Infrastructure">Infrastructure</TabsTrigger> 
@@ -98,7 +99,7 @@ export default function Page() {
                             ))}
                         </div>
                     </TabsContent>
-                    <TabsContent value="Infrastructure">
+                    <TabsContent value="Infrastructure" className=''>
                         <div>
                         {hospital?.infrastructure.map((infrastructure, index) => (
                          <p key={index} className="text-gray-700 font-semibold flex gap-x-1 text-sm items-start  my-2"><span className='text-green-500'> &#x2714;</span>{infrastructure}</p>
@@ -149,6 +150,10 @@ export default function Page() {
                     </div>
                 </div>
 
+                <div>
+                <h1 className='text-start font-black text-2xl my-4 mt-8'>Images Of {hospital?.name} </h1>
+                <HospitalImage ImgArray={hospital?.images || []}/>
+                </div>
                 <div>
                 <h1 className='text-start font-black text-2xl my-4 mt-8'>Users Reviews </h1>
                 <SlideRating reviews={hospital?.reviews || []}/>

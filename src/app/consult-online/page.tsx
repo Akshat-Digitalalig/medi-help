@@ -1,26 +1,24 @@
-"use client"
+"use client";
 import React, { useState } from 'react';
-import { toast } from "sonner"
-import { countryCityData, countryCodeData } from "@/lib/constant/unversal"
+import { toast } from "sonner";
+import { countryCityData, countryCodeData } from "@/lib/constant/unversal";
 
 const Page: React.FC = () => {
     const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
     const [formData, setFormData] = useState({
-        name: '',
-        email: '',
+        name: 'narendra',
+        email: 'narendranishad59@gmail.com',
         country: 'India',
-        city: '',
-        phone: '',
-        medicalProblem: '',
-        ageOrDOB: '',
+        city: 'Delhi',
+        phone: '21321323',
+        medicalProblem: '2321312',
+        ageOrDOB: '23232',
     });
-    console.log(process.env.EMAIL_USER)
+    const [files, setFiles] = useState<File[]>([]);
 
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
-        
         const { name, value } = e.target;
 
-        
         if (name === "country") {
             setCountryCode(countryCodeData[value as keyof typeof countryCodeData]);
         }
@@ -32,38 +30,48 @@ const Page: React.FC = () => {
         }));
     };
 
+    const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+        if (e.target.files) {
+            const selectedFiles = Array.from(e.target.files).slice(0, 3);
+            setFiles(selectedFiles);
+        }
+    };
 
-    const handleSubmit =  async (e: React.FormEvent) => {
-        toast.success("Email Sending....")
+    const handleSubmit = async (e: React.FormEvent) => {
+        toast.success("Email Sending...");
         e.preventDefault();
         if (!formData.name || !formData.email || !formData.city || !formData.phone || !formData.medicalProblem || !formData.ageOrDOB) {
             alert('All fields are required');
             return;
         }
-        
+
         try {
+            const formDataPayload = new FormData();
+            formDataPayload.append("name", formData.name);
+            formDataPayload.append("email", formData.email);
+            formDataPayload.append("medicalProblem", formData.medicalProblem);
+            formDataPayload.append("country", formData.country);
+            formDataPayload.append("city", formData.city);
+            formDataPayload.append("phone", countryCode + formData.phone);
+            formDataPayload.append("ageOrDOB", formData.ageOrDOB);
+
+            files.forEach((file, index) => {
+                formDataPayload.append(`file${index + 1}`, file); // Append each file
+            });
+
             const response = await fetch('/api/sendEmail', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    name: formData.name,
-                    email: formData.email,
-                    medicalProblem: formData.medicalProblem,
-                    country: formData.country,
-                    city: formData.city,
-                    phone: countryCode + formData.phone,
-                    ageOrDOB: formData.ageOrDOB,
-
-                })
+                body: formDataPayload,
             });
-    
+
             const data = await response.json();
             if (response.ok) {
-                toast.success("Email Sent Successfully")
+                toast.success("Email Sent Successfully");
                 setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '' });
+                setFiles([]); // Reset file input
             } else {
-                toast.error("Failed to send email")
-                console.log(data.message)
+                toast.error("Failed to send email");
+                console.log(data.message);
             }
         } catch (error) {
             console.error('Error:', error);
@@ -74,9 +82,9 @@ const Page: React.FC = () => {
     return (
         <div>
             <div className="max-w-xl mx-auto p-6 my-2 rounded-lg">
-                <h2   className="text-center text-xl font-semibold mb-2">Help Us With Patient Details</h2>
+                <h2 className="text-center text-xl font-semibold mb-2">Help Us With Patient Details</h2>
                 <form onSubmit={handleSubmit} className="space-y-2">
-                    <div>
+                <div>
                         <label htmlFor="name" className="block py-1 text-sm font-medium">
                             Name <span className='text-red-500'>*</span>
                         </label>
@@ -187,6 +195,21 @@ const Page: React.FC = () => {
                             placeholder="Example: 30 Yrs or 29-05-1985"
                             className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                         />
+                    </div>
+                    <div>
+                        <label htmlFor="file" className="block py-1 text-sm font-medium">
+                            Attach Files (Max 3)<span className='text-red-500'>*</span>
+                        </label>
+                        <input
+                            type="file"
+                            id="file"
+                            name="file"
+                            multiple
+                            onChange={handleFileChange}
+                            className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                            accept=".jpg, .jpeg, .png, .pdf" // Accept only images and PDFs
+                        />
+                        <p className="text-xs text-gray-500">Supported formats: .jpg, .jpeg, .png, .pdf</p>
                     </div>
                     <button
                         type="submit"
