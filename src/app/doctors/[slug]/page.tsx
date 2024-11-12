@@ -77,9 +77,9 @@ export default function Page() {
                 </div>
                 <Tabs defaultValue="education" className="w-[400px] my-2 pb-10">
                     <TabsList className='bg-blue-600/20  mb-2'>
-                        <TabsTrigger  className='font-semibold' value="education">education</TabsTrigger>
-                        <TabsTrigger className='font-semibold' value="experience">experience</TabsTrigger>
-                        <TabsTrigger className='font-semibold' value="awards">awards</TabsTrigger>
+                        <TabsTrigger  className='font-semibold' value="education">Education</TabsTrigger>
+                        <TabsTrigger className='font-semibold' value="experience">Experience</TabsTrigger>
+                        <TabsTrigger className='font-semibold' value="awards">Awards</TabsTrigger>
                     </TabsList>
                     <TabsContent value="education">
                         <div>

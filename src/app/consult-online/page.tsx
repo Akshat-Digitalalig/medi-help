@@ -6,13 +6,13 @@ import { countryCityData, countryCodeData } from "@/lib/constant/unversal";
 const Page: React.FC = () => {
     const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
     const [formData, setFormData] = useState({
-        name: 'narendra',
-        email: 'narendranishad59@gmail.com',
-        country: 'India',
-        city: 'Delhi',
-        phone: '21321323',
-        medicalProblem: '2321312',
-        ageOrDOB: '23232',
+        name: '',
+        email: '',
+        country: '',
+        city: '',
+        phone: '',
+        medicalProblem: '',
+        ageOrDOB: '',
     });
     const [files, setFiles] = useState<File[]>([]);
 

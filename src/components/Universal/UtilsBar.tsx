@@ -13,11 +13,12 @@ import { hospitalData } from "@/lib/constant/Hospital"
 import { Search } from 'lucide-react';
 import Image from 'next/image';
 import { DialogTitle } from '@radix-ui/react-dialog';
+import { useRouter } from 'next/navigation';
 
 export default function UtilsBar() {
     const [isCommandOpen, setIsCommandOpen] = useState(false);
     const [searchResults, setSearchResults] = useState(hospitalData);
-
+    const router = useRouter();
     const handleSearch = (query: string) => {
         if (!query) {
             setSearchResults(hospitalData);
@@ -45,14 +46,17 @@ export default function UtilsBar() {
                     </button>
                     <Command>
                     <CommandDialog open={isCommandOpen} onOpenChange={setIsCommandOpen}>
-                    <DialogTitle>Search</DialogTitle>
+                    <DialogTitle> </DialogTitle>
                         <CommandInput placeholder="Search Hospitals, Doctors, Treatment, etc..." onValueChange={handleSearch} />
                         <CommandList>
                             {searchResults.length > 0 ? (
                                 <CommandGroup heading='Search Results'>
                                     {searchResults.map((hospital, index) => (
-                                        <CommandItem key={index}>
-                                            <ListItems img={hospital.mainImage} name={hospital.name} location={hospital.address.city} />
+                                        <CommandItem  key={index} className='cursor-pointer'>
+                                            <ListItems onClick={() => [
+                                                router.push(`/hospitals/${hospital.id}`),
+                                                setIsCommandOpen(false)
+                                            ]} img={hospital.mainImage} name={hospital.name} location={hospital.address.city} />
                                         </CommandItem>
                                     ))}
                                 </CommandGroup>
@@ -67,17 +71,16 @@ export default function UtilsBar() {
         </div>
     )
 }
-
-
 interface ListItemsProps {
     img: string;
     name: string;
     location: string;
+    onClick: () => void;
 }
 
-const ListItems: React.FC<ListItemsProps> = ({ img, name, location }) => {
+const ListItems: React.FC<ListItemsProps> = ({ img, name, location, onClick }) => {
     return (
-        <div className='flex gap-x-2'>
+        <div className='flex gap-x-2' onClick={onClick}>
             <div>
                 <Image src={img} alt='img' className='rounded-lg' height={70} width={70} />
             </div>

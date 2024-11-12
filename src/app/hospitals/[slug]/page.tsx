@@ -2,7 +2,7 @@
 import React from 'react'
 import { hospitalData } from "@/lib/constant/Hospital"
 import Image from 'next/image'
-import { MapPin } from 'lucide-react'
+import { BedSingle, BriefcaseMedical, CalendarCheck2, MapPin } from 'lucide-react'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useParams } from 'next/navigation'
 import { Hospital } from '@/types/hospital'
@@ -40,29 +40,50 @@ export default function Page() {
                     <div className="flex-1">
                         <h2 className="text-2xl font-bold">{hospital?.name} <span className="text-green-600">&#x2714;</span></h2>
                         <p className="text-gray-600 flex gap-x-1 my-1"> <span><MapPin /></span>{hospital?.address.fullAddress}</p>
-                        <p className="text-gray-700">
-                            Location <span className="font-semibold">{hospital?.address.country}</span>
-                        </p>
-                        <p className="text-gray-600 ">Establish :<span className="font-semibold">{hospital?.established}</span></p>
-                        <p className="text-gray-600 ">Number Of Beds :<span className="font-semibold">{hospital?.numberOfBeds}</span></p>
-                        {/* {hospital?.teamSpecialties.map((specialty, index) => (
+            <div className="grid grid-cols-4 gap-1  my-6">
+              <div className=" text-xs text-gray-600  flex flex-col items-center ">
+                <CalendarCheck2 />
+                <div>
+                  <p className="text-xs font-semibold text-center" > Established</p>
+                  <p className='text-center'>{hospital?.established}</p>
+                </div>
+              </div>
+              <div className=" text-xs text-gray-600 flex flex-col items-center">
+                <BedSingle />
+                <div>
+                  <p className="text-xs font-semibold text-center" > Number of Beds</p>
+                  <p className='text-center'>{hospital?.numberOfBeds}</p>
+                </div>
+              </div>
+              <div className=" text-xs text-gray-600 flex flex-col items-center">
+                <BriefcaseMedical />
+                <div>
+                  <p className="text-xs font-semibold text-center" > Specialty</p>
+                  <p className='text-center'>{hospital?.specialties.length}</p>
+                </div>
+              </div>
+              <div className=" text-xs text-gray-600 flex flex-col items-center">
+                <MapPin />
+                <div>
+                  <p className="text-xs font-semibold text-center" > Location</p>
+                  <p className='text-center'>{hospital?.address.city}</p>
+                </div>
+              </div>
+            </div>
+                        {hospital?.teamSpecialties.map((specialty, index) => (
                             <span key={index} className="inline-block bg-blue-100 text-blue-800 mx-1 text-sm font-medium px-2 py-1 rounded mt-2">
                                 {specialty}
                             </span>
 
-                        ))} */}
-                        <div className="mt-4">
-                            <button className="bg-blue-700 text-white px-4 py-2 rounded hover:bg-blue-800 focus:outline-none">
-                                &#x1F4C5; Schedule
-                            </button>
-                        </div>
+                        ))}
+                   
+                        
                     </div>
                     <div className="flex flex-col mt-4 md:mt-0 md:ml-4 space-y-2">
                         <button className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 focus:outline-none">
                             Book Appointment
                         </button>
                         <button className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none ">
-
                             WhatsApp Us
                         </button>
                     </div>
