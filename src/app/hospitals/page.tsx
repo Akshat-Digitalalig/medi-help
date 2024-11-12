@@ -3,7 +3,7 @@ import FAQ from '@/components/HomeComponent/FAQ';
 import SearchHospitals from '@/components/HospitalPageComponents/HeroSearch';
 import GetFreeConsult from '@/components/ReusableComponents/GetFreeConsult';
 import ListOfFeature from '@/components/Universal/ListOfFeature';
-import React from 'react';
+import React, {Suspense} from 'react';
 import FilteredHospitalsList from '@/components/HospitalPageComponents/FilteredHospitalsList';
 
 export default function Page() {
@@ -16,7 +16,9 @@ export default function Page() {
         </div>
         <div className="w-full my-4 h-auto">
           <h1 className="text-xl font-bold my-4 mx-6">Show Results</h1>
+          <Suspense fallback={<div>Loading...</div>}>         
           <FilteredHospitalsList />
+          </Suspense>
         </div>
       </div>
       <div className="mx-10 pb-5">
