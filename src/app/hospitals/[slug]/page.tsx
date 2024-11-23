@@ -10,15 +10,6 @@ import Link from 'next/link'
 import { SlideRating } from '@/components/Universal/Sliderating'
 import { HospitalImage } from '@/components/HospitalPageComponents/HospitalImages'
 
-// interface DoctorCardProps {
-//     image: string;
-//     name: string;
-//     specialty: string;
-//     rating: number;
-//     ratingCount: number;
-//     experience: number;
-// }
-
 export default function Page() {
     const { slug } = useParams()
 
@@ -184,39 +175,4 @@ export default function Page() {
         </div>
     )
 }
-
-
-// const DoctorCard: React.FC<DoctorCardProps> = ({ image, name, specialty, rating, ratingCount, experience }) => {
-//     return (
-//         <div className="bg-white border border-gray-200 rounded-lg shadow-md p-4 max-w-xs flex flex-col items-center text-center">
-//             <img src={image} alt={name} className="w-16 h-16 rounded-full object-cover mb-2" />
-//             <h2 className="text-lg font-semibold">{name}</h2>
-//             <p className="text-sm text-gray-500">{specialty}</p>
-            
-//             <div className="flex items-center my-2">
-//                 <div className="flex items-center">
-//                     <span className="text-yellow-400">★</span>
-//                     <span className="text-yellow-400">★</span>
-//                     <span className="text-yellow-400">★</span>
-//                     <span className="text-yellow-400">★</span>
-//                     <span className="text-yellow-400">★</span>
-//                 </div>
-//                 <p className="text-sm text-gray-600 ml-2">
-//                     {rating.toFixed(1)} <span className="text-gray-400">({ratingCount} Ratings)</span>
-//                 </p>
-//             </div>
-
-//             <p className="text-sm font-semibold text-gray-700 mb-4">{experience} years of experience</p>
-
-//             <div className="flex space-x-2 w-full">
-//                 <button className="bg-red-500 text-white py-2 px-4 rounded-lg w-full hover:bg-red-600 transition">
-//                     Book Appointment
-//                 </button>
-//                 <button className="bg-green-500 text-white py-2 px-4 rounded-lg w-full hover:bg-green-600 transition">
-//                     Whatsapp Us
-//                 </button>
-//             </div>
-//         </div>
-//     );
-// };
 
