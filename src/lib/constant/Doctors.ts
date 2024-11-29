@@ -865,6 +865,322 @@ export const doctors: Doctor[] = [
     ],
     reviews: []
   },
+  {
+    id: "dr-kumud-rai",
+    name: "Dr. Kumud Rai",
+    yearsOfExperience: 54,
+    designation: "Director, Vascular Surgery",
+    image: "/doctors/dr-kumud-rai.webp",
+    workingAt: "Max Super Speciality Hospital, Saket, New Delhi",
+    hospitalId: "max-super-speciality-hospital-saket",
+    about: {
+      title: "About Dr. Kumud Rai",
+      items: [
+        {
+          content: "Dr. (Col) Kumud Rai is a renowned and respected Vascular Surgeon in India with over 54 years of experience."
+        },
+        {
+          content: "He has pioneered Vascular Surgery in the country and has a special interest in Carotid Surgery, Aortic Aneurysm Repair (open & EVAR), Peripheral Bypass Surgery (aorto-femoral, fem-distal), and Dialysis Access Surgery (Fistula/Grafts)."
+        },
+        {
+          content: "Dr. Rai completed his MBBS and MS (Surgery) from the Armed Forces Medical College (AFMC), Pune, and earned a Fellowship from Erasmus University, Holland."
+        },
+        {
+          content: "He has been honored with the Presidential Citation Award, Pioneer in Vascular Surgery Award by INDOVASC, Vice President of the International Society for Vascular Surgery, and the Sena Medal by the President of India for his services during the Kargil War."
+        }
+      ]
+    },
+    specialties: [
+      "Vascular Surgery",
+      "Carotid Surgery",
+      "Aortic Aneurysm Repair",
+      "Peripheral Bypass Surgery",
+      "Dialysis Access Surgery"
+    ],
+    skilledAt: [
+      "Pulmonary Endarterectomy",
+      "Peripheral Bypass Surgery",
+      "Abdominal Aortic Aneurysm Treatment",
+      "Balloon Angioplasty",
+      "Renal Artery Aneurysm",
+      "Varicose Veins Treatment"
+    ],
+    specialInterests: [
+      "Carotid Surgery",
+      "Aortic Aneurysm Repair",
+      "Peripheral Bypass Surgery",
+      "Dialysis Access Surgery"
+    ],
+    education: [
+      "MBBS, Armed Forces Medical College, Pune",
+      "MS (Surgery), Armed Forces Medical College, Pune",
+      "Fellowship, Erasmus University, Holland"
+    ],
+    experience: [
+      "Director, Max Super Speciality Hospital, Saket, New Delhi",
+      "Head of Department, Army Hospital, R&R New Delhi",
+      "Professor, Armed Forces Medical College, Pune",
+      "Consultant, Armed Forces Medical College, Pune"
+    ],
+    awards: [
+      "Presidential Citation Award",
+      "Pioneer in Vascular Surgery Award, INDOVASC",
+      "Vice President, International Society for Vascular Surgery",
+      "Sena Medal by the President of India for services during the Kargil War"
+    ],
+    reviews: []
+  },
+  {
+    id: "dr-pradeep-chowbey",
+    name: "Dr. Pradeep Chowbey",
+    yearsOfExperience: 42,
+    designation: "Chairman, Max Institute of Minimal Access, Metabolic & Bariatric Surgery",
+    image: "/doctors/dr-pradeep-chowbey.webp",
+    workingAt: "Max Super Speciality Hospital, Saket, New Delhi",
+    hospitalId: "max-super-speciality-hospital-saket",
+    about: {
+      title: "About Dr. Pradeep Chowbey",
+      items: [
+        {
+          content: "Dr. Pradeep Chowbey is a renowned Laparoscopic and Bariatric Surgeon with over 42 years of experience."
+        },
+        {
+          content: "He has performed more than 78,000 surgeries to date, specializing in Gall Bladder Stones, Hernias, Piles, Fissures, Anal Fistulas, and Appendicitis."
+        },
+        {
+          content: "Dr. Chowbey completed his MBBS and MS in General Surgery from Government Medical College, Jabalpur, MP."
+        },
+        {
+          content: "He has received training from prestigious institutions worldwide, including Tata Memorial Cancer Hospital, Mumbai; Memorial Sloan Kettering Cancer Hospital, New York; and Royal Marsden Cancer Hospital, London."
+        },
+        {
+          content: "Dr. Chowbey has been honored with the Doctor of Science (Honoris Causa Doctorate) by the Governor of MP and the Vice-Chancellor of the University of Jabalpur."
+        },
+        {
+          content: "He features in the Guinness Book of Records 1997 and Limca Book of Records (2000-2010) for performing the most minimal access surgeries."
+        }
+      ]
+    },
+    specialties: [
+      "Laparoscopic Surgery",
+      "Bariatric Surgery",
+      "Minimal Access Surgery"
+    ],
+    skilledAt: [
+      "Gall Bladder Stone Surgery",
+      "Hernia Repair",
+      "Piles Treatment",
+      "Fissure Surgery",
+      "Anal Fistula Surgery",
+      "Appendicitis Surgery"
+    ],
+    specialInterests: [
+      "Hepatobiliary Surgery",
+      "Upper GI Endoscopic Surgery",
+      "Laparoscopic Appendicectomy",
+      "Bowel Resection",
+      "Anorectal Surgery"
+    ],
+    education: [
+      "MBBS, Government Medical College, Jabalpur, MP",
+      "MS in General Surgery, Government Medical College, Jabalpur, MP"
+    ],
+    experience: [
+      "Chairman, Max Institute of Minimal Access, Metabolic & Bariatric Surgery, Max Super Speciality Hospital, Saket, New Delhi",
+      "Honorary Consultant in Laparoscopic Surgery to Armed Forces Medical Services of India",
+      "Performed the first Laparoscopic cholecystectomy in Sri Lanka"
+    ],
+    awards: [
+      "Doctor of Science (Honoris Causa Doctorate) by the Governor of MP and the Vice-Chancellor of the University of Jabalpur",
+      "Featured in Guinness Book of Records 1997 and Limca Book of Records (2000-2010) for performing the most minimal access surgeries"
+    ],
+    reviews: []
+  },
+  {
+    id: "dr-pramod-kumar-julka",
+    name: "Dr. Pramod Kumar Julka",
+    yearsOfExperience: 46,
+    designation: "Director, Medical Oncologist",
+    image: "/doctors/dr-pramod-kumar-julka.webp",
+    workingAt: "Max Super Speciality Hospital, Saket, New Delhi",
+    hospitalId: "max-super-speciality-hospital-saket",
+    about: {
+      title: "About Dr. Pramod Kumar Julka",
+      items: [
+        {
+          content: "Dr. Pramod Kumar Julka is a renowned Medical Oncologist with over 46 years of experience."
+        },
+        {
+          content: "His research interests include cancer care/oncology, bone marrow transplant, breast cancer, blood cancer, gastrointestinal oncology, gynecologic oncology, and hematology oncology."
+        },
+        {
+          content: "Dr. Julka completed his MBBS in 1971 and MD in 1979 from the University of Delhi, India."
+        },
+        {
+          content: "He has authored various papers and publications in the field of oncology."
+        },
+        {
+          content: "Dr. Julka is a member of the Delhi Medical Council, the Indian Council of Medical Research Task Force, and the American Society of Clinical Oncology (ASCO)."
+        },
+        {
+          content: "He is proficient in English and Hindi."
+        }
+      ]
+    },
+    specialties: [
+      "Cancer Care/Oncology",
+      "Bone Marrow Transplant",
+      "Breast Cancer",
+      "Blood Cancer",
+      "Gastrointestinal Oncology",
+      "Gynecologic Oncology",
+      "Hematology Oncology"
+    ],
+    skilledAt: [
+      "Bone Marrow Transplant",
+      "Head & Neck Oncology",
+      "Musculoskeletal Oncology",
+      "Medical Oncology",
+      "Neuro-Oncology",
+      "Pediatric Oncology",
+      "Thoracic Oncology",
+      "Skin Cancer",
+      "Urology Oncology"
+    ],
+    specialInterests: [],
+    education: [
+      "MBBS, 1971, University of Delhi",
+      "MD, 1979, University of Delhi"
+    ],
+    experience: [
+      "Director, Medical Oncology, Max Super Speciality Hospital, Saket, New Delhi",
+      "Professor, AIIMS, New Delhi, India"
+    ],
+    awards: [
+      "Padma Shri Award (the fourth highest civilian award in India) - 2013",
+      "Lifetime Achievement Award by Association of Radiation Oncologists of India (AROI) - 2013",
+      "Indian Medical Association (IMA) Best Orator of the Year Award - 2009",
+      "Indian Medical Association (IMA) Award for Clinical Oncology - 2006",
+      "Dr. G.D. Pandey Oration at Haldwani, Uttarakhand on Breast Cancer - 2006"
+    ],
+    reviews: []
+  },
+  {
+    id: "dr-sks-marya",
+    name: "Dr. S.K.S. Marya",
+    yearsOfExperience: 38,
+    designation: "Chairman & Chief Surgeon - Orthopaedics & Joint Replacement",
+    image: "/doctors/dr-sks-marya.webp",
+    workingAt: "Max Super Speciality Hospital, Saket, New Delhi",
+    hospitalId: "max-super-speciality-hospital-saket",
+    about: {
+      title: "About Dr. S.K.S. Marya",
+      items: [
+        {
+          content: "Dr. Sanjiv K S Marya is a renowned orthopaedic surgeon in India with over 38 years of experience and more than 15,000 joint replacement surgeries to his credit."
+        },
+        {
+          content: "He completed his MBBS from Maharshi Dayanand University and MS (Ortho) from PGI, Chandigarh. He further pursued M.Ch (Ortho) from the University of Liverpool and FRCS from England."
+        },
+        {
+          content: "Dr. Marya pioneered single sitting bilateral knee and hip replacement surgeries in Delhi and Gurgaon and introduced computer-assisted knee and hip replacement surgery."
+        },
+        {
+          content: "He has performed exclusive work on fractures in joint replacement and is credited with unicompartmental (half knee) replacement in Delhi and Gurgaon."
+        },
+        {
+          content: "Dr. Marya is an active member of renowned organizations such as the Indian Arthroplasty Association, Indian Orthopaedic Association, and Asia Pacific Arthroplasty Society."
+        }
+      ]
+    },
+    specialties: [
+      "Orthopaedics",
+      "Joint Replacement Surgery"
+    ],
+    skilledAt: [
+      "Joint Replacement Surgery for upper and lower limb joints (Primary and Revision)",
+      "Trauma Management based on AO Principles"
+    ],
+    specialInterests: [],
+    education: [
+      "MBBS, Maharshi Dayanand University",
+      "MS (Ortho), PGI, Chandigarh",
+      "M.Ch (Ortho), University of Liverpool",
+      "FRCS, England"
+    ],
+    experience: [
+      "Chairman & Chief Surgeon - Orthopaedics & Joint Replacement, Max Super Speciality Hospital, Saket, New Delhi",
+      "Consultant, Hampshire Country Hospital, Winchester, England"
+    ],
+    awards: [],
+    reviews: []
+  },
+  {
+    id: "dr-anant-kumar",
+    name: "Dr. Anant Kumar",
+    yearsOfExperience: 44,
+    designation: "Chairman - Urology, Renal Transplant, Robotics",
+    image: "/doctors/dr-anant-kumar.webp",
+    workingAt: "Max Super Speciality Hospital, Saket, New Delhi",
+  hospitalId: "max-super-speciality-hospital-saket",
+    about: {
+      title: "About Dr. Anant Kumar",
+      items: [
+        {
+          content: "Dr. Anant Kumar is a renowned Urologist with over 44 years of experience."
+        },
+        {
+          content: "He has performed over 3,500 kidney transplantations and more than 2,000 laparoscopic donor nephrectomies."
+        },
+        {
+          content: "Dr. Kumar specializes in Kidney Transplantation, Laparoscopic Urology, Renovascular Hypertension, Urological Oncology, Laser Urological Surgery, and Reconstructive Urology."
+        },
+        {
+          content: "He has extensive experience in endourological procedures like PCNL, URS, flexible ureteroscopy, endopyelotomy, TURP, TUBT, and optical urethrotomy."
+        },
+        {
+          content: "Dr. Kumar has been performing robotic-assisted urological surgeries for prostate, kidney, and bladder cancer since 2010."
+        }
+      ]
+    },
+    specialties: [
+      "Urology",
+      "Renal Transplant",
+      "Robotic Surgery"
+    ],
+    skilledAt: [
+      "Kidney Transplantation",
+      "Laparoscopic Urology",
+      "Robotic-Assisted Urological Surgeries",
+      "Endourological Procedures"
+    ],
+    specialInterests: [
+      "Renovascular Hypertension",
+      "Urological Oncology",
+      "Reconstructive Urology"
+    ],
+    education: [
+      "MBBS, 1974, King George's Medical College, Lucknow",
+      "MS (General Surgery), PGIMER, Chandigarh",
+      "MCh (Urology), PGIMER, Chandigarh",
+      "DNB (Urology), PGIMER, Chandigarh"
+    ],
+    experience: [
+      "Chairman - Urology, Renal Transplant, Robotics, Max Super Speciality Hospital, Saket, New Delhi",
+      "Director, Fortis Hospital, Shalimar Bagh, New Delhi",
+      "Senior Consultant, Indraprastha Apollo Hospital, New Delhi",
+      "Consultant, Addenbrooke's NHS Foundation, Cambridge, UK",
+      "Professor, Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow"
+    ],
+  awards: [
+      "Hewett Gold Medal",
+      "K.L. Gold Medal",
+      "Selby Gold Medal",
+      "Silver Medal for First Position in MS General Surgery"
+    ],
+    reviews: []
+  },
+  
   
   {
     id: "dr-manjit-singh-paul",

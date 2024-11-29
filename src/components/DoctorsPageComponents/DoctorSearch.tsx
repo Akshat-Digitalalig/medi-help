@@ -29,7 +29,7 @@ const SearchBar = () => {
             department: selectedDepartment || undefined,
         };
         const queryString = new URLSearchParams(query as Record<string, string>).toString();
-       router.push(`/hospitals?${queryString}`);
+       router.push(`/doctors?${queryString}`);
     };
 
     return (

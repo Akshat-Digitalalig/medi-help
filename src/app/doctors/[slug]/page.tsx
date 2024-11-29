@@ -4,11 +4,8 @@ import { doctors } from "@/lib/constant/Doctors"
 import Image from 'next/image'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useParams } from 'next/navigation'
-
-
 export default function Page() {
     const { slug } = useParams()
-    console.log(slug)
     const doctor = doctors.find((doctor) => doctor.id === slug)
     return (
         <div className='max-w-7xl mx-auto'>
@@ -100,7 +97,6 @@ export default function Page() {
                     </TabsContent>
                 </Tabs>
             </div>
-
         </div>
     )
 }

@@ -7,7 +7,6 @@ import { doctors } from "@/lib/constant/Doctors"
 import React from 'react'
 
 export default function Page() {
-
   return (
     <div className='max-w-screen-2xl mx-auto'>
       <SearchDoctors />
