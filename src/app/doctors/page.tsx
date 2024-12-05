@@ -9,15 +9,7 @@ import { useSearchParams } from 'next/navigation'
 import React, { Suspense } from 'react'
 
 export default function Page() {
-  const searchParams = useSearchParams();
-  const departmentParam = searchParams.get('department');
-  const doctorsList = () => {
-    if (departmentParam == undefined) return doctors;
-    return doctors.filter(doctor => 
-      doctor?.tags?.some(tag => tag.toLowerCase().includes(departmentParam.toLowerCase()))
-    );
-  }
-  const filteredDoctors  = doctorsList();
+  
 
  
 
@@ -30,14 +22,7 @@ export default function Page() {
         <div className="mx-2 my-4">
           <GetFreeConsult />
         </div>
-        <div className="w-full my-4 h-auto">
-          <h1 className="text-xl font-bold my-4 mx-6">Show Results {filteredDoctors.length}</h1>
-          <div>
-            {filteredDoctors.map((doctor) => (
-              <DoctorCard key={doctor.id} doctor={doctor} />
-            ))}
-          </div>
-        </div>        
+        <DoctorList />       
       </div>
       <div className='mx-10 pb-5'>
         <ListOfFeature />
@@ -47,5 +32,27 @@ export default function Page() {
         </div>
     </div>
     </Suspense>
+  )
+}
+
+const DoctorList = () => {
+  const searchParams = useSearchParams();
+  const departmentParam = searchParams.get('department');
+  const doctorsList = () => {
+    if (departmentParam == undefined) return doctors;
+    return doctors.filter(doctor => 
+      doctor?.tags?.some(tag => tag.toLowerCase().includes(departmentParam.toLowerCase()))
+    );
+  }
+  const filteredDoctors  = doctorsList();
+  return (
+    <div className="w-full my-4 h-auto">
+    <h1 className="text-xl font-bold my-4 mx-6">Show Results {filteredDoctors.length}</h1>
+    <div>
+      {filteredDoctors.map((doctor) => (
+        <DoctorCard key={doctor.id} doctor={doctor} />
+      ))}
+    </div>
+  </div> 
   )
 }
