@@ -15,7 +15,7 @@ export default function Page() {
           <GetFreeConsult />
         </div>
         <div className="w-full my-4 h-auto">
-          <h1 className="text-xl font-bold my-4 mx-6">Show Results</h1>
+          <h1 className="text-xl font-bold my-4 mx-6">Show Results ({FilteredHospitalsList.length})</h1>
           <Suspense fallback={<div>Loading...</div>}>         
           <FilteredHospitalsList />
           </Suspense>

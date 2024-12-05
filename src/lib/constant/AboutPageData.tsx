@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Twitter, Youtube } from "lucide-react";
+import { Facebook, Instagram,  Youtube } from "lucide-react";
 
 interface AboutPageData {
     title: string;
@@ -10,6 +10,7 @@ interface AboutPageData {
     }>;
     contact: {
         email: string;
+        supportEmail: string;
         phone: string;
         address: string;
     };
@@ -20,34 +21,31 @@ interface AboutPageData {
 }
 
 export const AboutPageData:AboutPageData = {
-    title: "Best Top Medical Care Web",
+    title: "Expert Guidance for Your Medical journey",
+
     mainImage: "https://images.pexels.com/photos/160994/family-outdoor-happy-happiness-160994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     social:[
         {
             name:"facebook",
-            url:"https://www.facebook.com",
+            url:"https://www.facebook.com/profile.php?id=100040951937272&mibextid=ZbWKwL",
             icon:<Facebook />
         },
         {
             name:"instagram",
-            url:"https://www.instagram.com",
+            url:"https://www.instagram.com/medihelpglobal/profilecard/?igsh=MWJhejJ0cTd0cmd3aA==",
             icon:<Instagram />
         },
         {
-            name:"twitter",
-            url:"https://www.twitter.com",
-            icon:<Twitter />
-        },
-        {
             name:"youtube",
-            url:"https://www.youtube.com",
+            url:"https://youtube.com/@medihelpglobal?si=6ejgn6QYEyJWhE-p",
             icon:<Youtube />
         }
     ],
     contact:{
-        email: "medihelp@gmail.com",
-        phone: "+91 9876543210",
-        address: "123, New Delhi, India"
+        email: "info@medihelpglobal.com",
+        supportEmail: "help@medihelpglobal.com",
+        phone: "+91 98971 86585",
+        address: "Shaheen Bagh, Okhla, New delhi - 110025"
     },
     about: [
         {

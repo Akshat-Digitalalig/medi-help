@@ -1,7 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
 import GetFree from '../ui/GetFree'
-import { Facebook, Instagram, Linkedin } from 'lucide-react'
+import { Facebook, Instagram,  Mail, Youtube } from 'lucide-react'
+
 
 export default function Footer() {
     return (
@@ -23,23 +24,28 @@ export default function Footer() {
 
 
                             <p className="mb-6 text-myblue font-semibold sm:pr-8">One Destination For All Treatment</p>
+                           
 
                               
-                            <div className="flex gap-4 pl-4">
-                                <a href="#" target="_blank" className="text-myblue border-myblue rounded-full p-1 border-2 transition duration-100 hover:text-blue-500 active:text-blue-600">
+                            <div className="flex gap-4 pl-2">
+                                <a href="https://www.facebook.com/profile.php?id=100040951937272&mibextid=ZbWKwL" target="_blank" className="text-myblue border-myblue rounded-full p-1 border-2 transition duration-100 hover:text-blue-500 active:text-blue-600">
                                 <Facebook />
                                 </a>
 
-                                <a href="#" target="_blank" className="text-myblue border-myblue rounded-full p-1 border-2 transition duration-100 hover:text-blue-500 active:text-blue-600">
+                                <a href="https://www.instagram.com/medihelpglobal/profilecard/?igsh=MWJhejJ0cTd0cmd3aA==" target="_blank" className="text-myblue border-myblue rounded-full p-1 border-2 transition duration-100 hover:text-blue-500 active:text-blue-600">
                                 <Instagram />
                                 </a>
 
-                                <a href="#" target="_blank" className="text-myblue border-myblue rounded-full p-1 border-2 transition duration-100 hover:text-blue-500 active:text-blue-600">
-                                <Linkedin />
+                                <a href="https://youtube.com/@medihelpglobal?si=6ejgn6QYEyJWhE-p" target="_blank" className="text-myblue border-myblue rounded-full p-1 border-2 transition duration-100 hover:text-blue-500 active:text-blue-600">
+                                <Youtube />
+                                </a>
+                                <a href="mailto:help@medihelpglobal.com" className="text-myblue border-myblue rounded-full p-1 border-2 transition duration-100 hover:text-blue-500 active:text-blue-600">
+                                <Mail />
                                 </a>
 
                                 
                             </div>
+                            
                             <div className='w-fit my-2 pt-4'> <GetFree /></div>
 
                         </div>

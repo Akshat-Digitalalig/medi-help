@@ -11,23 +11,23 @@ export default function page() {
                 <div className="absolute inset-0 opacity-50  mix-blend-multiply"></div>
 
                 <div className="relative flex flex-col items-center p-4 sm:max-w-xl">
-                    <p className="mb-4 text-center  text-indigo-950 text-3xl font-semibold md:mb-4">About Us</p>
-                    <h1 className="mb-8 text-center text-4xl font-bold text-indigo-950 sm:text-5xl md:mb-6 md:text-6xl">{AboutPageData.title}</h1>
+                    <p className="mb-4 text-center  text-myblue text-3xl font-semibold md:mb-4">About Us</p>
+                    <h1 className="mb-8 text-center text-2xl font-bold text-myblue sm:text-5xl md:mb-6 md:text-4xl">{AboutPageData.title}</h1>
 
                     <div className="flex w-full flex-col items-center justify-center">
                     <div className='flex gap-x-2 mt-2 items-center mb-6'>
-                                <Phone size={34} className="text-indigo-950" />
-                                <h1 className='text-indigo-950 font-bold text-4xl'>{AboutPageData.contact.phone}</h1>
+                                <Phone size={34} className="text-myblue" />
+                                <h1 className='text-myblue font-bold text-2xl'>{AboutPageData.contact.phone}</h1>
                             </div>
-                        <div className="flex items-center gap-4  justify-center">
+                    <div className="flex items-center gap-4  justify-center">
                             {AboutPageData.social.map((item, index) => (
                                 <div key={index} className="social-button">
                                     <button className="relative w-12 h-12 rounded-full group">
                                         <div
-                                            className="floater w-full h-full absolute top-0 left-0 bg-indigo-950 rounded-full duration-300 group-hover:-top-8 group-hover:shadow-2xl"
+                                            className="floater w-full h-full absolute top-0 left-0 bg-mytext-myblue rounded-full duration-300 group-hover:-top-8 group-hover:shadow-2xl"
                                         ></div>
                                         <div
-                                            className="icon relative z-10 w-full h-full flex items-center justify-center border-2 border-indigo-950 text-white rounded-full"
+                                            className="icon relative z-10 w-full h-full flex items-center justify-center border-2 border-myblue text-myblue rounded-full"
                                         >
                                             {item.icon}
                                         </div>
@@ -41,9 +41,10 @@ export default function page() {
                                 <Mail size={24} className="text-black" />
                                 <h1 className='text-black font-bold text-xl'>{AboutPageData.contact.email}</h1>
                             </div>
-                            <div className='flex gap-x-2 mt-2 items-center'>
-                                <MapPin size={24} className="text-black" />
-                                <h1 className='text-black font-bold text-xl'>Address :{AboutPageData.contact.address}</h1>
+                            
+                            <div className='flex gap-x-1 mt-2 items-center'>
+                                <MapPin size={20} className="text-black" />
+                                <h1 className='text-black font-bold text-sm'>Address :{AboutPageData.contact.address}</h1>
                             </div>
                     </div>
                 </div>

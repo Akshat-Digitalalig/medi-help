@@ -25,11 +25,12 @@ const SearchBar = () => {
     const handleSearch = () => {
         const query = {
             country: selectedCountry,
-            city: selectedCity || undefined,
-            department: selectedDepartment || undefined,
+            city: selectedCity === "all" ? "all" : selectedCity || undefined,
+            department: selectedDepartment == "all" ? "all" : selectedDepartment || undefined,
         };
         const queryString = new URLSearchParams(query as Record<string, string>).toString();
-       router.push(`/doctors?${queryString}`);
+
+        router.push(`/doctors?${queryString}`);
     };
 
     return (
@@ -73,7 +74,7 @@ const SearchBar = () => {
                         value={selectedDepartment}
                         onChange={(e) => setSelectedDepartment(e.target.value)}
                     >
-                        <option value="">All Departments</option>
+                        <option value={selectedDepartment}>All Departments</option>
                         {countryData[selectedCountry].departments.map((department) => (
                             <option key={department} value={department}>{department}</option>
                         ))}

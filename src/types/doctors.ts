@@ -27,4 +27,5 @@ export interface Doctor {
         rating: number;
         content: string;
     }>;
+    tags?: string[];
  }

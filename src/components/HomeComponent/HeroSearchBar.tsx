@@ -13,8 +13,8 @@ export interface CountryData {
 export const countryData: CountryData = {
     "India": {
         cities: [
-            "Mumbai", "Delhi", "Bangalore", "Chennai", "Hyderabad", 
-            "Kolkata", "Pune", "Ahmedabad", "Jaipur"
+            "Mumbai", "Delhi",
+            "Kolkata", "Gurugram", "Ahmedabad", "Jaipur"
         ],
         departments: [
             "Cardiology", "Neurology", "Orthopedics", "Pediatrics", "Oncology",
@@ -38,7 +38,7 @@ const SearchBar = () => {
             department: selectedDepartment || undefined,
         };
         const queryString = new URLSearchParams(query as Record<string, string>).toString();
-       router.push(`/hospitals?${queryString}`);
+        router.push(`/hospitals?${queryString}`);
     };
 
     return (
@@ -68,7 +68,7 @@ const SearchBar = () => {
                         value={selectedCity}
                         onChange={(e) => setSelectedCity(e.target.value)}
                     >
-                        <option value="">All Cities</option>
+                        <option value="all">All Cities</option>
                         {countryData[selectedCountry].cities.map((city) => (
                             <option key={city} value={city}>{city}</option>
                         ))}
@@ -82,7 +82,7 @@ const SearchBar = () => {
                         value={selectedDepartment}
                         onChange={(e) => setSelectedDepartment(e.target.value)}
                     >
-                        <option value="">All Departments</option>
+                        <option value="all">All Departments</option>
                         {countryData[selectedCountry].departments.map((department) => (
                             <option key={department} value={department}>{department}</option>
                         ))}
