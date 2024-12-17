@@ -17,6 +17,10 @@ export const navlink: NavLink[] = [
         title: 'Doctors',
         link: '/doctors',
     },
+    {
+        title: 'Treatment',
+        link: '/treatments',
+    },
     // {
     //     title: 'Cost',
     //     link: '/cost',

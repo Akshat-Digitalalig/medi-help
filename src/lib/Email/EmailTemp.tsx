@@ -9,9 +9,10 @@ interface EmailTempProps {
   phoneNumber: string;
   medicalProblem: string;
   ageOrDOB: string;
+  hospital: string;
 }
 
-export const EmailTemp: React.FC<Readonly<EmailTempProps>> = ({ name, email, country, city, phoneNumber, medicalProblem, ageOrDOB }) => {
+export const EmailTemp: React.FC<Readonly<EmailTempProps>> = ({ name, email, country, city, phoneNumber, medicalProblem, ageOrDOB, hospital }) => {
 
   return (
     <Tailwind>
@@ -50,6 +51,12 @@ export const EmailTemp: React.FC<Readonly<EmailTempProps>> = ({ name, email, cou
               <Text className="text-lg font-semibold text-gray-600 pr-4">Age or Date of Birth:</Text>
               <Text className="text-lg text-gray-800">{ageOrDOB}</Text>
             </div>
+            { hospital && (
+              <div className="flex justify-between border-b pb-2">
+              <Text className="text-lg font-semibold text-gray-600 pr-4">Hospital Name:</Text>
+              <Text className="text-lg text-gray-800">{hospital}</Text>
+            </div>
+            )}
           </div>
 
           <Text className="text-center text-sm text-green-400 mt-6">

@@ -1,9 +1,14 @@
 "use client";
-import React, { useState } from 'react';
+import React, { useState, Suspense } from 'react';
 import { toast } from "sonner";
 import { countryCityData, countryCodeData } from "@/lib/constant/unversal";
+import {  useSearchParams } from 'next/navigation';
 
-const Page: React.FC = () => {
+
+const PatientForm: React.FC = () => {
+    const searchParams = useSearchParams();
+    const hospital = searchParams.get('hospital');
+    
     const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
     const [formData, setFormData] = useState({
         name: '',
@@ -13,6 +18,8 @@ const Page: React.FC = () => {
         phone: '',
         medicalProblem: '',
         ageOrDOB: '',
+        hospital: hospital,
+
     });
     const [files, setFiles] = useState<File[]>([]);
 
@@ -54,6 +61,7 @@ const Page: React.FC = () => {
             formDataPayload.append("city", formData.city);
             formDataPayload.append("phone", countryCode + formData.phone);
             formDataPayload.append("ageOrDOB", formData.ageOrDOB);
+            formDataPayload.append("hospital", formData.hospital || '');
 
             files.forEach((file, index) => {
                 formDataPayload.append(`file${index + 1}`, file); // Append each file
@@ -67,7 +75,7 @@ const Page: React.FC = () => {
             const data = await response.json();
             if (response.ok) {
                 toast.success("Email Sent Successfully");
-                setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '' });
+                setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '', hospital: hospital });
                 setFiles([]); // Reset file input
             } else {
                 toast.error("Failed to send email");
@@ -80,11 +88,27 @@ const Page: React.FC = () => {
     };
 
     return (
-        <div>
+        
+            <Suspense>
             <div className="max-w-xl mx-auto p-6 my-2 rounded-lg">
                 <h2 className="text-center text-xl font-semibold mb-2">Help Us With Patient Details</h2>
                 <form onSubmit={handleSubmit} className="space-y-2">
                 <div>
+                       {hospital && <>
+                        <label htmlFor="hospital" className="block py-1 text-sm font-medium">
+                            Hospital<span className='text-red-500'>*</span>
+                        </label>
+                        <input
+                            type="text"
+                            id="hospital"
+                            name="hospital"
+                            value={formData.hospital || ''}
+                            onChange={handleChange}
+                            placeholder="Hospital Name"
+                            className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                            disabled
+                        />
+                       </>}
                         <label htmlFor="name" className="block py-1 text-sm font-medium">
                             Name <span className='text-red-500'>*</span>
                         </label>
@@ -224,7 +248,16 @@ const Page: React.FC = () => {
                     </p>
                 </form>
             </div>
-        </div>
+        
+        </Suspense>
+    );
+};
+
+const Page: React.FC = () => {
+    return (
+        <Suspense fallback={<div>Loading...</div>}>
+            <PatientForm />
+        </Suspense>
     );
 };
 

@@ -9,11 +9,19 @@ import { Hospital } from '@/types/hospital'
 import Link from 'next/link'
 import { SlideRating } from '@/components/Universal/Sliderating'
 import { HospitalImage } from '@/components/HospitalPageComponents/HospitalImages'
+import { useRouter } from 'next/navigation' 
 
 export default function Page() {
     const { slug } = useParams()
+    const router = useRouter()
 
+    
     const hospital = hospitalData.find((hospital: Hospital) => hospital.id === slug);
+    const handleBooking = () => {
+        // Ensure the query parameter is safely encoded
+        const hospitalName = encodeURIComponent(hospital?.name || "");
+        router.push(`/consult-online?hospital=${hospitalName}`);
+      };
     return (
         <div className='max-w-7xl mx-auto'>
 
@@ -71,7 +79,7 @@ export default function Page() {
                         
                     </div>
                     <div className="flex flex-col mt-4 md:mt-0 md:ml-4 space-y-2">
-                        <button className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 focus:outline-none">
+                        <button onClick={handleBooking} className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 focus:outline-none">
                             Book Appointment
                         </button>
                         <button className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none ">

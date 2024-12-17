@@ -10,8 +10,13 @@ interface HospitalCardProps {
 }
 const HospitalCard: React.FC<HospitalCardProps> = ({ hospital }) => {
     const router = useRouter();
+    const handleBooking = () => {
+      // Ensure the query parameter is safely encoded
+      const hospitalName = encodeURIComponent(hospital?.name || "");
+      router.push(`/consult-online?hospital=${hospitalName}`);
+    };
     return (
-      <div  onClick={() => router.push(`/hospitals/${hospital.id}`)} className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden border cursor-pointer border-blue-200 my-4">
+      <div   className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden border cursor-pointer border-blue-200 my-4">
         <div className="flex flex-col md:flex-row">
           <div className="w-full md:w-1/3 p-3">
             <Image
@@ -71,7 +76,7 @@ const HospitalCard: React.FC<HospitalCardProps> = ({ hospital }) => {
             <div className="mt-4 text-blue-600 cursor-pointer">Show More</div>
   
             <div className="flex space-x-4 mt-6">
-              <button className="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600 flex gap-1 leading-none flex-col md:flex-row items-center"> <ClipboardPlus /> Book Appointment</button>
+              <button onClick={handleBooking} className="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600 flex gap-1 leading-none flex-col md:flex-row items-center"> <ClipboardPlus /> Book Appointment</button>
               <button className="bg-green-500 text-white px-4 py-3 rounded-lg hover:bg-green-600 flex gap-1 leading-none flex-col md:flex-row items-center"> <Phone /> WhatsApp Us</button>
             </div>
           </div>
