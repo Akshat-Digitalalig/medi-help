@@ -62,7 +62,7 @@ export default function Navbar() {
                             icon: <HeartPulse />,
                             path: "/doctors",
                         },
-                        { title: "Cost", icon: <HandCoins />, path: "/cost" },
+                        { title: "Treatment", icon: <HandCoins />, path: "/treatments" },
                         { title: "Contact Us", icon: <Contact />, path: "/consult-online" },
                         { title: "Knowledge", icon: <GraduationCap />, path: "/knowledge-center" }
                     ].map((option, idx) => (

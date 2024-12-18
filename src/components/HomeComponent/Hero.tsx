@@ -33,6 +33,7 @@ export default function Hero() {
                         <div className='flex justify-center flex-col items-center'>
                             <h1 className='font-semibold text-2xl text-indigo-950 mt-6 flex justify-center items-center gap-x-2'><MessageCircleQuestion /> 24/7</h1>
                             <h1 className='text-sm mb-3 text-indigo-950/70'>Available for you Assist!</h1>
+                            <Image src='/icons/supportwebp.webp' className='w-16 '  height={100} width={100} alt='bg' />
                         </div>
                     </div>
                 </div>

@@ -240,20 +240,20 @@ export const Treatments = [
         link: "/treatments/stomach-cancer-treatment"
       },
       {
-        name: "Esophageal Cancer Treatment",
-        link: "/treatments/esophageal-cancer-treatment"
+        name: "HIPEC Treatment",
+        link: "/treatments/HIPEC-treatment"
       },
       {
         name: "Pancreatic Cancer Treatment",
         link: "/treatments/pancreatic-cancer-treatment"
       },
       {
-        name: "Head and Neck Cancer Surgery",
-        link: "/treatments/head-neck-cancer-surgery"
+        name: "Radio active Iodine Therapy",
+        link: "/treatments/radio-active-iodine-therapy"
       },
       {
-        name: "Thyroid Cancer Treatment",
-        link: "/treatments/thyroid-cancer-treatment"
+        name: "Latest Ratiantion Therapy for Cancer",
+        link: "/treatments/latest-radiation-therapy"
       }
     ]
   },
@@ -414,7 +414,7 @@ export const Treatments = [
     sublinks: [
       {
         name: "Cochlear Implant Surgery",
-        link: "/treatments/cochlear-implant-surgery"
+        link: "/treatments/vsd-closure"
       }
     ]
   },
