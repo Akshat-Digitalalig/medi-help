@@ -15,7 +15,7 @@ export default function Page() {
   return (
 
 	<div className="main flex flex-col mt-10 mx-2 md:mx-8 md:flex-row">
-	<div dangerouslySetInnerHTML={{ __html: content }} className='mx-2 md:mx-10 text-pretty md:w-[60%]'>
+	<div dangerouslySetInnerHTML={{ __html: content }} className='mx-2 my-4 mb-8 md:mx-10 text-pretty md:w-[60%]'>
 	</div>
 	<div className="mx-2 my-4">
 	  <GetFreeConsult />
