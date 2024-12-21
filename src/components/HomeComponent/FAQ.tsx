@@ -96,7 +96,7 @@ export default function FAQ() {
             <p className='text-sm w-[80vw] text-center mb-8'>
                 Find answers to some of the common questions about our hospital services.
             </p>
-            <div className=' w-full max-w-4xl px-2'>
+            <div className=' w-full max-w-6xl px-2'>
                 <Accordion type="single" collapsible className='grid grid-cols-1 md:grid-cols-3 gap-x-6'>
                     {faqQuestionsAndAnswers.map((faq, index) => (
                         <AccordionItem key={index} value={`item-${index + 1}`}>

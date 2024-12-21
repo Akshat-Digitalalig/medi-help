@@ -13,8 +13,11 @@ import { hospitalData } from "@/lib/constant/Hospital"
 import Image from "next/image"
 import Autoplay from "embla-carousel-autoplay"
 import { Star } from "lucide-react";
+import { useRouter } from "next/navigation";
+
 
 export default function HospitalsCarousel() {
+    const router = useRouter()
     const plugin = React.useRef(
 		Autoplay({ delay: 2000, stopOnInteraction: true })
 	  )
@@ -35,7 +38,7 @@ export default function HospitalsCarousel() {
                     {reviews.map((item, index) => (
                         <CarouselItem key={index} className="basis-80 md:basis-1/4">
                             
-                                <Card className=" h-full cursor-pointer rounded ">
+                                <Card onClick={() => router.push(`/hospitals/${item.id}`)} className=" h-full cursor-pointer rounded ">
                                     <CardContent className="flex flex-col items-center justify-center p-4">
                                         <div className="flex items-center gap-x-4">
 											<Image src={item.mainImage} alt={item.name} className='h-40 w-80 rounded-xl object-cover' width={400} height={400} />

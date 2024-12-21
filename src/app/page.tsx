@@ -50,8 +50,6 @@ export default function Home() {
       <HospitalsCarousel />
       <MultiSpecialtyFocus />
       <Benefits data={benefitOne}/>
-      
-     
       <div className="flex justify-center items-center h-20 ">
         <GetFree />
         <Whatsapp />
@@ -61,8 +59,8 @@ export default function Home() {
       
       <Heading>Testimonials</Heading>
       <Testimonials />
-      <State />
       <TopMedicalDestinations />
+      <State />
       <FAQ />
     </div>
   );

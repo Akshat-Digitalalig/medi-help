@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Services() {
   return (
-    <div className="bg-[#e0f5ff] py-6 sm:py-8 lg:py-12">
+    <div className="bg-[#e0f5ff] py-6 sm:py-8 mb-8 lg:py-12">
       <div className="mx-auto max-w-screen-2xl px-4 md:px-12">
         <div className="mb-10 md:mb-16">
           <h2 className="mb-4 text-center text-2xl font-bold text-indigo-950 md:mb-6 lg:text-3xl">

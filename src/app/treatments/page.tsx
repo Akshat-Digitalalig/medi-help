@@ -8,7 +8,7 @@ import {
 } from "@/components/ui/accordion";
 import { Treatments } from "./Treatment";
 import Link from 'next/link';
-import { ClipboardPlus, MapPin } from 'lucide-react';
+import { ClipboardPlus, Hospital } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 
 export default function Page() {
@@ -31,7 +31,7 @@ export default function Page() {
                 <span className='h-12 w-12'> {treatment.icon}</span>
                 <div className='w-64'> <h1 className='0'> {treatment.name}</h1>
                 <p className='text-xs text-gray-600'>{treatment.description}</p></div>
-                
+          
                 </div>
              
               </AccordionTrigger>
@@ -79,7 +79,7 @@ const SearchBar = () => {
     <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl border-myblue border-4 md:rounded-full font-sans">
       {/* Treatment Dropdown */}
       <div className="flex items-center w-full">
-        <MapPin size={24} className="text-myblue" />
+      <Hospital size={24} className="text-myblue" />
         <select
           className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
           value={selectedTreatment}
@@ -99,8 +99,9 @@ const SearchBar = () => {
 
       {/* Sublink Dropdown */}
       <div className="flex items-center w-full">
+      <ClipboardPlus  size={24} className="text-myblue" />
         <select
-          className="flex-1 p-2 rounded bg-transparent border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
+          className="flex-1 p-2 rounded bg-transparent w-40 border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
           value={selectedSublink}
           onChange={(e) => setSelectedSublink(e.target.value)}
           disabled={!selectedTreatment} // Disable sublink dropdown if no treatment is selected
@@ -109,7 +110,7 @@ const SearchBar = () => {
           {selectedTreatment &&
             Treatments.find((treatment) => treatment.name === selectedTreatment)?.sublinks.map(
               (sublink, index) => (
-                <option key={index} value={sublink.link}>
+                <option className='w-20' key={index} value={sublink.link}>
                   {sublink.name}
                 </option>
               )

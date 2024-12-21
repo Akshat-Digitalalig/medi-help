@@ -40,7 +40,7 @@ export default function Testimonials() {
                 opts={{
                     align: "center",
                 }}
-                className="w-full max-w-4xl"
+                className="w-full max-w-6xl"
             >
                 <CarouselContent>
                     {reviews.map((item, index) => (

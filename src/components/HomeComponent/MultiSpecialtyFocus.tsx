@@ -43,6 +43,17 @@ const medicalServices = [
       imgPath: "/icons/bonemarrow.webp"
     },
     {
+      title: "Urology",
+      description: "Expert care for urinary tract problems.",
+      imgPath: "/icons/urology.webp"
+      
+    },
+    {
+      title: "Plumonology",
+      description: "Specialized care for lung diseases.",
+      imgPath: "/icons/pulmonology.webp"
+    },
+    {
       title: "Gynecology",
       description: "Specialized women's health services.",
       imgPath: "/icons/gynecology.png"
@@ -62,11 +73,8 @@ const medicalServices = [
       description: "Leading fertility treatments with high success.",
       imgPath: "/icons/ivf.webp"
     },
-    // {
-    //   title: "Urology",
-    //   description: "Expert care for urinary tract problems.",
-      
-    // }
+   
+
     
   ];
   
@@ -75,12 +83,12 @@ export default function MultiSpecialtyFocus() {
         <div className='flex flex-col justify-center items-center  '>
             <h1 className='font-bold text-2xl my-6'>Multi-Specialty Focus</h1>
             <p className='text-sm w-[80vw] text-center'>We cover all medical needs, from hair transplants to heart transplants.</p>
-            <div className='grid grid-cols-2 md:grid-cols-6 mx-4 gap-6 my-4 '>
+            <div className='grid grid-cols-2 md:grid-cols-5 mx-4 gap-6 my-4 '>
                 {medicalServices.map((ms, index) => (
                     <div key={index} className=' flex py-2 flex-col  items-center md:py-3 px-2 md:px-3 gap-x-2 rounded-lg w-full shadow bg-[#e1f5ff]'>
                         <Image src={ms.imgPath} height={60} width={60} alt={ms.title} />
                        <div>
-                       <p className='font-semibold text-lg text-center'>{ms.title}</p>
+                       <p className='font-semibold text-lg text-myblue text-center'>{ms.title}</p>
                        <p className=' text-xs hidden md:block text-center'>{ms.description}</p>
                        </div>
                     </div>
