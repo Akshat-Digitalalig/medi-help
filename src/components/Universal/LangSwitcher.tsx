@@ -74,14 +74,14 @@ const LanguageSwitcher: React.FC = () => {
   };
 
   return (
-    <div className="text-center notranslate ml-2 ">
+    <div className="text-center notranslate ml-2  md:mr-4 ">
       <Select onValueChange={switchLanguage}  defaultValue={currentLanguage}>
-        <SelectTrigger className="w-[80px] border-white rounded-sm   my-1">
-          <SelectValue placeholder="Select Language" />
+        <SelectTrigger className="w-[130px] capitalize  rounded-lg mr-1  my-1">
+          <SelectValue className="text-xs " placeholder="Select Language"  />
         </SelectTrigger>
-        <SelectContent>
+        <SelectContent className="text-xs">
           {languageConfig.languages.map((ld: LanguageDescriptor) => (
-            <SelectItem key={ld.name} value={ld.name}>
+            <SelectItem  key={ld.name} value={ld.name} className=" text-xs ">
               {ld.title}
             </SelectItem>
           ))}

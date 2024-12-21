@@ -12,6 +12,8 @@ import Testimonials from "@/components/HomeComponent/testimonials"
 import Services from '@/components/HomeComponent/Services';
 import Heading from '@/components/Universal/heading';
 import Image from 'next/image';
+import DoctorsCarousel from '@/components/HomeComponent/DoctorsCarousel';
+import HospitalsCarousel from '@/components/HomeComponent/HospitalsCarousel';
 
 export default function Home() {
   
@@ -24,35 +26,43 @@ export default function Home() {
         <link rel="canonical" href="https://yourwebsite.com/" />
       </Head>
       <Hero />
-      <Benefits data={benefitOne}/>
-      <TopMedicalDestinations />
-      <MultiSpecialtyFocus />
-      <div className="flex justify-center items-center h-20 ">
-        <GetFree />
-        <Whatsapp />
-      </div>
+      <Services />
       <div className='flex justify-center items-center px-6 md:px-10 '>
-        <div className='bg-[#240f6a] text-[#8c6df7] flex justify-around overflow-hidden items-center rounded-2xl h-56 w-full '>
+        <div className='bg-[#240f6a] text-[#8c6df7] flex justify-around overflow-hidden items-center rounded-2xl h-48 w-full '>
           <div className='pl-4'>
           <h1 className='text-xl md:text-4xl leading-none font-bold'>Do You Want Free Consultant</h1>
           <h1 className='text-xl leading-none md:text-6xl font-bold text-white'>With Top Doctors</h1>
           </div>
-          <Image src={'/doctors.webp'} alt="Free Consult" className=''  height={190} width={190} />
+          <Image src={'/Doctors.png'} alt="Free Consult" className=''  height={290} width={490} />
         </div>
       </div>
-      <Services />
+      
+      <DoctorsCarousel />
       <div className='flex justify-center items-center px-6 md:px-10 mb-4 '>
-        <div className='bg-[#240f6a] text-[#8c6df7] flex  justify-around overflow-hidden items-center rounded-2xl h-56 w-full '>
+        <div className='bg-[#240f6a] text-[#8c6df7] flex  justify-around overflow-hidden items-center rounded-2xl h-48 w-full '>
           <div className='pl-4'>
           <h1 className='text-xl md:text-4xl leading-none font-bold'>Connect!</h1>
           <h1 className='text-xl leading-none md:text-6xl font-bold text-white'>With Top Hospitals</h1>
           </div>
-          <Image src={'/hospital.webp'} alt="Free Consult" className=''  height={240} width={240} />
+          <Image src={'/Hospitals.png'} alt="Free Consult" className=' w-96'  height={290} width={490} />
         </div>
       </div>
+      <HospitalsCarousel />
+      <MultiSpecialtyFocus />
+      <Benefits data={benefitOne}/>
+      
+     
+      <div className="flex justify-center items-center h-20 ">
+        <GetFree />
+        <Whatsapp />
+      </div>
+      
+      
+      
       <Heading>Testimonials</Heading>
       <Testimonials />
       <State />
+      <TopMedicalDestinations />
       <FAQ />
     </div>
   );

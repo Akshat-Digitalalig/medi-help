@@ -1,5 +1,5 @@
 import React from 'react'
-import {  MessageCircleQuestion } from 'lucide-react'
+import { MessageCircleQuestion } from 'lucide-react'
 import AvatarCircles from '../ui/avatar-circles'
 import Image from 'next/image';
 import SearchBar from './HeroSearchBar';
@@ -11,11 +11,18 @@ export default function Hero() {
     return (
         <section className="flex flex-col">
             <div className="flex flex-col items-center w-full">
-                <div className="bg-[#e1f5ff] w-full pb-10">
+                <div className="bg-[#e1f5ff] bg-center bg-cover  w-full pb-10"
+
+                    style={{
+                        backgroundImage: `url('/bg.png')`,
+                        backgroundRepeat: 'no-repeat',
+                    }}
+                    >
+
                     <p className="mb-2 font-semibold text-myblue mt-4 py-4 text-center md:mb-2 md:text-2xl">Healing  Beyond Borders</p>
                     <h1 className="mb-4 text-3xl font-bold text-myblue text-center sm:text-5xl md:mb-4 md:text-6xl">One Destination For All Treatment</h1>
                     <p className="mb-2 font-semibold text-myblue/70 mt-4 pt-4 text-center md:text-lg">24/7 You to Trusted Medical Care Worldwide</p>
-                    <p className="mb-2 font-semibold text-myblue/70 text-center md:mb-2 md:text-lg">Just Check out <span className='underline'>more</span></p>
+                   
                     <div>
                         <SearchBar />
                     </div>
@@ -33,7 +40,7 @@ export default function Hero() {
                         <div className='flex justify-center flex-col items-center'>
                             <h1 className='font-semibold text-2xl text-indigo-950 mt-6 flex justify-center items-center gap-x-2'><MessageCircleQuestion /> 24/7</h1>
                             <h1 className='text-sm mb-3 text-indigo-950/70'>Available for you Assist!</h1>
-                            <Image src='/icons/supportwebp.webp' className='w-16 '  height={100} width={100} alt='bg' />
+                            <Image src='/icons/supportwebp.webp' className='w-16 ' height={100} width={100} alt='bg' />
                         </div>
                     </div>
                 </div>

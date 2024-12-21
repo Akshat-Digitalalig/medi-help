@@ -21,7 +21,7 @@ import Link from "next/link";
                     >
                         <Link
                             href={navItem.link || '#'}
-                            className="cursor-pointer text-myblue text-sm  px-4 py-1  rounded-md hover:underline hover:font-semibold"
+                            className="cursor-pointer text-myblue text-[12px] hover:bg-myblue hover:text-white  px-4 py-1  rounded font-semibold"
                         >
                             {navItem.title}
                         </Link>

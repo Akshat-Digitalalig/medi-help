@@ -28,9 +28,19 @@ const medicalServices = [
       imgPath: "/icons/ortho.webp"
     },
     {
-      title: "IVF",
-      description: "Leading fertility treatments with high success.",
-      imgPath: "/icons/ivf.webp"
+      title: "Liver Transplant",
+      description: "Liver transplant procedures of varying complexity.",
+      imgPath: "/icons/liver.webp"
+    },
+    {
+      title: "Kidney Transplant",
+      description: "Expert renal care and transplants.",
+      imgPath: "/icons/kidney.webp"
+    },
+    {
+      title: "Bone Marrow",
+      description: "Bone marrow transplant options for matched and non-matched donors.",
+      imgPath: "/icons/bonemarrow.webp"
     },
     {
       title: "Gynecology",
@@ -48,20 +58,16 @@ const medicalServices = [
       imgPath: "/icons/slime.webp"
     },
     {
-      title: "Liver Transplant",
-      description: "Liver transplant procedures of varying complexity.",
-      imgPath: "/icons/liver.webp"
+      title: "IVF",
+      description: "Leading fertility treatments with high success.",
+      imgPath: "/icons/ivf.webp"
     },
-    {
-      title: "Kidney Transplant",
-      description: "Expert renal care and transplants.",
-      imgPath: "/icons/kidney.webp"
-    },
-    {
-      title: "Bone Marrow",
-      description: "Bone marrow transplant options for matched and non-matched donors.",
-      imgPath: "/icons/bonemarrow.webp"
-    }
+    // {
+    //   title: "Urology",
+    //   description: "Expert care for urinary tract problems.",
+      
+    // }
+    
   ];
   
 export default function MultiSpecialtyFocus() {

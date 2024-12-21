@@ -13,8 +13,8 @@ export interface CountryData {
 export const countryData: CountryData = {
     "India": {
         cities: [
-            "Mumbai", "Delhi",
-            "Kolkata", "Gurugram", "Ahmedabad", "Jaipur"
+            "Delhi", "Gurugram", "Noida",  "Faridabad", "Gaziyabad",
+            "Kolkata",  "Ahmedabad", "Jaipur", "Mumbai", 
         ],
         departments: [
             "Cardiology", "Neurology", "Orthopedics", "Pediatrics", "Oncology",

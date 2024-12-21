@@ -1,16 +1,20 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "@/components/Universal/Navbar";
-import { Manrope } from 'next/font/google';
+import {  Poppins  } from 'next/font/google';
 import Footer from "@/components/Universal/Footer";
 import Script from "next/script";
 import { Toaster } from "@/components/ui/sonner";
 
-const manrope = Manrope({
+// const manrope = Manrope({
+//   subsets: ['latin'],
+//   weight: ['200', '400', '600', '800'],
+// });
+
+const poppins = Poppins({
   subsets: ['latin'],
   weight: ['200', '400', '600', '800'],
 });
-
 
 export const metadata: Metadata = {
   title: "MediHelp",
@@ -39,7 +43,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${manrope.className} antialiased`}
+        className={`${poppins.className} antialiased`}
       >
         <Navbar />
         {children}

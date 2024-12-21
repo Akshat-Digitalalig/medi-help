@@ -1,5 +1,5 @@
 "use client";
-import React from 'react';
+import React, { useState } from 'react';
 import {
   Accordion,
   AccordionContent,
@@ -8,16 +8,18 @@ import {
 } from "@/components/ui/accordion";
 import { Treatments } from "./Treatment";
 import Link from 'next/link';
-import Image from 'next/image';
+import { ClipboardPlus, MapPin } from 'lucide-react';
+import { useRouter } from 'next/navigation';
 
 export default function Page() {
   return (
     <div className="max-w-screen-2xl mx-auto">
-      <div className="bg-[#e1f5ff] flex flex-col items-center pt-6 pb-8 px-4 rounded-md w-full mx-auto">
-        <Image src={'/icons/treatment.webp'} width={200} height={200} alt="treatment" />
-        <h2 className="text-3xl font-bold text-center text-myblue">
+      <div className="bg-[#e1f5ff] flex flex-col items-center pt-6  pb-8 gap-y-2 px-4 rounded-md w-full mx-auto">
+        {/* <Image src={'/icons/treatment.webp'} width={200} height={200} alt="treatment" /> */}
+        <h2 className="text-3xl font-bold text-center mb-3 text-myblue">
           Are You Looking For Treatment In India?
         </h2>
+        <SearchBar />
       </div>
       
       <div className='mx-2 md:mx-16 my-10'>
@@ -33,15 +35,16 @@ export default function Page() {
                 </div>
              
               </AccordionTrigger>
-              <AccordionContent>
+              <AccordionContent >
                 <ul>
                   {treatment.sublinks.map((sublink, subIndex) => (
-                    <li key={subIndex} className="py-1">
+                    <li key={subIndex} className="py-1 flex gap-x-2 pl-2  rounded-lg my-2 items-center">
+                      <ClipboardPlus className='text-myblue'  />
                       <Link
                         href={sublink.link}
                         
                         rel="noopener noreferrer"
-                        className="text-blue-600 hover:bg-myblue/20 underline"
+                        className=" font-semibold hover:text-black "
                       >
                         {sublink.name}
                       </Link>
@@ -56,3 +59,75 @@ export default function Page() {
     </div>
   );
 }
+
+
+
+const SearchBar = () => {
+  const [selectedTreatment, setSelectedTreatment] = useState(""); // State for selected treatment
+  const [selectedSublink, setSelectedSublink] = useState(""); // State for selected sublink
+  const router = useRouter(); // To programmatically navigate to the sublink page
+
+  const handleSearch = () => {
+    if (selectedSublink) {
+      router.push(selectedSublink); // Navigate to the sublink page
+    } else {
+      alert("Please select a valid sublink.");
+    }
+  };
+
+  return (
+    <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl border-myblue border-4 md:rounded-full font-sans">
+      {/* Treatment Dropdown */}
+      <div className="flex items-center w-full">
+        <MapPin size={24} className="text-myblue" />
+        <select
+          className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
+          value={selectedTreatment}
+          onChange={(e) => {
+            setSelectedTreatment(e.target.value);
+            setSelectedSublink(""); // Reset sublink when treatment changes
+          }}
+        >
+          <option value="">Select Treatment</option>
+          {Treatments.map((treatment, index) => (
+            <option key={index} value={treatment.name}>
+              {treatment.name}
+            </option>
+          ))}
+        </select>
+      </div>
+
+      {/* Sublink Dropdown */}
+      <div className="flex items-center w-full">
+        <select
+          className="flex-1 p-2 rounded bg-transparent border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
+          value={selectedSublink}
+          onChange={(e) => setSelectedSublink(e.target.value)}
+          disabled={!selectedTreatment} // Disable sublink dropdown if no treatment is selected
+        >
+          <option value="">Select Sublink</option>
+          {selectedTreatment &&
+            Treatments.find((treatment) => treatment.name === selectedTreatment)?.sublinks.map(
+              (sublink, index) => (
+                <option key={index} value={sublink.link}>
+                  {sublink.name}
+                </option>
+              )
+            )}
+        </select>
+      </div>
+
+      {/* Search Button */}
+      <button
+        onClick={handleSearch}
+        className="p-2 bg-myblue text-white rounded-full px-6 hover:bg-myblue/70 transition-colors"
+        disabled={!selectedSublink} // Disable button if no sublink is selected
+      >
+        Search
+      </button>
+    </div>
+  );
+};
+
+
+
