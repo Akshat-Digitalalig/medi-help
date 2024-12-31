@@ -18,16 +18,14 @@ import { useRouter } from "next/navigation";
 
 export default function HospitalsCarousel() {
     const router = useRouter()
-    const plugin = React.useRef(
-		Autoplay({ delay: 2000, stopOnInteraction: true })
-	  )
+    const [autoplay] = React.useState(() => Autoplay({ delay: 3000, stopOnInteraction: false }));
 
     const reviews = hospitalData.slice(1, 7)
 
     return (
         <div className="flex justify-center my-4 pb-4 mt-6 "> 
             <Carousel
-                plugins={[plugin.current]}
+                 plugins={[autoplay]}
                 opts={{
                     align: "center",
                     loop: true,
