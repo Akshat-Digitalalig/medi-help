@@ -11,21 +11,21 @@ import {
 // import { Star } from "lucide-react" 
 import { hospitalData } from "@/lib/constant/Hospital"
 import Image from "next/image"
-import Autoplay from "embla-carousel-autoplay"
+// import Autoplay from "embla-carousel-autoplay"
 import { Star } from "lucide-react";
 import { useRouter } from "next/navigation";
 
 
 export default function HospitalsCarousel() {
     const router = useRouter()
-    const [autoplay] = React.useState(() => Autoplay({ delay: 3000, stopOnInteraction: false }));
+    // const [autoplay] = React.useState(() => Autoplay({ delay: 3000, stopOnInteraction: false }));
 
     const reviews = hospitalData.slice(1, 7)
 
     return (
         <div className="flex justify-center my-4 pb-4 mt-6 "> 
             <Carousel
-                 plugins={[autoplay]}
+                //  plugins={[autoplay]}
                 opts={{
                     align: "center",
                     loop: true,
