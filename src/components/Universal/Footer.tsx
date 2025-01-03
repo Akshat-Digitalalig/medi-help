@@ -5,21 +5,18 @@ import { Facebook, Instagram, Mail, Youtube } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Footer() {
-
-    // const Footer = [
-    //     {
-    //         title: 'Products', links: [
-    //             'Overview',
-    //             'Solutions',
-    //             'Pricing',
-    //             'Customers'
-    //         ]
-    //     },
-    //     { title: 'Support', links: ['Contact', 'Documentation', 'Chat', 'FAQ'] },
-    //     { title: 'Legal', links: ['Terms of Service', 'Privacy Policy', 'Cookie Settings'] },
-    // ]
-    
-
+    const footer = [
+        { title: 'Products', links: ['Overview', 'Solutions', 'Pricing', 'Customers'] },
+        { title: 'Support', links: ['Contact', 'Documentation', 'Chat', 'FAQ'] },
+        {
+            title: 'Legal',
+            links: [
+                { name: 'Terms of Service', link: '/info/terms-conditions' },
+                { name: 'Privacy Policy', link: '/info/privacy-policy' },
+                { name: 'About', link: '/about' },
+            ],
+        },
+    ];
 
     return (
         <footer className="bg-[#E1F5FF] pt-16">
@@ -29,7 +26,7 @@ export default function Footer() {
                     {/* Logo & Social Links */}
                     <div className="lg:col-span-2">
                         <div className="mb-4">
-                            <Link href="/" >
+                            <Link href="/">
                                 <Image src="/medilogo.webp" alt="MediHelp" width={300} height={150} />
                             </Link>
                         </div>
@@ -72,24 +69,29 @@ export default function Footer() {
                     </div>
 
                     {/* Footer Links */}
-                    {[
-                        { title: 'Products', links: ['Overview', 'Solutions', 'Pricing', 'Customers'] },
-                        // { title: 'Services', links: ['Video Consult', 'Free Visa Invitation', 'Free Airport Pickup & Drop', 'Free Translator', 'Accommodation Arrangement', '24/7 Helpline'] },
-                        { title: 'Support', links: ['Contact', 'Documentation', 'Chat', 'FAQ'] },
-                        { title: 'Legal', links: ['Terms of Service', 'Privacy Policy', 'Cookie Settings'] },
-                    ].map((section, index) => (
+                    {footer.map((section, index) => (
                         <div key={index}>
                             <h3 className="mb-4 font-bold uppercase tracking-widest text-myblue">{section.title}</h3>
                             <nav className="flex flex-col gap-4">
-                                {section.links.map((link, i) => (
-                                    <a
-                                        key={i}
-                                        href="#"
-                                        className="text-gray-500 transition hover:text-indigo-500"
-                                    >
-                                        {link}
-                                    </a>
-                                ))}
+                                {section.links.map((link, i) =>
+                                    typeof link === 'string' ? (
+                                        <Link
+                                            key={i}
+                                            href="#"
+                                            className="text-gray-500 transition hover:text-blue-500"
+                                        >
+                                            {link}
+                                        </Link>
+                                    ) : (
+                                        <Link
+                                            key={i}
+                                            href={link.link}
+                                            className="text-gray-500 transition hover:text-blue-500"
+                                        >
+                                            {link.name}
+                                        </Link>
+                                    )
+                                )}
                             </nav>
                         </div>
                     ))}

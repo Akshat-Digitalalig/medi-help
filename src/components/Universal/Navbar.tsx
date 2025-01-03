@@ -85,7 +85,17 @@ export default function Navbar() {
                                 {option.icon}
                                 <span>{option.title}</span>
                             </Link>
-                        ))} </div>
+                        ))}
+                         <Link href={'/consult-online'} className="flex items-center   justify-start mt-4   leading-none text-xs font-semibold bg-myblue gap-x-4 px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-white hover:text-myblue hover:border-myblue border-2 duration-300">
+                            <HeartHandshake size={25} />
+                           Become a Health Advisor
+                        </Link>
+                        <Link href={'/consult-online'} className="flex items-center  justify-start mt-2  leading-none text-xs font-semibold bg-myred gap-x-4 px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-white hover:text-mybg-myred hover:border-mybg-myred border-2 duration-300">
+                        <ClipboardPlus size={25} />
+                        Get Free Consults
+                        </Link>
+                         </div>
+                       
                 </div>
             </div>
         </>

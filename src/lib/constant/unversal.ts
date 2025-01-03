@@ -1,5 +1,5 @@
 export const countryCityData: { [key: string]: string[] } = {
-    "India": ["Delhi", "Mumbai", "Bangalore", "Kolkata", "Chennai", "Hyderabad", "Pune", "Ahmedabad", "Jaipur", "Surat"],
+    "India": ["Delhi", "Mumbai", "Bangalore", "Kolkata", "Chennai", "Hyderabad", "Pune", "Ahmedabad", "Jaipur", "Surat", "Chennai", "Hyderabad"],
     "United States": ["New York", "Los Angeles", "Chicago", "Houston", "San Francisco", "Phoenix", "San Diego", "Dallas", "San Antonio", "Philadelphia"],
     "United Kingdom": ["London", "Manchester", "Birmingham", "Liverpool", "Leeds", "Bristol", "Sheffield", "Glasgow", "Edinburgh", "Nottingham"],
     "Australia": ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide", "Gold Coast", "Canberra", "Newcastle", "Wollongong", "Geelong"],

@@ -23,7 +23,7 @@ interface AboutPageData {
 export const AboutPageData:AboutPageData = {
     title: "Expert Guidance for Your Medical journey",
 
-    mainImage: "https://images.pexels.com/photos/160994/family-outdoor-happy-happiness-160994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mainImage: "https://images.pexels.com/photos/4266944/pexels-photo-4266944.jpeg?auto=compress&cs=tinysrgb&w=600",
     social:[
         {
             name:"facebook",

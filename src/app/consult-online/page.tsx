@@ -13,7 +13,7 @@ const PatientForm: React.FC = () => {
     const [formData, setFormData] = useState({
         name: '',
         email: '',
-        country: '',
+        country: 'India',
         city: '',
         phone: '',
         medicalProblem: '',

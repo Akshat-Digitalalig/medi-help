@@ -21,12 +21,12 @@ import Link from "next/link";
                     >
                         <Link
                             href={navItem.link || '#'}
-                            className="cursor-pointer text-myblue text-[12px] hover:bg-myblue hover:text-white  px-4 py-1  rounded font-semibold"
+                            className="cursor-pointer text-myblue text-base hover:bg-myblue hover:text-white  px-4 py-1  rounded font-semibold"
                         >
                             {navItem.title}
                         </Link>
                         {navItem.sublink && openDropdown === navItem.title && (
-                            <div className="absolute left-0 top-full mt-2 bg-white rounded-md shadow-md z-10 w-48">
+                            <div className="absolute left-0 top-full  bg-white rounded-md shadow-md z-10 w-48">
                                 <ul className="flex flex-col gap-1 p-2">
                                     {navItem.sublink.map((sub, subIndex) => (
                                         <li key={subIndex}>
