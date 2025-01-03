@@ -2,19 +2,22 @@
 import React, { useState } from "react";
 import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
-import { countryCityData, language } from "@/lib/constant/unversal";
+import { hospitalData } from "@/lib/constant/Hospital";
 
-export default function GetTranslator() {
+export default function VisaInvitation() {
   const [formData, setFormData] = useState({
     patientName: "",
     phoneNumber: "",
     email: "",
-    country: "",
-    language: "",
+    date: "",
+    attendantsNumber: "",
+    hospital: "",
     message: "",
   });
 
   const [patientPassport, setPatientPassport] = useState<File[]>([]);
+  const [attendantsPassport, setAttendantsPassport] = useState<File[]>([]);
+  const [medicalReports, setMedicalReports] = useState<File[]>([]);
 
   const handleChange = (
     e: React.ChangeEvent<
@@ -28,10 +31,28 @@ export default function GetTranslator() {
     }));
   };
 
-  const handlePassportChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+  const handlePatientPassportChange = (
+    e: React.ChangeEvent<HTMLInputElement>
+  ) => {
     if (e.target.files) {
       const selectedFiles = Array.from(e.target.files).slice(0, 3);
       setPatientPassport(selectedFiles);
+    }
+  };
+
+  const handleAttendantPassportChange = (
+    e: React.ChangeEvent<HTMLInputElement>
+  ) => {
+    if (e.target.files) {
+      const selectedFiles = Array.from(e.target.files).slice(0, 3);
+      setAttendantsPassport(selectedFiles);
+    }
+  };
+
+  const handleMedicalChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (e.target.files) {
+      const selectedFiles = Array.from(e.target.files).slice(0, 5);
+      setMedicalReports(selectedFiles);
     }
   };
 
@@ -39,6 +60,8 @@ export default function GetTranslator() {
     e.preventDefault();
     console.log("Form Data Submitted:", formData);
     console.log("Patient Passport:", patientPassport);
+    console.log("Attendants Passport:", attendantsPassport);
+    console.log("Medical Report:", medicalReports);
 
     // Add your form submission logic here (e.g., API call)
   };
@@ -54,7 +77,7 @@ export default function GetTranslator() {
         <DialogTitle></DialogTitle>
         <div className="w-full mx-auto p-4 sm:p-6 bg-white rounded-lg">
           <h2 className="text-2xl font-semibold mb-6 text-center">
-            Get Translator
+            Visa Invitation
           </h2>
           <form onSubmit={handleSubmit} className="grid grid-cols-1 gap-6">
             <div>
@@ -116,17 +139,35 @@ export default function GetTranslator() {
 
             <div>
               <label
-                htmlFor="passport"
+                htmlFor="date"
                 className="block text-sm font-medium text-gray-700 labelGap"
               >
-                Passport (Max 3)
+                Pick a date
+              </label>
+              <input
+                type="date"
+                id="date"
+                name="date"
+                value={formData.date}
+                onChange={handleChange}
+                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                required
+              />
+            </div>
+
+            <div>
+              <label
+                htmlFor="patientPassport"
+                className="block text-sm font-medium text-gray-700 labelGap"
+              >
+                Patient Passport (Max 3)
               </label>
               <input
                 type="file"
-                id="passport"
-                name="passport"
+                id="patientPassport"
+                name="patientPassport"
                 multiple
-                onChange={handlePassportChange}
+                onChange={handlePatientPassportChange}
                 className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                 accept=".jpg, .jpeg, .png, .pdf"
               />
@@ -137,47 +178,88 @@ export default function GetTranslator() {
 
             <div>
               <label
-                htmlFor="language"
+                htmlFor="attendantsPassport"
                 className="block text-sm font-medium text-gray-700 labelGap"
               >
-                Language
+                Attendant Passport (Max 3)
+              </label>
+              <input
+                type="file"
+                id="attendantsPassport"
+                name="attendantsPassport"
+                multiple
+                onChange={handleAttendantPassportChange}
+                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                accept=".jpg, .jpeg, .png, .pdf"
+              />
+              <p className="text-xs text-gray-500">
+                Supported formats: .jpg, .jpeg, .png, .pdf
+              </p>
+            </div>
+
+            <div>
+              <label
+                htmlFor="medicalReports"
+                className="block text-sm font-medium text-gray-700 labelGap"
+              >
+                Medical Report (Max 5)
+              </label>
+              <input
+                type="file"
+                id="medicalReports"
+                name="medicalReports"
+                multiple
+                onChange={handleMedicalChange}
+                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                accept=".jpg, .jpeg, .png, .pdf"
+              />
+              <p className="text-xs text-gray-500">
+                Supported formats: .jpg, .jpeg, .png, .pdf
+              </p>
+            </div>
+
+            <div>
+              <label
+                htmlFor="attendantsNumber"
+                className="block text-sm font-medium text-gray-700 labelGap"
+              >
+                Number of People
               </label>
               <select
-                id="language"
-                name="language"
-                value={formData.language}
+                id="attendantsNumber"
+                name="attendantsNumber"
+                value={formData.attendantsNumber}
                 onChange={handleChange}
                 className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                 required
               >
                 <option value="">Select</option>
-                {language.map((language, index) => (
-                  <option value={language} key={index}>
-                    {language}
-                  </option>
-                ))}
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
               </select>
             </div>
 
             <div>
               <label
-                htmlFor="country"
+                htmlFor="hospital"
                 className="block text-sm font-medium text-gray-700 labelGap"
               >
-                Country
+                Choose Hospital
               </label>
               <select
-                id="country"
-                name="country"
-                value={formData.country}
+                id="hospital"
+                name="hospital"
+                value={formData.hospital}
                 onChange={handleChange}
                 className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                 required
               >
                 <option value="">Select</option>
-                {Object.keys(countryCityData).map((country) => (
-                  <option key={country} value={country}>
-                    {country}
+                {hospitalData.map((hospital, index) => (
+                  <option key={index} value={hospital.name}>
+                    {hospital.name}
                   </option>
                 ))}
               </select>
