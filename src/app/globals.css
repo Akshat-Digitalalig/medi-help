@@ -72,9 +72,10 @@ body {
   }
 }
 
-
-
 .skiptranslate {
   display: none !important;
 }
 
+.labelGap {
+  padding-bottom: 8px;
+}

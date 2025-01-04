@@ -2,19 +2,20 @@
 import React, { useState } from "react";
 import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
-import { countryCityData, language } from "@/lib/constant/unversal";
+import { doctors } from "@/lib/constant/Doctors";
 
-export default function GetTranslator() {
+export default function VideoConsulting() {
   const [formData, setFormData] = useState({
     patientName: "",
     phoneNumber: "",
     email: "",
-    country: "",
-    language: "",
+    doctorName: "",
+    disease: "",
     message: "",
   });
 
-  const [patientPassport, setPatientPassport] = useState<File[]>([]);
+  const [passport, setPassport] = useState<File[]>([]);
+  const [medicalReports, setMedicalReports] = useState<File[]>([]);
 
   const handleChange = (
     e: React.ChangeEvent<
@@ -31,14 +32,22 @@ export default function GetTranslator() {
   const handlePassportChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     if (e.target.files) {
       const selectedFiles = Array.from(e.target.files).slice(0, 3);
-      setPatientPassport(selectedFiles);
+      setPassport(selectedFiles);
+    }
+  };
+
+  const handleMedicalChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (e.target.files) {
+      const selectedFiles = Array.from(e.target.files).slice(0, 5);
+      setMedicalReports(selectedFiles);
     }
   };
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     console.log("Form Data Submitted:", formData);
-    console.log("Patient Passport:", patientPassport);
+    console.log("Passport:", passport);
+    console.log("Medical Report:", medicalReports);
 
     // Add your form submission logic here (e.g., API call)
   };
@@ -54,7 +63,7 @@ export default function GetTranslator() {
         <DialogTitle></DialogTitle>
         <div className="w-full mx-auto p-4 sm:p-6 bg-white rounded-lg">
           <h2 className="text-2xl font-semibold mb-6 text-center">
-            Get Translator
+            Video Consulting
           </h2>
           <form onSubmit={handleSubmit} className="grid grid-cols-1 gap-6">
             <div>
@@ -116,6 +125,30 @@ export default function GetTranslator() {
 
             <div>
               <label
+                htmlFor="doctorName"
+                className="block text-sm font-medium text-gray-700 labelGap"
+              >
+                Choose Doctor
+              </label>
+              <select
+                id="doctorName"
+                name="doctorName"
+                value={formData.doctorName}
+                onChange={handleChange}
+                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                required
+              >
+                <option value="">Select</option>
+                {doctors.map((doctor, index) => (
+                  <option key={index} value={doctor.name}>
+                    {doctor.name}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label
                 htmlFor="passport"
                 className="block text-sm font-medium text-gray-700 labelGap"
               >
@@ -137,50 +170,42 @@ export default function GetTranslator() {
 
             <div>
               <label
-                htmlFor="language"
+                htmlFor="medicalReports"
                 className="block text-sm font-medium text-gray-700 labelGap"
               >
-                Language
+                Medical Report (Max 5)
               </label>
-              <select
-                id="language"
-                name="language"
-                value={formData.language}
-                onChange={handleChange}
+              <input
+                type="file"
+                id="medicalReports"
+                name="medicalReports"
+                multiple
+                onChange={handleMedicalChange}
                 className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                required
-              >
-                <option value="">Select</option>
-                {language.map((language, index) => (
-                  <option value={language} key={index}>
-                    {language}
-                  </option>
-                ))}
-              </select>
+                accept=".jpg, .jpeg, .png, .pdf"
+              />
+              <p className="text-xs text-gray-500">
+                Supported formats: .jpg, .jpeg, .png, .pdf
+              </p>
             </div>
 
             <div>
               <label
-                htmlFor="country"
+                htmlFor="disease"
                 className="block text-sm font-medium text-gray-700 labelGap"
               >
-                Country
+                Disease Name
               </label>
-              <select
-                id="country"
-                name="country"
-                value={formData.country}
+              <input
+                type="text"
+                id="disease"
+                name="disease"
+                value={formData.disease}
                 onChange={handleChange}
+                placeholder="Enter disease name"
                 className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                 required
-              >
-                <option value="">Select</option>
-                {Object.keys(countryCityData).map((country) => (
-                  <option key={country} value={country}>
-                    {country}
-                  </option>
-                ))}
-              </select>
+              />
             </div>
 
             <div>

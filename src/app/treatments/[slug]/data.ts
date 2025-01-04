@@ -1,8 +1,8 @@
-export const  data = [
-	{
-		name:"robotic-thyroidectomy",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+export const data = [
+  {
+    name: "robotic-thyroidectomy",
+    img: "/treatment/robotic-thyroidectomy.webp",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Scarless Robotic Thyroidectomy Surgery in India-A complete Patient’s guide</span></h2>
 <p>Thyroid cancer has become extremely common these days. With the increase in the number of cases and advancement in medical science, new surgical techniques have been developed for the treatment of cancer. People suffering from benign thyroid tumours and thyroid cancer can now take a sigh of relief with the development of <strong>Scarless Robotic Thyroidectomy Sugery in India</strong>.</p>
 <p>Robotic Thyroidectomy is a special surgical procedure where surgery is performed with the help of a robot. The robot receives the instructions from the surgeon and then puts them into action. The surgery has proved to be a boon for cancer patients who do not want any visible scar in the neck region after the surgery. In the robotic procedure, there are no visible scars because the thyroid region is accessed using an underarm incision. The results of <strong>robotic thyroidectomy surgery in Delhi</strong> are more aesthetically pleasing than conventional thyroid surgery.</p>
@@ -76,12 +76,12 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p>If you are looking for trustworthy treatment consultants in India, then<a href="/contact/"> Cross Border Care</a> is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <strong>thyroid cancer treatment in India </strong>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><strong>We will help you to find the best Robotic Thyroidectomy Doctors in India</strong></p>
 
-		</div>`
-	},
-	{
-		name:"robotic-prostatectomy",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "robotic-prostatectomy",
+    img: "/treatment/RoboticProstatectomy.webp",
+    data: `<div class="wpb_wrapper">
 			<h2><b>Nerve Sparing Robotic Prostatectomy in India: Revolutionizing Prostate Cancer Surgery</b></h2>
 <p><span style="font-weight: 400;">About 1 in 8 men get prostate cancer in their life. It is one of the most common types of cancer in men and usually affects men in their older age. Early detection and treatment of prostate cancer is essential for the best outcomes of prostate cancer. However, with the advancement in medical science, the survival rate of people who have prostate cancer has increased to five years.</span></p>
 <p><span style="font-weight: 400;">Scientists have come up with the most advanced surgical option for the treatment of prostate cancer, and that is</span><b> nerve-sparing</b> <b>robotic prostatectomy in India</b><span style="font-weight: 400;">. It is a minimally invasive procedure performed with the help of a robot, allowing great precision compared to when surgery is performed by hand. Please keep reading to know more about robotic prostatectomy, including what happens during the surgery and how it is different from other treatment options.</span></p>
@@ -279,12 +279,12 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p><span style="font-weight: 400;">If you are looking for trustworthy treatment consultants in India, then Cross Border Care is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your </span><b>prostate cancer treatment in India </b><span style="font-weight: 400;">fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Prostatectomy Doctors in India</strong>&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"robotic-sleep-apnea-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "robotic-sleep-apnea-surgery",
+    img: "/treatment/robotic-sleep-apnea-surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<h2 style="text-align: left;"><span style="color: #0048ad;">Trans-oral Robotic Surgery for Obstructive Sleep Apnea in India&nbsp;</span></h2>
 <p style="text-align: left;">Obstructive sleep apnea (OSA) is a health disorder, characterized by patients who display snoring accompanied by irregular breathing patterns while being asleep. The main cause of OSA is the ’obstruction in throat muscles’ – they are normally in a relaxed state but tend to fall backwards during sleep – hence the disease is referred to as obstructive sleep apnea or OSA. It affects 22% of men and 17% of women globally, especially middle-aged overweight adults.</p>
 <p>Here we will discuss the best <strong>treatment for sleep apnea in India</strong> and we will also let you know how Cross Border Care will help you.</p>
@@ -355,12 +355,12 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p style="text-align: left;">Seeking <span style="color: #000000;"><strong>“best robotic sleep apnea surgeon in India “</strong></span>for evidence-based treatment in Delhi, India! Contact Cross-Border care today.&nbsp;&nbsp; Save 20% on treatment costs.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Sleep Apnea Doctors in India</strong>&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"robotic-lung-cancer-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "robotic-lung-cancer-surgery",
+    img: "/treatment/Robotic-Lung-Cancer-Treatment-and-Surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<h2 style="text-align: left;"><span style="color: #0048ad;"><strong>What is Lung Cancer?</strong></span></h2>
 <p style="text-align: left;">The growth of cancer tissues in the cells of air passage within the lungs is called lung cancer. The commonest cause is smoking. It is characterised by cough with blood, hoarseness of voice and shortness of breath. It is the most common cancer worldwide and a leading reason for death.</p>
 <p>This article will take you through the most widely prcaticed lung cancer treatment options in India: <strong>Robotic Lung Cancer Surgery.&nbsp;</strong></p>
@@ -497,12 +497,12 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professional themselves who are involved in each step of patient care. It is good to have an experienced <strong>‘treatment consultant in India</strong>’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Lung Cancer Treatment Doctors in India</strong>&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"robotic-cabg",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "robotic-cabg",
+    img: "/treatment/robotic-cabg.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		<figure class="wpb_wrapper vc_figure">
@@ -710,12 +710,12 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"robotic-hip-replacement",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "robotic-hip-replacement",
+    img: "/treatment/robotic-hip-replacement.webp",
+    data: `<div class="wpb_wrapper">
 			<p style="text-align: left;"><strong>A hip replacement surgery</strong> is recommended when the hip joint becomes severely damaged due to a disease resulting in chronic pain, decreased quality of life and limited mobility.</p>
 <p style="text-align: left;"><strong>A</strong> <strong>robotic hip replacement surgery</strong> is a procedure in which the surgeon removes damaged tissue/femur bone head in a patient’s hip and replaces it with an artificial joint. It is done with the help of a robotic arm hence also called robotic-assisted hip replacement surgery. The robotic procedure allows the surgery to be performed with great precision and also gives miraculous clinical results.</p>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Complex Cases: When is hip replacement surgery needed?</strong></span></h2>
@@ -851,12 +851,12 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professionals themselves who are involved in each step of patient care. It is good to have an experienced ‘<strong>treatment consultant</strong>’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Hip Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"robotic-knee-replacement",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+		</div>`,
+  },
+  {
+    name: "robotic-knee-replacement",
+    img: "/treatment/robotic-knee-replacement.webp",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -1125,12 +1125,12 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 </ul>
 <p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Knee Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"robotic-femtosecond-laser-cataract-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "robotic-femtosecond-laser-cataract-surgery",
+    img: "/treatment/robotic-femtosecond-laser-cataract-surgery.webp",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -1240,12 +1240,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"brain-tumor-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_text_column wpb_content_element">
+</div>`,
+  },
+  {
+    name: "brain-tumor-surgery",
+    img: "/treatment/brain-tumor-surgery.webp",
+    data: `<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Cutting-edge Brain Tumor Surgery in India: Advanced Treatment for Best Outcomes</strong></span></h2>
 <p>A brain tumor is an abnormal growth of cells in the brain. It can develop anywhere in the brain, such as the protective lining, skull base, brainstem, nasal cavity, and more. There are estimated to be 120 different types of brain tumors. Throughout this article, we’ll explore brain tumor types, symptoms, causes, and <strong>brain tumor surgery in India</strong>.</p>
@@ -1479,12 +1479,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Brain Tumors Surgery Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
-	</div>`
-	},
-	{
-		name:"pituitary-tumor-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_text_column wpb_content_element">
+	</div>`,
+  },
+  {
+    name: "pituitary-tumor-treatment",
+    img: "/treatment/pituitary-tumor-treatment.webp",
+    data: `<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
 			<h2><span lang="EN" style="color: #0048ad;">The Trans-Nasal Trans-sphenoidal (TNTS) Surgery in India: Treating Pituitary Gland Tumors</span></h2>
 <p>Pituitary Tumors develop in the pituitary gland, which is about the size of a pea and located at the base of the skull. They may produce too many hormones that control various body functions.</p>
@@ -1629,12 +1629,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Pituitary Gland Tumor Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
-	</div>`
-	},
-	{
-		name:"trans-nasal-trans-sphenoidal-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid vc_custom_1671430440135"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+	</div>`,
+  },
+  {
+    name: "trans-nasal-trans-sphenoidal-surgery",
+    img: "/treatment/trans-nasal-trans-sphenoidal-surgery.webp",
+    data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid vc_custom_1671430440135"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -1750,12 +1750,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 </ul>
 <p>To learn more about our services, please write to us at <a href="mailto:info@corssborderscare.com">info@crossborderscare.com</a>. Based on your reports, We will inform you of the<strong> total cost of endoscopic pituitary surgery in Delhi.</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Trans Nasal Trans Sphenoidal (TNTS) Endoscopic Surgery Doctors in India</strong>&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"deep-brain-stimulation-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "deep-brain-stimulation-surgery",
+    img: "/treatment/deep-brain-stimulation-surgery.webp",
+    data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -1998,12 +1998,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"burr-hole-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "burr-hole-surgery",
+    img: "/treatment/burr-hole-surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><b>Breaking Barriers, Saving Lives: The Impact of Burr Hole Surgery in India</b></span></h2>
 <p><span style="font-weight: 400;"><strong>Burr hole surgery in India</strong> is a type of neurosurgery used to treat various disorders involving the brain, skull, and other structures. To reach the underlying tissues, relieve pressure, or remove aberrant growths, a tiny hole must be made in the skull, generally using a specialized drill called a burr.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Our brain is protected by a layer of thin tissues known as meninges. These meninges have blood vessels to carry blood to and from the brain. The dura is the outermost covering of the brain. Any head injury can cause these blood vessels to tear and bleed. As a result, blood might start building up in the dura matter, leading to subdural hematoma.&nbsp;</span></p>
@@ -2190,12 +2190,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><span style="font-weight: 400;">We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. Having an experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Burr Hole Surgery Doctors in India</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"craniotomy-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "craniotomy-surgery",
+    img: "/treatment/craniotomy-surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Find The Best Neurosurgeon for Craniotomy Surgery in India</span></h2>
 <p>A Craniotomy is a surgical procedure performed to remove certain tumors or blood clots from the brain. It allows accessing the brain for the surgeon to perform several complex neurosurgical procedures. The&nbsp;<strong>tumor decompression surgery&nbsp;</strong>allows the patient to feel more comfortable and lead a normal life by eliminating the pain caused by the growing tumor on the brain. It dramatically improves the quality of life for patients with brain tumors by reducing the symptoms and slowing down the progression of the disease.</p>
 <p>India is a popular destination for Craniotomy and tumor decompression surgery due to its advanced medical facilities. With&nbsp;<strong>some of the Best Craniotomy Surgeons in India</strong>, it also offers affordable surgical options with the latest stereotactic technology, making it a favorable choice for people worldwide.</p>
@@ -2379,12 +2379,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p>To learn more about our services, please write to us at <a href="mailto:info@corssborderscare.com">info@crossborderscare.com</a>. Based on your reports, we will let you know the <strong>&nbsp;craniotomy surgery&nbsp; cost in India.&nbsp;</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Craniotomy Surgery Doctors in India</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"vp-shunt-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "vp-shunt-surgery",
+    img: "/treatment/vp-shunt-surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Transforming Lives-VP shunt Surgery in India</strong></span></h2>
 <p>A ventriculoperitoneal shunt is a device used to relieve pressure on the brain caused by the accumulation of tube fluid. <strong>V.P. shunt surgery in India </strong>is primarily a procedure used to treat a condition called Hydrocephalus. This condition occurs when excess cerebrospinal fluid gets collected in the brain ventricles. To treat this condition, a V.P. shunt is placed inside one of the ventricles to stop the fluid from accumulating.</p>
 <h2><span style="color: #0048ad;"><strong>What is Hydrocephalus, and How is it Diagnosed?</strong></span></h2>
@@ -2632,12 +2632,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p>We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best VP Shunt Surgery Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"brain-avm-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "brain-avm-surgery",
+    img: "/treatment/brain-avm-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -2771,12 +2771,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"brain-aneurysm-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "brain-aneurysm-surgery",
+    img: "/treatment/brain-aneurysm-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -2920,12 +2920,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"brachial-plexus-injuries-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "brachial-plexus-injuries-surgery",
+    img: "/treatment/brachial-plexus-injuries-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -3062,12 +3062,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"microdiscectomy-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "microdiscectomy-surgery",
+    img: "/treatment/microdiscectomy-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -3236,12 +3236,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"scoliosis-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "scoliosis-surgery",
+    img: "/treatment/scoliosis-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -3431,12 +3431,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"kyphoplasty-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "kyphoplasty-surgery",
+    img: "/treatment/kyphoplasty-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -3615,12 +3615,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"laminectomy-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "laminectomy-surgery",
+    img: "/treatment/laminectomy-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -3769,12 +3769,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"tlif-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "tlif-surgery",
+    img: "/treatment/tlif-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -3843,12 +3843,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"acdf-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "acdf-surgery",
+    img: "/treatment/acdf-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -3965,12 +3965,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"plif-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "plif-surgery",
+    img: "/treatment/plif-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -4127,12 +4127,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"spinal-decompression-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "spinal-decompression-surgery",
+    img: "/treatment/spinal-decompression-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -4268,12 +4268,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"spinal-tumor-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "spinal-tumor-treatment",
+    img: "/treatment/spinal-tumor-treatment.webp",
+    data: `<div class="wpb_wrapper">
 			<p>A <strong>spinal tumor </strong>is a growth that develops in the spinal column, cord, nerves, or bones. This type of tumor affects vertebrae in the spine and is hence also known as a vertebral tumor. Due to unnoticeable symptoms, this tumor is often diagnosed late.</p>
 <p>Malignant or benign spinal tumors are also possible. Your spinal cord tissues may get harmed if the tumor spreads further. Primary spinal tumors first appear in your spine or spinal cord. Metastatic or secondary tumors are the result of cancer migrating from your spine to another part of your body.</p>
 <p>If you are diagnosed with this type of cancer, you will have to have <strong><u>spinal tumor surgery in India.</u></strong>&nbsp;The cost of surgery in India is reasonable compared to other countries. Our country is known for providing cutting-edge treatments and reasonable prices. Here at Cross Border Care, the best <strong><u>medical consultants in India</u></strong>, let us see how you can get spinal tumor treatment in India.</p>
@@ -4431,12 +4431,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p><strong>Book your Consultation today</strong></p>
 <p>To know more about <strong><u>spinal tumor surgery in India</u></strong>, associated costs, hospitals, and doctors, book your consultation with the <strong><u>best medical consultant in India,</u></strong> Dr Nadeem Khan today!!</p>
 
-		</div>`
-	},
-	{
-		name:"eps-rf-ablation-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "eps-rf-ablation-treatment",
+    img: "/treatment/eps-rf-ablation-treatment.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -4612,12 +4612,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"aicd-device-implantation",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "aicd-device-implantation",
+    img: "/treatment/aicd-device-implantation.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -4820,12 +4820,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"ptca-angioplasty-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "ptca-angioplasty-surgery",
+    img: "/treatment/ptca-angioplasty-surgery.webp",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -4979,12 +4979,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"tavi-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "tavi-surgery",
+    img: "/treatment/tavi-surgery",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">TAVI/TAVR Surgery: Navigating the Future of Heart Valve Replacement Surgery in India</span></h2>
 <p><span style="color: #0048ad;"><strong>TAVI </strong></span>is the medical abbreviation of transcatheter aortic valve implantation procedure. The TAVI/TAVR surgery is performed to improve the blood flow in the heart by replacing the aortic valve, which does not open properly.</p>
 <p>The aortic valve is situated between the left ventricle and the main artery of the body, known as the aorta. If the valve does not open properly, then the blood flow to the heart gets reduced. <strong><span style="text-decoration: underline;"><span style="color: #0048ad; text-decoration: underline;">TAVI/TAVR surgery in India</span></span></strong>&nbsp;differs from other valve replacement procedures because it is minimally invasive.</p>
@@ -5109,12 +5109,12 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p><span style="text-decoration: underline;"><strong>Cross Border Care is</strong></span> here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="text-decoration: underline;"><strong>TAVI surgery in India</strong></span>, fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best TAVI Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"pacemaker-implantation-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "pacemaker-implantation-surgery",
+    img: "/treatment/pacemaker-implantation-surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Pacemaker Surgery in India: Heart Rhythm Restored</strong></span></h2>
 <p>The human heart pulsates about 72 beats per minute. It generates electrical impulses from the sinoatrial node to perform constant and rhythmic pulsations and effectively pump blood. When this node stops creating electrical impulses, an artificial and electrically charged medical device is implanted in the chest wall to mimic the function of the SA node.</p>
 <p>This electrical device is called a pacemaker. Its primary role is to maintain the heartbeat rhythm and avoid arrhythmias.</p>
@@ -5277,12 +5277,12 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p>To know more about our services, please write to us at info@crossborderscare.com</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Pacemaker Implantation Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"liver-transplant-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "liver-transplant-treatment",
+    img: "/treatment/liver-transplant-treatment.webp",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Liver transplant program in India&nbsp;</strong></span></h2>
 <p>Indraprastha Apollo hospital in India successfully carried out India’s first liver transplant in 1998. Since then, India has emerged as a global leader in solid organ transplants and over 2000 liver transplants are performed here annually. Nearly 3,200 patients from over 50 countries got their liver transplant done from the Apollo Institute of Liver Transplant in New Delhi, India.</p>
 <p>Apollo’s Solid Organ Transplant Program is the world’s largest program and remains so for the last six consecutive years since 2014. The institute holds expertise in performing ABO incompatible and liver &amp; kidney transplant together.</p>
@@ -5637,12 +5637,12 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p><span style="color: #0048ad;"><strong>Seeking “best liver transplant doctors in India “for evidence based treatment in Delhi, India then contact cross border care.&nbsp; And save 15% treatment cost.</strong></span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Liver Transplant Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"bone-marrow-transplant",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "bone-marrow-transplant",
+    img: "/treatment/bone-marrow-transplant.webp",
+    data: `<div class="wpb_wrapper">
 			<p><span style="font-weight: 400;">A <strong>bone marrow transplant</strong> is a procedure that infuses healthy blood-forming stem cells into your body to treat diseased bone marrow. It is also known as a stem cell transplant. You will need a bone marrow transplant if your bone marrow has stopped working and does not produce healthy blood cells.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Cross Border Care is here with you to give you all the details of bone marrow transplants in India and tell you about the best hospitals and doctors offering this service in India.&nbsp;</span></p>
 <p><b>What is bone marrow?&nbsp;</b></p>
@@ -5827,12 +5827,12 @@ Every surgery comes with some risks. The common risks associated with the proced
 </ol>
 <p>Need assistance with advanced treatment for <strong>bone marrow transplant</strong> to be performed in India? <strong>Contact us today!</strong></p>
 
-		</div>`
-	},
-	{
-		name:"pediatric-liver-transplant-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "pediatric-liver-transplant-surgery",
+    img: "/treatment/pediatric-liver-transplant-surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<p>Parents always want the best for their children – especially when it comes to medical assistance. In unfortunate circumstances if you get to know that your child’s liver is weak and needs to be transplanted, as parents, it is not a good news. In such situations, it is normal to feel chaotic and confused. We are there to help all such parents and kids who are seeking pediatric liver transplant&nbsp; assistance in India.</p>
 <p>With 302 successful liver transplants in children till date, India-based Apollo hospital is leading from the front in pediatric liver transplant. The hospital has proven skills to carry out liver transplant surgery on babies weighing up to 4 kgs. With specialist doctors and world-class medical facilities that are also relatively cost effective, hospitals in India are fast becoming the chosen destinations for parents across the world if their kids require a liver transplant. Please read the following FAQs related to carrying out a liver transplant in India for children.</p>
 <p><strong>What is a pediatric liver transplant?</strong></p>
@@ -6119,12 +6119,12 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p><strong>How can I get an appointment in India?</strong></p>
 <p>For Appointments/ queries and to understand about the legal documents required before the liver transplant, please reach out on the below details:</p>
 
-		</div>`
-	},
-	{
-		name:"kidney-transplant-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "kidney-transplant-surgery",
+    img: "/treatment/kidney-transplant-surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<p><strong>Kidney Transplant Surgery</strong> is a procedure in which a healthy kidney from a living or deceased donor is surgically implanted into a patient’s body. The success of kidney transplant surgery mainly depends on donor and recipient (patient) compatibility.</p>
 <p>India has many world-class JCI-accredited hospitals carrying out <strong>cost-effective kidney transplant programs,</strong> including robotics which increases the chances of successful kidney transplants. Furthermore, the Indian Government has implemented regulations and laws for ethical <strong>Kidney Transplants in India</strong>, providing a sense of safety to the patient and donor.</p>
 <h2><span style="color: #0048ad;"><strong>Legal Documentation required before Kidney Transplantation </strong></span></h2>
@@ -6330,12 +6330,12 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p><strong>Transform your health and well-being with our medical tourism packages.</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Kidney Transplant Surgery&nbsp;</strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"corneal-transplant-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "corneal-transplant-surgery",
+    img: "/treatment/corneal-transplant-surgery.webp",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Corneal Transplant Surgery in India: Restoring Vision</span></h2>
 <p>A corneal transplant surgery is an operation that is performed to replace the cornea with the corneal tissue from a donor. It is also called keratoplasty. The cornea is a transparent dome-like structure letting light enter the eye. It plays a major role in the eye’s ability to see.<br>
 A person must undergo corneal transplant surgery if they have a damaged cornea. Corneal damage may lead to blurred vision and eye pain. Here, we will learn about corneal transplant surgery and how it is carried out in India.</p>
@@ -6452,12 +6452,12 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 <p><a href="https://crossborderscare.com/">Cross Border Care</a> is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your corneal transplant surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Corneal Transplant Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"breast-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "breast-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">BREAST CANCER TREATMENT PROGRAM IN INDIA</span></h2>
 <p>Breast cancer has become the number one cancer amongst women in the world. If diagnosed early and treated right, the outcomes of breast cancer are excellent. Indian Healthcare has all the facilities to offer world class treatment for breast cancer at affordable cost. Multidisciplinary treatment approach is discussed in Tumor Board lies at the core of our services and clinical outcomes include both treatment outcomes and also long term quality of life.</p>
 <p><strong><u>Breast Cancer Department in Indian Hospitals – An overview </u></strong></p>
@@ -6629,12 +6629,12 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 <p><span style="font-weight: 400;">Write to us today at </span><a href="mailto:infor@crossborderscare.com"><span style="font-weight: 400;">infor@crossborderscare.com</span></a></p>
 <p><strong>Need assistance with advanced treatment for breast cancer to be performed in India? Contact us today!</strong></p>
 
-		</div>`
-	},
-	{
-		name:"osteosarcoma-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "osteosarcoma-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Osteosarcoma Surgery in India: A Battle Against Bone Cancer</span></h2>
 <p>Osteosarcoma is a type of cancer that starts in your bones. Initially, the cancer cells appear to be regular bone cells, but afterward, they create tumours and tumours create diseased bones. The cancer most often affects long bones like those in arms and legs. It primarily occurs near the end of your bones and near the knee, where the growth of the cancer occurs the fastest.</p>
 <p><span style="color: #0048ad;"><strong>The most commonly affected areas by osteosarcoma are:</strong></span></p>
@@ -6778,12 +6778,12 @@ In addition to osteosarcoma surgery, chemotherapy may also be included in a comp
 <p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your osteosarcoma surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Osteosarcoma Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"ewings-sarcoma-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "ewings-sarcoma-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -6998,12 +6998,12 @@ Let us first learn a bit more about Ewings Sarcoma:</p>
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"chondrosarcoma-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "chondrosarcoma-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	
@@ -7201,12 +7201,12 @@ Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma look
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"bone-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "bone-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -7368,12 +7368,12 @@ Complementary therapy can help relieve symptoms and improve your quality of life
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"lung-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "lung-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -7569,12 +7569,12 @@ The possible side effects are:</p>
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"prostate-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "prostate-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -7735,12 +7735,12 @@ In Immunotherapy, your immune system is used to fight cancer. Your body’s dise
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"cervical-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "cervical-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -7893,12 +7893,12 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"liver-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "liver-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Liver Cancer Treatment in India: Leading the fight against cancer</strong></span></h2>
 <p>Liver cancer is a cancer that begins in the cells of your liver. Your liver is a football-sized organ that is in the upper right portion of your abdomen, beneath your right lung, and above your stomach.</p>
 <p>It ranks as one of the most common types of cancer worldwide and has a high mortality rate. Early detection and timely intervention are important for improving prognosis and <strong>liver cancer treatment.</strong></p>
@@ -8025,12 +8025,12 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>liver cancer treatment in India, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Liver Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"ovarian-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "ovarian-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Ovarian Cancer Treatment in India: From Diagnosis to Victory</span></h2>
 <p>Ovarian cancer is the abnormal growth of ovarian cells. These cells multiply quickly and can invade and destroy healthy tissues. Ovarian cancer is sometimes difficult to detect because symptoms do not develop until the later stages.</p>
 <p>If you have ovarian cancer and you are struggling to find the best treatment options in India, you are in the right place. Here, we will discuss in detail what ovarian cancer is, what treatment options are available in India, and the best hospitals and doctors providing ovarian cancer treatment in India.</p>
@@ -8232,12 +8232,12 @@ Debulking surgery can also involve the removal of the urinary bladder if the can
 <p>To know more about our services, please write to us at <a href="mailto:info@corssborderscare.com">info@crossborderscare.com</a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Ovarian Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"colon-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "colon-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Colon Cancer: Innovative Solutions For Treatment in India</strong></span></h2>
 <p>Colon cancer is an uncontrolled growth of cells that begins in a part of the large intestine called the colon. The colon is the first and the longest part of the large intestine. Colon cancer mainly affects older adults, but it can occur at any age.</p>
 <p>Colon cancer usually begins as small polyps inside the colon. Polyps are not usually cancerous, but some can turn into colon cancer over time.</p>
@@ -8429,12 +8429,12 @@ cancer treatment in India, fill out the form below, and we will help you choose 
 </div>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Colon Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"stomach-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "stomach-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Stomach Cancer Treatment in India: Top Hospitals and Specialists</span></h2>
 <p>Stomach cancer begins in the lining of the cells inside the stomach. The stomach is an organ on the left side of the upper abdomen that digests food. It is a relatively common cancer worldwide.<br>
 Here, we will give you an overview of stomach cancer and how Cross Border Care, the best medical treatment consultant in India, can assist you with its treatment.<br>
@@ -8604,12 +8604,12 @@ Tips for our readers to prevent stomach cancer<br>
 <p>So, if you are planning your <span style="color: #0048ad;"><strong>stomach cancer </strong></span>treatment in India<strong>, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Stomach Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"HIPEC-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "HIPEC-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">HIPEC Treatment in India: Tips and Insights</span></h2>
 <p>Hyperthermic Intraperitoneal Chemotherapy, or <strong>HIPEC Treatment</strong>, is a two-step procedure for treating cancers. Cancer tumors are first surgically removed, and then heated chemo drugs are applied directly inside the abdomen to eliminate the remaining cancer cells.<br>
 Today, we at Cross Border Care will explain HIPEC Treatment in India; examine the top hospitals performing it in India, and the factors affecting its cost.</p>
@@ -8777,12 +8777,12 @@ Your doctor can help you weigh the benefits and risks of all your treatment opti
 <p>So, if you are planning your <span style="color: #0048ad;"><strong>HIPEC chemotherapy in India, </strong></span>fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best HIPEC Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"pancreatic-cancer-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "pancreatic-cancer-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Pancreatic Cancer</span></h2>
 <p>Cross Border Care empowering the patients with knowledge and hope<br>
 Pancreatic cancer is a daunting disease and requires specialized care and treatment. For patients who are diagnosed with this cancer, accessing evidence-based treatment as per international standards and support is important for their journey towards better health and improved quality of life.<br>
@@ -8979,12 +8979,12 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 <p>So, if you are planning your <span style="color: #0048ad;"><strong>pancreatic cancer treatment in India or Delhi,</strong></span> fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Pancreatic Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"radio-active-iodine-therapy",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "radio-active-iodine-therapy",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Radioactive Iodine Therapy for Thyroid Cancer</strong></span></h2>
 <p>Radioactive iodine-131 thyroid cancer treatment is a safe and effective procedure for treating thyroid cancer and hyperthyroidism. It is also very brief and straightforward. Here at Cross Border Care, the best medical consulting in India, we will explain the treatment, its cost, and the best hospitals offering this treatment in India.</p>
 <p><span style="color: #0048ad;"><strong>What is radioactive iodine therapy?</strong></span></p>
@@ -9118,12 +9118,12 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 ● Over saving of 15% treatment cost through us</p>
 <p>To learn more about our services, please write to us at info@crossborderscare.com. Based on your reports, we will let you know the <span style="color: #0048ad;"><strong>Radioactive iodine treatment cost in India.</strong></span></p>
 
-		</div>`
-	},
-	{
-		name:"latest-radiation-therapy",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "latest-radiation-therapy",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Radiation Therapy: IGRT, IMRT, CyberKnife, Zap-X &amp; Tomotherapy</strong></span></h2>
 <p><strong>Radiation therapy</strong>, or <strong>radiotherapy</strong>, is a <strong>cancer treatment</strong> that uses high-energy X-ray beams to kill cancer cells. Radiation therapy damages cells by destroying their genetic material, which controls cell growth.<br>
 Here, with <strong>Cross Border Care</strong>, our readers will learn about <strong>radiation therapy</strong> in detail and the best hospitals providing it in India.</p>
@@ -9289,12 +9289,12 @@ You can also follow the given safety measures after the first few days of the <s
 <p>To learn more about our services, please write to us at info@crossborderscare.com. Based on your reports, we will let you know the <strong>radiation therapy cost in Delhi</strong>.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Latest Radiation Therapy </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"general-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "general-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Obesity and Metabolic/ Bariatric Surgery in India</span></h2>
 <p>Globally, more than 1.9 billion adults are overweight and 650 million are obese. Approximately 2.8 million deaths are reported as a result of being overweight or obese.<sup>1</sup>Obesity and Type-II Diabetes (T2DM) have become pandemic. There are many ways to manage obesity; however the fastest and most dramatic option is Bariatric or weight loss surgery. It is considered to be safe and recommended for patients, who have co-morbid diabetes or hypertension and stand a higher risk due to obesity.</p>
 <p>Most Indian hospitals have dedicated obesity and metabolic surgery Centers, which are at par with global standards. Delhi has become the hub for such centers, which caters <u>to more than 100 such </u>surgeries every month. These state-of-art Indian hospitals provide comprehensive treatment including obesity management, dietary and exercise consultation and a variety of patient specific surgical options such as sleeve Gastrectomy, Mini Gastric Bypass, Gastric Banding and Gastric Balloon Insertion. These surgeries are often called as Bariatric/ Metabolic or Weight loss surgery.</p>
@@ -9398,12 +9398,12 @@ You can also follow the given safety measures after the first few days of the <s
 </ol>
 <p><span style="color: #0048ad;"><strong>Need assistance with advanced treatment for bariatric or weight loss surgery to be performed in India? Contact us today!</strong></span></p>
 
-		</div>`
-	},
-	{
-		name:"vascular-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "vascular-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Obesity and Metabolic/ Bariatric Surgery in India</span></h2>
 <p>Globally, more than 1.9 billion adults are overweight and 650 million are obese. Approximately 2.8 million deaths are reported as a result of being overweight or obese.<sup>1</sup>Obesity and Type-II Diabetes (T2DM) have become pandemic. There are many ways to manage obesity; however the fastest and most dramatic option is Bariatric or weight loss surgery. It is considered to be safe and recommended for patients, who have co-morbid diabetes or hypertension and stand a higher risk due to obesity.</p>
 <p>Most Indian hospitals have dedicated obesity and metabolic surgery Centers, which are at par with global standards. Delhi has become the hub for such centers, which caters <u>to more than 100 such </u>surgeries every month. These state-of-art Indian hospitals provide comprehensive treatment including obesity management, dietary and exercise consultation and a variety of patient specific surgical options such as sleeve Gastrectomy, Mini Gastric Bypass, Gastric Banding and Gastric Balloon Insertion. These surgeries are often called as Bariatric/ Metabolic or Weight loss surgery.</p>
@@ -9507,17 +9507,17 @@ You can also follow the given safety measures after the first few days of the <s
 </ol>
 <p><span style="color: #0048ad;"><strong>Need assistance with advanced treatment for bariatric or weight loss surgery to be performed in India? Contact us today!</strong></span></p>
 
-		</div>`
-	},
-	{
-		name:"dental-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:``
-	},
-	{
-		name:"hip-replacement-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "dental-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: ``,
+  },
+  {
+    name: "hip-replacement-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<p style="text-align: left;"><strong>A hip replacement surgery</strong> is recommended when the hip joint becomes severely damaged due to a disease resulting in chronic pain, decreased quality of life and limited mobility.</p>
 <p style="text-align: left;"><strong>A</strong> <strong>robotic hip replacement surgery</strong> is a procedure in which the surgeon removes damaged tissue/femur bone head in a patient’s hip and replaces it with an artificial joint. It is done with the help of a robotic arm hence also called robotic-assisted hip replacement surgery. The robotic procedure allows the surgery to be performed with great precision and also gives miraculous clinical results.</p>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Complex Cases: When is hip replacement surgery needed?</strong></span></h2>
@@ -9653,12 +9653,12 @@ You can also follow the given safety measures after the first few days of the <s
 <p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professionals themselves who are involved in each step of patient care. It is good to have an experienced ‘<strong>treatment consultant</strong>’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Hip Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"knee-replacement-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+		</div>`,
+  },
+  {
+    name: "knee-replacement-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -9926,12 +9926,12 @@ You can also follow the given safety measures after the first few days of the <s
 </ul>
 <p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Knee Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"shoulder-replacement-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "shoulder-replacement-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Shoulder Replacement Surgery in India: Shoulder Pain No More</span></h2>
 <p>For individuals who suffer from severe shoulder pain or shoulder conditions, shoulder replacement surgery has emerged as a beacon of hope, which promises relief from pain and helps them to return to normalcy.</p>
 <p>In a shoulder replacement surgery, the damaged or diseased portion of the shoulder including the upper arm is removed carefully. These areas are then replaced by artificial components that mimic the natural joint, thus restoring normal shoulder function.</p>
@@ -10067,12 +10067,12 @@ Glenoid Component: It replaces the worn-out socket of the shoulder joint. It is 
 <p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your shoulder replacement surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Shoulder Replacement Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"arthroscopy-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "arthroscopy-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">High-end technology-driven arthroscopic surgery in India</span></h2>
 <p><span style="color: #0048ad;"><strong>What is Arthroscopic surgery?</strong></span></p>
 <p>Arthroscopy is a surgical procedure that lets doctors diagnose and treat the problems inside a joint. The process involves the insertion of a fibre optic camera inside the joint through a small incision. A high-definition video monitor is used to look at the joint. This allows surgeons to view the joints and repair them using special instruments.</p>
@@ -10196,12 +10196,12 @@ o swollen synovium (the lining in the joint)</p>
 <p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your arthroscopy surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Arthroscopy Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
-		</div>`
-	},
-	{
-		name:"male-to-female-sex-change-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+		</div>`,
+  },
+  {
+    name: "male-to-female-sex-change-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		<figure class="wpb_wrapper vc_figure">
@@ -10324,12 +10324,12 @@ Surgery is just one possible way to transition.</p>
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"tetralogy-of-fallot-repair",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "tetralogy-of-fallot-repair",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -10522,12 +10522,12 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@corssborderscare.com</span></a></p>
 <p><strong>Planning to travel to India for medical treatment. Book a free consultation with us!</strong></p>
-</div>`
-	},
-	{
-		name:"asd-closure",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "asd-closure",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -10772,12 +10772,12 @@ Surgery is just one possible way to transition.</p>
 </table>
 <p><span style="font-weight: 400;">At Cross Border Care, we will consolidate most of the expenses of your Atrial Septal Defect and provide you with the most cost-effective packages that are specifically tailored to meet the requirements of every individual.&nbsp;</span></p>
 <p><strong>All you have to do is send us your query and medical reports at <a href="mailto:infor@crossborderscare.com">infor@crossborderscare.com</a>, and we will then give you a cost estimate. </strong></p>
-</div>`
-	},
-	{
-		name:"arterial-switch-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "arterial-switch-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -10976,12 +10976,12 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@corssborderscare.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Arterial Switch Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"bd-glenn-on-bypass",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "bd-glenn-on-bypass",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		<figure class="wpb_wrapper vc_figure">
@@ -11179,12 +11179,12 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@corssborderscare.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Bidirectional (BD) Glenn On Bypass surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"bentall-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "bentall-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -11392,12 +11392,12 @@ Surgery is just one possible way to transition.</p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Overall savings of 15% on a complete surgical package&nbsp;</span></li>
 </ul>
 <p><strong>Choose Cross-Border Care Today. We are the best medical tourism company in India, and we will help you with Bentall Surgery at the most affordable prices in India.</strong></p>
-</div>`
-	},
-	{
-		name:"bt-shunt-with-bypass",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "bt-shunt-with-bypass",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
 	</div>
@@ -11601,12 +11601,12 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <p><span style="font-weight: 400;">Please write to us today at </span><a href="mailto:info@crossborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a><span style="font-weight: 400;">. If you are looking for affordable BT Shunt surgery in India.&nbsp;</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best BT Shunt with Bypass Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"fontan-procedure",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "fontan-procedure",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -11824,12 +11824,12 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <p><b>To avail of our services and to know about our packages, please write to us today at </b><a href="mailto:info@crossborderscare.com"><b>info@crossborderscare.com</b></a><b>.</b></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Fontan Procedure </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"pda-closure",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "pda-closure",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
 	</div>
@@ -12005,12 +12005,12 @@ Surgery is just one possible way to transition.</p>
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"vsd-closure",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "vsd-closure",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -12252,12 +12252,12 @@ Surgery is just one possible way to transition.</p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation at every step of the surgery ( before, during and after )&nbsp;</span></li>
 </ul>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best VSD Surgery&nbsp;</strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"contoura-super-vision-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "contoura-super-vision-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -12395,12 +12395,12 @@ Surgery is just one possible way to transition.</p>
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"robotic-femtosecond-laser-cataract-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "robotic-femtosecond-laser-cataract-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
 	</div>
@@ -12509,12 +12509,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"retinal-detachment-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "retinal-detachment-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -12660,12 +12660,12 @@ After the Surgery</p>
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"squint-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "squint-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -12847,12 +12847,12 @@ Speak to your doctor about the risks associated with the squint surgery.</p>
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"ptosis-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "ptosis-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -13002,12 +13002,12 @@ Here are some treatment options available for ptosis in India:</p>
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"vitrectomy-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "vitrectomy-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -13222,12 +13222,12 @@ Here are some treatment options available for ptosis in India:</p>
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"coronary-artery-bypass-graft",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "coronary-artery-bypass-graft",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -13406,12 +13406,12 @@ Here are some treatment options available for ptosis in India:</p>
 </table>
 <p><span style="font-weight: 400;">For those planning a medical trip to India, meticulous planning is crucial. Researching accredited hospitals, consulting with renowned cardiac surgeons, and understanding the visa and travel requirements are essential steps. Collaborating with medical tourism agencies like Cross Border Care, that specialize in facilitating healthcare journeys can simplify logistics, including accommodation and transportation.</span></p>
 <p><span style="color: #0048ad;"><b>Contact Dr. Nadeem Khan today, if you are planning your CABG surgery in India.&nbsp;</b></span></p>
-</div>`
-	},
-	{
-		name:"minimally-invasive-cardiac-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "minimally-invasive-cardiac-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -13564,12 +13564,12 @@ Here are some treatment options available for ptosis in India:</p>
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"mics-valve-replacement-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "mics-valve-replacement-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
 	</div>
@@ -13712,12 +13712,12 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"double-valve-replacement",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "double-valve-replacement",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -13928,12 +13928,12 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"valve-replacement",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "valve-replacement",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -14139,12 +14139,12 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"bentall-surgery",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "bentall-surgery",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		<figure class="wpb_wrapper vc_figure">
@@ -14274,12 +14274,12 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"erectile-dysfunction-treatments",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+</div>`,
+  },
+  {
+    name: "erectile-dysfunction-treatments",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -14546,12 +14546,12 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </ul>
 <p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Erectile Dysfunction Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
-</div>`
-	},
-	{
-		name:"penile-implant",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "penile-implant",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -14710,17 +14710,17 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"gynecology-treatments",
-		img: "/doctor-consult-illustration.svg",
-		data:``
-	},
-	{
-		name:"ivf-procedure",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "gynecology-treatments",
+    img: "/doctor-consult-illustration.svg",
+    data: ``,
+  },
+  {
+    name: "ivf-procedure",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -14828,12 +14828,12 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 		</div>
 	</div>
 </div></div></div></div>
-</div>`
-	},
-	{
-		name:"male-infertility-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "male-infertility-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -14982,12 +14982,12 @@ Surgery: It involves various procedures like TESA and Micro TESE.<br>
 
 		</div>
 	</div>
-</div>`
-	},
-	{
-		name:"female-infertility-treatment",
-		img: "/doctor-consult-illustration.svg",
-		data:`<div class="wpb_wrapper">
+</div>`,
+  },
+  {
+    name: "female-infertility-treatment",
+    img: "/doctor-consult-illustration.svg",
+    data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		<figure class="wpb_wrapper vc_figure">
@@ -15167,7 +15167,6 @@ Testosterone: Testosterone is a male sex hormone that is also in smaller amounts
 
 		</div>
 	</div>
-</div>`
-	},
-
-]
+</div>`,
+  },
+];
