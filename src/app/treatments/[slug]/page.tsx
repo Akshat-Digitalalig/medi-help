@@ -19,11 +19,11 @@ export default function Page() {
           width={800}
           height={500}
           alt="treatment-Image"
-          className=""
+          className=" w-full "
         ></Image>
         <div
           dangerouslySetInnerHTML={{ __html: content }}
-          className=" text-pretty w-full"
+          className=" text-pretty w-full mt-4"
         ></div>
       </div>
       <div className="mx-2  md:w-[40%]">
