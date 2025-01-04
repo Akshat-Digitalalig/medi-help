@@ -14,12 +14,12 @@ export default function Hero() {
                 <div className="bg-[#e1f5ff] bg-center bg-cover  w-full pb-10"
 
                     style={{
-                        backgroundImage: `url('/bg.png')`,
+                        backgroundImage: `url('/medibg.png')`,
                         backgroundRepeat: 'no-repeat',
                     }}
                     >
 
-                    <p className="mb-2 font-semibold text-myblue mt-4 py-4 text-center md:mb-2 md:text-2xl">Healing  Beyond Borders</p>
+                    <p className="mb-2 mx-auto font-semibold w-fit border border-2 border-transparent text-myred mt-4 my-4 p-2 rounded-full px-4 text-center md:mb-2 md:text-2xl">Healing  Beyond Borders</p>
                     <h1 className="mb-4 text-3xl font-bold text-myblue text-center sm:text-5xl md:mb-4 md:text-6xl">One Destination For All Treatment</h1>
                     <p className="mb-2 font-semibold text-myblue/70 mt-4 pt-4 text-center md:text-lg">24/7 You to Trusted Medical Care Worldwide</p>
                    

@@ -1,8 +1,9 @@
 "use client";
 import React, { useState } from "react";
-import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
+import { Dialog, DialogClose, DialogContent, DialogFooter, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { doctors } from "@/lib/constant/Doctors";
+import { toast } from "sonner";
 
 export default function VideoConsulting() {
   const [formData, setFormData] = useState({
@@ -16,6 +17,7 @@ export default function VideoConsulting() {
 
   const [passport, setPassport] = useState<File[]>([]);
   const [medicalReports, setMedicalReports] = useState<File[]>([]);
+  const [success, setSuccess] = useState(false);
 
   const handleChange = (
     e: React.ChangeEvent<
@@ -43,13 +45,76 @@ export default function VideoConsulting() {
     }
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    console.log("Form Data Submitted:", formData);
-    console.log("Passport:", passport);
-    console.log("Medical Report:", medicalReports);
+    toast.success("Sending email...");
 
-    // Add your form submission logic here (e.g., API call)
+    // Validate required fields
+    if (
+      !formData.patientName ||
+      !formData.email ||
+      !formData.phoneNumber ||
+      !formData.doctorName ||
+      !formData.disease ||
+      !formData.message
+    ) {
+      toast.error("All fields are required.");
+      return;
+    }
+    console.log(passport)
+
+    // Prepare form data
+    const data = new FormData();
+    data.append("name", formData.patientName);
+    data.append("email", formData.email);
+    data.append("phone", formData.phoneNumber);
+    data.append("doctorName", formData.doctorName);
+    data.append("disease", formData.disease);
+    data.append("messageForUs", formData.message);
+
+    // Add passport files to form data
+    passport.forEach((file) => {
+      data.append("passport", file);
+    });
+
+    // Add medical reports to form data
+    medicalReports.forEach((file) => {
+      data.append("medicalReports", file);
+    });
+
+    console.log(data.getAll('passport'))
+
+
+    try {
+      // Make an API call to submit the data
+      const response = await fetch("/api/videoConsultation", {
+        method: "POST",
+        body: data,
+      });
+
+
+      if (response.ok) {
+        toast.success("Email sent successfully!");
+        // Optionally reset the form
+        setFormData({
+          patientName: "",
+          phoneNumber: "",
+          email: "",
+          doctorName: "",
+          disease: "",
+          message: "",
+        });
+        setPassport([]);
+        setMedicalReports([]);
+        setSuccess(true);
+      } else {
+        const errorData = await response.json();
+        toast.error(`Failed to send email: ${errorData.message}`);
+      }
+    } catch (error) {
+      console.error("Error during form submission:", error);
+      toast.error("Something went wrong. Please try again later.");
+    }
   };
 
   return (
@@ -122,7 +187,6 @@ export default function VideoConsulting() {
                 required
               />
             </div>
-
             <div>
               <label
                 htmlFor="doctorName"
@@ -146,7 +210,6 @@ export default function VideoConsulting() {
                 ))}
               </select>
             </div>
-
             <div>
               <label
                 htmlFor="passport"
@@ -167,7 +230,6 @@ export default function VideoConsulting() {
                 Supported formats: .jpg, .jpeg, .png, .pdf
               </p>
             </div>
-
             <div>
               <label
                 htmlFor="medicalReports"
@@ -188,7 +250,6 @@ export default function VideoConsulting() {
                 Supported formats: .jpg, .jpeg, .png, .pdf
               </p>
             </div>
-
             <div>
               <label
                 htmlFor="disease"
@@ -207,7 +268,6 @@ export default function VideoConsulting() {
                 required
               />
             </div>
-
             <div>
               <label
                 htmlFor="message"
@@ -225,14 +285,28 @@ export default function VideoConsulting() {
                 rows={4}
               ></textarea>
             </div>
-
             <div>
-              <button
+              {success && (
+                <p className="text-green-500 text-center">
+                  Email sent successfully!
+                </p>
+              )}
+              {!success ? <button
                 type="submit"
                 className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+
               >
                 Submit
-              </button>
+              </button> : <DialogFooter className="sm:justify-start">
+                <DialogClose asChild>
+                  <button
+                    className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  >
+                    Close
+                  </button>
+                </DialogClose>
+              </DialogFooter>
+              }
             </div>
           </form>
         </div>

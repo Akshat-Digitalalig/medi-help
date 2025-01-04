@@ -4,7 +4,7 @@ import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 import path from "path";
 import fs from "fs";
-import { EmailTempVisaInvitations  } from "@/lib/Email/EmailTemp";
+import { EmailTempTranslator } from "@/lib/Email/EmailTemp";
 
 const UPLOAD_DIR = path.resolve("public/uploads");
 
@@ -15,19 +15,16 @@ export async function POST(req: NextRequest) {
     const name = formdata.get("name");
     const email = formdata.get("email");
     const phone = formdata.get("phone");
-    const numberOfAttendants = formdata.get("numberOfAttendants");
-    const appointmentDate = formdata.get("appointmentDate");
-    const hospitalName = formdata.get("hospitalName");
+    const country = formdata.get("country");
+    const language = formdata.get("language");
     const messageForUs = formdata.get("messageForUs");
 
     // Handle multiple file uploads
-    const medicalReports = formdata.getAll("medicalReports") as File[];
-    const patientPassport = formdata.get("patientPassport") as File;
-    const attendantsPassports = formdata.getAll("attendantsPassports") as File[];
+    const files = formdata.getAll("passportFiles") as File[];
     const filePaths: string[] = [];
 
     // Validate input
-    if (!name || !email || !phone || !numberOfAttendants || !appointmentDate || !hospitalName || !messageForUs) {
+    if (!name || !email || !phone || !country || !language || !messageForUs) {
       return NextResponse.json(
         { message: "All fields are required" },
         { status: 400 }
@@ -35,8 +32,7 @@ export async function POST(req: NextRequest) {
     }
 
     // Process file uploads
-    const allFiles = [...medicalReports, patientPassport, ...attendantsPassports];
-    for (const file of allFiles) {
+    for (const file of files) {
       const buffer = Buffer.from(await file.arrayBuffer());
       if (!fs.existsSync(UPLOAD_DIR)) {
         fs.mkdirSync(UPLOAD_DIR, { recursive: true });
@@ -58,13 +54,12 @@ export async function POST(req: NextRequest) {
 
     // Render the email template
     const emailHtml = await render(
-      React.createElement(EmailTempVisaInvitations, {
+      React.createElement(EmailTempTranslator, {
         name: String(name),
         email: String(email),
         phoneNumber: String(phone),
-        numberOfAttendants: String(numberOfAttendants),
-        appointmentDate: String(appointmentDate),
-        hospitalName: String(hospitalName),
+        country: String(country),
+        language: String(language),
         messageForUs: String(messageForUs),
       })
     );
@@ -76,7 +71,7 @@ export async function POST(req: NextRequest) {
       subject: `👋 ${name}, Sent a Query!`,
       html: emailHtml,
       attachments: filePaths.map((filePath, index) => ({
-        filename: allFiles[index].name,
+        filename: files[index].name,
         path: filePath,
       })),
     };
@@ -84,11 +79,10 @@ export async function POST(req: NextRequest) {
     // Send the email
     await transporter.sendMail(mailOptions);
 
-   
     // Remove the files after sending the email
-       if (fs.existsSync(UPLOAD_DIR)) {
-         fs.rmSync(UPLOAD_DIR, { recursive: true });
-       } 
+    for (const filePath of filePaths) {
+      fs.unlinkSync(filePath);
+    }
 
     return NextResponse.json(
       { message: "Email sent successfully" },

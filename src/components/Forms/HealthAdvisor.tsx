@@ -4,6 +4,7 @@ import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { countryCityData} from "@/lib/constant/unversal";
 import { HeartHandshake } from "lucide-react";
+import { toast } from "sonner";
 
 export default function HealthAdvisor() {
   const [formData, setFormData] = useState({
@@ -15,6 +16,7 @@ export default function HealthAdvisor() {
     gender: "",
     message: "",
   });
+  const [success, setSuccess] = useState(false);
 
   const handleChange = (
     e: React.ChangeEvent<
@@ -28,10 +30,64 @@ export default function HealthAdvisor() {
     }));
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    console.log("Form Data Submitted:", formData);
-    // Add your form submission logic here (e.g., API call)
+    toast.success("Sending request...");
+
+    // Validate required fields
+    if (
+      !formData.patientName ||
+      !formData.phoneNumber ||
+      !formData.email ||
+      !formData.country ||
+      !formData.age ||
+      !formData.gender ||
+      !formData.message
+    ) {
+      toast.error("All fields are required.");
+      return;
+    }
+
+    // Prepare form data
+    const data = new FormData();
+    data.append( "name", formData.patientName);
+    data.append( "phone", formData.phoneNumber);
+    data.append( "email", formData.email);
+    data.append( "country", formData.country);
+    data.append( "age", formData.age);
+    data.append( "gender", formData.gender);
+    data.append( "messageForUs", formData.message);
+
+    try {
+      // Make API call
+      const response = await fetch("/api/healthadvisor", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json", // Explicitly set Content-Type
+        },
+        body: data,
+      });
+
+      if (response.ok) {
+        toast.success("Request sent successfully!");
+        setFormData({
+          patientName: "",
+          phoneNumber: "",
+          email: "",
+          country: "",
+          age: "",
+          gender: "",
+          message: "",
+        });
+        setSuccess(true);
+      } else {
+        const errorData = await response.json();
+        toast.error(`Failed to send request: ${errorData.message}`);
+      }
+    } catch (error) {
+      console.error("Error during form submission:", error);
+      toast.error("Something went wrong. Please try again later.");
+    }
   };
 
   return (
@@ -191,12 +247,18 @@ export default function HealthAdvisor() {
             </div>
 
             <div className="col-span-1 sm:col-span-2">
-              <button
-                type="submit"
-                className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
-              >
-                Submit
-              </button>
+            {success ? (
+                <p className="text-green-500 text-center">
+                  Request sent successfully!
+                </p>
+              ) : (
+                <button
+                  type="submit"
+                  className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                >
+                  Submit
+                </button>
+              )}
             </div>
           </form>
         </div>

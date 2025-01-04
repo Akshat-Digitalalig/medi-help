@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { hospitalData } from "@/lib/constant/Hospital";
+import { toast } from "sonner";
 
 export default function VisaInvitation() {
   const [formData, setFormData] = useState({
@@ -17,6 +18,7 @@ export default function VisaInvitation() {
   });
 
   const [documents, setDocuments] = useState<File[]>([]);
+  const [success, setSuccess] = useState(false);
 
   const handleChange = (
     e: React.ChangeEvent<
@@ -37,11 +39,70 @@ export default function VisaInvitation() {
     }
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    console.log("Form Data Submitted:", formData);
-    console.log("Patient Passport:", documents);
-    // Add your form submission logic here (e.g., API call)
+    toast.success("Sending request...");
+
+    // Validate required fields
+    if (
+      !formData.patientName ||
+      !formData.phoneNumber ||
+      !formData.email ||
+      !formData.numberOfPeople ||
+      !formData.roomType ||
+      !formData.hospital ||
+      !formData.city ||
+      !formData.message
+    ) {
+      toast.error("All fields are required.");
+      return;
+    }
+
+    // Prepare form data
+    const data = new FormData();
+    data.append("name", formData.patientName);
+    data.append("phone", formData.phoneNumber);
+    data.append("email", formData.email);
+    data.append("numberOfPeople", formData.numberOfPeople);
+    data.append("roomType", formData.roomType);
+    data.append("hospitalName", formData.hospital);
+    data.append("city", formData.city);
+    data.append("messageForUs", formData.message);
+
+    // Add document files to form data
+    documents.forEach((file) => {
+      data.append("documents", file);
+    });
+
+    try {
+      // Make API call
+      const response = await fetch("/api/accommodation", {
+        method: "POST",
+        body: data,
+      });
+
+      if (response.ok) {
+        toast.success("Request sent successfully!");
+        setFormData({
+          patientName: "",
+          phoneNumber: "",
+          email: "",
+          numberOfPeople: "",
+          roomType: "",
+          hospital: "",
+          city: "",
+          message: "",
+        });
+        setDocuments([]);
+        setSuccess(true);
+      } else {
+        const errorData = await response.json();
+        toast.error(`Failed to send request: ${errorData.message}`);
+      }
+    } catch (error) {
+      console.error("Error during form submission:", error);
+      toast.error("Something went wrong. Please try again later.");
+    }
   };
 
   return (
@@ -237,12 +298,18 @@ export default function VisaInvitation() {
               ></textarea>
             </div>
             <div>
-              <button
-                type="submit"
-                className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
-              >
-                Submit
-              </button>
+            {success ? (
+                <p className="text-green-500 text-center">
+                  Request sent successfully!
+                </p>
+              ) : (
+                <button
+                  type="submit"
+                  className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                >
+                  Submit
+                </button>
+              )}
             </div>
           </form>
         </div>

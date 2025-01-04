@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
+import { toast } from "sonner";
 
 export default function AirportPickup() {
   const [formData, setFormData] = useState({
@@ -13,6 +14,7 @@ export default function AirportPickup() {
   });
 
   const [file, setFile] = useState<File[]>([]);
+  const [success, setSuccess] = useState(false);
 
   const handleChange = (
     e: React.ChangeEvent<
@@ -33,12 +35,62 @@ export default function AirportPickup() {
     }
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
+    console.log("calll")
     e.preventDefault();
-    console.log("Form Data Submitted:", formData);
-    console.log("Air Ticket:", file);
+    toast.success("Sending request...");
 
-    // Add your form submission logic here (e.g., API call)
+    // Validate required fields
+    if (
+      !formData.patientName ||
+      !formData.phoneNumber ||
+      !formData.email ||
+      !formData.vehicle ||
+      !formData.message
+    ) {
+      toast.error("All fields are required.");
+      return;
+    }
+
+    // Prepare form data
+    const data = new FormData();
+    data.append("name", formData.patientName);
+    data.append("phone", formData.phoneNumber);
+    data.append("email", formData.email);
+    data.append("vehicle", formData.vehicle);
+    data.append("messageForUs", formData.message);
+
+    // Add file attachments to form data
+    file.forEach((f) => {
+      data.append("airTicket", f);
+    });
+
+    try {
+      // Make API call
+      const response = await fetch("/api/airportPickup", {
+        method: "POST",
+        body: data,
+      });
+
+      if (response.ok) {
+        toast.success("Request sent successfully!");
+        setFormData({
+          patientName: "",
+          phoneNumber: "",
+          email: "",
+          vehicle: "",
+          message: "",
+        });
+        setFile([]);
+        setSuccess(true);
+      } else {
+        const errorData = await response.json();
+        toast.error(`Failed to send request: ${errorData.message}`);
+      }
+    } catch (error) {
+      console.error("Error during form submission:", error);
+      toast.error("Something went wrong. Please try again later.");
+    }
   };
 
   return (
@@ -174,12 +226,18 @@ export default function AirportPickup() {
             </div>
 
             <div>
-              <button
-                type="submit"
-                className="w-full sticky bottom-[50%] py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
-              >
-                Submit
-              </button>
+            {success ? (
+                <p className="text-green-500 text-center">
+                  Request sent successfully!
+                </p>
+              ) : (
+                <button
+                  type="submit"
+                  className="w-full sticky bottom-[50%] py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                >
+                  Submit
+                </button>
+              )}
             </div>
           </form>
         </div>

@@ -13,7 +13,7 @@ export interface CountryData {
 export const countryData: CountryData = {
     "India": {
         cities: [
-            "Delhi", "Gurugram", "Noida",  "Faridabad", "Gaziyabad",
+            "Delhi", "Gurgaon", "Noida",  "Faridabad", "Ghaziabad",
             "Kolkata",  "Ahmedabad", "Jaipur", "Mumbai", 
         ],
         departments: [
@@ -27,15 +27,15 @@ export const countryData: CountryData = {
 
 const SearchBar = () => {
     const [selectedCountry, setSelectedCountry] = useState<keyof typeof countryData>("India");
-    const [selectedCity, setSelectedCity] = useState("");
-    const [selectedDepartment, setSelectedDepartment] = useState("");
+    const [selectedCity, setSelectedCity] = useState("all");
+    const [selectedDepartment, setSelectedDepartment] = useState("all");
     const router = useRouter();
 
     const handleSearch = () => {
         const query = {
             country: selectedCountry,
-            city: selectedCity || undefined,
-            department: selectedDepartment || undefined,
+            city: selectedCity || "all",
+            department: selectedDepartment || "all",
         };
         const queryString = new URLSearchParams(query as Record<string, string>).toString();
         router.push(`/hospitals?${queryString}`);

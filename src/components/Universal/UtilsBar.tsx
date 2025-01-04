@@ -9,7 +9,6 @@ import {
     CommandItem,
     CommandList,
     CommandSeparator,
-    CommandShortcut,
 } from '@/components/ui/command';
 import { hospitalData } from "@/lib/constant/Hospital";
 import { Search } from 'lucide-react';
@@ -67,15 +66,15 @@ export default function UtilsBar() {
     return (
         <div className='bg-myblue text-white h-fit flex justify-between items-center'>
             <div className='ml-4 flex'>
-                <h1 className='text-sm hidden md:block'>We Are Providing Best Services And Facility! </h1>
+                {/* <h1 className='text-sm hidden md:block'>We Are Providing Best Services And Facility! </h1> */}
                 <h1 className='text-sm ml-1 font-semibold'>For any support 📞 +91 98971 86585</h1>
             </div>
             <div className='flex'>
                 <nav className=" hidden md:flex items-center gap-2.5 ">
                   
-                    <button onClick={() => setOpen(true)} className="flex  items-center text-sm border px-3 rounded-2xl  border-white  md:gap-x-28 p-1  ">
+                    <button onClick={() => setOpen(true)} className="flex  items-center text-sm border w-full px-3 rounded-2xl  border-white  md:gap-x-4 p-1  ">
                     
-                        <span className='flex items-center  gap-x-1'> <CommandShortcut className='text-white'>⌘J</CommandShortcut> Search  </span>
+                        <span className='flex items-center w-80  gap-x-1'> Search..  </span>
                         <span><Search size={16} strokeWidth={3} /></span>
                     </button>
                     <Command>

@@ -21,9 +21,9 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
             onClick={() => router.push(`/doctors/${doctor.id}`)}
             src={doctor.image}
             alt={doctor.name}
-            width={700}
-            height={900}
-            className="w-56 h-60 rounded-xl object-cover object-center"
+            width={800}
+            height={100}
+            className="w-full h-96 md:h-60 rounded-xl object-cover object-center"
           />
         </div>
         <div className="w-full md:w-2/3 p-6">
@@ -47,7 +47,7 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
               <MapPin />
               <div>
                 <p className="text-xs font-semibold"> Location</p>
-                <p className="text-center">{doctor?.workingAt}</p>
+                <p className="">{doctor?.workingAt}</p>
               </div>
             </div>
             <div className="text-xs text-gray-600 flex justify-center my-1  gap-x-2 items-center">
@@ -60,7 +60,7 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
               <BriefcaseMedical />
               <div>
                 <p className="inline-block bg-blue-100 text-blue-800 mx-1 text-xs  font-semibold px-2 py-1 rounded ">
-                  {doctor?.designation}
+                  {TrucanteText(doctor?.designation, 34)} 
                 </p>
 
               </div>
@@ -68,7 +68,7 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
           </div>
           <p className="text-gray-700 hidden md:block text-sm mt-4">
             {doctor?.about?.items[0]?.content &&
-              TrucanteText(doctor.about.items[0].content, 150)}
+              TrucanteText(doctor.about.items[0].content, 140)}
           </p>
 
           <div className="flex md:hidden space-x-4 mt-6">

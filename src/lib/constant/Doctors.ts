@@ -419,14 +419,14 @@ export const doctors: Doctor[] = [
     reviews: [],
   },
   {
-    tags: ["Orthopedics", "Trauma Surgery", "Spine Surgery", "Gurugram", ],
+    tags: ["Orthopedics", "Trauma Surgery", "Spine Surgery", "Gurgaon", ],
     id: "dr-rajesh-kumar-verma",
     name: "Dr. Rajesh Kumar Verma",
     yearsOfExperience: 12,
     designation: "Director - Orthopedics, Trauma & Spine Surgery",
     image: "/doctors/dr-rajesh-kumar-verma.webp",
-    workingAt: "Marengo Asia Hospitals, Gurugram (NCR)",
-    hospitalId: "marengo-asia-hospitals-gurugram",
+    workingAt: "Marengo Asia Hospitals, Gurgaon (NCR)",
+    hospitalId: "marengo-asia-hospitals-Gurgaon",
     about: {
       title: "About Dr. Rajesh Kumar Verma",
       items: [
@@ -469,33 +469,33 @@ export const doctors: Doctor[] = [
       "Observership Endoscopic Spine Surgery at Netherlands and Munich, Germany",
     ],
     experience: [
-      "Director & Senior Consultant - Narayana Superspeciality Hospital, Gurugram, Jan 2018 to Jan 2022",
+      "Director & Senior Consultant - Narayana Superspeciality Hospital, Gurgaon, Jan 2018 to Jan 2022",
       "Head Orthopedics, Director Trauma & Spine Surgery, Artemis Health Institute, 2009 to 2018",
       "Paras Hospital, Columbia Asia Hospital, Umkal Hospital, 2002 to 2009",
       "Registrar at PGIMS, LHMC & RML Hospitals, New Delhi, 1994 to 2000",
     ],
     awards: [
-      "Awarded Best Orthopaedic Surgeon in Gurugram 2010 by Big Brands Research Group",
+      "Awarded Best Orthopaedic Surgeon in Gurgaon 2010 by Big Brands Research Group",
       "Awarded Best Spine Surgeon in NCR New Delhi 2013 by Big Brands & Times Research Media Group",
       "Awarded Best Spine Surgeon 2016 by Times Media International, NCR",
     ],
     reviews: [],
   },
   {
-    tags: ["Urology", "Andrology", "Robotic Surgery", "Gurugram", ],
+    tags: ["Urology", "Andrology", "Robotic Surgery", "Gurgaon", ],
     id: "dr-aman-gupta",
     name: "Dr. Aman Gupta",
     yearsOfExperience: 24,
     designation: "Clinical Director - Urology",
     image: "/doctors/dr-aman-gupta.webp",
-    workingAt: "Marengo Asia Hospitals, Gurugram (NCR)",
-    hospitalId: "marengo-asia-hospitals-gurugram",
+    workingAt: "Marengo Asia Hospitals, Gurgaon (NCR)",
+    hospitalId: "marengo-asia-hospitals-Gurgaon",
     about: {
       title: "About Dr. Aman Gupta",
       items: [
         {
           content:
-            "Dr. Aman Gupta is Clinical Director specializing in Urology, Andrology, Robotic & Kidney Transplant Surgery at Marengo Asia Hospitals, Gurugram",
+            "Dr. Aman Gupta is Clinical Director specializing in Urology, Andrology, Robotic & Kidney Transplant Surgery at Marengo Asia Hospitals, Gurgaon",
         },
         {
           content:
@@ -2534,8 +2534,8 @@ export const doctors: Doctor[] = [
     yearsOfExperience: 43,
     designation: "Director & Head of Department of Gastroenterology and Hepatobiliary Sciences",
     image: "/doctors/dr-gourdas-choudhuri.webp",
-    workingAt: "Fortis Memorial Research Institute, Gurugram",
-    hospitalId: "fortis-memorial-research-institute-gurugram",
+    workingAt: "Fortis Memorial Research Institute, Gurgaon",
+    hospitalId: "fortis-memorial-research-institute-Gurgaon",
     about: {
       title: "About Dr. Gourdas Choudhuri",
       items: [
@@ -2576,7 +2576,7 @@ export const doctors: Doctor[] = [
       "DM in Gastroenterology, AIIMS, New Delhi"
     ],
     experience: [
-      "Director & HOD, Department of Gastroenterology and Hepatobiliary Sciences, Fortis Memorial Research Institute, Gurugram",
+      "Director & HOD, Department of Gastroenterology and Hepatobiliary Sciences, Fortis Memorial Research Institute, Gurgaon",
       "Vice Chairman, Institute of Digestive & Hepatobiliary Sciences, Medanta – The Medicity",
       "Professor & Head, Department of Gastroenterology, Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow"
     ],
@@ -4355,7 +4355,7 @@ export const doctors: Doctor[] = [
           content: "He completed his MBBS in 2000 and MD in Radiotherapy in 2004 from Manipal Academy of Higher Education, Manipal, India."
         },
         {
-          content: "Dr. Tayal has held significant positions, including Associate Director at Medanta Hospital, Gurugram, and Specialist at Royal Hospital, Muscat."
+          content: "Dr. Tayal has held significant positions, including Associate Director at Medanta Hospital, Gurgaon, and Specialist at Royal Hospital, Muscat."
         },
         {
           content: "He is a member of the Association of Radiation Oncologists in India (AROI) and the European Society of Radiation Oncologists (ESTRO)."
@@ -4388,9 +4388,9 @@ export const doctors: Doctor[] = [
       "MD in Radiotherapy from Manipal Academy of Higher Education, Manipal, India (2004)"
     ],
     experience: [
-      "Associate Director of Radiation Oncology at Medanta Hospital, Gurugram",
+      "Associate Director of Radiation Oncology at Medanta Hospital, Gurgaon",
       "Specialist in Radiation Oncology at Royal Hospital, Muscat",
-      "Classified Specialist at Artemis Hospital, Gurugram",
+      "Classified Specialist at Artemis Hospital, Gurgaon",
       "Senior Resident at Rajiv Gandhi Cancer Institute"
     ],
     awards: [
@@ -6098,7 +6098,7 @@ export const doctors: Doctor[] = [
           content: "He completed his MBBS from R.G. Kar Medical College, Kolkata, followed by an MD in General Medicine from Pt. B.D. Sharma PGIMS, Rohtak, and a DM in Neurology from the All India Institute of Medical Sciences (AIIMS), New Delhi."
         },
         {
-          content: "Dr. Arora has served as a Consultant Neurologist at Artemis Hospital, Gurugram, and Narayana Superspeciality Hospital, Gurugram, where he managed Neuro ICU and neurological emergencies."
+          content: "Dr. Arora has served as a Consultant Neurologist at Artemis Hospital, Gurgaon, and Narayana Superspeciality Hospital, Gurgaon, where he managed Neuro ICU and neurological emergencies."
         },
         {
           content: "He has a keen interest in headache, epilepsy, stroke, multiple sclerosis, and Parkinson's disease, and is known for his compassionate approach towards patient care."
@@ -6134,8 +6134,8 @@ export const doctors: Doctor[] = [
     ],
     experience: [
       "Consultant Neurologist at Medsarc Advanced Superspeciality Clinics, Gurgaon",
-      "Consultant Neurologist at Narayana Superspeciality Hospital, Gurugram",
-      "Consultant Neurologist at Artemis Hospital, Gurugram"
+      "Consultant Neurologist at Narayana Superspeciality Hospital, Gurgaon",
+      "Consultant Neurologist at Artemis Hospital, Gurgaon"
     ],
     awards: [
       "Joint Organising Secretary of Virtual Agrim Neurology Update (VANU 2020)"
@@ -6649,7 +6649,7 @@ export const doctors: Doctor[] = [
     yearsOfExperience: 18,
     designation: "Chief of Head & Neck Surgery",
     image: "/doctors/dr-biswajyoti-hazarika.webp",
-    workingAt: "Artemis Hospitals, Gurugram",
+    workingAt: "Artemis Hospitals, Gurgaon",
     hospitalId: "artemis-hospitals-gurgaon",
     about: {
       title: "About Dr. Biswajyoti Hazarika",
@@ -6696,7 +6696,7 @@ export const doctors: Doctor[] = [
       "Fellowship in Head & Neck Surgery from Kidwai Memorial Institute of Oncology, Bangalore"
     ],
     experience: [
-      "Chief of Head & Neck Surgery at Artemis Hospitals, Gurugram",
+      "Chief of Head & Neck Surgery at Artemis Hospitals, Gurgaon",
       "Consultant at Max Super Specialty Hospital, Saket, New Delhi",
       "Clinical Assistant at Prince Aly Khan Hospital, Mumbai"
     ],

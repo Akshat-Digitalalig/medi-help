@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { countryCityData, language } from "@/lib/constant/unversal";
+import { toast } from "sonner";
 
 export default function GetTranslator() {
   const [formData, setFormData] = useState({
@@ -15,6 +16,7 @@ export default function GetTranslator() {
   });
 
   const [patientPassport, setPatientPassport] = useState<File[]>([]);
+  const [success, setSuccess] = useState(false);
 
   const handleChange = (
     e: React.ChangeEvent<
@@ -35,12 +37,64 @@ export default function GetTranslator() {
     }
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    console.log("Form Data Submitted:", formData);
-    console.log("Patient Passport:", patientPassport);
+    toast.success("Sending request...");
 
-    // Add your form submission logic here (e.g., API call)
+    // Validate required fields
+    if (
+      !formData.patientName ||
+      !formData.phoneNumber ||
+      !formData.email ||
+      !formData.country ||
+      !formData.language ||
+      !formData.message
+    ) {
+      toast.error("All fields are required.");
+      return;
+    }
+
+    // Prepare form data
+    const data = new FormData();
+    data.append("name", formData.patientName);
+    data.append("phone", formData.phoneNumber);
+    data.append("email", formData.email);
+    data.append("country", formData.country);
+    data.append("language", formData.language);
+    data.append("messageForUs", formData.message);
+
+    // Add patient passport files to form data
+    patientPassport.forEach((file) => {
+      data.append("passportFiles", file);
+    });
+
+    try {
+      // Make API call
+      const response = await fetch("/api/translator", {
+        method: "POST",
+        body: data,
+      });
+
+      if (response.ok) {
+        toast.success("Request sent successfully!");
+        setFormData({
+          patientName: "",
+          phoneNumber: "",
+          email: "",
+          country: "",
+          language: "",
+          message: "",
+        });
+        setPatientPassport([]);
+        setSuccess(true);
+      } else {
+        const errorData = await response.json();
+        toast.error(`Failed to send request: ${errorData.message}`);
+      }
+    } catch (error) {
+      console.error("Error during form submission:", error);
+      toast.error("Something went wrong. Please try again later.");
+    }
   };
 
   return (
@@ -202,12 +256,18 @@ export default function GetTranslator() {
             </div>
 
             <div>
-              <button
-                type="submit"
-                className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
-              >
-                Submit
-              </button>
+            {success ? (
+                <p className="text-green-500 text-center">
+                  Request sent successfully!
+                </p>
+              ) : (
+                <button
+                  type="submit"
+                  className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                >
+                  Submit
+                </button>
+              )}
             </div>
           </form>
         </div>

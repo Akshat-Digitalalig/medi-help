@@ -4,7 +4,7 @@ import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 import path from "path";
 import fs from "fs";
-import { EmailTempVisaInvitations  } from "@/lib/Email/EmailTemp";
+import { EmailTempVideoConsult } from "@/lib/Email/EmailTemp";
 
 const UPLOAD_DIR = path.resolve("public/uploads");
 
@@ -15,33 +15,36 @@ export async function POST(req: NextRequest) {
     const name = formdata.get("name");
     const email = formdata.get("email");
     const phone = formdata.get("phone");
-    const numberOfAttendants = formdata.get("numberOfAttendants");
-    const appointmentDate = formdata.get("appointmentDate");
-    const hospitalName = formdata.get("hospitalName");
+    const passport = formdata.get("passport") as File;
+    const doctorName = formdata.get("doctorName");
+    const disease = formdata.get("disease");
     const messageForUs = formdata.get("messageForUs");
 
-    // Handle multiple file uploads
+    // Handle multiple medical report uploads
     const medicalReports = formdata.getAll("medicalReports") as File[];
-    const patientPassport = formdata.get("patientPassport") as File;
-    const attendantsPassports = formdata.getAll("attendantsPassports") as File[];
     const filePaths: string[] = [];
 
     // Validate input
-    if (!name || !email || !phone || !numberOfAttendants || !appointmentDate || !hospitalName || !messageForUs) {
+    if (!name || !email || !phone || !passport || !doctorName || !disease || !messageForUs) {
       return NextResponse.json(
         { message: "All fields are required" },
         { status: 400 }
       );
     }
 
-    // Process file uploads
-    const allFiles = [...medicalReports, patientPassport, ...attendantsPassports];
-    for (const file of allFiles) {
-      const buffer = Buffer.from(await file.arrayBuffer());
-      if (!fs.existsSync(UPLOAD_DIR)) {
-        fs.mkdirSync(UPLOAD_DIR, { recursive: true });
-      }
+    // Process passport upload
+    const passportBuffer = Buffer.from(await passport.arrayBuffer());
+    if (!fs.existsSync(UPLOAD_DIR)) {
+      fs.mkdirSync(UPLOAD_DIR, { recursive: true });
+    }
 
+    const passportPath = path.resolve(UPLOAD_DIR, passport.name);
+    fs.writeFileSync(passportPath, passportBuffer);
+    filePaths.push(passportPath);
+
+    // Process medical report uploads
+    for (const file of medicalReports) {
+      const buffer = Buffer.from(await file.arrayBuffer());
       const filePath = path.resolve(UPLOAD_DIR, file.name);
       fs.writeFileSync(filePath, buffer);
       filePaths.push(filePath);
@@ -58,13 +61,12 @@ export async function POST(req: NextRequest) {
 
     // Render the email template
     const emailHtml = await render(
-      React.createElement(EmailTempVisaInvitations, {
+      React.createElement(EmailTempVideoConsult, {
         name: String(name),
         email: String(email),
         phoneNumber: String(phone),
-        numberOfAttendants: String(numberOfAttendants),
-        appointmentDate: String(appointmentDate),
-        hospitalName: String(hospitalName),
+        doctorName: String(doctorName),
+        disease: String(disease),
         messageForUs: String(messageForUs),
       })
     );
@@ -73,10 +75,10 @@ export async function POST(req: NextRequest) {
     const mailOptions: nodemailer.SendMailOptions = {
       from: process.env.NEXT_PUBLIC_SENDER_EMAIL,
       to: process.env.NEXT_PUBLIC_SUBMIT_EMAIL,
-      subject: `👋 ${name}, Sent a Query!`,
+      subject: `👋 ${name}, Sent a Query for Medical Reports!`,
       html: emailHtml,
       attachments: filePaths.map((filePath, index) => ({
-        filename: allFiles[index].name,
+        filename: index === 0 ? passport.name : medicalReports[index - 1].name,
         path: filePath,
       })),
     };
@@ -84,11 +86,11 @@ export async function POST(req: NextRequest) {
     // Send the email
     await transporter.sendMail(mailOptions);
 
-   
     // Remove the files after sending the email
-       if (fs.existsSync(UPLOAD_DIR)) {
-         fs.rmSync(UPLOAD_DIR, { recursive: true });
-       } 
+    if (fs.existsSync(UPLOAD_DIR)) {
+      fs.rmSync(UPLOAD_DIR, { recursive: true });
+    } 
+
 
     return NextResponse.json(
       { message: "Email sent successfully" },

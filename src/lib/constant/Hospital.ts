@@ -95,7 +95,7 @@ export const hospitalData: Hospital[] = [
     ],
     address: {
       fullAddress: "1, 2, Press Enclave Road, Saket, New Delhi, Delhi 110017, India",
-      city: "New Delhi",
+      city: "Delhi",
       country: "India",
       pinCode: "110017",
       location: {
@@ -438,7 +438,7 @@ export const hospitalData: Hospital[] = [
     ],
     address: {
       fullAddress: "108A, I.P. Extension, Patparganj, New Delhi, Delhi 110092, India",
-      city: "New Delhi",
+      city: "Delhi",
       country: "India",
       pinCode: "110092",
       location: {
@@ -667,7 +667,7 @@ export const hospitalData: Hospital[] = [
   },
   {
     id: "blk-super-speciality-hospital-new-delhi",
-    name: "BLK Super Speciality Hospital, New Delhi",
+    name: "BLK Super Speciality Hospital, Delhi",
     mainImage: "/hospital/blk-super-speciality-hospital-new-delhi.webp",
     images: [
       "/hospital/blk-super-speciality-hospital-new-delhi.webp",
@@ -676,7 +676,7 @@ export const hospitalData: Hospital[] = [
       "/hospital/blk-super-speciality-hospital-new-delhi3.webp",
     ],
     about: {
-      title: "About BLK Super Speciality Hospital, New Delhi",
+      title: "About BLK Super Speciality Hospital, Delhi",
       items: [
         {
           content: "Established in 1959, BLK Super Speciality Hospital is one of the oldest and most renowned healthcare institutions in India.",
@@ -759,7 +759,7 @@ export const hospitalData: Hospital[] = [
     ],
     address: {
       fullAddress: "Pusa Road, New Delhi, Delhi 110005, India",
-      city: "New Delhi",
+      city: "Delhi",
       country: "India",
       pinCode: "110005",
       location: {
@@ -844,7 +844,7 @@ export const hospitalData: Hospital[] = [
   },
   {
     id: "fortis-escorts-heart-institute-new-delhi",
-    name: "Fortis Escorts Heart Institute, New Delhi",
+    name: "Fortis Escorts Heart Institute, Delhi",
     mainImage: "/hospital/fortis-escorts-heart-institute-new-delhi.webp",
     images: [
       "/hospital/fortis-escorts-heart-institute-new-delhi1.webp",
@@ -853,7 +853,7 @@ export const hospitalData: Hospital[] = [
       "/hospital/fortis-escorts-heart-institute-new-delhi4.webp",
     ],
     about: {
-      title: "About Fortis Escorts Heart Institute, New Delhi",
+      title: "About Fortis Escorts Heart Institute, Delhi",
       items: [
         {
           content: "Established in 1988, Fortis Escorts Heart Institute (FEHI) is recognized worldwide for its clinical excellence in cardiac care.",
@@ -921,7 +921,7 @@ export const hospitalData: Hospital[] = [
     ],
     address: {
       fullAddress: "Okhla Road, New Delhi, Delhi 110025, India",
-      city: "New Delhi",
+      city: "Delhi",
       country: "India",
       pinCode: "110025",
       location: {

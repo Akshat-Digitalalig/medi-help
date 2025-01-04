@@ -15,9 +15,11 @@ export default function Page() {
     <div className='max-w-screen-2xl mx-auto'>
       <SearchDoctors />
       <div className="main flex flex-col-reverse mx-8 md:flex-row">
-        <div className="mx-2 my-4">
-          <GetFreeConsult />
-        </div>
+        <div className="mx-2  md:w-[40%]">
+                <div className="sticky -top-10 scale-90">
+                  <GetFreeConsult />
+                </div>
+              </div>
         <DoctorList />       
       </div>
       <div className='mx-10 pb-5'>
@@ -33,12 +35,24 @@ export default function Page() {
 
 const DoctorList = () => {
   const searchParams = useSearchParams();
+  const cityParam = searchParams.get("city");
   const departmentParam = searchParams.get('department');
   const doctorsList = () => {
-    if (departmentParam == undefined) return doctors;
-    return doctors.filter(doctor => 
-      doctor?.tags?.some(tag => tag.toLowerCase().includes(departmentParam.toLowerCase()))
-    );
+    if (searchParams.size === 0) return doctors;
+   
+       return doctors.filter((doctor) => {
+         const matchesDepartment =
+           departmentParam === "all" ||
+           !departmentParam ||
+           doctor?.tags?.some(tag => tag.toLowerCase().includes(departmentParam.toLowerCase()))
+   
+         const matchesCity =
+           cityParam === "all" ||
+           !cityParam ||
+           doctor?.tags?.some(tag => tag.toLowerCase().includes(cityParam.toLowerCase()))
+   
+         return matchesDepartment && matchesCity;
+       });
   }
   const filteredDoctors  = doctorsList();
   return (
