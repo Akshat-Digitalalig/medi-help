@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
-import { countryCityData, language } from "@/lib/constant/unversal";
+import { countryCityData} from "@/lib/constant/unversal";
 import { HeartHandshake } from "lucide-react";
 
 export default function HealthAdvisor() {

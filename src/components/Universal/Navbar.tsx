@@ -5,7 +5,6 @@ import {
   Contact,
   GraduationCap,
   HandCoins,
-  HeartHandshake,
   HeartPulse,
   HomeIcon,
   Hospital,
