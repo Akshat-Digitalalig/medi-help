@@ -73,7 +73,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p><span style="color: #0048ad;"><strong>Better cosmetic outcomes:</strong></span>&nbsp; S<strong>carless Robotic Thyroidectomy Surgery</strong> gives better cosmetic outcomes as the incisions made are extremely small and are hardly visible.</p>
 <h2><span style="color: #0048ad;"><strong>Robotic thyroidectomy Surgery Cost in India: 4000–5500 USD in JCI accredited Hospital.</strong></span></h2>
 <h3><strong><span style="color: #0048ad;">How can you avail the best Robotic Thyroidectomy in India-Step by Step process?</span></strong></h3>
-<p>If you are looking for trustworthy treatment consultants in India, then<a href="/contact/"> Cross Border Care</a> is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <strong>thyroid cancer treatment in India </strong>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p>If you are looking for trustworthy treatment consultants in India, then<a href="/contact/"> Medihelp Global </a> is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <strong>thyroid cancer treatment in India </strong>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><strong>We will help you to find the best Robotic Thyroidectomy Doctors in India</strong></p>
 
 		</div>`,
@@ -212,16 +212,16 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 </tbody>
 </table>
 <h2><b>Best hospitals for Robotic prostatectomy surgery in India</b></h2>
-<p><b>Indraprastha</b> <b>Apollo Hospital:</b><a href="https://www.apollohospitals.com/delhi/"> <span style="font-weight: 400;">Apollo Hospital in New Delhi</span></a><span style="font-weight: 400;">, is the first Indian hospital to get JCI accreditation. It has a team of more than 7000 dedicated staff members and has patients from all over the world.</span><a href="https://crossborderscare.com/dr-anshuman-agarwal-robotic-urological-cancer-kidney-transplant-surgeon/"> <b>Dr Anshuman Agarwal</b></a> <span style="font-weight: 400;">is the best doctor for robotic prostatectomy at Apollo Hospital. He has a vast experience of over 21 years and has performed more than 500 procedures for prostate cancer via robotic systems.</span></p>
-<p><a href="https://www.maxhealthcare.in/"><b>Max Healthcare</b></a><b>: </b><span style="font-weight: 400;">It is India’s largest private sector hospital in New Delhi and one of the best hospitals for </span><b>Robotic prostatectomy </b><span style="font-weight: 400;">surgery. The Max Cancer Center has state-of-the-art equipment, facilities &amp; experienced doctors.</span><a href="https://crossborderscare.com/dr-anant-kumar-best-robotic-kidney-transplant-surgeon-in-india/"> <b>Dr.Anant Kumar</b></a><b> i</b><span style="font-weight: 400;">s one of the best robotic doctors in India with 35 years of experience. Over the past five years, he’s performed over 500 robotic surgeries and over 3500 kidney transplants. He’s also specialized in robotic-assisted laparoscopic surgery, reconstructive urology, and laser urological surgery.</span></p>
-<p><a href="https://crossborderscare.com/fortis-memorial-research-institute/"><b>Fortis Healthcare:</b></a> <span style="font-weight: 400;">Fortis is a multispeciality hospital and one of India’s top hospitals performing robotic surgery. It is the leading hospital in India, and it has super-advanced robotic systems like the</span><b> Da Vinci system </b><span style="font-weight: 400;">to perform robotic procedures.</span><a href="https://crossborderscare.com/dr-pradeep-bansal-robotic-urological-cancer-kidney-transplant-surgeon/"> <b>Dr Pradeep Bansal</b></a> <span style="font-weight: 400;">is one of the best doctors for robotic surgeries in Fortis and has over 23 years of experience in urology.</span></p>
+<p><b>Indraprastha</b> <b>Apollo Hospital:</b><a href="https://www.apollohospitals.com/delhi/"> <span style="font-weight: 400;">Apollo Hospital in New Delhi</span></a><span style="font-weight: 400;">, is the first Indian hospital to get JCI accreditation. It has a team of more than 7000 dedicated staff members and has patients from all over the world.</span><a href="#/dr-anshuman-agarwal-robotic-urological-cancer-kidney-transplant-surgeon/"> <b>Dr Anshuman Agarwal</b></a> <span style="font-weight: 400;">is the best doctor for robotic prostatectomy at Apollo Hospital. He has a vast experience of over 21 years and has performed more than 500 procedures for prostate cancer via robotic systems.</span></p>
+<p><a href="#/"><b>Max Healthcare</b></a><b>: </b><span style="font-weight: 400;">It is India’s largest private sector hospital in New Delhi and one of the best hospitals for </span><b>Robotic prostatectomy </b><span style="font-weight: 400;">surgery. The Max Cancer Center has state-of-the-art equipment, facilities &amp; experienced doctors.</span><a href="#/dr-anant-kumar-best-robotic-kidney-transplant-surgeon-in-india/"> <b>Dr.Anant Kumar</b></a><b> i</b><span style="font-weight: 400;">s one of the best robotic doctors in India with 35 years of experience. Over the past five years, he’s performed over 500 robotic surgeries and over 3500 kidney transplants. He’s also specialized in robotic-assisted laparoscopic surgery, reconstructive urology, and laser urological surgery.</span></p>
+<p><a href="#/fortis-memorial-research-institute/"><b>Fortis Healthcare:</b></a> <span style="font-weight: 400;">Fortis is a multispeciality hospital and one of India’s top hospitals performing robotic surgery. It is the leading hospital in India, and it has super-advanced robotic systems like the</span><b> Da Vinci system </b><span style="font-weight: 400;">to perform robotic procedures.</span><a href="#/dr-pradeep-bansal-robotic-urological-cancer-kidney-transplant-surgeon/"> <b>Dr Pradeep Bansal</b></a> <span style="font-weight: 400;">is one of the best doctors for robotic surgeries in Fortis and has over 23 years of experience in urology.</span></p>
 <h2><b>Cost of Robotic Prostate Cancer Surgery in JCI Accredited Hospital</b></h2>
 <p><span style="font-weight: 400;">India offers the best choice for</span><b> robotic prostate cancer surger</b><span style="font-weight: 400;">y due to its highly skilled and experienced surgeons, advanced medical technology, and affordable cost. Although several factors determine the cost of prostate surgery, like a surgeon’s experience, the type of hospital, and its quality accreditation (JCI), robotic technology primarily determines the cost of the surgery.</span></p>
 <h2><b>The cost of robotic radical prostatectomy in top Indian hospitals will be as follows:</b></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">&nbsp;</span><a href="https://crossborderscare.com/apollo-hospital/"><span style="font-weight: 400;">Indraprastha Apollo Hospital</span></a><span style="font-weight: 400;">: USD 8000</span></li>
-<li style="font-weight: 400;" aria-level="1"><a href="https://crossborderscare.com/bl-kapur-hospital/"><span style="font-weight: 400;">Max Superspeciality Hospital</span></a><span style="font-weight: 400;">:&nbsp; USD 9000</span></li>
-<li style="font-weight: 400;" aria-level="1"><a href="https://crossborderscare.com/fortis-memorial-research-institute/"><span style="font-weight: 400;">Fortis Memorial &amp; Research Institute</span></a><span style="font-weight: 400;">: USD 8500</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">&nbsp;</span><a href="#/apollo-hospital/"><span style="font-weight: 400;">Indraprastha Apollo Hospital</span></a><span style="font-weight: 400;">: USD 8000</span></li>
+<li style="font-weight: 400;" aria-level="1"><a href="#/bl-kapur-hospital/"><span style="font-weight: 400;">Max Superspeciality Hospital</span></a><span style="font-weight: 400;">:&nbsp; USD 9000</span></li>
+<li style="font-weight: 400;" aria-level="1"><a href="#/fortis-memorial-research-institute/"><span style="font-weight: 400;">Fortis Memorial &amp; Research Institute</span></a><span style="font-weight: 400;">: USD 8500</span></li>
 </ul>
 <h2><b>Factors Affecting the Cost of Robotic Prostatectomy Surgery in India&nbsp;</b></h2>
 <ul>
@@ -233,7 +233,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pre and post-surgical expenses like tests, medicines, and follow-up appointments</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates for international patients</span></li>
 </ul>
-<p><span style="font-weight: 400;">Cross-border care will assist you in determining the overall </span><b>robotic prostatectomy cost in India</b><span style="font-weight: 400;">. Contact us today to learn more!</span></p>
+<p><span style="font-weight: 400;">Medihelp Global Global will assist you in determining the overall </span><b>robotic prostatectomy cost in India</b><span style="font-weight: 400;">. Contact us today to learn more!</span></p>
 <table>
 <tbody>
 <tr>
@@ -276,7 +276,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <li style="font-weight: 400;" aria-level="1"><b>Success rate:</b><span style="font-weight: 400;"> India boasts a 99% success rate for robotic prostate cancer procedures, cementing its reputation as a leader in prostate cancer.</span></li>
 </ul>
 <p><strong>How can you avail the best Nerve Sparing Robotic Prostatectomy in India-Step through Step process?</strong></p>
-<p><span style="font-weight: 400;">If you are looking for trustworthy treatment consultants in India, then Cross Border Care is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your </span><b>prostate cancer treatment in India </b><span style="font-weight: 400;">fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
+<p><span style="font-weight: 400;">If you are looking for trustworthy treatment consultants in India, then Medihelp Global  is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your </span><b>prostate cancer treatment in India </b><span style="font-weight: 400;">fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Prostatectomy Doctors in India</strong>&nbsp;</span></p>
 
 		</div>`,
@@ -287,7 +287,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
     data: `<div class="wpb_wrapper">
 			<h2 style="text-align: left;"><span style="color: #0048ad;">Trans-oral Robotic Surgery for Obstructive Sleep Apnea in India&nbsp;</span></h2>
 <p style="text-align: left;">Obstructive sleep apnea (OSA) is a health disorder, characterized by patients who display snoring accompanied by irregular breathing patterns while being asleep. The main cause of OSA is the ’obstruction in throat muscles’ – they are normally in a relaxed state but tend to fall backwards during sleep – hence the disease is referred to as obstructive sleep apnea or OSA. It affects 22% of men and 17% of women globally, especially middle-aged overweight adults.</p>
-<p>Here we will discuss the best <strong>treatment for sleep apnea in India</strong> and we will also let you know how Cross Border Care will help you.</p>
+<p>Here we will discuss the best <strong>treatment for sleep apnea in India</strong> and we will also let you know how Medihelp Global  will help you.</p>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Which all potential health hazards can OSA cause?</strong></span></h2>
 <p style="text-align: left;">If left untreated, OSA could tremendously affect quality of life due to a lack of sound sleep. It may further lead to stroke, heart attack, diabetes, sexual disorder, stress and irritability.</p>
 <p style="text-align: left;"><span style="color: #0048ad;"><strong>When should one consult a doctor?</strong></span></p>
@@ -325,20 +325,20 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Best Robotic Sleep Apnea Surgeon in India –</strong></span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/dr-surender-dabas-robotic-head-neck-cancer-surgeon/"><span style="color: #0048ad;"><strong>Dr Surender Kumar Dabas</strong></span></a> is one of the best robotic surgeons in Delhi. He has more than 12 Years of experience in the field of Robotic Head and Neck Surgery. He has performed the maximum number of Robotic Head and Neck Surgery in Asia. He has also started a Robotic surgeon fellowship in the area of head and neck oncology.</li>
+<li><a href="#/dr-surender-dabas-robotic-head-neck-cancer-surgeon/"><span style="color: #0048ad;"><strong>Dr Surender Kumar Dabas</strong></span></a> is one of the best robotic surgeons in Delhi. He has more than 12 Years of experience in the field of Robotic Head and Neck Surgery. He has performed the maximum number of Robotic Head and Neck Surgery in Asia. He has also started a Robotic surgeon fellowship in the area of head and neck oncology.</li>
 </ol>
 <ul>
 <li style="text-align: left;">He is a professional Robotic surgeon who has performed various Robotic surgeries with a great degree of accuracy.&nbsp; He is a pioneer in Robotic Head and Neck Surgery in India.&nbsp; He completed his training in the field of robotic surgery from many centres like Upenn in Philadelphia and Yonsei Cancer University, Korea. He then took up this technology in Thorax, Gynecology and Urology.</li>
 <li style="text-align: left;">No doubt being the<strong> best robotic surgeon in India</strong>, he performs many types of complex surgeries with more flexibility, precision and control over the robotic techniques. His surgery success rate generally varies from 94% to 100%.</li>
 </ul>
 <ol style="text-align: left;" start="2">
-<li><a href="https://crossborderscare.com/dr-kalpana-nagpal-robotic-head-neck-surgeon/"><span style="color: #0048ad;"><strong>Dr Kalpana Nagpal</strong></span></a> has more than 26 years of Experience in Microscopic and Endoscopic Surgeries. Presently she is working as a Senior Consultant ENT / Otorhinolaryngologist Head and Neck and Chief Robotic Surgeon at Apollo Hospital New Delhi. She has performed more than 100 successful robotic ENT, Head, and Neck Surgeries by using advanced technology. She believes that Robots are the future of surgeries as they have a great impact on the outcome of the surgeries. Not only does it reduce the complexity of the surgery but also it helps the patients with faster recovery. She is one of the top<span style="font-weight: 400;"><strong>&nbsp;doctors for obstructive sleep apnea surgery in India</strong></span></li>
+<li><a href="#/dr-kalpana-nagpal-robotic-head-neck-surgeon/"><span style="color: #0048ad;"><strong>Dr Kalpana Nagpal</strong></span></a> has more than 26 years of Experience in Microscopic and Endoscopic Surgeries. Presently she is working as a Senior Consultant ENT / Otorhinolaryngologist Head and Neck and Chief Robotic Surgeon at Apollo Hospital New Delhi. She has performed more than 100 successful robotic ENT, Head, and Neck Surgeries by using advanced technology. She believes that Robots are the future of surgeries as they have a great impact on the outcome of the surgeries. Not only does it reduce the complexity of the surgery but also it helps the patients with faster recovery. She is one of the top<span style="font-weight: 400;"><strong>&nbsp;doctors for obstructive sleep apnea surgery in India</strong></span></li>
 </ol>
 <ul>
 <li style="text-align: left;">She has received an ICMR Scholarship for screening secretory Otitis Media in school children. She has received Da Vinci Certification for <strong>robotic surgery in Seoul</strong>, South Korea.</li>
 <li style="text-align: left;">She attends national and international workshops on the management of OSA (Obstructive Sleep Apnoea) and regularly visits MIMA Sleep Centre in Melbourne, Florida. Dr. Nagpal taught in New Delhi’s Deen Dayal Upadhyay Hospital and Nehru Homeopathic College. For three years, she was the President of the Doctors Forum at Indraprastha Apollo Hospitals in New Delhi.</li>
 <li style="text-align: left;">She is a Lifetime member of Sleep CON, INDIA, and AOI, as well as a panelist at E.N.T conferences hosted at Apollo Hospitals and other locations in New Delhi. Dr. Nagpal has a number of papers to her name in a variety of periodicals.</li>
-<li><span style="color: #0048ad;"><strong><a style="color: #0048ad;" href="https://crossborderscare.com/dr-deepak-sarin-surgical-oncologist-in-gurgaon-india/">Dr. Deepak Sarin</a></strong></span> is the Director Head &amp; Neck Oncology, <strong><a href="https://www.medanta.org/cancer-hospital">Cancer Institute Medanta the Medicity Gurugram</a>.</strong> Dr. Deepak Sarin has more than 27 years of experience and performed over 15000 surgeries to date.</li>
+<li><span style="color: #0048ad;"><strong><a style="color: #0048ad;" href="#/dr-deepak-sarin-surgical-oncologist-in-gurgaon-india/">Dr. Deepak Sarin</a></strong></span> is the Director Head &amp; Neck Oncology, <strong><a href="https://www.medanta.org/cancer-hospital">Cancer Institute Medanta the Medicity Gurugram</a>.</strong> Dr. Deepak Sarin has more than 27 years of experience and performed over 15000 surgeries to date.</li>
 </ul>
 <ul>
 <li style="text-align: left;">Dr Sarin is a specialist in head &amp; neck oncology surgery, reconstructive surgery, skull base surgery and <strong>obstructive sleep apnea surgery in India</strong>. At the Sylvester Comprehensive Cancer Center, University of Miami, United States, he received training as a clinical fellow in Head &amp; head-neck ablative and Reconstructive surgery.</li>
@@ -346,13 +346,13 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 </ul>
 <p><span style="color: #000000;"><strong>Top hospitals for obstructive sleep apnea surgery in India</strong></span></p>
 <ol style="text-align: left;">
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">BLK – Max Super Specialty Hospital</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
+<li><a href="#/bl-kapur-hospital/">BLK – Max Super Specialty Hospital</a></li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
 </ol>
 <p style="text-align: left;"><span style="color: #0048ad;"><strong>What is The Cost of Robotic Sleep Apnea Surgery in India?&nbsp;</strong></span></p>
 <p style="text-align: left;">On average, the <strong>cost of robotic sleep apnea surgery in India</strong> would range somewhere around <strong><span style="color: #000000;">4500 USD to 5000 USD</span></strong> in top-notch JCI-accredited hospitals.</p>
-<p style="text-align: left;">Seeking <span style="color: #000000;"><strong>“best robotic sleep apnea surgeon in India “</strong></span>for evidence-based treatment in Delhi, India! Contact Cross-Border care today.&nbsp;&nbsp; Save 20% on treatment costs.</p>
+<p style="text-align: left;">Seeking <span style="color: #000000;"><strong>“best robotic sleep apnea surgeon in India “</strong></span>for evidence-based treatment in Delhi, India! Contact Medihelp Global Global today.&nbsp;&nbsp; Save 20% on treatment costs.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Sleep Apnea Doctors in India</strong>&nbsp;</span></p>
 
 		</div>`,
@@ -395,7 +395,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p style="text-align: left;">Robotic surgeries for lung cancer can eradiate lung cancer completely with its 3D camera which gives surgeon 360° magnifying view in order to remove each and every tumor cell. The patient can live a normal life after <strong>lung cancer treatment in India</strong>.&nbsp; These sophisticated robotic systems are new and gives maximum benefits to the patients.</p>
 <p style="text-align: left;"><strong><span style="color: #0048ad;">What is the Post op Recovery?</span></strong></p>
 <p style="text-align: left;">Robotic thoracic surgeries are minimal invasive, surgeon goes inside the chest cavity with a very tiny cut hence recovery is very fast. Patient can go home after 4-5 days after surgery without much discomfort.</p>
-<p style="text-align: left;">For the holistic management of cancer patient treatment, <span style="color: #000000;"><strong><a href="https://crossborderscare.com/max-hospital-gurgaon/">Max Hospital</a> in India</strong>,</span> one of the best lung surgery hospitals, has created a Tumor Board. To get <span style="color: #0048ad;"><strong>lung cancer surgery in India</strong></span>, Max hospital can be your go to place, especially for low-cost lung cancer removal. The Tumor Board in Max hospital comprises of a group of above-mentioned specialists and best lung surgeons who collaborate on a recurring basis to discuss the best possible approaches and possibilities for cancer treatment.</p>
+<p style="text-align: left;">For the holistic management of cancer patient treatment, <span style="color: #000000;"><strong><a href="#/max-hospital-gurgaon/">Max Hospital</a> in India</strong>,</span> one of the best lung surgery hospitals, has created a Tumor Board. To get <span style="color: #0048ad;"><strong>lung cancer surgery in India</strong></span>, Max hospital can be your go to place, especially for low-cost lung cancer removal. The Tumor Board in Max hospital comprises of a group of above-mentioned specialists and best lung surgeons who collaborate on a recurring basis to discuss the best possible approaches and possibilities for cancer treatment.</p>
 <h2 style="text-align: left;"><strong><span style="color: #0048ad;">Roles Within Care Team in Lung Cancer Treatment</span></strong></h2>
 <p style="text-align: left;">Multidisciplinary care provides important benefits for treatment planning for people with complex lung cancer. In general, below are specialist roles that are required to involve in cancer treatment:</p>
 <ul style="text-align: left;">
@@ -409,21 +409,21 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <li><em>Oncorehabilitation</em></li>
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;">Best Robotic Lung Cancer Surgeon in India</span></h2>
-<h2 style="text-align: left;"><a href="https://crossborderscare.com/dr-arvind-kumar-robotic-thoracic-lung-cancer-surgeon/"><span style="color: #000000;"><strong>Dr. Arvind Kumar</strong></span></a></h2>
+<h2 style="text-align: left;"><a href="#/dr-arvind-kumar-robotic-thoracic-lung-cancer-surgeon/"><span style="color: #000000;"><strong>Dr. Arvind Kumar</strong></span></a></h2>
 <p style="text-align: left;">Dr. Kumar was the first surgeon in India to perform <strong><span style="color: #000000;">Robotic Chest Surgery</span>, </strong>At present he is a chairman of the Institute of <span style="color: #000000;"><strong>Robotic Surgery</strong></span> and the Chairman of the Centre for Chest Surgery and Lung Transplantation at Medanta the Medicity.</p>
 <p style="text-align: left;">The path from being a faculty member in 1988 to Professor of Surgery in 2003 in 2008, he was the country’s first Thoracic Surgeon to begin a <span style="color: #008000;"><strong><span style="color: #000000;">Robotic programm</span>e</strong> </span>at AIIMS. He received <strong>Robotic Surgery t</strong>raining in Italy for this and performed India’s first<strong><span style="color: #000000;"> Robotic Thymectomy</span> Surgery</strong>. His expertise has allowed him to see more than 650-700 patients every year, encompassing a wide range of basic and complex thoracoscopy treatments</p>
-<h2 style="text-align: left;"><a href="https://crossborderscare.com/dr-pramoj-jindal-robotic-thoracic-lung-cancer-surgeon/"><span style="color: #000000;"><strong>Dr. Pramoj Jindal </strong></span></a></h2>
+<h2 style="text-align: left;"><a href="#/dr-pramoj-jindal-robotic-thoracic-lung-cancer-surgeon/"><span style="color: #000000;"><strong>Dr. Pramoj Jindal </strong></span></a></h2>
 <p style="text-align: left;">One of the <strong>top doctors for lung cancer treatment in India</strong> who is trained to perform from bronchoscopy to lung transplant, the entire spectrum of thoracic surgery.Dr. Pramoj Jindalis currently working as Director, Department of Thoracic &amp; Robotic Thoracic Surgery at Max Super Speciality Hospital, one of the best lung cancer hospital.</p>
 <p style="text-align: left;">He has been to multiple international institutions of repute for the entire repertoire of thoracic Surgery. Dr. Pramoj Jindalis the best lung cancer surgeon and an early mover for Thoracic and robotic assisted lung surgery in this part of the world. Lung cancer, thymus surgery, surgery for hyperhidrosis and lung transplant are few of his expertise area.</p>
 <p style="text-align: left;">He is also into prevention and screening of lung diseases. Fighting for the cause of “Clean Air” and “Save Earth” is his life mission. He is closely associated with “Clean Air Clean Lung Foundation” to achieve his mission.</p>
 <h2 style="text-align: left;"><span style="color: #0048ad;">Top Hospitals in India Offering Robotic Lung Cancer Surgery</span></h2>
 <ol style="text-align: left;">
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/"><strong>Medanta The Medicity</strong></a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/"><strong>Artemis Hospital</strong></a></li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/"><strong>Max Super Specialty Hospital</strong></a></li>
+<li><a href="#/medanta-the-medicity-eye-department/"><strong>Medanta The Medicity</strong></a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/"><strong>Artemis Hospital</strong></a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><strong>Max Super Specialty Hospital</strong></a></li>
 </ol>
 <h2 style="text-align: left;"><span style="color: #0048ad;">Cost of Robotic Lung Cancer Surgery</span></h2>
-<p style="text-align: left;">To get <span style="color: #000000;"><strong>lung cancer surgery in India</strong>,</span> <a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a> and Max hospital can be your go to place, especially for low-cost robotics. Both hospitals have commissioned world’s best surgical robots to be able to carry out robotic lung cancer surgeries.</p>
+<p style="text-align: left;">To get <span style="color: #000000;"><strong>lung cancer surgery in India</strong>,</span> <a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a> and Max hospital can be your go to place, especially for low-cost robotics. Both hospitals have commissioned world’s best surgical robots to be able to carry out robotic lung cancer surgeries.</p>
 <p style="text-align: left;">The <strong>cost of robotic lung surgery in India</strong> depends on:</p>
 <ul>
 <li style="text-align: left;">Tumor site,</li>
@@ -446,23 +446,23 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <td width="312"><strong>&nbsp;</strong><strong>Robotic Surgery Cost</strong></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/"><strong><span style="color: #0048ad;">Indraprastha Apollo Hospital</span> </strong></a></td>
+<td width="312"><a href="#/indraprastha-apollo-hospital-new-delhi/"><strong><span style="color: #0048ad;">Indraprastha Apollo Hospital</span> </strong></a></td>
 <td width="312"><strong>12000$ </strong></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/"><strong><span style="color: #0048ad;">Medanta the Medicity</span> </strong></a></td>
+<td width="312"><a href="#/medanta-the-medicity-eye-department/"><strong><span style="color: #0048ad;">Medanta the Medicity</span> </strong></a></td>
 <td width="312"><strong>13000$</strong></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/max-hospital-patparganj/"><span style="color: #0048ad;"><strong>Max Healthcare </strong></span></a></td>
+<td width="312"><a href="#/max-hospital-patparganj/"><span style="color: #0048ad;"><strong>Max Healthcare </strong></span></a></td>
 <td width="312"><strong>11000$ </strong></td>
 </tr>
 <tr>
-<td width="312"><span style="color: #0048ad;"><a style="color: #0048ad;" href="https://crossborderscare.com/fortis-escorts-heart-institute/"><strong>Fortis Memorial Research Institute</strong></a></span></td>
+<td width="312"><span style="color: #0048ad;"><a style="color: #0048ad;" href="#/fortis-escorts-heart-institute/"><strong>Fortis Memorial Research Institute</strong></a></span></td>
 <td width="312"><strong>11500$</strong></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/"><span style="color: #0048ad;"><strong>Artemis Hospital </strong></span></a></td>
+<td width="312"><a href="#/artemis-hospital-gurgaon-india/"><span style="color: #0048ad;"><strong>Artemis Hospital </strong></span></a></td>
 <td width="312"><strong>11000$</strong></td>
 </tr>
 </tbody>
@@ -493,7 +493,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p style="text-align: left;"><span style="color: #0048ad;"><strong>Success rate </strong></span></p>
 <p style="text-align: left;">India boasts a 98% success rate for robotic lung cancer surgery, cementing its reputation as a leader in for robotics.</p>
 <p style="text-align: left;"><strong><span style="color: #0048ad;">Are you looking for “robotic lung cancer treatment” to be performed in India?</span></strong></p>
-<p style="text-align: left;">Contact<strong> Cross Border Care</strong> your trusted partner to help you find the best doctor and treatment in JCI accredited hospital at pocket –friendly price.</p>
+<p style="text-align: left;">Contact<strong> Medihelp Global </strong> your trusted partner to help you find the best doctor and treatment in JCI accredited hospital at pocket –friendly price.</p>
 <p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professional themselves who are involved in each step of patient care. It is good to have an experienced <strong>‘treatment consultant in India</strong>’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Lung Cancer Treatment Doctors in India</strong>&nbsp;</span></p>
 
@@ -505,9 +505,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1700" height="1200" src="https://crossborderscare.com/wp-content/uploads/2023/08/Robotic-Heart-Surgery.webp" class="vc_single_image-img attachment-full" alt="Robotic CABG in India" title="Robotic-Heart-Surgery" srcset="https://crossborderscare.com/wp-content/uploads/2023/08/Robotic-Heart-Surgery.webp 1700w, https://crossborderscare.com/wp-content/uploads/2023/08/Robotic-Heart-Surgery-300x212.webp 300w, https://crossborderscare.com/wp-content/uploads/2023/08/Robotic-Heart-Surgery-1024x723.webp 1024w, https://crossborderscare.com/wp-content/uploads/2023/08/Robotic-Heart-Surgery-768x542.webp 768w, https://crossborderscare.com/wp-content/uploads/2023/08/Robotic-Heart-Surgery-1536x1084.webp 1536w, https://crossborderscare.com/wp-content/uploads/2023/08/Robotic-Heart-Surgery-1200x847.webp 1200w" sizes="(max-width: 1700px) 100vw, 1700px"></div>
-		</figure>
+		
 	</div>
 
 	<div class="wpb_text_column wpb_content_element">
@@ -683,29 +681,29 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <td width="66"><strong>Cost </strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/"><strong>Max Super Speciality Hospital, </strong></a>(JCI Accreditation)</td>
-<td width="326"><a href="https://crossborderscare.com/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,, (Experience 35 years).</td>
+<td width="222"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><strong>Max Super Speciality Hospital, </strong></a>(JCI Accreditation)</td>
+<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,, (Experience 35 years).</td>
 <td width="66"><strong>9000$</strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/manipal-hospital/"><strong>Manipal Hospitals, </strong></a>(NABH Accreditation)</td>
-<td width="326">&nbsp;<a href="https://crossborderscare.com/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a>, Head Of Cardiac Sciences And Chief Cardio Vascular Surgeon., (Experience 30 years).</td>
+<td width="222"><a href="#/manipal-hospital/"><strong>Manipal Hospitals, </strong></a>(NABH Accreditation)</td>
+<td width="326">&nbsp;<a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a>, Head Of Cardiac Sciences And Chief Cardio Vascular Surgeon., (Experience 30 years).</td>
 <td width="66"><strong>8500$</strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/"><strong>Indraprastha Apollo Hospital, </strong></a>(JCI Accreditation)</td>
-<td width="326"><a href="https://crossborderscare.com/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Chief Cardiac Surgeon, (Experience 25 years)</td>
+<td width="222"><a href="#/indraprastha-apollo-hospital-new-delhi/"><strong>Indraprastha Apollo Hospital, </strong></a>(JCI Accreditation)</td>
+<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Chief Cardiac Surgeon, (Experience 25 years)</td>
 <td width="66"><strong>8000$</strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/"><strong>Medanta the Medicity , </strong></a><strong>(</strong>JCI Accreditation)</td>
-<td width="326"><a href="https://crossborderscare.com/dr-sanjay-mittal/">Dr Sanjay Mittal, Director</a> – Clinical and Preventive Cardiology, (Experience 20 years)</td>
+<td width="222"><a href="#/medanta-the-medicity-eye-department/"><strong>Medanta the Medicity , </strong></a><strong>(</strong>JCI Accreditation)</td>
+<td width="326"><a href="#/dr-sanjay-mittal/">Dr Sanjay Mittal, Director</a> – Clinical and Preventive Cardiology, (Experience 20 years)</td>
 <td width="66"><strong>8500$</strong></td>
 </tr>
 </thead>
 </table>
 <h3><span style="color: #0048ad;"><strong>How can you avail the best Robotic CABG Surgery in India – Step By Step process?</strong></span></h3>
-<p><strong>Cross Border Care</strong> is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>Robotic-CABG surgery in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p><strong>Medihelp Global </strong> is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>Robotic-CABG surgery in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Coronary Artery Bypass Graft (CABG) Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
@@ -792,9 +790,9 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;">&nbsp;<strong>Top Hospitals for Robotic Hip Replacement in India</strong></span></h2>
 <ul style="text-align: left;">
-<li><span style="color: #000000;"><strong><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/"><span style="color: #0048ad;">Max Super speciality Hospital</span></a>: </strong></span>It is India’s largest private sector <strong>JCI accredited</strong> hospital located in New Delhi and one of the <strong>best hospitals for Robotic hip surgery</strong>. The Max Cancer Center is equipped with state-of-the-art equipment, facilities &amp; experienced doctors. <strong><a href="https://crossborderscare.com/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><span style="color: #0048ad;">Dr Anil Arora</span> </a>is</strong> one of the best robotic doctors in India with 35 years of experience. Over the past five years, he has performed numerous surgeries and has helped many people suffering from damaged hip joints.</li>
-<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="https://crossborderscare.com/ck-birla-hospital/"><strong>CK Birla Hospital:</strong> </a></span>CK Birla Hospital in Delhi is a <strong>NABH-accredited,</strong> cutting-edge multidisciplinary centre. They have an international team of top-notch medical specialists who provide the best possible care. Their healthcare technology allows them to provide the best possible patient experience and accurate, collaborative treatment. <span style="color: #0048ad;"><strong><a href="https://crossborderscare.com/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr Aswami Maichand</a>, </strong></span>the Director of the Robotic Orthopedic division, is the best doctor for a robotic hip replacement here. He has an experience of over 35 years and has performed numerous hip replacement surgeries in his vast and successful career.</li>
-<li><span style="color: #000000;"><strong><a href="https://crossborderscare.com/w-pratiksha-hospital/">W Partiksha Hospital</a>: </strong></span>W Pratiksha Hospital in Gurgaon is a multi-speciality hospital that provides the highest level of healthcare through cutting-edge technology, skilled and experienced physicians, and super-specialized treatments, particularly orthopaedics and <strong>robotic joint replacement surgery</strong>. Thousands of patients have been served by W Pratiksha Hospital over the last 25 years. <a href="https://crossborderscare.com/dr-hemant-sharma-robotic-joint-replacement-surgeon/"><strong><span style="color: #0048ad;">Dr Hemant Sharma </span></strong></a>is the best robotic hip replacement surgeon here.</li>
+<li><span style="color: #000000;"><strong><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><span style="color: #0048ad;">Max Super speciality Hospital</span></a>: </strong></span>It is India’s largest private sector <strong>JCI accredited</strong> hospital located in New Delhi and one of the <strong>best hospitals for Robotic hip surgery</strong>. The Max Cancer Center is equipped with state-of-the-art equipment, facilities &amp; experienced doctors. <strong><a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><span style="color: #0048ad;">Dr Anil Arora</span> </a>is</strong> one of the best robotic doctors in India with 35 years of experience. Over the past five years, he has performed numerous surgeries and has helped many people suffering from damaged hip joints.</li>
+<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="#/ck-birla-hospital/"><strong>CK Birla Hospital:</strong> </a></span>CK Birla Hospital in Delhi is a <strong>NABH-accredited,</strong> cutting-edge multidisciplinary centre. They have an international team of top-notch medical specialists who provide the best possible care. Their healthcare technology allows them to provide the best possible patient experience and accurate, collaborative treatment. <span style="color: #0048ad;"><strong><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr Aswami Maichand</a>, </strong></span>the Director of the Robotic Orthopedic division, is the best doctor for a robotic hip replacement here. He has an experience of over 35 years and has performed numerous hip replacement surgeries in his vast and successful career.</li>
+<li><span style="color: #000000;"><strong><a href="#/w-pratiksha-hospital/">W Partiksha Hospital</a>: </strong></span>W Pratiksha Hospital in Gurgaon is a multi-speciality hospital that provides the highest level of healthcare through cutting-edge technology, skilled and experienced physicians, and super-specialized treatments, particularly orthopaedics and <strong>robotic joint replacement surgery</strong>. Thousands of patients have been served by W Pratiksha Hospital over the last 25 years. <a href="#/dr-hemant-sharma-robotic-joint-replacement-surgeon/"><strong><span style="color: #0048ad;">Dr Hemant Sharma </span></strong></a>is the best robotic hip replacement surgeon here.</li>
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Cost of robotic hip replacement in India</strong></span></h2>
 <p style="text-align: left;">In India, there are many factors which determine the<strong> cost of hip replacement surgery</strong> such as:</p>
@@ -811,13 +809,13 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <li>Bilateral Robotic Hip Replacement Surgery: USD 9500</li>
 </ul>
 </li>
-<li><span style="color: #000000;"><a style="color: #000000;" href="https://crossborderscare.com/w-pratiksha-hospital/"><strong>W Partiksha Hospital</strong></a></span>
+<li><span style="color: #000000;"><a style="color: #000000;" href="#/w-pratiksha-hospital/"><strong>W Partiksha Hospital</strong></a></span>
 <ul>
 <li>Unilateral Robotic Hip Replacement Surgery USD 6200</li>
 <li>Bilateral Robotic Hip Replacement Surgery USD 10400</li>
 </ul>
 </li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a> PPG</strong></span>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> PPG</strong></span>
 <ul>
 <li>Unilateral Robotic Hip Replacement Surgery USD 6500</li>
 <li>Bilateral Robotic Hip Replacement Surgery USD 10300</li>
@@ -847,7 +845,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p style="text-align: left;"><span style="color: #0048ad;"><strong>Stay in India: </strong></span>You must stay in India for at least 15 days after your surgery to complete the process.</p>
 <p style="text-align: left;"><span style="color: #0048ad;"><strong>Percentage of success: </strong></span>There is no doubt that India is one of the world’s top countries when it comes to robotic hip replacement procedures, enjoying a success rate of 99.9%.</p>
 <h3 style="text-align: left;"><span style="color: #0048ad;"><strong>How can you avail the best Robotic Hip Replacement in India-Step through Step process?</strong></span></h3>
-<p style="text-align: left;">If you are looking for trustworthy treatment consultants in India, then Cross Border Care is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <span style="color: #0048ad;">hip replacement <strong>surgery</strong> <strong>in India </strong></span>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p style="text-align: left;">If you are looking for trustworthy treatment consultants in India, then Medihelp Global  is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <span style="color: #0048ad;">hip replacement <strong>surgery</strong> <strong>in India </strong></span>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professionals themselves who are involved in each step of patient care. It is good to have an experienced ‘<strong>treatment consultant</strong>’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Hip Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 
@@ -987,34 +985,34 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <tr>
 <td>5000$</td>
 <td>8500$</td>
-<td><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a>, {JCI}</td>
-<td><a href="https://crossborderscare.com/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/">Dr Anil Arora</a> Exp:35 years Principal and Director and HOD ( Robotics Department)</td>
+<td><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a>, {JCI}</td>
+<td><a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/">Dr Anil Arora</a> Exp:35 years Principal and Director and HOD ( Robotics Department)</td>
 </tr>
 <tr>
 <td>4400$</td>
 <td>7400$</td>
-<td><a href="https://crossborderscare.com/ck-birla-hospital/">CK Birla Hospital</a>, Delhi,{ NABH}</td>
-<td><a href="https://crossborderscare.com/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr. Ashwani Maichand</a> Exp: 25 years Director( Robotic Orthopaedic division)</td>
+<td><a href="#/ck-birla-hospital/">CK Birla Hospital</a>, Delhi,{ NABH}</td>
+<td><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr. Ashwani Maichand</a> Exp: 25 years Director( Robotic Orthopaedic division)</td>
 </tr>
 <tr>
 <td>4700$</td>
 <td>9000$</td>
-<td><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a>, {JCI}</td>
-<td><a href="https://crossborderscare.com/dr-subhash-jangid-knee-replacement-surgeon/">Dr Subash Jangit</a> Exp: 25 years Director( Minimal Access Orthopedic and Joint Replacement</td>
+<td><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a>, {JCI}</td>
+<td><a href="#/dr-subhash-jangid-knee-replacement-surgeon/">Dr Subash Jangit</a> Exp: 25 years Director( Minimal Access Orthopedic and Joint Replacement</td>
 </tr>
 <tr>
 <td>5000$</td>
 <td>9000$</td>
-<td><a href="https://crossborderscare.com/sarvodaya-hospital-faridabad-india/">Sarvodhya Hospital</a>, Faridabad,<br>
+<td><a href="#/sarvodaya-hospital-faridabad-india/">Sarvodhya Hospital</a>, Faridabad,<br>
 {NABH}</td>
-<td><a href="https://crossborderscare.com/dr-sujoy-bhattacharjee-robotic-joint-replacement/">Dr Sujoy Bhattacharjee</a> Exp: 25 years Chairman Orthopaedics Department</td>
+<td><a href="#/dr-sujoy-bhattacharjee-robotic-joint-replacement/">Dr Sujoy Bhattacharjee</a> Exp: 25 years Chairman Orthopaedics Department</td>
 </tr>
 <tr>
 <td>4700$</td>
 <td>7500$</td>
-<td><a href="https://crossborderscare.com/w-pratiksha-hospital/">W Pratiksha Hospital</a>, Gurugram,<br>
+<td><a href="#/w-pratiksha-hospital/">W Pratiksha Hospital</a>, Gurugram,<br>
 {NABH}</td>
-<td><a href="https://crossborderscare.com/dr-hemant-sharma-robotic-joint-replacement-surgeon/">Dr Hemant Sharma</a> Exp: 30 years HOD Orthopedics and Joint Replacement</td>
+<td><a href="#/dr-hemant-sharma-robotic-joint-replacement-surgeon/">Dr Hemant Sharma</a> Exp: 30 years HOD Orthopedics and Joint Replacement</td>
 </tr>
 </tbody>
 </table>
@@ -1083,7 +1081,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p><strong>Stay in hospital : </strong>04 Days</p>
 <p><strong>Stay in India : </strong>15 Days</p>
 <p><strong>Percentage of success: </strong>99.9%</p>
-<h2><b>Knee Health on a Budget: </b>Service Cost at Cross-Border Care</h2>
+<h2><b>Knee Health on a Budget: </b>Service Cost at Medihelp Global Global</h2>
 <table>
 <tbody>
 <tr>
@@ -1113,7 +1111,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 </tbody>
 </table>
 <p><span style="font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
-<p><b>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with:&nbsp;</b></p>
+<p><b>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:&nbsp;</b></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital</span></li>
@@ -1123,7 +1121,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Knee Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 </div>`,
   },
@@ -1153,13 +1151,13 @@ In addition to the advantages mentioned above, there are also other benefits to 
 <ol>
 <li><a href="https://www.centreforsight.net/">Centre for sight</a></li>
 <li><a href="https://www.eye7.in/">Eye 7 eye hospital</a></li>
-<li><a href="https://crossborderscare.com/narang-eye-institute/">Narang Eye</a> Institute</li>
+<li><a href="#/narang-eye-institute/">Narang Eye</a> Institute</li>
 </ol>
 <h2><span style="color: #0048ad;">Top doctors</span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/prof-mahipal-s-sachdev-2/">Dr Mahipal S Sachdev</a></li>
+<li><a href="#/prof-mahipal-s-sachdev-2/">Dr Mahipal S Sachdev</a></li>
 <li>Dr Sunil Narang</li>
-<li><a href="https://crossborderscare.com/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></li>
+<li><a href="#/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></li>
 </ol>
 <h2><strong><span style="color: #0048ad;">Factors that Affect Robotic Cataract Surgery in India</span></strong></h2>
 <p><span style="font-weight: 400;">Cataract surgeries have become faster and hassle free with the new technology that uses laser system to operate on cataract patients. Also known as robotic cataract surgery, this technology uses femtosecond laser machine and the incision into cornea is made using a robot. The whole surgery gets completed in 30 seconds. Here are some factors that effet the robotioc cataract surgery in India.&nbsp;</span></p>
@@ -1189,17 +1187,17 @@ The cost of femtosecond laser cataract surgery in India is much lower than in We
 The cost mainly depends on the technology used and type and make of Intra Ocular lenses (IOL). Indian made IOL is cheaper than American brands.<br>
 In addition to this robotic and MICS are always expensive as they are painless, suture less surgeries.</p>
 <h2><span style="color: #0048ad;"><strong>Cost of Robotic Cataract Surgery in Top-notch Hospitals</strong></span></h2>
-<p><a href="https://crossborderscare.com/centre-for-sight/"><strong><span style="color: #0048ad;">Centre for sight</span> </strong></a></p>
+<p><a href="#/centre-for-sight/"><strong><span style="color: #0048ad;">Centre for sight</span> </strong></a></p>
 <ul>
 <li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2000</li>
 <li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 3800</li>
 </ul>
-<p><a href="https://crossborderscare.com/eye-7-eye-hospital-lajpat-nagar/"><span style="color: #0048ad;"><strong>Eye 7 Hospital </strong></span></a></p>
+<p><a href="#/eye-7-eye-hospital-lajpat-nagar/"><span style="color: #0048ad;"><strong>Eye 7 Hospital </strong></span></a></p>
 <ul>
 <li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2200</li>
 <li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 4200</li>
 </ul>
-<p><a href="https://crossborderscare.com/narang-eye-institute/"><strong>Narang Eye Institute </strong></a></p>
+<p><a href="#/narang-eye-institute/"><strong>Narang Eye Institute </strong></a></p>
 <ul>
 <li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2100</li>
 <li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 4200</li>
@@ -1233,7 +1231,7 @@ In addition to this robotic and MICS are always expensive as they are painless, 
 The advantages of getting femtosecond laser cataract surgery in India include lower treatment costs, low waiting times, highly qualified doctors, and access to the latest medical technology.<br>
 Additionally, many hospitals and clinics in India offer comprehensive medical tourism packages that make the entire experience more comfortable and enjoyable for patients.<br>
 Therefore, if you are considering femtosecond laser cataract surgery, you should definitely consider India as a viable option.</p>
-<p>Are you looking for <strong>“robotic cataract surgery”</strong> to be performed in India? Contact cross border care your trusted partner to help you find the best doctor and treatment in JCI accredited hospital at pocket –friendly price.<br>
+<p>Are you looking for <strong>“robotic cataract surgery”</strong> to be performed in India? Contact Medihelp Global  your trusted partner to help you find the best doctor and treatment in JCI accredited hospital at pocket –friendly price.<br>
 We score over others because the ‘treatment consultants’ in our company are medical professional themselves who are involved in each step of patient care. It is good to have an experienced ‘treatment consultant’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Cataract Surgery Doctors in India</strong>&nbsp;</span></p>
 
@@ -1367,41 +1365,41 @@ We score over others because the ‘treatment consultants’ in our company are 
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a></td>
+<td><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a></td>
 <td>JCI</td>
-<td><a href="https://crossborderscare.com/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Prof. (Col.) Dr. Bipin Walia</a>.</td>
+<td><a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Prof. (Col.) Dr. Bipin Walia</a>.</td>
 <td>26+ Years</td>
 <td>Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, and Spine Surgery.</td>
 <td>7500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td>JCI</td>
-<td><a href="https://crossborderscare.com/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer Kumar Tyagi</a></td>
+<td><a href="#/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer Kumar Tyagi</a></td>
 <td>24+ Years</td>
 <td>MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon, Indraprastha Apollo Hospitals</td>
 <td>10000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a></td>
+<td><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a></td>
 <td>JCI</td>
-<td><a href="https://crossborderscare.com/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr. Rana Patir</a>,</td>
+<td><a href="#/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr. Rana Patir</a>,</td>
 <td>26+ Years</td>
 <td>MS (General Surgery), MCh (Neurosurgery), CONSULTANT NEUROSURGERY, Fortis Memorial Research Institute, Gurugram</td>
 <td>7800$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
+<td><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
 <td>JCI</td>
-<td><a href="https://crossborderscare.com/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr. VP Singh – Chairman Neurosurgery at Medanta the Medicity</a></td>
+<td><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr. VP Singh – Chairman Neurosurgery at Medanta the Medicity</a></td>
 <td>33 + Years</td>
 <td>Chairman Neurosurgery at Medanta the Medicity</td>
 <td>USD 10000</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td>JCI</td>
-<td><a href="https://crossborderscare.com/dr-aditya-gupta-neurosurgery/">Dr. Aditya Gupta</a></td>
+<td><a href="#/dr-aditya-gupta-neurosurgery/">Dr. Aditya Gupta</a></td>
 <td>27+ Years</td>
 <td>Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery) and Co-Chief (Cyberknife Centre) Artemis Hospital in Gurugram.</td>
 <td>USD 7000</td>
@@ -1474,7 +1472,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><strong>Stay in India: </strong>15 Days</p>
 <p><strong>Percentage of success: </strong>99.9%</p>
 <h2><span style="color: #0048ad;"><strong>How can you avail the Best brain tumor surgery in India, Step-by-step process?</strong></span></h2>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong><span style="color: #333333;">brain tumor surgery in&nbsp;India</span>, </strong>fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong><span style="color: #333333;">brain tumor surgery in&nbsp;India</span>, </strong>fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>
 <p>We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Brain Tumors Surgery Doctors in India</strong>&nbsp;</span></p>
 
@@ -1597,34 +1595,34 @@ We score over others because the ‘treatment consultants’ in our company are 
 <td width="92"><span style="color: #000000;"><strong>Cos<a style="color: #000000;" href="https://www.medanta.org/">t </a></strong></span></td>
 </tr>
 <tr>
-<td width="185"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta Medicity, </a>(JCI Accreditation)</td>
-<td width="388"><a href="https://crossborderscare.com/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr VP Singh </a>(Chairman Neurosurgery)</td>
+<td width="185"><a href="#/medanta-the-medicity-eye-department/">Medanta Medicity, </a>(JCI Accreditation)</td>
+<td width="388"><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr VP Singh </a>(Chairman Neurosurgery)</td>
 <td width="92">8000$</td>
 </tr>
 <tr>
-<td width="185"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Hospital, Saket, </a>(JCI Accreditation)</td>
-<td width="388">Prof. (Col.) <a href="https://crossborderscare.com/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Dr. Bipin Walia, </a>(Principal Director and Head – of Neurosurgery )</td>
+<td width="185"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Hospital, Saket, </a>(JCI Accreditation)</td>
+<td width="388">Prof. (Col.) <a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Dr. Bipin Walia, </a>(Principal Director and Head – of Neurosurgery )</td>
 <td width="92">7000$</td>
 </tr>
 <tr>
-<td width="185"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospita</a>l, (JCI Accreditation)</td>
-<td width="388"><a href="https://crossborderscare.com/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer Kumar Tyagi</a> (Senior Consultant )</td>
+<td width="185"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospita</a>l, (JCI Accreditation)</td>
+<td width="388"><a href="#/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer Kumar Tyagi</a> (Senior Consultant )</td>
 <td width="92">9000$</td>
 </tr>
 <tr>
-<td width="185"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis, Memorial Research Institute, </a>(JCI Accreditation)</td>
-<td width="388"><a href="https://crossborderscare.com/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr. Rana Patir, </a>(Director&nbsp; Neurosurgery),</td>
+<td width="185"><a href="#/fortis-memorial-research-institute/">Fortis, Memorial Research Institute, </a>(JCI Accreditation)</td>
+<td width="388"><a href="#/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr. Rana Patir, </a>(Director&nbsp; Neurosurgery),</td>
 <td width="92">8500$</td>
 </tr>
 <tr>
 <td width="185"><a href="https://www.artemishospitals.com/">Artemis Hospital, </a>(JCI Accreditation)</td>
-<td width="388"><a href="https://crossborderscare.com/dr-aditya-gupta-neurosurgery/">Dr Aditya Gupta, </a>(Chief Neurosurgery &amp; CNS Radiosurgery) Co-Chief (Cyberknife Centre)</td>
+<td width="388"><a href="#/dr-aditya-gupta-neurosurgery/">Dr Aditya Gupta, </a>(Chief Neurosurgery &amp; CNS Radiosurgery) Co-Chief (Cyberknife Centre)</td>
 <td width="92">6500$</td>
 </tr>
 </tbody>
 </table>
 <p><strong>How can you avail of the Best TNTS surgery in India-Step, By Step process?</strong></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done at JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>TNTS surgery</strong> <strong>in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art-technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done at JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>TNTS surgery</strong> <strong>in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art-technology.</p>
 <p>We score over others because our company’s ‘t<strong>reatment consultants</strong>‘ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Pituitary Gland Tumor Doctors in India</strong>&nbsp;</span></p>
 
@@ -1662,20 +1660,20 @@ We score over others because the ‘treatment consultants’ in our company are 
 <h2><span style="color: #0048ad;">Top Neurosurgeons Carrying out TNTS in India</span></h2>
 <p>The <strong>best doctors for TNTS surgery in India</strong> are:</p>
 <ul>
-<li><span style="color: #000000;"><a style="color: #000000;" href="https://crossborderscare.com/dr-vp-singh-neurosurgeon-in-gurgaon-india/"><strong>Dr VP Singh</strong></a> </span>– Chairman Neurosurgery at Medanta the Medicity</li>
-<li><a href="https://crossborderscare.com/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/"><strong> (Col.) Dr. Bipin Walia.</strong></a> Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, Spine Surgery.</li>
-<li><a href="https://crossborderscare.com/dr-sudheer-tyagi-neuro-surgeon/"><strong> Sudheer Kumar Tyagi</strong></a> -MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon Indraprastha Apollo Hospitals</li>
-<li><strong><a href="https://crossborderscare.com/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Rana Patir</a>,</strong> MS (General Surgery), MCh (Neurosurgery), CONSULTANT NEUROSURGERY, Fortis Memorial Research Institute, Gurugram</li>
-<li><strong><a href="https://crossborderscare.com/dr-aditya-gupta-neurosurgery/">Dr Aditya Gupta</a> – </strong>Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery) <strong>Co-Chief </strong>(Cyberknife Centre) Artemis Hospital in Gurugram<strong>. </strong></li>
+<li><span style="color: #000000;"><a style="color: #000000;" href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/"><strong>Dr VP Singh</strong></a> </span>– Chairman Neurosurgery at Medanta the Medicity</li>
+<li><a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/"><strong> (Col.) Dr. Bipin Walia.</strong></a> Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, Spine Surgery.</li>
+<li><a href="#/dr-sudheer-tyagi-neuro-surgeon/"><strong> Sudheer Kumar Tyagi</strong></a> -MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon Indraprastha Apollo Hospitals</li>
+<li><strong><a href="#/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Rana Patir</a>,</strong> MS (General Surgery), MCh (Neurosurgery), CONSULTANT NEUROSURGERY, Fortis Memorial Research Institute, Gurugram</li>
+<li><strong><a href="#/dr-aditya-gupta-neurosurgery/">Dr Aditya Gupta</a> – </strong>Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery) <strong>Co-Chief </strong>(Cyberknife Centre) Artemis Hospital in Gurugram<strong>. </strong></li>
 </ul>
 <h2><span style="color: #0048ad;">Top Neurosurgery Hospitals in India for TNTS Surgery</span></h2>
 <p><strong>Bes<span style="color: #000000;">t Hospitals for TNTS surgery in India</span><span style="color: #000000;"> are:</span></strong></p>
 <ul>
-<li><span style="color: #333399;"><a style="color: #333399;" href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></span></li>
-<li><span style="color: #333399;"><a style="color: #333399;" href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital, Saket</a></span></li>
-<li><span style="color: #333399;"><a style="color: #333399;" href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a></span></li>
-<li><span style="color: #333399;"><a style="color: #333399;" href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></span></li>
-<li><span style="color: #333399;"><a style="color: #333399;" href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></span></li>
+<li><span style="color: #333399;"><a style="color: #333399;" href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></span></li>
+<li><span style="color: #333399;"><a style="color: #333399;" href="#/bl-kapur-hospital/">Max Super Speciality Hospital, Saket</a></span></li>
+<li><span style="color: #333399;"><a style="color: #333399;" href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a></span></li>
+<li><span style="color: #333399;"><a style="color: #333399;" href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></span></li>
+<li><span style="color: #333399;"><a style="color: #333399;" href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></span></li>
 </ul>
 <h2><b>Cost of TNTS Surgery in India</b></h2>
 <ul>
@@ -1738,7 +1736,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 </tbody>
 </table>
 <p><span style="font-weight: 400;">India is gaining fame as the best destination for any medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with: </strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with: </strong></p>
 <ul>
 <li>Arranging visa</li>
 <li>Finding the best hospital</li>
@@ -1748,7 +1746,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 <li>Affordable options to stay in India</li>
 <li>Over saving of 15% treatment cost through us</li>
 </ul>
-<p>To learn more about our services, please write to us at <a href="mailto:info@corssborderscare.com">info@crossborderscare.com</a>. Based on your reports, We will inform you of the<strong> total cost of endoscopic pituitary surgery in Delhi.</strong></p>
+<p>To learn more about our services, please write to us at <a href="mailto:info@Medihelp Globalglobal.com">info@Medihelp Globalglobal.com</a>. Based on your reports, We will inform you of the<strong> total cost of endoscopic pituitary surgery in Delhi.</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Trans Nasal Trans Sphenoidal (TNTS) Endoscopic Surgery Doctors in India</strong>&nbsp;</span></p>
 </div>`,
   },
@@ -1936,12 +1934,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 </tr>
 <tr>
 <td><a href="https://www.medanta.org/"><span style="font-weight: 400;">Medanta Medicity, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><span style="font-weight: 400;"><a href="https://crossborderscare.com/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr VP Singh</a> ,</span><span style="font-weight: 400;">(Chairman Neurosurgery)</span></td>
+<td><span style="font-weight: 400;"><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr VP Singh</a> ,</span><span style="font-weight: 400;">(Chairman Neurosurgery)</span></td>
 <td><span style="font-weight: 400;">32000$</span></td>
 </tr>
 <tr>
-<td><span style="font-weight: 400;"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Hospital</a>, Saket, </span><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><span style="font-weight: 400;">Prof. (Col.) Dr. <a href="https://crossborderscare.com/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Bipin Walia</a>.&nbsp; </span><span style="font-weight: 400;">(Principal Director and </span><span style="font-weight: 400;">Head – of Neurosurgery )</span></td>
+<td><span style="font-weight: 400;"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Hospital</a>, Saket, </span><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
+<td><span style="font-weight: 400;">Prof. (Col.) Dr. <a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Bipin Walia</a>.&nbsp; </span><span style="font-weight: 400;">(Principal Director and </span><span style="font-weight: 400;">Head – of Neurosurgery )</span></td>
 <td><span style="font-weight: 400;">32000$</span></td>
 </tr>
 <tr>
@@ -1991,7 +1989,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><b>How can you avail of the best Deep Brain Stimulation Surgery in India-Step By Step process?</b></span></p>
-<p><span style="font-weight: 400;">Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done at JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>DBS surgery in India,</strong> fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</span></p>
+<p><span style="font-weight: 400;">Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done at JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>DBS surgery in India,</strong> fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</span></p>
 <p><span style="font-weight: 400;">We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘<strong>treatment consultant</strong>‘ is good if you plan any medical treatment in India.</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Deep Brain Stimulation Surgery Doctors in India</strong>&nbsp;</span></p>
 
@@ -2139,7 +2137,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Any discounts offered by the medical facility</span></li>
 </ul>
-<p><span style="color: #0048ad;"><strong>&nbsp;</strong>&nbsp;</span><strong><span style="color: #0048ad;">Cross Border Care is the best medical consultant in India. When you contact us, we will help you with:</span> </strong></p>
+<p><span style="color: #0048ad;"><strong>&nbsp;</strong>&nbsp;</span><strong><span style="color: #0048ad;">Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:</span> </strong></p>
 <ul>
 <li>Arranging visa</li>
 <li>Finding the best hospital</li>
@@ -2149,7 +2147,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 <li>Affordable options to stay in India</li>
 <li>Over saving of 15% treatment cost through us</li>
 </ul>
-<p>To learn more about our services, please write to us at <a href="mailto:info@corssborderscare.com">info@crossborderscare.com</a>. We will let you know the total<strong> cost of&nbsp; Burr hole surgery in Delh</strong>i based on your reports.</p>
+<p>To learn more about our services, please write to us at <a href="mailto:info@Medihelp Globalglobal.com">info@Medihelp Globalglobal.com</a>. We will let you know the total<strong> cost of&nbsp; Burr hole surgery in Delh</strong>i based on your reports.</p>
 <h2><span style="color: #0048ad;">Best Hospitals for Burr Hole Surgery in India</span></h2>
 <table style="height: 359px;" width="990">
 <tbody>
@@ -2159,34 +2157,34 @@ We score over others because the ‘treatment consultants’ in our company are 
 <td><b>Cost&nbsp;</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/"><span style="font-weight: 400;">Medanta the Medicity, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><span style="font-weight: 400;"><a href="https://crossborderscare.com/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr VP Singh</a> , </span><span style="font-weight: 400;">(Chairman Neurosurgery)</span></td>
+<td><a href="#/medanta-the-medicity-eye-department/"><span style="font-weight: 400;">Medanta the Medicity, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
+<td><span style="font-weight: 400;"><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr VP Singh</a> , </span><span style="font-weight: 400;">(Chairman Neurosurgery)</span></td>
 <td><span style="font-weight: 400;">6500$</span></td>
 </tr>
 <tr>
-<td><span style="font-weight: 400;"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Hospital</a>, Saket, </span><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><span style="font-weight: 400;"><a href="https://crossborderscare.com/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Prof. (Col.) Dr. Bipin Walia</a>.,</span><span style="font-weight: 400;">(Principal Director and Head – of Neurosurgery )</span></td>
+<td><span style="font-weight: 400;"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Hospital</a>, Saket, </span><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
+<td><span style="font-weight: 400;"><a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Prof. (Col.) Dr. Bipin Walia</a>.,</span><span style="font-weight: 400;">(Principal Director and Head – of Neurosurgery )</span></td>
 <td><span style="font-weight: 400;">6000$</span></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/"><span style="font-weight: 400;">Indraprastha Apollo Hospital, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><span style="font-weight: 400;"><a href="https://crossborderscare.com/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer</a> kumar Tyagi (Senior Consultant )</span></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/"><span style="font-weight: 400;">Indraprastha Apollo Hospital, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
+<td><span style="font-weight: 400;"><a href="#/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer</a> kumar Tyagi (Senior Consultant )</span></td>
 <td><span style="font-weight: 400;">7000$</span></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-memorial-research-institute/"><span style="font-weight: 400;">Fortis, Memorial Research Institute, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><a href="https://crossborderscare.com/dr-rana-patir-neurosurgeon-in-gurgaon-india/"><span style="font-weight: 400;">Dr. Rana Patir, </span></a><span style="font-weight: 400;">(Director&nbsp; Neurosurgery),</span></td>
+<td><a href="#/fortis-memorial-research-institute/"><span style="font-weight: 400;">Fortis, Memorial Research Institute, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
+<td><a href="#/dr-rana-patir-neurosurgeon-in-gurgaon-india/"><span style="font-weight: 400;">Dr. Rana Patir, </span></a><span style="font-weight: 400;">(Director&nbsp; Neurosurgery),</span></td>
 <td><span style="font-weight: 400;">6500$</span></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/"><span style="font-weight: 400;">Artemis Hospital, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><a href="https://crossborderscare.com/dr-aditya-gupta-neurosurgery/"><span style="font-weight: 400;">Dr Aditya Gupta , </span></a><span style="font-weight: 400;">(Chief Neurosurgery &amp; CNS Radiosurgery) Co-Chief (Cyberknife Centre)</span></td>
+<td><a href="#/artemis-hospital-gurgaon-india/"><span style="font-weight: 400;">Artemis Hospital, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
+<td><a href="#/dr-aditya-gupta-neurosurgery/"><span style="font-weight: 400;">Dr Aditya Gupta , </span></a><span style="font-weight: 400;">(Chief Neurosurgery &amp; CNS Radiosurgery) Co-Chief (Cyberknife Centre)</span></td>
 <td><span style="font-weight: 400;">5800$</span></td>
 </tr>
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><b>How can you avail the best Burr Hole Surgery in India-Step By Step process?</b></span></p>
-<p><span style="font-weight: 400;">Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>Burr Hole surgery </strong></span><b>in India, </b><span style="font-weight: 400;">fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
+<p><span style="font-weight: 400;">Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>Burr Hole surgery </strong></span><b>in India, </b><span style="font-weight: 400;">fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
 <p><span style="font-weight: 400;">We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. Having an experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Burr Hole Surgery Doctors in India</strong>&nbsp;&nbsp;</span></p>
 
@@ -2360,13 +2358,13 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><span style="font-weight: 400;">Book an appointment with </span><b>Dr Nadeem Khan</b><span style="font-weight: 400;"> today to learn more about craniotomy surgery in India.&nbsp;</span></p>
 <h2><span style="color: #0048ad;"><strong>Best Doctors for Craniotomy Surgery in India</strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-vp-singh-neurosurgeon-in-gurgaon-india/"><strong>Dr VP Singh</strong></a>&nbsp;– Chairman Neurosurgery at Medanta the Medicity</li>
-<li><a href="https://crossborderscare.com/dr-sudheer-tyagi-neuro-surgeon/"><strong>Dr Sudheer Kumar Tyagi</strong></a>&nbsp;-MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon Indraprastha Apollo Hospitals</li>
-<li><strong><a href="https://crossborderscare.com/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Dr (Col.) Dr. Bipin Walia</a>.</strong>&nbsp;Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, Spine Surgery.</li>
-<li><strong><a href="https://crossborderscare.com/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr Rana Patir</a>,</strong>&nbsp;MS (General Surgery), MCh (Neurosurgery), Consultant Neurosurgery, Fortis Memorial Research Institute, Gurugram</li>
-<li><strong><a href="https://crossborderscare.com/dr-aditya-gupta-neurosurgery/">Dr Aditya Gupta</a> –&nbsp;</strong>Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery)&nbsp;<strong>Co-Chief&nbsp;</strong>(Cyberknife Centre) Artemis Hospital in Gurugram<strong>.</strong></li>
+<li><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/"><strong>Dr VP Singh</strong></a>&nbsp;– Chairman Neurosurgery at Medanta the Medicity</li>
+<li><a href="#/dr-sudheer-tyagi-neuro-surgeon/"><strong>Dr Sudheer Kumar Tyagi</strong></a>&nbsp;-MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon Indraprastha Apollo Hospitals</li>
+<li><strong><a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Dr (Col.) Dr. Bipin Walia</a>.</strong>&nbsp;Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, Spine Surgery.</li>
+<li><strong><a href="#/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr Rana Patir</a>,</strong>&nbsp;MS (General Surgery), MCh (Neurosurgery), Consultant Neurosurgery, Fortis Memorial Research Institute, Gurugram</li>
+<li><strong><a href="#/dr-aditya-gupta-neurosurgery/">Dr Aditya Gupta</a> –&nbsp;</strong>Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery)&nbsp;<strong>Co-Chief&nbsp;</strong>(Cyberknife Centre) Artemis Hospital in Gurugram<strong>.</strong></li>
 </ul>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with: </strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with: </strong></p>
 <ul>
 <li>Arranging visa</li>
 <li>Finding the best hospital</li>
@@ -2376,7 +2374,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 <li>Affordable options to stay in India</li>
 <li>Over saving of 15% treatment cost through us</li>
 </ul>
-<p>To learn more about our services, please write to us at <a href="mailto:info@corssborderscare.com">info@crossborderscare.com</a>. Based on your reports, we will let you know the <strong>&nbsp;craniotomy surgery&nbsp; cost in India.&nbsp;</strong></p>
+<p>To learn more about our services, please write to us at <a href="mailto:info@Medihelp Globalglobal.com">info@Medihelp Globalglobal.com</a>. Based on your reports, we will let you know the <strong>&nbsp;craniotomy surgery&nbsp; cost in India.&nbsp;</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Craniotomy Surgery Doctors in India</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
@@ -2628,7 +2626,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><strong>Stay in India: </strong>15 Days</p>
 <p><strong>Percentage of success: </strong>99.9%</p>
 <h2><span style="color: #0048ad;"><strong>How can you avail of the best V.P. Shunt Surgery in India: Step By Step process?</strong></span></h2>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>V.P. shunt surgery</strong> <strong>in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>V.P. shunt surgery</strong> <strong>in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p>We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best VP Shunt Surgery Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -2739,25 +2737,25 @@ We score over others because the ‘treatment consultants’ in our company are 
 <td><span style="color: #000000;"><b>Cost&nbsp;</b></span></td>
 </tr>
 <tr>
-<td><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket"><span style="font-weight: 400;">Max Super Speciality Hospital, New Delhi</span></a><p></p>
+<td><a href="#/hospital-network/max-super-speciality-hospital-saket"><span style="font-weight: 400;">Max Super Speciality Hospital, New Delhi</span></a><p></p>
 <p><span style="font-weight: 400;">(JCI Accreditation)</span></p></td>
-<td><a href="https://crossborderscare.com/dr-himanshu-agarwal-senior-consultant-interventional-neurologist/"><span style="font-weight: 400;">Dr Himanshu Agarwal</span></a><p></p>
+<td><a href="#/dr-himanshu-agarwal-senior-consultant-interventional-neurologist/"><span style="font-weight: 400;">Dr Himanshu Agarwal</span></a><p></p>
 <p><b>Exp: 15 Years&nbsp;</b></p>
 <p><span style="font-weight: 400;">(Senior Consultant: Interventional Neurology)</span></p></td>
 <td><span style="font-weight: 400;">9000$</span></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/"><span style="font-weight: 400;">Indraprastha Apollo Hospital</span></a><p></p>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/"><span style="font-weight: 400;">Indraprastha Apollo Hospital</span></a><p></p>
 <p><span style="font-weight: 400;">(JCI Accreditation)</span></p></td>
-<td><a href="https://crossborderscare.com/dr-harsh-rastogi-consultant-clinical-co-ordinator-radiologist/"><span style="font-weight: 400;">Dr Harsh Rastogi</span></a><p></p>
+<td><a href="#/dr-harsh-rastogi-consultant-clinical-co-ordinator-radiologist/"><span style="font-weight: 400;">Dr Harsh Rastogi</span></a><p></p>
 <p><b>Exp: 29 Years&nbsp;</b></p>
 <p><span style="font-weight: 400;">(Consultant &amp; Clinical Co-ordinator, Radiology Department)</span></p></td>
 <td><span style="font-weight: 400;">8500$</span></td>
 </tr>
 <tr>
-<td><span style="font-weight: 400;"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</span><p></p>
+<td><span style="font-weight: 400;"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</span><p></p>
 <p><span style="font-weight: 400;">(JCI Accreditation)</span></p></td>
-<td><a href="https://crossborderscare.com/dr-vijay-kant-dixit-director-of-interventional-neuroradiologist/"><span style="font-weight: 400;">Dr Vijay Kant Dixit</span></a><p></p>
+<td><a href="#/dr-vijay-kant-dixit-director-of-interventional-neuroradiologist/"><span style="font-weight: 400;">Dr Vijay Kant Dixit</span></a><p></p>
 <p><b>Exp: 20 Years&nbsp;</b></p>
 <p><span style="font-weight: 400;">(Director of Interventional Neurocardiolog)</span></p></td>
 <td><span style="font-weight: 400;">10000$</span></td>
@@ -2765,7 +2763,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 </tbody>
 </table>
 <h2><span style="color: #0048ad;"><b>How can you avail the best AVM Surgery in India-Step By Step process?</b></span></h2>
-<p><span style="font-weight: 400;">Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>AVM surgery in India</strong></span><b>, </b><span style="font-weight: 400;">fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
+<p><span style="font-weight: 400;">Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>AVM surgery in India</strong></span><b>, </b><span style="font-weight: 400;">fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
 <p><span style="font-weight: 400;">We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Brain Arteriovenous Malformation (AVM) Surgery Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -2897,24 +2895,24 @@ We score over others because the ‘treatment consultants’ in our company are 
 <td width="131"><span style="color: #000000;"><strong>&nbsp;</strong></span><span style="color: #000000;"><strong>Cost </strong></span></td>
 </tr>
 <tr>
-<td width="160"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, New Delhi, (JCI Accreditation)</td>
-<td width="285"><a href="https://crossborderscare.com/dr-himanshu-agarwal-senior-consultant-interventional-neurologist/">Dr Himanshu Agarwal, </a><strong>Exp: 15 Years, </strong>(Senior Consultant: Interventional Neurology)</td>
+<td width="160"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, New Delhi, (JCI Accreditation)</td>
+<td width="285"><a href="#/dr-himanshu-agarwal-senior-consultant-interventional-neurologist/">Dr Himanshu Agarwal, </a><strong>Exp: 15 Years, </strong>(Senior Consultant: Interventional Neurology)</td>
 <td width="131">10000$</td>
 </tr>
 <tr>
-<td width="160"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital, </a>(JCI Accreditation)</td>
-<td width="285"><a href="https://crossborderscare.com/dr-harsh-rastogi-consultant-clinical-co-ordinator-radiologist/">Dr Harsh Rastogi, </a><strong>Exp: 29 Years, </strong>(Consultant &amp; Clinical Co-ordinator, Radiology Department)</td>
+<td width="160"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital, </a>(JCI Accreditation)</td>
+<td width="285"><a href="#/dr-harsh-rastogi-consultant-clinical-co-ordinator-radiologist/">Dr Harsh Rastogi, </a><strong>Exp: 29 Years, </strong>(Consultant &amp; Clinical Co-ordinator, Radiology Department)</td>
 <td width="131">9000$</td>
 </tr>
 <tr>
-<td width="160"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram, </a>(JCI Accreditation)</td>
-<td width="285"><a href="https://crossborderscare.com/dr-vijay-kant-dixit-director-of-interventional-neuroradiologist/">Dr Vijay Kant Dixit, </a><strong>Exp: 20 Years, </strong>(Director of Interventional Neuroradiology)</td>
+<td width="160"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram, </a>(JCI Accreditation)</td>
+<td width="285"><a href="#/dr-vijay-kant-dixit-director-of-interventional-neuroradiologist/">Dr Vijay Kant Dixit, </a><strong>Exp: 20 Years, </strong>(Director of Interventional Neuroradiology)</td>
 <td width="131">9500$</td>
 </tr>
 </tbody>
 </table>
 <h2><span style="color: #0048ad;"><strong>How can you avail the best Brain Aneurysm Surgery in India-Step By Step process?</strong></span></h2>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Aneurysm surgery, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.<br>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Aneurysm surgery, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.<br>
 We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Brain Aneurysm Surgery Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -2957,15 +2955,15 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>The recovery depends upon the type and severity of the injury.&nbsp; In most cases, it can take a patient a few years to recover fully from the <span style="text-decoration: underline;"><strong>brachial plexus injury.</strong></span>&nbsp; This is due to the slow growth rate of the nerve tissue. &nbsp;For a speedy recovery and better joint flexibility, the patients are advised to follow an exercise schedule.</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors Performing Brachial Plexus Surgery in India</strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</li>
-<li><strong><a href="https://crossborderscare.com/dr-h-s-chhabra-spine-surgeon-in-india/">Dr HS Chabra</a>– Orthopaedic</strong> – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</li>
-<li><a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong> </a>– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</li>
+<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</li>
+<li><strong><a href="#/dr-h-s-chhabra-spine-surgeon-in-india/">Dr HS Chabra</a>– Orthopaedic</strong> – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</li>
+<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong> </a>– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals for Brachial Plexus Surgery</strong></span></h2>
 <ul>
 <li><a href="https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon">Fortis Memorial Research Institute</a></li>
-<li><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
+<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Approximate Cost for Brachial Plexus Injuries</strong></span></h2>
 <p>The brachial plexus is a network of nerves that sends signals from the spinal cord to the shoulder, arms, and hand. Any damage to these nerves leads to brachial plexus injuries. A <strong><u>brachial plexus surgery</u></strong> is a surgical procedure done to repair and reconstruct the damaged nerve plexus to relieve pain, restore function, and improve quality of life.</p>
@@ -2998,23 +2996,23 @@ We score over others because our company’s ‘treatment consultants’ are med
 <td><b>Cost</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/max-hospital-patparganj/">Max Healthcare</a></td>
+<td><a href="#/max-hospital-patparganj/">Max Healthcare</a></td>
 <td>8000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td>7500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
+<td><a href="#/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
 <td>5800$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
+<td><a href="#/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
 <td>5500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td>5000$</td>
 </tr>
 </tbody>
@@ -3049,7 +3047,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tr>
 </tbody>
 </table>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
 <p>● Arranging visa<br>
 ● Finding the best hospital<br>
 ● Surgical package negotiation on your behalf<br>
@@ -3057,7 +3055,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 ● Medicines at reasonable rates<br>
 ● Affordable options to stay in India<br>
 ● Over saving of 15% treatment cost through us</p>
-<p>To learn more about our services, please write to us at&nbsp;<a href="mailto:info@corssborderscare.com">info@crossborderscare.com</a>. Based on your reports, We will inform you of the total&nbsp;<strong>cost of Brachial Plexus Injuries in Delhi.</strong></p>
+<p>To learn more about our services, please write to us at&nbsp;<a href="mailto:info@Medihelp Globalglobal.com">info@Medihelp Globalglobal.com</a>. Based on your reports, We will inform you of the total&nbsp;<strong>cost of Brachial Plexus Injuries in Delhi.</strong></p>
 <p><strong>Let our team of healthcare experts help you to find the best Brachial Plexus Surgeon in India.&nbsp;</strong></p>
 
 		</div>
@@ -3092,12 +3090,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>Some advantages of minimally invasive spine surgery are quicker recovery, less hospital stay, and less muscle and soft tissue damage. Patients experience less pain after surgery and return to daily activity in a short period. It also involves fewer complications.</p>
 <p>For better and faster <span style="text-decoration: underline;"><strong>recovery after microdiscectomy surgery</strong></span> avoid sitting for a prolonged period, lifting heavy things, driving the vehicle, and immediately bending over after the surgery for 2-3 weeks. In normal conditions, a patient needs six weeks for full recovery.</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors for microdiscectomy Surgery in India</strong></span></h2>
-<p>•<a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><span style="color: #0048ad;"><strong> Dr. Arun Saroha</strong></span></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</p>
-<p>• <a href="https://crossborderscare.com/dr-h-s-chhabra-spine-surgeon-in-india/"><span style="color: #0048ad;"><strong>Dr HS Chabra</strong></span></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</p>
-<p>• <a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><span style="color: #0048ad;"><strong>Dr. Sandeep Vaishya</strong></span></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</p>
-<p>•<a href="https://crossborderscare.com/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"> <span style="color: #0048ad;"><strong>Dr Hitesh Garg</strong> </span></a>– Head – Ortho Spine Surgery, Artemis Hospitals</p>
-<p>• <a href="https://crossborderscare.com/dr-saurabh-rawall-spine-surgeon-in-india/"><span style="color: #0048ad;"><strong>Dr Saurabh Rawall</strong></span></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals</p>
-<p>•<a href="https://crossborderscare.com/dr-vineesh-mathur-spine-surgeon/"><span style="color: #0048ad;"><strong> Dr. Vineesh Mathur</strong></span></a> – Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram</p>
+<p>•<a href="#/dr-arun-saroha-neurosurgeon-in-india/"><span style="color: #0048ad;"><strong> Dr. Arun Saroha</strong></span></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</p>
+<p>• <a href="#/dr-h-s-chhabra-spine-surgeon-in-india/"><span style="color: #0048ad;"><strong>Dr HS Chabra</strong></span></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</p>
+<p>• <a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><span style="color: #0048ad;"><strong>Dr. Sandeep Vaishya</strong></span></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</p>
+<p>•<a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"> <span style="color: #0048ad;"><strong>Dr Hitesh Garg</strong> </span></a>– Head – Ortho Spine Surgery, Artemis Hospitals</p>
+<p>• <a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><span style="color: #0048ad;"><strong>Dr Saurabh Rawall</strong></span></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals</p>
+<p>•<a href="#/dr-vineesh-mathur-spine-surgeon/"><span style="color: #0048ad;"><strong> Dr. Vineesh Mathur</strong></span></a> – Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram</p>
 <h2><span style="color: #0048ad;"><b>Factors that Affect Microdiscectomy Surgery Cost in India</b></span></h2>
 <p><span style="font-weight: 400;">Microdiscectomy is a specialized procedure that is used to alleviate pain and discomfort caused by herniated discs and the lumbar spine. It is a minimally invasive surgery that is quite popular because of its effectiveness and fast recovery time. Let us see what are the factors affecting <span style="text-decoration: underline;"><strong>cost of microdiscectomy surgery&nbsp; in India</strong></span>:&nbsp;</span></p>
 <p><b>Type of Hospital: </b><span style="font-weight: 400;">The type of hospital you choose for the surgery greatly affects the cost. If the hospital is JCI accredited, comes under a brand name and is a single specialty, then the cost of the surgery will be higher.&nbsp;</span></p>
@@ -3231,7 +3229,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </table>
 <p><span style="font-weight: 400;">The affordability of the treatment in India is one of the prime reasons why India is a preferred medical travel destination. A patient from a Western country can save more than 50 % on the overall cost of </span>microdiscectomy surgery in India<span style="font-weight: 400;">, even after travel, accommodation, and living costs in India.&nbsp;</span></p>
 <p><span style="font-weight: 400;">And the best part is there is no compromise in the quality. The</span><b> top spine hospitals in India</b><span style="font-weight: 400;"> offer state of art facilities at affordable prices.&nbsp;</span></p>
-<p><span style="font-weight: 400;">If you need the<span style="text-decoration: underline;"><strong> best medical consultant in India</strong></span> to help you choose the best hospital and the best doctor, contact <span style="text-decoration: underline;"><strong>Dr Nadeem Khan from Cross Border Care</strong></span> today!!!</span></p>
+<p><span style="font-weight: 400;">If you need the<span style="text-decoration: underline;"><strong> best medical consultant in India</strong></span> to help you choose the best hospital and the best doctor, contact <span style="text-decoration: underline;"><strong>Dr Nadeem Khan from Medihelp Global </strong></span> today!!!</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Microdiscectomy Surgery</strong><strong>&nbsp;Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -3279,12 +3277,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>The <span style="text-decoration: underline;"><strong>cost of scoliosis surgery in India</strong> </span>depends on the surgeon’s credentials, experience, hospital location, type and quality certifications, and technology used. However, One can expect <span style="text-decoration: underline;"><strong>low-cost scoliosis surgery in India</strong></span>. The cost ranges between $9,000 to $10,000 with excellent clinical results, rest assured.</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors Doing Scoliosis Surgery in India&nbsp;</strong></span></h2>
 <ul>
-<li><strong><a href="https://crossborderscare.com/dr-h-s-chabra-robotic-spine-surgeon/">Dr HS Chabra</a>– </strong>Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</li>
-<li><a href="https://crossborderscare.com/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals</li>
-<li><a href="https://crossborderscare.com/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a> – Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram</li>
-<li><a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</li>
-<li><a href="https://crossborderscare.com/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong> </a>– Head – Ortho Spine Surgery, Artemis Hospitals</li>
-<li><a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya </strong></a>– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</li>
+<li><strong><a href="#/dr-h-s-chabra-robotic-spine-surgeon/">Dr HS Chabra</a>– </strong>Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</li>
+<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals</li>
+<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a> – Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram</li>
+<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</li>
+<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong> </a>– Head – Ortho Spine Surgery, Artemis Hospitals</li>
+<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya </strong></a>– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Scoliosis Spine Surgery in India: Factors Affecting the Cost</b></span></h2>
 <p><span style="font-weight: 400;">Scoliosis is a medical condition in which the spine is curved and often looks deformed. The <span style="text-decoration: underline;"><strong>cost of scoliosis treatment in India</strong></span> may vary depending on several factors, such as the severity of the condition, the type of treatment required, geographical location, the healthcare system and your specific healthcare provider.&nbsp;Let us delve into the details of the factors affecting the cost of the treatment:&nbsp;</span></p>
@@ -3419,14 +3417,14 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tr>
 </tbody>
 </table>
-<p><span style="font-weight: 400;"><strong>Cross Border Care</strong> is one of the best <span style="text-decoration: underline;"><strong>treatment consultants in India for all international patients</strong></span>. We are here to guide you in choosing the best doctor and hospital for your scoliosis surgery based on your budget and the severity of the case. With us, you will get the following:&nbsp;</span></p>
+<p><span style="font-weight: 400;"><strong>Medihelp Global </strong> is one of the best <span style="text-decoration: underline;"><strong>treatment consultants in India for all international patients</strong></span>. We are here to guide you in choosing the best doctor and hospital for your scoliosis surgery based on your budget and the severity of the case. With us, you will get the following:&nbsp;</span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">100% transparency</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help to choose the best hospital and doctor</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help to select the best treatment option</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">High success rates of procedures with international standards.&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">Write to us today at </span><a href="mailto:infor@crossborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a></p>
+<p><span style="font-weight: 400;">Write to us today at </span><a href="mailto:info@medihelpglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Scoliosis Spine Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -3461,22 +3459,22 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>The t<span style="text-decoration: underline;"><strong>op doctors for Kyphoplasty surgery in India use</strong></span> Fluoroscopy as a guide to ensure that the needle is inserted at the right place. Once everything is intact, it’s time to insert a balloon-like device into the vertebra through the trocar. This balloon inflates once it reaches its position. It helps restore the height and shape of the vertebral body by opening the space between the bones. Next, cement-like material is injected into the vertebral body to stabilize and prevent further fractures. Afterwards, the surgeon closes the incision and applies a bandage to prevent infection.</p>
 <h2><span style="color: #0048ad;"><strong>Best Kyphoplasty surgery doctors in Delhi </strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket, <strong>25 years of experience</strong>.</li>
-<li><a href="https://crossborderscare.com/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>, Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi, has <strong>36 years of experience.</strong></li>
-<li><a href="https://crossborderscare.com/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
-<li><a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram, <strong>34 years of experience.</strong></li>
-<li><a href="https://crossborderscare.com/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a> – Head – Ortho Spine Surgery, Artemis Hospitals, <strong>15 years of experience. </strong></li>
-<li><a href="https://crossborderscare.com/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals, <strong>12 years of experience</strong></li>
-<li><a href="https://crossborderscare.com/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a> is the director of the spine division at the Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
+<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket, <strong>25 years of experience</strong>.</li>
+<li><a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>, Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi, has <strong>36 years of experience.</strong></li>
+<li><a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
+<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram, <strong>34 years of experience.</strong></li>
+<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a> – Head – Ortho Spine Surgery, Artemis Hospitals, <strong>15 years of experience. </strong></li>
+<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals, <strong>12 years of experience</strong></li>
+<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a> is the director of the spine division at the Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Best &nbsp;hospitals offering </strong>Kyphoplasty<strong> Surgery in India </strong></span></h2>
 <ul>
 <li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
+<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li><a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
 </ul>
 <h2><span style="color: #0048ad;">Kyphoplasty Treatment cost in India</span></h2>
 <p>Kyphoplasty is a minimally invasive procedure that is used to repair vertebral compression fractures of the spine. These fractures develop when the bone block ( vertebral body) in the spine collapses due to severe pressure or other factors like severe pain and deformities.</p>
@@ -3545,23 +3543,23 @@ We score over others because our company’s ‘treatment consultants’ are med
 <td><b>Cost</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/metro-hospital-faridabad/">Metro Hospital</a></td>
+<td><a href="#/metro-hospital-faridabad/">Metro Hospital</a></td>
 <td>5000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td>6500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
+<td><a href="#/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
 <td>5800$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
+<td><a href="#/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
 <td>5500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td>7500$</td>
 </tr>
 </tbody>
@@ -3596,7 +3594,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tr>
 </tbody>
 </table>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
 <p>● Arranging visa<br>
 ● Finding the best hospital<br>
 ● Surgical package negotiation on your behalf<br>
@@ -3610,7 +3608,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
 <p><strong>Success rate </strong></p>
 <p>India boasts a 99% success rate for kyphoplasty procedures.</p>
-<h3><span style="color: #0048ad;">A tailored medical tourism package by Cross Border Care assures the care you deserve.</span></h3>
+<h3><span style="color: #0048ad;">A tailored medical tourism package by Medihelp Global  assures the care you deserve.</span></h3>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Kyphoplasty Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -3643,22 +3641,22 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>The surgeon will then close the incision with the help of sutures or surgical staples. He may also apply a bandage to cover the wounds even though the patient will be discharged on the same day. He has to rest for at least one week for the incision to heal properly.</p>
 <h3><span style="color: #0048ad;"><strong>Best Laminectomy Surgeons in India</strong></span></h3>
 <ul>
-<li><a href="https://crossborderscare.com/dr-ashwani-mainchand-orthopaedics-surgeon/"><strong>Dr Ashwani Maichand</strong></a> – Director Orthopedic &amp; Minimal Access Spine Surgery at CK Birla Hospital.</li>
-<li><a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><strong> Arun Saroha</strong></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</li>
-<li><a href="https://crossborderscare.com/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</li>
-<li><a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong> Sandeep Vaishya</strong></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</li>
-<li><a href="https://crossborderscare.com/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong> </a>– Head – Ortho Spine Surgery, Artemis Hospitals</li>
-<li><a href="https://crossborderscare.com/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals</li>
-<li><a href="https://crossborderscare.com/dr-vineesh-mathur-spine-surgeon/"><strong> Vineesh Mathur</strong></a> – Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram</li>
+<li><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/"><strong>Dr Ashwani Maichand</strong></a> – Director Orthopedic &amp; Minimal Access Spine Surgery at CK Birla Hospital.</li>
+<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong> Arun Saroha</strong></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</li>
+<li><a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</li>
+<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong> Sandeep Vaishya</strong></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</li>
+<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong> </a>– Head – Ortho Spine Surgery, Artemis Hospitals</li>
+<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals</li>
+<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong> Vineesh Mathur</strong></a> – Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram</li>
 </ul>
 <h3><span style="color: #0048ad;"><strong>Best Laminectomy Hospitals in India</strong></span></h3>
 <ul>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/ck-birla-hospital/">CK Birla Hospital , Delhi</a></li>
-<li><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
+<li><a href="#/ck-birla-hospital/">CK Birla Hospital , Delhi</a></li>
+<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Cost of Laminectomy Treatment in India </strong></span></h2>
 <p>A laminectomy is a surgical procedure that removes a part of the spinal bone called lamina which is also known as the roof of the spinal cord. The surgery has evolved over the years in India due to minimally invasive techniques and technology.</p>
@@ -3699,23 +3697,23 @@ We score over others because our company’s ‘treatment consultants’ are med
 <td><b>Cost</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/metro-hospital-faridabad/">Metro Hospital</a></td>
+<td><a href="#/metro-hospital-faridabad/">Metro Hospital</a></td>
 <td>4000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td>6500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
+<td><a href="#/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
 <td>5000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
+<td><a href="#/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
 <td>4500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td>4500$</td>
 </tr>
 </tbody>
@@ -3750,7 +3748,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tr>
 </tbody>
 </table>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
 <p>● Arranging visa<br>
 ● Finding the best hospital<br>
 ● Surgical package negotiation on your behalf<br>
@@ -3764,7 +3762,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
 <p><strong>Success rate </strong></p>
 <p>India boasts a 99% success rate for kyphoplasty procedures.</p>
-<p><strong>Get back to living your best life with Cross Border Care value-for-money Medical Tourism Packages.</strong></p>
+<p><strong>Get back to living your best life with Medihelp Global  value-for-money Medical Tourism Packages.</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Laminectomy Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -3822,22 +3820,22 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>India boasts a 99% success rate for TLIF procedures, cementing its reputation as a leader in spinal surgery.</p>
 <h2><span style="color: #0048ad;"><strong>Top TLIF surgeons&nbsp; in India</strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong>&nbsp;</a>– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</li>
-<li><a href="https://crossborderscare.com/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>&nbsp;,Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></li>
-<li><a href="https://crossborderscare.com/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
-<li><a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></li>
-<li><a href="https://crossborderscare.com/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></li>
-<li><a href="https://crossborderscare.com/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></li>
-<li><a href="https://crossborderscare.com/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
+<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong>&nbsp;</a>– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</li>
+<li><a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>&nbsp;,Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></li>
+<li><a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
+<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></li>
+<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></li>
+<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></li>
+<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top hospitals offering the best TLIF Surgery in India</strong></span></h2>
 <ul>
 <li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
+<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li><a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
 </ul>
 <p><strong>Contact us today to learn more about the best TLIF Surgery Doctors in India</strong></p>
 
@@ -3915,23 +3913,23 @@ We score over others because our company’s ‘treatment consultants’ are med
 </thead>
 <tbody class="m-table__body">
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td class="m-table__data"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td class="m-table__data">$7500</td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></td>
+<td class="m-table__data"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></td>
 <td class="m-table__data">$6500</td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td class="m-table__data"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td class="m-table__data">$5500</td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
+<td class="m-table__data"><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
 <td class="m-table__data">$5000</td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
+<td class="m-table__data"><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
 <td class="m-table__data">$5500</td>
 </tr>
 </tbody>
@@ -3944,22 +3942,22 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>India boasts a 99% success rate for ACDF procedures, cementing its reputation as a leader in spinal surgery.</p>
 <h2><span style="color: #0048ad;"><strong>Top ACDF surgery doctors in Delhi</strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong>&nbsp;</a>– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</li>
-<li><a href="https://crossborderscare.com/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a> , Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></li>
-<li><a href="https://crossborderscare.com/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
-<li><a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></li>
-<li><a href="https://crossborderscare.com/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></li>
-<li><a href="https://crossborderscare.com/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong>&nbsp;</a>– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></li>
-<li><a href="https://crossborderscare.com/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
+<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong>&nbsp;</a>– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</li>
+<li><a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a> , Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></li>
+<li><a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
+<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></li>
+<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></li>
+<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong>&nbsp;</a>– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></li>
+<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top hospitals offering the best ACDF Surgery in India</strong></span></h2>
 <ul>
 <li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
+<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li><a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
 </ul>
 <p><strong>We help you find the Best Cervical Spine Doctors in India</strong></p>
 
@@ -4008,20 +4006,20 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>●&nbsp; Robotic Surgery is safer, accurate and more precise</p>
 <p>●&nbsp; Cosmetically compliant with almost no visible scars</p>
 <h3><span style="color: #0048ad;"><strong>Top PLIF doctors&nbsp;</strong></span></h3>
-<p>● &nbsp;<a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</p>
-<p>● &nbsp;<a href="https://crossborderscare.com/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>&nbsp;,Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</p>
-<p>● &nbsp;<a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</p>
+<p>● &nbsp;<a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</p>
+<p>● &nbsp;<a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>&nbsp;,Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></p>
+<p>● &nbsp;<a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</p>
+<p>● &nbsp;<a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></p>
+<p>● &nbsp;<a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></p>
+<p>● &nbsp;<a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></p>
+<p>● &nbsp;<a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</p>
 <h3><span style="color: #0048ad;"><strong>Top hospitals&nbsp;</strong></span></h3>
 <p>● &nbsp;<a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
-<p>● &nbsp;<a href="https://crossborderscare.com/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></p>
+<p>● &nbsp;<a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></p>
+<p>● &nbsp;<a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></p>
+<p>● &nbsp;<a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
+<p>● &nbsp;<a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
+<p>● &nbsp;<a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></p>
 <h2><span style="color: #0048ad;"><strong>Approximate Cost of PLIF Surgery in India</strong></span></h2>
 <p>The cost of&nbsp; robotic PLIF surgery is less in India as compared to western countries and depends on the following factors:</p>
 <p><strong>Hospital and Location</strong></p>
@@ -4058,23 +4056,23 @@ We score over others because our company’s ‘treatment consultants’ are med
 <td><b>Cost</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
+<td><a href="#/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
 <td>6500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td>9000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
+<td><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
 <td>5000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
+<td><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
 <td>5500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td>5500$</td>
 </tr>
 </tbody>
@@ -4109,7 +4107,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tr>
 </tbody>
 </table>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
 <p>● Arranging visa<br>
 ● Finding the best hospital<br>
 ● Surgical package negotiation on your behalf<br>
@@ -4159,20 +4157,20 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>● Avoiding More Extensive Surgery</p>
 <p>● Long-term Relief</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors for Spinal Decompression Surgery in India</strong></span></h2>
-<p>● <a href="https://crossborderscare.com/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</p>
-<p>● <a href="https://crossborderscare.com/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>, Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi, has <strong>36 years of experience.</strong></p>
-<p>● <a href="https://crossborderscare.com/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</p>
-<p>● <a href="https://crossborderscare.com/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong>&nbsp;</a>– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></p>
-<p>● <a href="https://crossborderscare.com/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></p>
-<p>● <a href="https://crossborderscare.com/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></p>
-<p>● <a href="https://crossborderscare.com/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</p>
+<p>● <a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</p>
+<p>● <a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>, Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi, has <strong>36 years of experience.</strong></p>
+<p>● <a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</p>
+<p>● <a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong>&nbsp;</a>– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></p>
+<p>● <a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></p>
+<p>● <a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></p>
+<p>● <a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals for Spinal Decompression Surgery in India</strong></span></h2>
 <p>● Indraprastha Apollo Hospital</p>
 <p>● <a href="https://www.isiconline.org/">Indian Spinal Injuries Center</a></p>
-<p>● <a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></p>
-<p>●&nbsp;<a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
-<p>● <a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
-<p>● <a href="https://crossborderscare.com/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></p>
+<p>● <a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></p>
+<p>●&nbsp;<a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
+<p>● <a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
+<p>● <a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></p>
 <h2><span style="color: #0048ad;">Cost of Spinal Decompression Surgery in India</span></h2>
 <p>Pain in the spine can be relieved in two ways, either by stabilizing the structure of the spine or by releasing the pressure on the nerves. Spine decompression surgery is a therapy that relieves the pressure on the neural components of your spine, thus providing you relief from back pain.</p>
 <h3><strong>Here we will discuss the factors affecting the cost of spinal decompression in India:&nbsp;</strong></h3>
@@ -4198,23 +4196,23 @@ We score over others because our company’s ‘treatment consultants’ are med
 <td><b>Cost</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
+<td><a href="#/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
 <td>5000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td>6000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
+<td><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
 <td>4500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
+<td><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
 <td>4500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td>4800$</td>
 </tr>
 </tbody>
@@ -4249,7 +4247,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tr>
 </tbody>
 </table>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
 <p>● Arranging visa<br>
 ● Finding the best hospital<br>
 ● Surgical package negotiation on your behalf<br>
@@ -4263,7 +4261,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
 <p><strong>Success rate </strong></p>
 <p>India boasts a 99% success rate for Spinal Decompression Surgery.</p>
-<h3><span style="color: #0048ad;">A tailored medical tourism package by Cross Border Care assures the care you deserve.</span></h3>
+<h3><span style="color: #0048ad;">A tailored medical tourism package by Medihelp Global  assures the care you deserve.</span></h3>
 <p><strong>Let us find the best Spinal Decompression surgery doctors in India for you to get the highest quality medical care at an affordable price.</strong></p>
 
 		</div>
@@ -4276,7 +4274,7 @@ We score over others because our company’s ‘treatment consultants’ are med
     data: `<div class="wpb_wrapper">
 			<p>A <strong>spinal tumor </strong>is a growth that develops in the spinal column, cord, nerves, or bones. This type of tumor affects vertebrae in the spine and is hence also known as a vertebral tumor. Due to unnoticeable symptoms, this tumor is often diagnosed late.</p>
 <p>Malignant or benign spinal tumors are also possible. Your spinal cord tissues may get harmed if the tumor spreads further. Primary spinal tumors first appear in your spine or spinal cord. Metastatic or secondary tumors are the result of cancer migrating from your spine to another part of your body.</p>
-<p>If you are diagnosed with this type of cancer, you will have to have <strong><u>spinal tumor surgery in India.</u></strong>&nbsp;The cost of surgery in India is reasonable compared to other countries. Our country is known for providing cutting-edge treatments and reasonable prices. Here at Cross Border Care, the best <strong><u>medical consultants in India</u></strong>, let us see how you can get spinal tumor treatment in India.</p>
+<p>If you are diagnosed with this type of cancer, you will have to have <strong><u>spinal tumor surgery in India.</u></strong>&nbsp;The cost of surgery in India is reasonable compared to other countries. Our country is known for providing cutting-edge treatments and reasonable prices. Here at Medihelp Global , the best <strong><u>medical consultants in India</u></strong>, let us see how you can get spinal tumor treatment in India.</p>
 <h2><strong>Understanding Spinal Tumor</strong></h2>
 <p>A spinal tumor is an abnormal mass of cell growth that develops inside or outside the spinal cord. A spinal cord can develop in:</p>
 <p>● Bones that form the spine</p>
@@ -4400,30 +4398,30 @@ We score over others because our company’s ‘treatment consultants’ are med
 <td><b>Cost</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Max Healthcare</a></td>
+<td><a href="#/fortis-memorial-research-institute/">Max Healthcare</a></td>
 <td>9000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td>12000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/marengo-asia-hospital-faridabad-india/">Marengo Asia Hospital</a></td>
+<td><a href="#/marengo-asia-hospital-faridabad-india/">Marengo Asia Hospital</a></td>
 <td>9000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
+<td><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
 <td>10000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td>8500$</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Why is India the best destination for spinal tumor surgery? </strong></p>
 <p>In developed countries, expensive spinal tumor surgery and long waiting times are a great matter of concern.</p>
-<p>India is an emerging hub for spine health, offering high-quality care at affordable prices. With Cross-Border Care, you can now get access to the<strong><u> best doctors and hospitals for spinal tumor surgery. </u></strong></p>
+<p>India is an emerging hub for spine health, offering high-quality care at affordable prices. With Medihelp Global Global, you can now get access to the<strong><u> best doctors and hospitals for spinal tumor surgery. </u></strong></p>
 <h2><strong>What Is the Success Rate for Spinal Tumor Surgery in India?</strong></h2>
 <p>The <strong><u>success rate for spinal tumor surgery in India</u></strong>&nbsp;is over 80%.</p>
 <p>The survival rate varies significantly according to the type of tumor: the overall survival rate was estimated to be around 73%.</p>
@@ -4474,9 +4472,9 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>On average, a 2<span style="text-decoration: underline;"><strong>D Electrophysiology Study &amp; Radio Frequency Ablation Cost in India</strong> </span>is around $2500, whereas a 3D Electrophysiology Study &amp; Radio Frequency Ablation Cost in India is around $ 4000.</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors for EPS &amp; RFA Treatment in India</strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-ashok-seth-cardiologist-at-fortis-escort-hospital/">Dr Ashok Seth</a> – CHAIRMAN CARDIAC SCIENCE -Fortis Escorts Heart Institute</li>
-<li><a href="https://crossborderscare.com/dr-kuldeep-arora-interventional-cardiologist-in-india/">Dr Kuldeep Arora</a> – Senior Consultant Cardiologist -Artemis Hospital</li>
-<li><a href="https://crossborderscare.com/dr-pradeep-jain-interventional-cardiologist-in-india/">Dr Pradeep Jain</a> – Senior Cardiologist at Indraprastha Apollo Hospital</li>
+<li><a href="#/dr-ashok-seth-cardiologist-at-fortis-escort-hospital/">Dr Ashok Seth</a> – CHAIRMAN CARDIAC SCIENCE -Fortis Escorts Heart Institute</li>
+<li><a href="#/dr-kuldeep-arora-interventional-cardiologist-in-india/">Dr Kuldeep Arora</a> – Senior Consultant Cardiologist -Artemis Hospital</li>
+<li><a href="#/dr-pradeep-jain-interventional-cardiologist-in-india/">Dr Pradeep Jain</a> – Senior Cardiologist at Indraprastha Apollo Hospital</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>EPS AND RFA Treatment in India: Factors Affecting the Cost</b></span></h2>
 <p><span style="font-weight: 400;">Electrophysiology, or EPS, involves evaluating the heart’s electrical system to identify abnormal rhythms.&nbsp;</span></p>
@@ -4607,7 +4605,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tr>
 </tbody>
 </table>
-<p><b>To know more about our services, please write to us at </b><a href="mailto:info@crtossborderscare.com"><b>info@crossborderscare.com</b></a></p>
+<p><b>To know more about our services, please write to us at </b><a href="mailto:info@crtossborderscare.com"><b>info@Medihelp Globalglobal.com</b></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best EPS &amp; RFA Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -4670,11 +4668,11 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p><strong>The success rate of the surgery</strong> – 99%</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors&nbsp; for ICD Surgery in India</strong></span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/dr-anil-saxena-interventional-cardiologist-in-india/"><strong>Dr Anil Saxena</strong></a> – Electrophysiology and Cardiac Pacing, Fortis Escorts Heart Institute, Okhla Road, New Delhi</li>
-<li><a href="https://crossborderscare.com/dr-kuldeep-arora-interventional-cardiologist-in-india/"><strong>Dr Kuldeep Arora</strong></a> – Senior Consultant Cardiologist -Artemis Hospital</li>
-<li><a href="https://crossborderscare.com/dr-t-s-kler-interventional-cardiologist/"><strong>Dr TS Kler</strong></a> – Chairman Interventional Cardiology – Fortis Memorial Research Institute</li>
-<li><a href="https://crossborderscare.com/dr-pradeep-jain-interventional-cardiologist-in-india/"><strong>Dr Pradeep Jain</strong> </a>– Senior Consultant Cardiology – Indraprastha Apollo Hospital</li>
-<li><a href="https://crossborderscare.com/dr-ashok-seth-cardiologist-at-fortis-escort-hospital/"><strong>Dr Ashok Seth</strong></a> -Chairman – Fortis Escorts Heart Institute &amp; Chairman – Fortis Healthcare Medical Council</li>
+<li><a href="#/dr-anil-saxena-interventional-cardiologist-in-india/"><strong>Dr Anil Saxena</strong></a> – Electrophysiology and Cardiac Pacing, Fortis Escorts Heart Institute, Okhla Road, New Delhi</li>
+<li><a href="#/dr-kuldeep-arora-interventional-cardiologist-in-india/"><strong>Dr Kuldeep Arora</strong></a> – Senior Consultant Cardiologist -Artemis Hospital</li>
+<li><a href="#/dr-t-s-kler-interventional-cardiologist/"><strong>Dr TS Kler</strong></a> – Chairman Interventional Cardiology – Fortis Memorial Research Institute</li>
+<li><a href="#/dr-pradeep-jain-interventional-cardiologist-in-india/"><strong>Dr Pradeep Jain</strong> </a>– Senior Consultant Cardiology – Indraprastha Apollo Hospital</li>
+<li><a href="#/dr-ashok-seth-cardiologist-at-fortis-escort-hospital/"><strong>Dr Ashok Seth</strong></a> -Chairman – Fortis Escorts Heart Institute &amp; Chairman – Fortis Healthcare Medical Council</li>
 </ol>
 <h2><span style="color: #0048ad;"><b>AICD Implant Surgery in India: Factors Affecting the Cost</b></span></h2>
 <p><span style="font-weight: 400;">An <span style="text-decoration: underline;"><strong>Automatic Implantable Cardioverter Defibrillator</strong> </span>is a permanent electronic device that is implanted into the chest of the person to monitor the abnormally beating heart ( one that beats too slow, too fast, or irregularly).&nbsp;</span></p>
@@ -4815,7 +4813,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tr>
 </tbody>
 </table>
-<p><span style="font-weight: 400;">To learn more about our services, please write to us at </span><a href="mailto:info@crossborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">To learn more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best AICD Implantation Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -4855,17 +4853,17 @@ We score over others because our company’s ‘treatment consultants’ are med
 <h2><span style="color: #0048ad;">Procedure for PTCA surgery?</span></h2>
 <p>The<span style="text-decoration: underline;"><strong> PTCA surgery in Delhi</strong> </span>begins with the doctor providing local anesthesia into the groin area. Afterward, a guided wire with the introducer is placed inside the femoral artery. Next, the diagnostic catheter is advanced into the blood vessel with the help of an introducer. Once the catheter reaches the aorta, the guided wire is removed, and then the doctor injects dye and takes an X-ray.&nbsp; Depending upon the severity of the blockage, the doctor may use the balloon or stent placement procedure to widen the passage for blood flow. Before removing the catheter, the doctor may take the final x-ray to check for changes in the arteries.</p>
 <h3><span style="color: #0048ad;"><strong>Top Doctors for PTCA Surgery in India</strong></span></h3>
-<p>● <a href="https://crossborderscare.com/dr-naresh-trehan-cardiac-surgeon-at-medanta-hospital/">Dr Naresh Trehan</a> – Chairman &amp; Managing Director, Medanta Hospital</p>
-<p>● <a href="https://crossborderscare.com/dr-ashok-seth-cardiologist-at-fortis-escort-hospital/">Dr Ashok Seth</a> – Chairman Cardiac Science -Fortis Escorts Heart Institute</p>
-<p>● <a href="https://crossborderscare.com/dr-kuldeep-arora-interventional-cardiologist-in-india/">Dr Kuldeep Arora</a> – Senior Consultant Cardiologist -Artemis Hospital</p>
-<p>● <a href="https://crossborderscare.com/dr-t-s-kler-interventional-cardiologist/">Dr TS Kler</a> – Chairman Interventional Cardiology – Fortis Memorial Research Institute</p>
-<p>● <a href="https://crossborderscare.com/dr-pradeep-jain-interventional-cardiologist-in-india/">Dr Pradeep Jain</a> – Senior Consultant Cardiology – Indraprastha Apollo Hospital</p>
+<p>● <a href="#/dr-naresh-trehan-cardiac-surgeon-at-medanta-hospital/">Dr Naresh Trehan</a> – Chairman &amp; Managing Director, Medanta Hospital</p>
+<p>● <a href="#/dr-ashok-seth-cardiologist-at-fortis-escort-hospital/">Dr Ashok Seth</a> – Chairman Cardiac Science -Fortis Escorts Heart Institute</p>
+<p>● <a href="#/dr-kuldeep-arora-interventional-cardiologist-in-india/">Dr Kuldeep Arora</a> – Senior Consultant Cardiologist -Artemis Hospital</p>
+<p>● <a href="#/dr-t-s-kler-interventional-cardiologist/">Dr TS Kler</a> – Chairman Interventional Cardiology – Fortis Memorial Research Institute</p>
+<p>● <a href="#/dr-pradeep-jain-interventional-cardiologist-in-india/">Dr Pradeep Jain</a> – Senior Consultant Cardiology – Indraprastha Apollo Hospital</p>
 <h3><span style="color: #0048ad;"><strong>Top Hospitals for PTCA Surgery in India</strong></span></h3>
 <p>● <a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a></p>
-<p>● <a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
-<p>● <a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></p>
-<p>● <a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></p>
-<p>● <a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
+<p>● <a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
+<p>● <a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></p>
+<p>● <a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></p>
+<p>● <a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
 <h2><span style="color: #0048ad;"><strong>Cost of PTCA Surgery In India</strong></span></h2>
 <p>Blood is continuously supplied to the heart for its healthy functioning through the arteries. A smooth supply of blood is restricted when the arteries harden due to the deposition of plaque on them. Coronary angioplasty is a medical procedure prescribed to patients who are suffering from this condition.</p>
 <p>● The average cost of <strong>Percutaneous Transluminal Coronary Angioplasty (PTCA) </strong>is very high in Western countries.</p>
@@ -4909,23 +4907,23 @@ We score over others because our company’s ‘treatment consultants’ are med
 <td><b>Cost</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
+<td><a href="#/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
 <td>6500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
 <td>9000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
+<td><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
 <td>5000$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
+<td><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
 <td>5500$</td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
 <td>5500$</td>
 </tr>
 </tbody>
@@ -4967,7 +4965,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p><strong>Success rate</strong></p>
 <p>India boasts a 99% success rate for PTCA Surgery.</p>
 <p>&nbsp;</p>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
 <p>● Arranging visa<br>
 ● Finding the best hospital<br>
 ● Surgical package negotiation on your behalf<br>
@@ -4983,7 +4981,7 @@ We score over others because our company’s ‘treatment consultants’ are med
   },
   {
     name: "tavi-surgery",
-    img: "/treatment/tavi-surgery",
+    img: "/treatment/tavi-surgery.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">TAVI/TAVR Surgery: Navigating the Future of Heart Valve Replacement Surgery in India</span></h2>
 <p><span style="color: #0048ad;"><strong>TAVI </strong></span>is the medical abbreviation of transcatheter aortic valve implantation procedure. The TAVI/TAVR surgery is performed to improve the blood flow in the heart by replacing the aortic valve, which does not open properly.</p>
@@ -5089,24 +5087,24 @@ Every surgery comes with some risks. The common risks associated with the proced
 <td width="136"><strong>Cost </strong><strong>(American Implant)</strong></td>
 </tr>
 <tr>
-<td width="239"><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi </a>(JCI accredited )</td>
-<td width="164"><a href="https://crossborderscare.com/dr-viveka-kumar/">Dr Viveka Kumar</a> – Director of Interventional Cardiology.</td>
+<td width="239"><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi </a>(JCI accredited )</td>
+<td width="164"><a href="#/dr-viveka-kumar/">Dr Viveka Kumar</a> – Director of Interventional Cardiology.</td>
 <td width="136"><strong>31000$</strong></td>
 </tr>
 <tr>
-<td width="239"><a href="https://crossborderscare.com/fortis-escorts-heart-institute/">Fortis Escorts Research Institute</a>&nbsp;(JCI accredited )</td>
-<td width="164"><a href="https://crossborderscare.com/dr-atul-mathur-interventional-cardiac-surgeon-in-india/">Dr Atul Mathur- </a>(Executive Director- Cardiology</td>
+<td width="239"><a href="#/fortis-escorts-heart-institute/">Fortis Escorts Research Institute</a>&nbsp;(JCI accredited )</td>
+<td width="164"><a href="#/dr-atul-mathur-interventional-cardiac-surgeon-in-india/">Dr Atul Mathur- </a>(Executive Director- Cardiology</td>
 <td width="136"><strong>41000$ </strong></td>
 </tr>
 <tr>
-<td width="239"><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a>s (NABH accredited )</td>
-<td width="164"><a href="https://crossborderscare.com/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a> – Director of Cardiac Sciences</td>
+<td width="239"><a href="#/manipal-hospital/">Manipal Hospital</a>s (NABH accredited )</td>
+<td width="164"><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a> – Director of Cardiac Sciences</td>
 <td width="136"><strong>45000$ </strong></td>
 </tr>
 </thead>
 </table>
 <p><b>How can you find the best doctor for TAVI/TAVR surgery in India? What is the step-by-step process?</b></p>
-<p><span style="text-decoration: underline;"><strong>Cross Border Care is</strong></span> here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="text-decoration: underline;"><strong>TAVI surgery in India</strong></span>, fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>
+<p><span style="text-decoration: underline;"><strong>Medihelp Global  is</strong></span> here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="text-decoration: underline;"><strong>TAVI surgery in India</strong></span>, fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best TAVI Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
@@ -5118,7 +5116,7 @@ Every surgery comes with some risks. The common risks associated with the proced
 			<h2><span style="color: #0048ad;"><strong>Pacemaker Surgery in India: Heart Rhythm Restored</strong></span></h2>
 <p>The human heart pulsates about 72 beats per minute. It generates electrical impulses from the sinoatrial node to perform constant and rhythmic pulsations and effectively pump blood. When this node stops creating electrical impulses, an artificial and electrically charged medical device is implanted in the chest wall to mimic the function of the SA node.</p>
 <p>This electrical device is called a pacemaker. Its primary role is to maintain the heartbeat rhythm and avoid arrhythmias.</p>
-<p>Cross Border Care, the best medical consultants in India, will help you get the finest<strong> pacemaker surgery in India.</strong> Keep reading to learn how!!!</p>
+<p>Medihelp Global , the best medical consultants in India, will help you get the finest<strong> pacemaker surgery in India.</strong> Keep reading to learn how!!!</p>
 <h2><strong><span style="color: #0048ad;">What is a pacemaker?</span> </strong></h2>
 <p>A pacemaker is a small implantable medical device that helps regulate heart rhythm. Its major function is to ensure that the heart neither beats too fast nor too slow. The pacemaker is placed under the skin below the collar bone and then connected to the heart chambers by lead wires running through a blood vessel. This <strong>pacemaker surgery </strong>usually takes 1 to 2 hours.</p>
 <p>It consists of the following parts:</p>
@@ -5141,7 +5139,7 @@ Every surgery comes with some risks. The common risks associated with the proced
 <li>Cardiac arrest</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Pacemaker Surgery in Delhi: Understanding the Types of Pacemaker</strong></span></h2>
-<p><strong>Cross Border Care</strong> will look at your medical reports, and after consulting the<strong> best pacemaker implantation doctors in India, </strong>we will suggest the best pacemaker for your condition. Different types of pacemakers are:</p>
+<p><strong>Medihelp Global </strong> will look at your medical reports, and after consulting the<strong> best pacemaker implantation doctors in India, </strong>we will suggest the best pacemaker for your condition. Different types of pacemakers are:</p>
 <p><strong>Single-chamber pacemaker: </strong>This device involves only one lead wire connecting the pulse generator to one heart chamber. It is mostly performed for patients who require pacing support for the right ventricle only.</p>
 <p><strong>Dual Chamber Pacemaker: </strong>In this type of <strong>pacemaker surgery in India</strong>, two lead wires connect the Pulse Generator to the right atrium and ventricle, which helps coordinate the contraction of both chambers.</p>
 <p><strong>Biventricular Pacemaker: </strong>This is recommended for people with heart failure whose electrical system demands repair. A biventricular pacemaker paces both ventricles simultaneously, increasing the blood pumped by the heart. This type of treatment is also known as cardiac resynchronization therapy.</p>
@@ -5230,7 +5228,7 @@ Every surgery comes with some risks. The common risks associated with the proced
 <h2><span style="color: #0048ad;">What is your life expectancy after pacemaker surgery?</span></h2>
 <p>It will depend on your age, overall health, and any co-morbidity you are dealing with. Patients with less severe health concerns are expected to live longer after the pacemaker implantation in India.</p>
 <h2><span style="color: #0048ad;">Precautions to take care of after pacemaker implantation in Delhi</span></h2>
-<p><strong>Cross Border Care </strong>suggests the following precautions:</p>
+<p><strong>Medihelp Global  </strong>suggests the following precautions:</p>
 <p>● Always carry your ID card that states that you have a pacemaker.<br>
 ● Let screeners know you have a pacemaker before going through airport security detectors.<br>
 ● It would help if you avoid areas with large magnetic fields like junkyards.<br>
@@ -5245,28 +5243,28 @@ Every surgery comes with some risks. The common risks associated with the proced
 <td><b>Doctor Name&nbsp;</b></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/fortis-escorts-heart-institute/"><span style="font-weight: 400;">Fortis Escort Heart Institute&nbsp;</span></a></td>
-<td><a href="https://crossborderscare.com/dr-aparna-jaswal-interventional-cardiologist-in-india/">Dr. Aparna Jaiswal</a></td>
+<td><a href="#/fortis-escorts-heart-institute/"><span style="font-weight: 400;">Fortis Escort Heart Institute&nbsp;</span></a></td>
+<td><a href="#/dr-aparna-jaswal-interventional-cardiologist-in-india/">Dr. Aparna Jaiswal</a></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/asian-hospital-faridabad-india/"><span style="font-weight: 400;">Asian Hospital</span></a></td>
-<td><a href="https://crossborderscare.com/dr-prof-mohan-nair-cardiologist/">Dr. Prof Mohan Nair</a></td>
+<td><a href="#/asian-hospital-faridabad-india/"><span style="font-weight: 400;">Asian Hospital</span></a></td>
+<td><a href="#/dr-prof-mohan-nair-cardiologist/">Dr. Prof Mohan Nair</a></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/medanta-hospital-gurgaon-india/">Medanta The Medicity</a></td>
-<td><a href="https://crossborderscare.com/dr-naresh-trehan-cardiac-surgeon-at-medanta-hospital/">Dr. Naresh Trehan</a></td>
+<td><a href="#/medanta-hospital-gurgaon-india/">Medanta The Medicity</a></td>
+<td><a href="#/dr-naresh-trehan-cardiac-surgeon-at-medanta-hospital/">Dr. Naresh Trehan</a></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td><a href="https://crossborderscare.com/dr-vanita-arora/">Dr. Vanita Arora</a></td>
+<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td><a href="#/dr-vanita-arora/">Dr. Vanita Arora</a></td>
 </tr>
 <tr>
-<td><a href="https://crossborderscare.com/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
-<td><a href="https://crossborderscare.com/dr-vivek-chaturvedi-cardiologist/">Dr. Vivek Chaturvedi</a></td>
+<td><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
+<td><a href="#/dr-vivek-chaturvedi-cardiologist/">Dr. Vivek Chaturvedi</a></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with:</strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:</strong></p>
 <p>○ Arranging visa<br>
 ○ Finding the best hospital<br>
 ○ Surgical package negotiation on your behalf<br>
@@ -5274,7 +5272,7 @@ Every surgery comes with some risks. The common risks associated with the proced
 ○ Medicines at reasonable rates<br>
 ○ Affordable options to stay in India<br>
 ○ Over saving of 15% treatment cost through us</p>
-<p>To know more about our services, please write to us at info@crossborderscare.com</p>
+<p>To know more about our services, please write to us at info@Medihelp Globalglobal.com</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Pacemaker Implantation Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
@@ -5385,19 +5383,19 @@ Every surgery comes with some risks. The common risks associated with the proced
 </table>
 <h2><span style="color: #0048ad;"><strong>Top doctors in India offering liver transplant surgery in India&nbsp;</strong></span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/dr-arvinder-singh-soin-liver-transplant-surgeon/"><strong>Dr Arinder Singh Soin</strong></a>, working as Chairman Liver Transplant Unit at Medanta the Medicity, experience 28 years.</li>
-<li><a href="https://crossborderscare.com/dr-subhash-gupta-liver-transplant-surgeon-at-max-healthcare/"><strong>Dr Prof Subhash Gupta</strong></a>, HOD Liver Transplant and Hepatobiliary unit at Max Super Speciality Hospital, Experience 22 years.</li>
-<li><a href="https://crossborderscare.com/dr-vivek-vij-liver-transplant-surgeon-at-fortis-healthcare/"><strong>Dr Vivek Vij</strong></a>, Head Liver Transplant Department at Fortis Group of hospitals, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-neerav-goyal-head-senior-consultant-apollo-liver-transplant/"><strong>Dr Neerav Goel</strong></a> working as senior consultant liver transplant and hepatobiliary unit at Indraprastha Apollo Hospital New Delhi, experience 15 years.</li>
-<li><strong><a href="https://crossborderscare.com/dr-shailendra-lalwani-liver-transplant-surgeon-at-manipal-hospital/">Dr Shailendra Lalwani</a>,</strong> Director Liver Transplant at Manipal Hospital ,experience 15 years</li>
+<li><a href="#/dr-arvinder-singh-soin-liver-transplant-surgeon/"><strong>Dr Arinder Singh Soin</strong></a>, working as Chairman Liver Transplant Unit at Medanta the Medicity, experience 28 years.</li>
+<li><a href="#/dr-subhash-gupta-liver-transplant-surgeon-at-max-healthcare/"><strong>Dr Prof Subhash Gupta</strong></a>, HOD Liver Transplant and Hepatobiliary unit at Max Super Speciality Hospital, Experience 22 years.</li>
+<li><a href="#/dr-vivek-vij-liver-transplant-surgeon-at-fortis-healthcare/"><strong>Dr Vivek Vij</strong></a>, Head Liver Transplant Department at Fortis Group of hospitals, experience 20 years.</li>
+<li><a href="#/dr-neerav-goyal-head-senior-consultant-apollo-liver-transplant/"><strong>Dr Neerav Goel</strong></a> working as senior consultant liver transplant and hepatobiliary unit at Indraprastha Apollo Hospital New Delhi, experience 15 years.</li>
+<li><strong><a href="#/dr-shailendra-lalwani-liver-transplant-surgeon-at-manipal-hospital/">Dr Shailendra Lalwani</a>,</strong> Director Liver Transplant at Manipal Hospital ,experience 15 years</li>
 </ol>
 <h2><span style="color: #0048ad;"><strong>Top hospitals&nbsp; Offering liver transplant surgery in India&nbsp;</strong></span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a></li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a></li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
+<li><a href="#/manipal-hospital/">Manipal Hospital</a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a></li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
 </ol>
 <h2><strong><span style="color: #0048ad;">What is the cost of ABO Compatible Liver Transplant Surgery in India?</span> </strong></h2>
 <p>Cost of CIS (Uzbekistan, Tajikistan, Kyrgyzstan etc.) countries is less than the rest of the world due to its high volume of patients. Following is the cost of LTP in top hospitals.</p>
@@ -5415,27 +5413,27 @@ Every surgery comes with some risks. The common risks associated with the proced
 </tr>
 <tr>
 <td width="72">2</td>
-<td width="310"><a href="https://crossborderscare.com/max-hospital-gurgaon/">Max Hospital</a> (JCI accredited)</td>
+<td width="310"><a href="#/max-hospital-gurgaon/">Max Hospital</a> (JCI accredited)</td>
 <td style="text-align: center;" width="194">24000</td>
 </tr>
 <tr>
 <td width="72">3</td>
-<td width="310"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Hospital</a> (NABH accredited)</td>
+<td width="310"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a> (NABH accredited)</td>
 <td style="text-align: center;" width="194">23000</td>
 </tr>
 <tr>
 <td width="72">4</td>
-<td width="310"><a href="https://crossborderscare.com/jaypee-hospital-noida-india/">Jaypee Hospital</a> (NABH accredited)</td>
+<td width="310"><a href="#/jaypee-hospital-noida-india/">Jaypee Hospital</a> (NABH accredited)</td>
 <td style="text-align: center;" width="194">23000</td>
 </tr>
 <tr>
 <td width="72">5</td>
-<td width="310"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta, the Medicity</a> (JCI accredited)</td>
+<td width="310"><a href="#/medanta-the-medicity-eye-department/">Medanta, the Medicity</a> (JCI accredited)</td>
 <td style="text-align: center;" width="194">31500</td>
 </tr>
 <tr>
 <td width="72">6</td>
-<td width="310"><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a></td>
+<td width="310"><a href="#/manipal-hospital/">Manipal Hospital</a></td>
 <td style="text-align: center;" width="194">26000</td>
 </tr>
 </tbody>
@@ -5450,32 +5448,32 @@ Every surgery comes with some risks. The common risks associated with the proced
 </tr>
 <tr>
 <td width="72">1</td>
-<td width="310"><a href="https://crossborderscare.com/apollo-hospital/">Apollo Hospital</a>s (JCI accredited)</td>
+<td width="310"><a href="#/apollo-hospital/">Apollo Hospital</a>s (JCI accredited)</td>
 <td style="text-align: center;" width="194">28000</td>
 </tr>
 <tr>
 <td width="72">2</td>
-<td width="310"><a href="https://crossborderscare.com/max-hospital-gurgaon/">Max Hospital</a> (JCI accredited)</td>
+<td width="310"><a href="#/max-hospital-gurgaon/">Max Hospital</a> (JCI accredited)</td>
 <td style="text-align: center;" width="194">28000</td>
 </tr>
 <tr>
 <td width="72">3</td>
-<td width="310"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Hospital</a> (NABH accredited)</td>
+<td width="310"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a> (NABH accredited)</td>
 <td style="text-align: center;" width="194">26000</td>
 </tr>
 <tr>
 <td width="72">4</td>
-<td width="310"><a href="https://crossborderscare.com/jaypee-hospital-noida-india/">Jaypee Hospital</a> (NABH accredited)</td>
+<td width="310"><a href="#/jaypee-hospital-noida-india/">Jaypee Hospital</a> (NABH accredited)</td>
 <td style="text-align: center;" width="194">23000</td>
 </tr>
 <tr>
 <td width="72">5</td>
-<td width="310"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta, the Medicity</a> (JCI accredited)</td>
+<td width="310"><a href="#/medanta-the-medicity-eye-department/">Medanta, the Medicity</a> (JCI accredited)</td>
 <td style="text-align: center;" width="194">27000</td>
 </tr>
 <tr>
 <td width="72">6</td>
-<td width="310"><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a></td>
+<td width="310"><a href="#/manipal-hospital/">Manipal Hospital</a></td>
 <td style="text-align: center;" width="194">27000</td>
 </tr>
 </tbody>
@@ -5501,7 +5499,7 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p><strong>Cost of robotic liver transplant surgery to take out donor’s graft is USD 5000.</strong></p>
 <p><span style="color: #0048ad;"><strong>ABO incompatible LTP will additionally cost you around 10000$ as patients </strong><strong>needs to undergo plasmapheresis therapy that too depends of antibody titer.&nbsp;</strong></span></p>
 <p><span style="color: #0048ad;"><strong>What all documents needed prior to organ transplant in India ?</strong></span></p>
-<p>In India, solid organ transplantation is regulated by a law known as Transplantation of Human Organs Act, 1994. This Act is enacted to prevent medical ethics and commercialization of human organs. All major Indian hospitals like Fortis, <a href="https://crossborderscare.com/apollo-hospital/"><strong>Apollo</strong></a>, <strong><a href="https://crossborderscare.com/max-hospital-gurgaon/">Max</a>,<a href="https://crossborderscare.com/medanta-the-medicity-eye-department/"> Medanta</a>,</strong> <a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/"><strong>Artemis</strong></a> and BLK have statutory licenses to carry out human organs transplantation in accordance of the Act. This acts permits transplants only when donor and recipient meet certain criterion, monitored by transplant Authorisation committee set up by Govt. of India. The Patients are advised to go through the table below very carefully, properly compile all duly attested documents before traveling their home country /coming to India. The Authorization Committee may not grant permission to carry organ transplant surgery in case of any discrepancy observed by the Authorization Committee in your documents. Other set of documents are compiled by the hospital legal cell on your arrival.</p>
+<p>In India, solid organ transplantation is regulated by a law known as Transplantation of Human Organs Act, 1994. This Act is enacted to prevent medical ethics and commercialization of human organs. All major Indian hospitals like Fortis, <a href="#/apollo-hospital/"><strong>Apollo</strong></a>, <strong><a href="#/max-hospital-gurgaon/">Max</a>,<a href="#/medanta-the-medicity-eye-department/"> Medanta</a>,</strong> <a href="#/artemis-hospital-gurgaon-india/"><strong>Artemis</strong></a> and BLK have statutory licenses to carry out human organs transplantation in accordance of the Act. This acts permits transplants only when donor and recipient meet certain criterion, monitored by transplant Authorisation committee set up by Govt. of India. The Patients are advised to go through the table below very carefully, properly compile all duly attested documents before traveling their home country /coming to India. The Authorization Committee may not grant permission to carry organ transplant surgery in case of any discrepancy observed by the Authorization Committee in your documents. Other set of documents are compiled by the hospital legal cell on your arrival.</p>
 <p><strong>Who is close relative donor?</strong></p>
 <p>It means grandparents, parents, spouse, sibling, children and grandchildren of donor only. In case of married donors, close relative donor would mean husband or wife.</p>
 <p><strong><span style="color: #0048ad;">Who is 1st degree related donor?</span> </strong></p>
@@ -5634,7 +5632,7 @@ Every surgery comes with some risks. The common risks associated with the proced
 <li>Educational certificates of the Donor.</li>
 <li>Job/employment details of the donor.</li>
 </ol>
-<p><span style="color: #0048ad;"><strong>Seeking “best liver transplant doctors in India “for evidence based treatment in Delhi, India then contact cross border care.&nbsp; And save 15% treatment cost.</strong></span></p>
+<p><span style="color: #0048ad;"><strong>Seeking “best liver transplant doctors in India “for evidence based treatment in Delhi, India then contact Medihelp Global .&nbsp; And save 15% treatment cost.</strong></span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Liver Transplant Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
@@ -5644,7 +5642,7 @@ Every surgery comes with some risks. The common risks associated with the proced
     img: "/treatment/bone-marrow-transplant.webp",
     data: `<div class="wpb_wrapper">
 			<p><span style="font-weight: 400;">A <strong>bone marrow transplant</strong> is a procedure that infuses healthy blood-forming stem cells into your body to treat diseased bone marrow. It is also known as a stem cell transplant. You will need a bone marrow transplant if your bone marrow has stopped working and does not produce healthy blood cells.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Cross Border Care is here with you to give you all the details of bone marrow transplants in India and tell you about the best hospitals and doctors offering this service in India.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Medihelp Global  is here with you to give you all the details of bone marrow transplants in India and tell you about the best hospitals and doctors offering this service in India.&nbsp;</span></p>
 <p><b>What is bone marrow?&nbsp;</b></p>
 <p><span style="font-weight: 400;">A&nbsp; bone marrow is a spongy tissue that is found inside bones. It is where most of the blood cells are made. The blood cells that make other blood cells are called </span><i><span style="font-weight: 400;">stem cells</span></i><span style="font-weight: 400;">. The most primitive of the stem cells is called the </span><i><span style="font-weight: 400;">pluripotent stem cell</span></i><span style="font-weight: 400;">. This is different from other blood cells with regard to the following properties:</span></p>
 <p><b>Renewal.</b><span style="font-weight: 400;"> It is able to reproduce another cell identical to itself.</span></p>
@@ -5806,24 +5804,24 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p>Chemo if needed&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10000 USD</p>
 <h2><span style="color: #0048ad;"><strong>Top doctors in India offering Bone Marrow Transplant</strong></span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/dr-dharma-choudhary-clinical-hematologist-in-india/"><strong><u>Dr Dharma Choudhary</u></strong></a>: Consultant &amp; HOD, Max BLK centre for bone marrow transplant, Delhi, India.</li>
-<li><a href="https://crossborderscare.com/dr-shishir-seth-senior-consultant-haematology-and-bmt-expert/"><strong><u>Dr Shishir Seth</u></strong></a>: Sr. Consultant, bone marrow transplant unit at Indrapratha Apollo Hospital, New Delhi., India.</li>
-<li><a href="https://crossborderscare.com/dr-ashok-kumar-vaid-medical-oncologist-at-medanta-the-medicity/"><strong><u>Dr Ashok Kumar Vaid</u></strong></a> : Chairman, Medical and Haemato Oncology, Cancer Institute at Medanta, The Medicity Hospital, Gurugram, India.</li>
-<li><a href="https://crossborderscare.com/prof-vinod-raina-haematologist-in-india/"><strong><u>Prof&nbsp; Vinod Raina</u></strong></a>: Chairman Institute of Oncosciences at Fortis Memorial Research Institute, Gurugram, India.</li>
-<li><strong><u><a href="https://crossborderscare.com/dr-rahul-bhargava-clinical-haematologist-and-bmt-expert/">Dr Rahul Bhargava</a>:</u></strong> Principal Director Hemato-Oncology at Fortis Memorial Research Institute</li>
-<li><a href="https://crossborderscare.com/dr-satya-prakash-yadav-director-haematoncology-in-medanta-the-medicity-gurgaon/"><strong><u>Dr Satya Prakash Yadav</u></strong></a>: Director Paediatric Hematology &amp; Bone Marrow Transplant Institute at Medanta, The Medicity Hospital, Gurugram, India.</li>
-<li><a href="https://crossborderscare.com/dr-rahul-naithani-heamotologist-senior-heamotologist-bmt-expert/"><strong><u>Dr Rahul Naithani</u></strong></a> : Director , Cancer care , oncology, Bone Marrow Transplant , Hematology and medical oncology at Max Super Specialty Hospital Saket, India.</li>
-<li><a href="https://crossborderscare.com/dr-nandini-choudhury-hazarika/"><strong><u>Dr Nandini C Hazarika</u></strong></a> : Director, pediatric bone marrow transplant unit at Rainbow Children’s Hospital, India.</li>
-<li><a href="https://crossborderscare.com/dr-vikas-dua-pediatric-oncologist-and-hematologist-in-india/"><strong><u>Dr Vikas Duaa</u></strong></a> : Director Pediatric bone marrow transplant &amp; Hematology unit</li>
-<li><a href="https://crossborderscare.com/dr-rakesh-chugh/"><strong><u>Dr. Rakesh Chopra</u></strong></a> : HOD, Medical &amp; Hematological Oncology at Artmemis Hospital, Gurgram, India.</li>
+<li><a href="#/dr-dharma-choudhary-clinical-hematologist-in-india/"><strong><u>Dr Dharma Choudhary</u></strong></a>: Consultant &amp; HOD, Max BLK centre for bone marrow transplant, Delhi, India.</li>
+<li><a href="#/dr-shishir-seth-senior-consultant-haematology-and-bmt-expert/"><strong><u>Dr Shishir Seth</u></strong></a>: Sr. Consultant, bone marrow transplant unit at Indrapratha Apollo Hospital, New Delhi., India.</li>
+<li><a href="#/dr-ashok-kumar-vaid-medical-oncologist-at-medanta-the-medicity/"><strong><u>Dr Ashok Kumar Vaid</u></strong></a> : Chairman, Medical and Haemato Oncology, Cancer Institute at Medanta, The Medicity Hospital, Gurugram, India.</li>
+<li><a href="#/prof-vinod-raina-haematologist-in-india/"><strong><u>Prof&nbsp; Vinod Raina</u></strong></a>: Chairman Institute of Oncosciences at Fortis Memorial Research Institute, Gurugram, India.</li>
+<li><strong><u><a href="#/dr-rahul-bhargava-clinical-haematologist-and-bmt-expert/">Dr Rahul Bhargava</a>:</u></strong> Principal Director Hemato-Oncology at Fortis Memorial Research Institute</li>
+<li><a href="#/dr-satya-prakash-yadav-director-haematoncology-in-medanta-the-medicity-gurgaon/"><strong><u>Dr Satya Prakash Yadav</u></strong></a>: Director Paediatric Hematology &amp; Bone Marrow Transplant Institute at Medanta, The Medicity Hospital, Gurugram, India.</li>
+<li><a href="#/dr-rahul-naithani-heamotologist-senior-heamotologist-bmt-expert/"><strong><u>Dr Rahul Naithani</u></strong></a> : Director , Cancer care , oncology, Bone Marrow Transplant , Hematology and medical oncology at Max Super Specialty Hospital Saket, India.</li>
+<li><a href="#/dr-nandini-choudhury-hazarika/"><strong><u>Dr Nandini C Hazarika</u></strong></a> : Director, pediatric bone marrow transplant unit at Rainbow Children’s Hospital, India.</li>
+<li><a href="#/dr-vikas-dua-pediatric-oncologist-and-hematologist-in-india/"><strong><u>Dr Vikas Duaa</u></strong></a> : Director Pediatric bone marrow transplant &amp; Hematology unit</li>
+<li><a href="#/dr-rakesh-chugh/"><strong><u>Dr. Rakesh Chopra</u></strong></a> : HOD, Medical &amp; Hematological Oncology at Artmemis Hospital, Gurgram, India.</li>
 </ol>
 <h2><span style="color: #0048ad;"><strong>Top hospitals in India Offering Bone Marrow Transplant</strong></span></h2>
 <ol>
 <li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a></li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a></li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
 </ol>
 <p>Need assistance with advanced treatment for <strong>bone marrow transplant</strong> to be performed in India? <strong>Contact us today!</strong></p>
 
@@ -5927,19 +5925,19 @@ Every surgery comes with some risks. The common risks associated with the proced
 </table>
 <h2><span style="color: #0048ad;"><strong>&nbsp;</strong><strong>Top doctors in India offering liver transplant surgery in India</strong></span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/dr-arvinder-singh-soin-liver-transplant-surgeon/"><strong>Arinder Singh Soin</strong></a>, working as Chairman Liver Transplant Unit at Medanta the Medicity, experience 28 years.</li>
-<li><a href="https://crossborderscare.com/dr-subhash-gupta-liver-transplant-surgeon-at-max-healthcare/"><strong>Prof Subhash Gupta</strong></a>, HOD Liver Transplant and Hepatobiliary unit at Max Super Speciality Hospital, Experience 22 years.</li>
-<li><a href="https://crossborderscare.com/dr-vivek-vij-liver-transplant-surgeon-at-fortis-healthcare/"><strong>Dr Vivek Vij</strong></a>, Head Liver Transplant Department at Fortis Group of hospitals, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-neerav-goyal-head-senior-consultant-apollo-liver-transplant/"><strong>Dr Neerav Goel</strong></a> working as senior consultant liver transplant and hepatobiliary unit at Indraprastha Apollo Hospital New Delhi, experience 15 years.</li>
-<li><a href="https://crossborderscare.com/dr-shailendra-lalwani-liver-transplant-surgeon-at-manipal-hospital/"><strong>Dr Shailendra Lalwani</strong></a>, Director Liver Transplant at Manipal Hospital ,experience 15 years</li>
+<li><a href="#/dr-arvinder-singh-soin-liver-transplant-surgeon/"><strong>Arinder Singh Soin</strong></a>, working as Chairman Liver Transplant Unit at Medanta the Medicity, experience 28 years.</li>
+<li><a href="#/dr-subhash-gupta-liver-transplant-surgeon-at-max-healthcare/"><strong>Prof Subhash Gupta</strong></a>, HOD Liver Transplant and Hepatobiliary unit at Max Super Speciality Hospital, Experience 22 years.</li>
+<li><a href="#/dr-vivek-vij-liver-transplant-surgeon-at-fortis-healthcare/"><strong>Dr Vivek Vij</strong></a>, Head Liver Transplant Department at Fortis Group of hospitals, experience 20 years.</li>
+<li><a href="#/dr-neerav-goyal-head-senior-consultant-apollo-liver-transplant/"><strong>Dr Neerav Goel</strong></a> working as senior consultant liver transplant and hepatobiliary unit at Indraprastha Apollo Hospital New Delhi, experience 15 years.</li>
+<li><a href="#/dr-shailendra-lalwani-liver-transplant-surgeon-at-manipal-hospital/"><strong>Dr Shailendra Lalwani</strong></a>, Director Liver Transplant at Manipal Hospital ,experience 15 years</li>
 </ol>
 <h2><span style="color: #0048ad;"><strong>Top hospitals in India Offering liver transplant surgery</strong></span></h2>
 <ol>
 <li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a></li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a></li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a></li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
+<li><a href="#/manipal-hospital/">Manipal Hospital</a></li>
+<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a></li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a></li>
 </ol>
 <h2><strong>What is the cost of the liver transplant in India? </strong></h2>
 <table>
@@ -5956,27 +5954,27 @@ Every surgery comes with some risks. The common risks associated with the proced
 </tr>
 <tr>
 <td width="72">2</td>
-<td width="310"><a href="https://crossborderscare.com/max-hospital-gurgaon/">Max Hospital</a> (JCI accredited)</td>
+<td width="310"><a href="#/max-hospital-gurgaon/">Max Hospital</a> (JCI accredited)</td>
 <td width="194">US $30,000</td>
 </tr>
 <tr>
 <td width="72">3</td>
-<td width="310"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Hospital</a> (NABH accredited)</td>
+<td width="310"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a> (NABH accredited)</td>
 <td width="194">US $30,500</td>
 </tr>
 <tr>
 <td width="72">4</td>
-<td width="310"><a href="https://crossborderscare.com/jaypee-hospital-noida-india/">Jaypee Hospital</a> (NABH accredited)</td>
+<td width="310"><a href="#/jaypee-hospital-noida-india/">Jaypee Hospital</a> (NABH accredited)</td>
 <td width="194">US $28,000</td>
 </tr>
 <tr>
 <td width="72">5</td>
-<td width="310"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta, the Medicity</a> (JCI accredited)</td>
+<td width="310"><a href="#/medanta-the-medicity-eye-department/">Medanta, the Medicity</a> (JCI accredited)</td>
 <td width="194">US $31,500</td>
 </tr>
 <tr>
 <td width="72">6</td>
-<td width="310"><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a></td>
+<td width="310"><a href="#/manipal-hospital/">Manipal Hospital</a></td>
 <td width="194">US $27,000</td>
 </tr>
 </tbody>
@@ -6310,22 +6308,22 @@ Every surgery comes with some risks. The common risks associated with the proced
 <li>India boasts a 94% success rate for this procedure.</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Best Kidney Transplant Doctors in India</strong></span></h2>
-<p><a href="https://crossborderscare.com/dr-anant-kumar-best-robotic-kidney-transplant-surgeon-in-india/"><strong>Dr. Anant Kumar</strong></a>, Chairman of Uro-Oncology, Robotic and Kidney Transplantation at Max Hospital Saket New Delhi.</p>
-<p><strong><a href="https://crossborderscare.com/padma-shri-dr-sandeep-guleria/">Dr Sandeep Guleria</a>,</strong> Senior Consultant at Indraprastha Apollo Hospital, New Delhi</p>
-<p><strong><a href="https://crossborderscare.com/dr-sunil-prakash/">Dr. Sunil Prakash</a>,</strong> Senior Director &amp; HOD – Nephrology, Kidney Transplant, BLK-Max Hospital, Gurgaon</p>
-<p><strong><a href="https://crossborderscare.com/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/">Dr. Rajesh Ahlawat</a>,</strong> Chairman Urology &amp; Kidney Transplant Unit at Medanta the Medicity , Gurugram</p>
-<p><strong><a href="https://crossborderscare.com/dr-sanjay-gogoi-robotic-uro-ocnlogist-at-manipal-hospital/">Dr. Sanjay Gogoi</a>, </strong>Head of Department – Urology at Manipal Hospitals (New Delhi),</p>
-<p><strong><a href="https://crossborderscare.com/dr-pradeep-bansal-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Pradeep Bansal</a>, </strong>Head of Urology &amp; Renal Transplant in Fortis Hospital</p>
-<p><strong><a href="https://crossborderscare.com/dr-aditya-pradhan-urologist/">Dr. Aditya Pradhan</a>,</strong> Director &amp; HOD of Urology, Uro-Oncology &amp; Renal transplant department at Venkateshwar Hospital</p>
+<p><a href="#/dr-anant-kumar-best-robotic-kidney-transplant-surgeon-in-india/"><strong>Dr. Anant Kumar</strong></a>, Chairman of Uro-Oncology, Robotic and Kidney Transplantation at Max Hospital Saket New Delhi.</p>
+<p><strong><a href="#/padma-shri-dr-sandeep-guleria/">Dr Sandeep Guleria</a>,</strong> Senior Consultant at Indraprastha Apollo Hospital, New Delhi</p>
+<p><strong><a href="#/dr-sunil-prakash/">Dr. Sunil Prakash</a>,</strong> Senior Director &amp; HOD – Nephrology, Kidney Transplant, BLK-Max Hospital, Gurgaon</p>
+<p><strong><a href="#/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/">Dr. Rajesh Ahlawat</a>,</strong> Chairman Urology &amp; Kidney Transplant Unit at Medanta the Medicity , Gurugram</p>
+<p><strong><a href="#/dr-sanjay-gogoi-robotic-uro-ocnlogist-at-manipal-hospital/">Dr. Sanjay Gogoi</a>, </strong>Head of Department – Urology at Manipal Hospitals (New Delhi),</p>
+<p><strong><a href="#/dr-pradeep-bansal-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Pradeep Bansal</a>, </strong>Head of Urology &amp; Renal Transplant in Fortis Hospital</p>
+<p><strong><a href="#/dr-aditya-pradhan-urologist/">Dr. Aditya Pradhan</a>,</strong> Director &amp; HOD of Urology, Uro-Oncology &amp; Renal transplant department at Venkateshwar Hospital</p>
 <h2><strong><span style="color: #0048ad;">Best Kidney Transplant Hospitals in India</span> </strong></h2>
 <ul>
-<li><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket">Max Super Specialty Hospital Saket New Delhi</a>.</li>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">BLK-Max Hospital</a>, Gurgaon</li>
+<li><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Specialty Hospital Saket New Delhi</a>.</li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
+<li><a href="#/bl-kapur-hospital/">BLK-Max Hospital</a>, Gurgaon</li>
 <li>Medanta the Medicity , Gurugram</li>
-<li><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a>s (New Delhi),</li>
-<li><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Hospital</a></li>
-<li><a href="https://crossborderscare.com/venkateshwar-hospital-delhi/">Venkateshwar Hospital</a></li>
+<li><a href="#/manipal-hospital/">Manipal Hospital</a>s (New Delhi),</li>
+<li><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a></li>
+<li><a href="#/venkateshwar-hospital-delhi/">Venkateshwar Hospital</a></li>
 </ul>
 <p><strong>Transform your health and well-being with our medical tourism packages.</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Kidney Transplant Surgery&nbsp;</strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
@@ -6434,14 +6432,14 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 <td width="216"><a href="https://www.centreforsight.net/">Center for Sight</a><p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p></td>
-<td width="227"><a href="https://crossborderscare.com/maj-gen-dr-jks-parihar/">Maj Gen (Dr) JKS Parihar</a> – Senior Consultant Corneal Transplant –<p></p>
+<td width="227"><a href="#/maj-gen-dr-jks-parihar/">Maj Gen (Dr) JKS Parihar</a> – Senior Consultant Corneal Transplant –<p></p>
 <p>Experience – 35 Years</p></td>
 <td width="98">&nbsp;<p></p>
 <p>2000$</p></td>
 </tr>
 <tr>
-<td width="216"><a href="https://crossborderscare.com/eye-7-eye-hospital-lajpat-nagar/">Chaudhary Eye Centre</a></td>
-<td width="227"><a href="https://crossborderscare.com/dr-sanjay-chaudhary/">Dr. Sanjay Chaudhary</a>– Cataract and refractive eye surgeon (Founder and Director)<p></p>
+<td width="216"><a href="#/eye-7-eye-hospital-lajpat-nagar/">Chaudhary Eye Centre</a></td>
+<td width="227"><a href="#/dr-sanjay-chaudhary/">Dr. Sanjay Chaudhary</a>– Cataract and refractive eye surgeon (Founder and Director)<p></p>
 <p>Experience – 35 Years</p></td>
 <td width="98">&nbsp;<p></p>
 <p>2000$</p></td>
@@ -6449,14 +6447,14 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><strong>How can you avail the best Corneal Transplant surgery in India By Step process?</strong></span></p>
-<p><a href="https://crossborderscare.com/">Cross Border Care</a> is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your corneal transplant surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p><a href="#/">Medihelp Global </a> is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your corneal transplant surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Corneal Transplant Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
   {
     name: "breast-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/breast-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">BREAST CANCER TREATMENT PROGRAM IN INDIA</span></h2>
 <p>Breast cancer has become the number one cancer amongst women in the world. If diagnosed early and treated right, the outcomes of breast cancer are excellent. Indian Healthcare has all the facilities to offer world class treatment for breast cancer at affordable cost. Multidisciplinary treatment approach is discussed in Tumor Board lies at the core of our services and clinical outcomes include both treatment outcomes and also long term quality of life.</p>
@@ -6470,18 +6468,18 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 <p>The other advancement in surgery of breast cancer that has benefited a large number of patients is Sentinel Lymph Node Biopsy (SLNB). Earlier, all lymph nodes in the armpit were removed as part of surgery, even in those who were clinically node negative. This procedure leads to the problem of arm swelling (lymphedema) in 20-25% patients. This can be quite distressing in about 10% of patients who develop this problem. With the advent of SLNB, which involves removing only those lymph nodes to which the disease is likely to spread first, in women with uninvolved nodes clinically, the incidence of arm swelling is less than 6%.</p>
 <h3><span style="color: #0048ad;"><strong>Top doctors in India offering breast cancer treatment in India</strong></span></h3>
 <ol>
-<li><a href="https://crossborderscare.com/dr-ramesh-sarin-surgical-oncologist-in-new-delhi-india/"><strong>Dr Ramesh Sarin</strong></a> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 40 years.</li>
-<li><a href="https://crossborderscare.com/dr-kanchan-kaur-breast-cancer-specialist-in-gurugram-india/">Dr Kanchan Kaur</a>, working as Head breast Oncoplastic surgery unit at Medanta the Medicity, experience 15 years.</li>
-<li><a href="https://crossborderscare.com/dr-mandeep-singh-malhotra-breast-cancer-surgeon-in-india/"><strong>Dr Mandeep Singh Malhotra</strong></a>, Director Breast and Head &amp; Neck Cancer Surgery at CK Birla Hospital, experience 20 years</li>
-<li><a href="https://crossborderscare.com/dr-geeta-kadayaprath-breast-cancer-surgeon-in-delhi-india/"><strong>Dr Geeta Kedayaprath</strong></a>, HOD Breast Oncoplastic surgery unit at Max Super Speciality Hospital, Experience 22 years.</li>
+<li><a href="#/dr-ramesh-sarin-surgical-oncologist-in-new-delhi-india/"><strong>Dr Ramesh Sarin</strong></a> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 40 years.</li>
+<li><a href="#/dr-kanchan-kaur-breast-cancer-specialist-in-gurugram-india/">Dr Kanchan Kaur</a>, working as Head breast Oncoplastic surgery unit at Medanta the Medicity, experience 15 years.</li>
+<li><a href="#/dr-mandeep-singh-malhotra-breast-cancer-surgeon-in-india/"><strong>Dr Mandeep Singh Malhotra</strong></a>, Director Breast and Head &amp; Neck Cancer Surgery at CK Birla Hospital, experience 20 years</li>
+<li><a href="#/dr-geeta-kadayaprath-breast-cancer-surgeon-in-delhi-india/"><strong>Dr Geeta Kedayaprath</strong></a>, HOD Breast Oncoplastic surgery unit at Max Super Speciality Hospital, Experience 22 years.</li>
 </ol>
 <p><strong>&nbsp;</strong><strong>Top hospitals in India Offering Breast Cancer Treatment</strong></p>
 <ol>
 <li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a></li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a></li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
 </ol>
 <h2><span style="color: #0048ad;"><b>Factors that Affect Breast Cancer Treatment Costs in India</b></span></h2>
 <p><span style="font-weight: 400;">Breast cancer occurs when the healthy cells of breast tissue change and may begin to grow out of control which can appear as a lump or mass within the breast tissue.</span></p>
@@ -6619,21 +6617,21 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 </tr>
 </tbody>
 </table>
-<p><span style="font-weight: 400;">Cross Border Care is one of the best treatment consultants in India for all international patients. We are here to guide you in choosing the best doctor and hospital for your breast cancer treatment in India. With us, you will get</span></p>
+<p><span style="font-weight: 400;">Medihelp Global  is one of the best treatment consultants in India for all international patients. We are here to guide you in choosing the best doctor and hospital for your breast cancer treatment in India. With us, you will get</span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">100% transparency</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help to choose the best hospital and doctor</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help to select the best treatment option</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">High success rates of procedures with international standards.&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">Write to us today at </span><a href="mailto:infor@crossborderscare.com"><span style="font-weight: 400;">infor@crossborderscare.com</span></a></p>
+<p><span style="font-weight: 400;">Write to us today at </span><a href="mailto:info@medihelpglobal.com"><span style="font-weight: 400;">info@medihelpglobal.com</span></a></p>
 <p><strong>Need assistance with advanced treatment for breast cancer to be performed in India? Contact us today!</strong></p>
 
 		</div>`,
   },
   {
     name: "osteosarcoma-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/osteosarcoma-surgery.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Osteosarcoma Surgery in India: A Battle Against Bone Cancer</span></h2>
 <p>Osteosarcoma is a type of cancer that starts in your bones. Initially, the cancer cells appear to be regular bone cells, but afterward, they create tumours and tumours create diseased bones. The cancer most often affects long bones like those in arms and legs. It primarily occurs near the end of your bones and near the knee, where the growth of the cancer occurs the fastest.</p>
@@ -6753,36 +6751,36 @@ In addition to osteosarcoma surgery, chemotherapy may also be included in a comp
 <td width="100"><strong>USD Cost </strong></td>
 </tr>
 <tr>
-<td width="163"><a href="https://www.maxhealthcare.in/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="211"><a href="https://crossborderscare.com/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
+<td width="211"><a href="#/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
 <p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td>
 <td width="100">10000$</td>
 </tr>
 <tr>
-<td width="163"><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="211"><a href="https://crossborderscare.com/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG<p></p>
+<td width="211"><a href="#/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG<p></p>
 <p>&nbsp;</p></td>
 <td width="100">9000$</td>
 </tr>
 <tr>
-<td width="163"><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="211"><a href="https://crossborderscare.com/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
+<td width="211"><a href="#/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
 <td width="100">9500$</td>
 </tr>
 </thead>
 </table>
 <h2><span style="color: #0048ad;"><strong>How can you avail the best Osteosarcoma Treatment in India Step By Step process?</strong></span></h2>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your osteosarcoma surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your osteosarcoma surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Osteosarcoma Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
   {
     name: "ewings-sarcoma-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/ewings-sarcoma-treatment.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -6972,28 +6970,28 @@ Let us first learn a bit more about Ewings Sarcoma:</p>
 <p><strong>&nbsp;</strong></p></td>
 </tr>
 <tr>
-<td width="163"><a href="https://www.maxhealthcare.in/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
+<td width="306"><a href="#/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
 <p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td>
 <td width="136">10000$</td>
 </tr>
 <tr>
-<td width="163"><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
+<td width="306"><a href="#/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
 <td width="136">9000$</td>
 </tr>
 <tr>
-<td width="163"><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
+<td width="306"><a href="#/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
 <td width="136">9500$</td>
 </tr>
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Ewings sarcoma surgery in India through a step-by-step process?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your ewings sarcoma surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your ewings sarcoma surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Ewing’s Sarcoma Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -7002,7 +7000,7 @@ Let us first learn a bit more about Ewings Sarcoma:</p>
   },
   {
     name: "chondrosarcoma-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/chondrosarcoma-treatment.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -7175,28 +7173,28 @@ Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma look
 <p><strong>&nbsp;</strong></p></td>
 </tr>
 <tr>
-<td width="163"><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-akshay-tiwari/">Dr. Akshay Tiwari</a> –<p></p>
+<td width="306"><a href="#/dr-akshay-tiwari/">Dr. Akshay Tiwari</a> –<p></p>
 <p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td>
 <td width="136">10000$</td>
 </tr>
 <tr>
-<td width="163"><a href="https://www.maxhealthcare.in/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-vivek-verma/">Dr. Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
+<td width="306"><a href="#/dr-vivek-verma/">Dr. Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
 <td width="136">9000$</td>
 </tr>
 <tr>
-<td width="163"><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-hitesh-dawar/">Dr. Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
+<td width="306"><a href="#/dr-hitesh-dawar/">Dr. Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
 <td width="136">9500$</td>
 </tr>
 </tbody>
 </table>
 <h3><span style="color: #0048ad;"><strong>How can you avail yourself of the best Chondrosarcoma surgery in India through a step-by-step process?</strong></span></h3>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>Chondrosarcoma</strong></span> surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>Chondrosarcoma</strong></span> surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Chondrosarcoma Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -7205,7 +7203,7 @@ Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma look
   },
   {
     name: "bone-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/bone-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -7342,28 +7340,28 @@ Complementary therapy can help relieve symptoms and improve your quality of life
 <p><strong>&nbsp;</strong></p></td>
 </tr>
 <tr>
-<td width="163"><a href="https://www.maxhealthcare.in/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
+<td width="306"><a href="#/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
 <p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td>
 <td width="136">10000$</td>
 </tr>
 <tr>
-<td width="163"><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
+<td width="306"><a href="#/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
 <td width="136">9000$</td>
 </tr>
 <tr>
-<td width="163"><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
+<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
 <p>(JCI Accredited)</p></td>
-<td width="306"><a href="https://crossborderscare.com/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
+<td width="306"><a href="#/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
 <td width="136">9500$</td>
 </tr>
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Bone Cancer Treatment in India through a step-by-step process?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your<span style="color: #0048ad;"><strong> bone cancer treatment</strong></span>&nbsp;in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your<span style="color: #0048ad;"><strong> bone cancer treatment</strong></span>&nbsp;in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Bone Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -7372,7 +7370,7 @@ Complementary therapy can help relieve symptoms and improve your quality of life
   },
   {
     name: "lung-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/lung-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -7546,25 +7544,25 @@ The possible side effects are:</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Lung Cancer Surgery in India</strong></span></h2>
 <h3><span style="color: #0048ad;"><strong>Best Surgical Oncologists</strong></span></h3>
 <ul>
-<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="https://crossborderscare.com/dr-harit-chaturvedi-surgical-oncology/"><strong>Dr. Harit Chaturvedi</strong></a></span><strong>–</strong> Max Institute of Cancer Care, Delhi NCR</li>
-<li><a href="https://crossborderscare.com/dr-sameer-kaul-surgical-oncologist-in-delhi/"><span style="color: #0048ad;"><strong>Dr Sameer Kaul</strong></span></a>– Indraprastha Apolo Hospital, Delhi</li>
-<li><a href="https://crossborderscare.com/dr-b-niranjan-naik-best-breast-oncoplastic-surgeon/"><span style="color: #0048ad;"><strong>Dr Niranjan Malik</strong></span></a>– Fortis, Delhi</li>
-<li><a href="https://crossborderscare.com/dr-tapan-singh-chauhan-surgical-oncologist-in-delhi/"><span style="color: #0048ad;"><strong>Dr Tapan Singh</strong></span></a>-Artemis Hospital, Gurgaon</li>
+<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="#/dr-harit-chaturvedi-surgical-oncology/"><strong>Dr. Harit Chaturvedi</strong></a></span><strong>–</strong> Max Institute of Cancer Care, Delhi NCR</li>
+<li><a href="#/dr-sameer-kaul-surgical-oncologist-in-delhi/"><span style="color: #0048ad;"><strong>Dr Sameer Kaul</strong></span></a>– Indraprastha Apolo Hospital, Delhi</li>
+<li><a href="#/dr-b-niranjan-naik-best-breast-oncoplastic-surgeon/"><span style="color: #0048ad;"><strong>Dr Niranjan Malik</strong></span></a>– Fortis, Delhi</li>
+<li><a href="#/dr-tapan-singh-chauhan-surgical-oncologist-in-delhi/"><span style="color: #0048ad;"><strong>Dr Tapan Singh</strong></span></a>-Artemis Hospital, Gurgaon</li>
 </ul>
 <h3><span style="color: #0048ad;"><strong>Best Medical Oncologists</strong></span></h3>
 <ul>
-<li><a href="https://crossborderscare.com/dr-manish-singhal/"><span style="color: #0048ad;"><strong>Dr Manish Singhal</strong></span></a>– Indraprastha Apollo Hospital</li>
-<li><a href="https://crossborderscare.com/dr-nitin-sood/"><span style="color: #0048ad;"><strong>Dr Nitin Sood</strong></span></a>– Medanta Hospital, Delhi</li>
-<li><a href="https://crossborderscare.com/dr-sunny-garg/"><span style="color: #0048ad;"><strong>Dr Sunny Garg</strong></span></a>– Sanar Hospital, Delhi</li>
+<li><a href="#/dr-manish-singhal/"><span style="color: #0048ad;"><strong>Dr Manish Singhal</strong></span></a>– Indraprastha Apollo Hospital</li>
+<li><a href="#/dr-nitin-sood/"><span style="color: #0048ad;"><strong>Dr Nitin Sood</strong></span></a>– Medanta Hospital, Delhi</li>
+<li><a href="#/dr-sunny-garg/"><span style="color: #0048ad;"><strong>Dr Sunny Garg</strong></span></a>– Sanar Hospital, Delhi</li>
 </ul>
 <h3><span style="color: #0048ad;"><strong>Best Radiation Oncologists</strong></span></h3>
 <ul>
-<li><a href="https://crossborderscare.com/dr-g-k-jadhav/"><span style="color: #0048ad;"><strong>Dr. GK Jadhav</strong></span></a>-Indraprastha Hospital Delhi</li>
-<li><a href="https://crossborderscare.com/dr-sapna-manocha-verma/"><span style="color: #0048ad;"><strong>Dr Sapna Manocha Verma</strong></span></a>– Indraprastha Hospital Delhi</li>
-<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="https://crossborderscare.com/dr-shyam-singh-bisht/"><strong>Dr Shyam Singh Bisht</strong></a></span>– Medanta Hospital, Delhi</li>
+<li><a href="#/dr-g-k-jadhav/"><span style="color: #0048ad;"><strong>Dr. GK Jadhav</strong></span></a>-Indraprastha Hospital Delhi</li>
+<li><a href="#/dr-sapna-manocha-verma/"><span style="color: #0048ad;"><strong>Dr Sapna Manocha Verma</strong></span></a>– Indraprastha Hospital Delhi</li>
+<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="#/dr-shyam-singh-bisht/"><strong>Dr Shyam Singh Bisht</strong></a></span>– Medanta Hospital, Delhi</li>
 </ul>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Lung Cancer Treatment in India?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>lung cancer </strong></span>treatment in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>lung cancer </strong></span>treatment in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Lung Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -7573,7 +7571,7 @@ The possible side effects are:</p>
   },
   {
     name: "prostate-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/prostate-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -7720,17 +7718,17 @@ In Immunotherapy, your immune system is used to fight cancer. Your body’s dise
 <p><span style="color: #0048ad;"><strong>Is prostate cancer curable?</strong></span></p>
 <p>Yes, prostate cancer is curable if it is caught at an early stage.</p>
 <p><span style="color: #0048ad;"><strong>Best Doctors for prostate cancer in india</strong></span></p>
-<p>●<a href="https://crossborderscare.com/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/"><span style="color: #0048ad;"><strong> Dr Rajesh Ahlawat</strong></span></a>– Robotic Urological Cancer &amp; Kidney Transplant Surgeon At <a href="https://crossborderscare.com/medanta-hospital-gurgaon-india/"><span style="color: #0048ad;"><strong>Medanta</strong></span></a>, Total Experience – 39 years<br>
-● <span style="color: #0048ad;"><a style="color: #0048ad;" href="https://crossborderscare.com/dr-anant-kumar-best-robotic-kidney-transplant-surgeon-in-india/"><strong>Dr Ananat Kumar:</strong></a></span> Robotic Urological Cancer &amp; Kidney Transplant Surgeon At<a href="https://crossborderscare.com/max-hospital-gurgaon/"><span style="color: #0048ad;"><strong> Max Hospital</strong></span></a>, Total Experience – 35 years</p>
-<p>● <a href="https://crossborderscare.com/dr-sanjay-gogoi-robotic-uro-ocnlogist-at-manipal-hospital/"><span style="color: #0048ad;"><strong>Dr Sanjay Gogoi:</strong></span></a> Robotic Urological Cancer &amp; Kidney Transplant Surgeon At <span style="color: #0048ad;"><strong><a style="color: #0048ad;" href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a></strong></span>, Total Experience – 20 years<br>
-● <a href="https://crossborderscare.com/dr-anil-mandhani/"><span style="color: #0048ad;"><strong>Dr Anil Mandhani:</strong></span></a> Urology, Robotic Surgery, Uro-oncology and Robotic Surgery, Urology &amp; Renal Transplant (Executive Director) At <span style="color: #0048ad;"><strong><a style="color: #0048ad;" href="https://crossborderscare.com/fortis-memorial-research-institute/">FMRI Gurugram</a></strong></span>, Total Experience – 33 years<br>
-● <a href="https://crossborderscare.com/dr-rajesh-taneja-urologist/"><span style="color: #0048ad;"><strong>Dr Rajesh Taneja:</strong></span></a> Urologist, <a href="https://crossborderscare.com/apollo-hospital/"><span style="color: #0048ad;"><strong>Apollo Hospital</strong></span></a>s, Delhi<br>
-●<a href="https://crossborderscare.com/dr-abhinandan-mukhopadhyay/"><span style="color: #0048ad;"><strong> Dr Abhinandan Mukopadhyay:</strong></span></a> Urologist, Urological Surgeon, Sexologist – <a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/"><strong>Artemis Hospitals</strong></a></p>
+<p>●<a href="#/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/"><span style="color: #0048ad;"><strong> Dr Rajesh Ahlawat</strong></span></a>– Robotic Urological Cancer &amp; Kidney Transplant Surgeon At <a href="#/medanta-hospital-gurgaon-india/"><span style="color: #0048ad;"><strong>Medanta</strong></span></a>, Total Experience – 39 years<br>
+● <span style="color: #0048ad;"><a style="color: #0048ad;" href="#/dr-anant-kumar-best-robotic-kidney-transplant-surgeon-in-india/"><strong>Dr Ananat Kumar:</strong></a></span> Robotic Urological Cancer &amp; Kidney Transplant Surgeon At<a href="#/max-hospital-gurgaon/"><span style="color: #0048ad;"><strong> Max Hospital</strong></span></a>, Total Experience – 35 years</p>
+<p>● <a href="#/dr-sanjay-gogoi-robotic-uro-ocnlogist-at-manipal-hospital/"><span style="color: #0048ad;"><strong>Dr Sanjay Gogoi:</strong></span></a> Robotic Urological Cancer &amp; Kidney Transplant Surgeon At <span style="color: #0048ad;"><strong><a style="color: #0048ad;" href="#/manipal-hospital/">Manipal Hospital</a></strong></span>, Total Experience – 20 years<br>
+● <a href="#/dr-anil-mandhani/"><span style="color: #0048ad;"><strong>Dr Anil Mandhani:</strong></span></a> Urology, Robotic Surgery, Uro-oncology and Robotic Surgery, Urology &amp; Renal Transplant (Executive Director) At <span style="color: #0048ad;"><strong><a style="color: #0048ad;" href="#/fortis-memorial-research-institute/">FMRI Gurugram</a></strong></span>, Total Experience – 33 years<br>
+● <a href="#/dr-rajesh-taneja-urologist/"><span style="color: #0048ad;"><strong>Dr Rajesh Taneja:</strong></span></a> Urologist, <a href="#/apollo-hospital/"><span style="color: #0048ad;"><strong>Apollo Hospital</strong></span></a>s, Delhi<br>
+●<a href="#/dr-abhinandan-mukhopadhyay/"><span style="color: #0048ad;"><strong> Dr Abhinandan Mukopadhyay:</strong></span></a> Urologist, Urological Surgeon, Sexologist – <a href="#/artemis-hospital-gurgaon-india/"><strong>Artemis Hospitals</strong></a></p>
 <h2><strong>Cost of Prostate Cancer Surgery in India –</strong></h2>
 <p>● Robotic – 9000 usd<br>
 ● Laparoscopic – 6500 usd</p>
 <h3><span style="color: #0048ad;">How can you avail yourself of the best Prostate Cancer Treatment in India?</span></h3>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your prostate cancer treatment in India, fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your prostate cancer treatment in India, fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Prostate Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -7739,7 +7737,7 @@ In Immunotherapy, your immune system is used to fight cancer. Your body’s dise
   },
   {
     name: "cervical-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/cervical-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -7833,11 +7831,11 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <p><span style="color: #0048ad;"><strong>Does cervical cancer affect sex life?</strong></span></p>
 <p>Yes, cervical cancer can affect your sex life. Specific changes like uterus removal or ovaries removal, or vaginal dryness can affect sex. It’s normal to feel nervous about having sex after cervical cancer.</p>
 <p><span style="color: #0048ad;"><strong>Best doctors for cervical cancer in India</strong></span></p>
-<p>●<a href="https://crossborderscare.com/dr-neelam-suri-obstetrics-and-robotic-gynaecologyist/"> <span style="color: #0048ad;"><strong>Dr Neelam Suri:</strong></span></a> Indraprastha Apollo Hospital, New Delhi, 33 years of experience in Robotic Gynaecology and Obstetrics<br>
-● <a href="https://crossborderscare.com/dr-rama-joshi/"><span style="color: #0048ad;"><strong>Dr Rama Joshi:</strong></span></a> FMRI Gurgaon, 32 years experience in Gynae Oncology and Robotic Surgery<br>
-● <a href="https://crossborderscare.com/dr-vivek-marwah/"><span style="color: #0048ad;"><strong>Dr Vivek Marwah:</strong></span></a> MAX Hospital Saket, 34 years experience in Minimally Invasive Gynaecology<br>
-● <a href="https://crossborderscare.com/dr-smita-vats/"><span style="color: #0048ad;"><strong>Dr Smita Vyas:</strong></span></a> Artemis Hospital, 20 years experience in Obstetrics and Gynaecology<br>
-● <span style="color: #0048ad;"><strong><a href="https://crossborderscare.com/dr-preeti-rastogi/">Dr Preeti Rastogi</a>:</strong></span> Medanta Hospital, Experience 20 years in Obstetrics and Robotic Gynaecology</p>
+<p>●<a href="#/dr-neelam-suri-obstetrics-and-robotic-gynaecologyist/"> <span style="color: #0048ad;"><strong>Dr Neelam Suri:</strong></span></a> Indraprastha Apollo Hospital, New Delhi, 33 years of experience in Robotic Gynaecology and Obstetrics<br>
+● <a href="#/dr-rama-joshi/"><span style="color: #0048ad;"><strong>Dr Rama Joshi:</strong></span></a> FMRI Gurgaon, 32 years experience in Gynae Oncology and Robotic Surgery<br>
+● <a href="#/dr-vivek-marwah/"><span style="color: #0048ad;"><strong>Dr Vivek Marwah:</strong></span></a> MAX Hospital Saket, 34 years experience in Minimally Invasive Gynaecology<br>
+● <a href="#/dr-smita-vats/"><span style="color: #0048ad;"><strong>Dr Smita Vyas:</strong></span></a> Artemis Hospital, 20 years experience in Obstetrics and Gynaecology<br>
+● <span style="color: #0048ad;"><strong><a href="#/dr-preeti-rastogi/">Dr Preeti Rastogi</a>:</strong></span> Medanta Hospital, Experience 20 years in Obstetrics and Robotic Gynaecology</p>
 <h2><span style="color: #0048ad;"><strong>Cost Of Cervical Cancer Surgery in India</strong></span></h2>
 <table widthh="624">
 <tbody>
@@ -7888,7 +7886,7 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Cervical Cancer Treatment in India?</strong></span></p>
-<p><strong>&nbsp;</strong>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong><span style="color: #0048ad;">affordable cervical cancer treatment in India</span>, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p><strong>&nbsp;</strong>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong><span style="color: #0048ad;">affordable cervical cancer treatment in India</span>, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Cervical Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -7897,7 +7895,7 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
   },
   {
     name: "liver-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/liver-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Liver Cancer Treatment in India: Leading the fight against cancer</strong></span></h2>
 <p>Liver cancer is a cancer that begins in the cells of your liver. Your liver is a football-sized organ that is in the upper right portion of your abdomen, beneath your right lung, and above your stomach.</p>
@@ -7996,40 +7994,40 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <table widthh="624">
 <tbody>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/medanta-hospital-gurgaon-india/">Medanta the Medicity</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-arvinder-singh-soin-liver-transplant-surgeon/">Dr Arvinder Singh Soin</a></td>
+<td width="312"><a href="#/medanta-hospital-gurgaon-india/">Medanta the Medicity</a></td>
+<td width="312"><a href="#/dr-arvinder-singh-soin-liver-transplant-surgeon/">Dr Arvinder Singh Soin</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/"><span style="color: #000000;">Indraprastha Apollo Hospital</span></a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-neerav-goyal-head-senior-consultant-apollo-liver-transplant/">Dr Neerav Gupta</a></td>
+<td width="312"><a href="#/indraprastha-apollo-hospital-new-delhi/"><span style="color: #000000;">Indraprastha Apollo Hospital</span></a></td>
+<td width="312"><a href="#/dr-neerav-goyal-head-senior-consultant-apollo-liver-transplant/">Dr Neerav Gupta</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare</a> – Saket</td>
-<td width="312"><a href="https://crossborderscare.com/dr-subhash-gupta-liver-transplant-surgeon-at-max-healthcare/">Dr Subhash Gupta</a></td>
+<td width="312"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare</a> – Saket</td>
+<td width="312"><a href="#/dr-subhash-gupta-liver-transplant-surgeon-at-max-healthcare/">Dr Subhash Gupta</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-vivek-vij-liver-transplant-surgeon-at-fortis-healthcare/">Dr Vivek Vij</a></td>
+<td width="312"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></td>
+<td width="312"><a href="#/dr-vivek-vij-liver-transplant-surgeon-at-fortis-healthcare/">Dr Vivek Vij</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-shailendra-lalwani-liver-transplant-surgeon-at-manipal-hospital/">Dr Shailendra Lalwani</a></td>
+<td width="312"><a href="#/manipal-hospital/">Manipal Hospital</a></td>
+<td width="312"><a href="#/dr-shailendra-lalwani-liver-transplant-surgeon-at-manipal-hospital/">Dr Shailendra Lalwani</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/bl-kapur-hospital/">BLK – Max Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-abhideep-chaudhary-liver-transplant-surgeon-at-max-blk-hospital/">Dr Abhideep Chaudhary</a></td>
+<td width="312"><a href="#/bl-kapur-hospital/">BLK – Max Hospital</a></td>
+<td width="312"><a href="#/dr-abhideep-chaudhary-liver-transplant-surgeon-at-max-blk-hospital/">Dr Abhideep Chaudhary</a></td>
 </tr>
 </tbody>
 </table>
 <p><strong>How can you get effective liver cancer treatment in India? </strong></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>liver cancer treatment in India, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>liver cancer treatment in India, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Liver Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
   {
     name: "ovarian-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/ovarian-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Ovarian Cancer Treatment in India: From Diagnosis to Victory</span></h2>
 <p>Ovarian cancer is the abnormal growth of ovarian cells. These cells multiply quickly and can invade and destroy healthy tissues. Ovarian cancer is sometimes difficult to detect because symptoms do not develop until the later stages.</p>
@@ -8195,23 +8193,23 @@ Debulking surgery can also involve the removal of the urinary bladder if the can
 <td width="312"><strong>Doctor Name </strong></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/apollo-hospital/">Indraprastha Apollo</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-neelam-suri-obstetrics-and-robotic-gynaecologyist/">Dr Neelam Suri</a></td>
+<td width="312"><a href="#/apollo-hospital/">Indraprastha Apollo</a></td>
+<td width="312"><a href="#/dr-neelam-suri-obstetrics-and-robotic-gynaecologyist/">Dr Neelam Suri</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-kanika-gupta/">Dr Kanika Gupta</a></td>
+<td width="312"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare</a></td>
+<td width="312"><a href="#/dr-kanika-gupta/">Dr Kanika Gupta</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-rama-joshi/">Dr Rama Joshi</a></td>
+<td width="312"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></td>
+<td width="312"><a href="#/dr-rama-joshi/">Dr Rama Joshi</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-bijoy-nayak-minimal-access-robotic-gynae-surgeon/">Dr Bijoy Nayak</a></td>
+<td width="312"><a href="#/manipal-hospital/">Manipal Hospital</a></td>
+<td width="312"><a href="#/dr-bijoy-nayak-minimal-access-robotic-gynae-surgeon/">Dr Bijoy Nayak</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/fortis-la-famme/">Fortis La famme</a></td>
+<td width="312"><a href="#/fortis-la-famme/">Fortis La famme</a></td>
 <td width="312">Dr Anjali Aneja</td>
 </tr>
 </tbody>
@@ -8219,7 +8217,7 @@ Debulking surgery can also involve the removal of the urinary bladder if the can
 <p>Above are the best doctors for<span style="color: #0048ad;"> <strong>ovarian cancer treatment in India.</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Cost of Treatment:</strong></span> It depends on the stage and type of surgery and number of cycles of chemotherapy needed.</p>
 <p><span style="color: #0048ad;"><strong>Evaluation on an OPD basis:</strong></span> 1200 USD, including biopsy, followed by treatment based on assessment.</p>
-<p><span style="color: #0048ad;"><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with:</strong><strong>&nbsp;</strong></span></p>
+<p><span style="color: #0048ad;"><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:</strong><strong>&nbsp;</strong></span></p>
 <ul>
 <li>Arranging visa</li>
 <li>Finding the best hospital</li>
@@ -8229,14 +8227,14 @@ Debulking surgery can also involve the removal of the urinary bladder if the can
 <li>Affordable options to stay in India</li>
 <li>Over saving of 15% treatment cost through us</li>
 </ul>
-<p>To know more about our services, please write to us at <a href="mailto:info@corssborderscare.com">info@crossborderscare.com</a></p>
+<p>To know more about our services, please write to us at <a href="mailto:info@Medihelp Globalglobal.com">info@Medihelp Globalglobal.com</a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Ovarian Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
   {
     name: "colon-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/colon-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Colon Cancer: Innovative Solutions For Treatment in India</strong></span></h2>
 <p>Colon cancer is an uncontrolled growth of cells that begins in a part of the large intestine called the colon. The colon is the first and the longest part of the large intestine. Colon cancer mainly affects older adults, but it can occur at any age.</p>
@@ -8393,28 +8391,28 @@ Debulking surgery can also involve the removal of the urinary bladder if the can
 <td width="312"><strong>Doctor</strong></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-sameer-kaul-surgical-oncologist-in-delhi/">Dr Sameer Kaul</a></td>
+<td width="312"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td width="312"><a href="#/dr-sameer-kaul-surgical-oncologist-in-delhi/">Dr Sameer Kaul</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/max-hospital-gurgaon/">Max Institute of Cancer Care</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-harit-chaturvedi-surgical-oncology/">Dr Harith Chaturvedi</a></td>
+<td width="312"><a href="#/max-hospital-gurgaon/">Max Institute of Cancer Care</a></td>
+<td width="312"><a href="#/dr-harit-chaturvedi-surgical-oncology/">Dr Harith Chaturvedi</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-b-niranjan-naik-best-breast-oncoplastic-surgeon/">Dr. B. Niranjan Naik</a></td>
+<td width="312"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></td>
+<td width="312"><a href="#/dr-b-niranjan-naik-best-breast-oncoplastic-surgeon/">Dr. B. Niranjan Naik</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Hospital, Vasant Kunj</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-prof-amit-javed/">Dr Amit Javed</a></td>
+<td width="312"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital, Vasant Kunj</a></td>
+<td width="312"><a href="#/dr-prof-amit-javed/">Dr Amit Javed</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-tapan-singh-chauhan-surgical-oncologist-in-delhi/">Dr Tapan Singh</a></td>
+<td width="312"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td width="312"><a href="#/dr-tapan-singh-chauhan-surgical-oncologist-in-delhi/">Dr Tapan Singh</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-adarsh-chaudhary-gi-surgeon/">Dr Adarsh Chaudhary</a></td>
+<td width="312"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
+<td width="312"><a href="#/dr-adarsh-chaudhary-gi-surgeon/">Dr Adarsh Chaudhary</a></td>
 </tr>
 </thead>
 </table>
@@ -8424,7 +8422,7 @@ Debulking surgery can also involve the removal of the urinary bladder if the can
 <p><span style="color: #0048ad;"><strong>Targeted therapy:</strong></span> 1000 USD per cycle</p>
 <p><span style="color: #0048ad;"><strong>Surgery:</strong> </span>The cost depends on the technology used. Generally, open surgery is cheaper than a high-end lap or robotic surgery, and the cost varies between 5000 USD and 8000 USD.</p>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Colon Cancer Treatment in India?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your colon<br>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your colon<br>
 cancer treatment in India, fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 </div>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Colon Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
@@ -8433,11 +8431,11 @@ cancer treatment in India, fill out the form below, and we will help you choose 
   },
   {
     name: "stomach-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/stomach-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Stomach Cancer Treatment in India: Top Hospitals and Specialists</span></h2>
 <p>Stomach cancer begins in the lining of the cells inside the stomach. The stomach is an organ on the left side of the upper abdomen that digests food. It is a relatively common cancer worldwide.<br>
-Here, we will give you an overview of stomach cancer and how Cross Border Care, the best medical treatment consultant in India, can assist you with its treatment.<br>
+Here, we will give you an overview of stomach cancer and how Medihelp Global , the best medical treatment consultant in India, can assist you with its treatment.<br>
 Stomach Cancer and its types<br>
 Stomach cancer can occur in any part of the stomach, but in most of the world, it occurs only in the central part, known as the stomach body.<br>
 <span style="color: #0048ad;"><strong>Different types of stomach cancer are:</strong></span></p>
@@ -8505,7 +8503,7 @@ In India, numerous treatment options are available to fight cancer. The one we w
 </tr>
 </tbody>
 </table>
-<p>Since there are many treatment options available for stomach cancer in reputed Indian hospitals, at Cross Border Care, we will help you choose the best treatment plan for you.<br>
+<p>Since there are many treatment options available for stomach cancer in reputed Indian hospitals, at Medihelp Global , we will help you choose the best treatment plan for you.<br>
 Let’s have a look at the treatment options available:<br>
 Surgery: At the top hospitals in India like Indraprastha Apollo hospital, stomach cancer surgery is the top choice to cure cancer if it has not spread to other parts of the body.<br>
 Surgery to Remove Cancer<br>
@@ -8518,7 +8516,7 @@ Laparoscopic: A long, thin surgical instrument with a camera at the end is inser
 Robotic-Assisted Laparoscopic Surgery: Surgeons sit at the control panel and operate the arms of the robot to perform the surgery. It is performed in top hospitals in India, such as Indraprastha Apollo and Max Healthcare.<br>
 Surgical options for unresectable cancer available in India<br>
 <span style="color: #0048ad;"><strong>Gastric Bypass Surgery:</strong></span> When tumors in the lower part of the stomach grow large enough to block food from leaving the stomach, Bypass surgery for stomach cancer is performed by attaching part of the small intestine to the upper part of the stomach.<br>
-To know the cost of robotic gastric bypass surgery in India, contact Cross Border Care today.<br>
+To know the cost of robotic gastric bypass surgery in India, contact Medihelp Global  today.<br>
 Additional Treatments<br>
 <span style="color: #0048ad;"><strong>Chemotherapy:</strong> </span>It is a stomach cancer treatment that uses chemicals to kill cancer cells. It is of two types:<br>
 ● Chemotherapy for the whole body uses medicines to kill the cancer cells.<br>
@@ -8528,8 +8526,8 @@ Radiation Therapy: Radiation therapy uses high-energy beams to kill the cancer c
 Targeted Therapy: These treatments will use medicines to target the specific chemicals present in cancer cells. By targeting these chemicals, the cancer cells will die. It is used for advanced-stage stomach cancer.<br>
 Immunotherapy is another stomach cancer treatment in which the immune system starts killing cancer cells. It is also used to treat advanced stomach cancer.<br>
 Palliative Care<br>
-If you are dealing with advanced-stage stomach cancer, Cross Border Care can help you get the best palliative care in the top hospitals of India. The best doctors for stomach cancer treatment in India will work with you and your family to give you an extra layer of Support to make you feel better at the time of surgery, chemotherapy, and radiation therapy.<br>
-<span style="color: #0048ad;"><strong>Questions to ask your doctor:</strong></span> A mini Guide by Cross Border Care For Stomach Cancer Patients<br>
+If you are dealing with advanced-stage stomach cancer, Medihelp Global  can help you get the best palliative care in the top hospitals of India. The best doctors for stomach cancer treatment in India will work with you and your family to give you an extra layer of Support to make you feel better at the time of surgery, chemotherapy, and radiation therapy.<br>
+<span style="color: #0048ad;"><strong>Questions to ask your doctor:</strong></span> A mini Guide by Medihelp Global  For Stomach Cancer Patients<br>
 <span style="color: #0048ad;"><strong>At the time of diagnosis</strong></span><br>
 ● What kind of stomach cancer do I have?<br>
 ● What is the stage of my cancer?<br>
@@ -8556,7 +8554,7 @@ If you are dealing with advanced-stage stomach cancer, Cross Border Care can hel
 ● How often do I need to follow up?<br>
 ● How will I know if my cancer has come back?<br>
 ● What will be my options if the treatment does not work?</p>
-<p><span style="color: #0048ad;"><strong>Cross Border Care</strong> </span>recommends you make sure to get the answer to these questions at the different stages of your treatment in India.<br>
+<p><span style="color: #0048ad;"><strong>Medihelp Global </strong> </span>recommends you make sure to get the answer to these questions at the different stages of your treatment in India.<br>
 Prognosis</p>
 <p><span style="color: #0048ad;"><strong>The five-year survival rate for stomach cancer is:</strong></span></p>
 <p>● 70 % for little spread<br>
@@ -8572,32 +8570,32 @@ Tips for our readers to prevent stomach cancer<br>
 <table widthh="624">
 <tbody>
 <tr>
-<td width="312"><strong><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare</a> </strong></td>
-<td width="312"><a href="https://crossborderscare.com/dr-harit-chaturvedi-surgical-oncology/"><strong>Dr Harit Chaturvedi </strong></a></td>
+<td width="312"><strong><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare</a> </strong></td>
+<td width="312"><a href="#/dr-harit-chaturvedi-surgical-oncology/"><strong>Dr Harit Chaturvedi </strong></a></td>
 </tr>
 <tr>
-<td width="312"><strong><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a> </strong></td>
-<td width="312"><a href="https://crossborderscare.com/dr-sameer-kaul-surgical-oncologist-in-delhi/"><strong>Dr Sameer Kaul </strong></a></td>
+<td width="312"><strong><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a> </strong></td>
+<td width="312"><a href="#/dr-sameer-kaul-surgical-oncologist-in-delhi/"><strong>Dr Sameer Kaul </strong></a></td>
 </tr>
 <tr>
-<td width="312"><strong><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a> </strong></td>
-<td width="312"><a href="https://crossborderscare.com/dr-b-niranjan-naik-best-breast-oncoplastic-surgeon/"><strong>Dr B. Niranjan Naik </strong></a></td>
+<td width="312"><strong><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a> </strong></td>
+<td width="312"><a href="#/dr-b-niranjan-naik-best-breast-oncoplastic-surgeon/"><strong>Dr B. Niranjan Naik </strong></a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/jaypee-hospital-noida-india/"><strong>Jaypee Hospital </strong></a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-rajesh-kapoor/"><strong>Dr Rajesh Kapoor </strong></a></td>
+<td width="312"><a href="#/jaypee-hospital-noida-india/"><strong>Jaypee Hospital </strong></a></td>
+<td width="312"><a href="#/dr-rajesh-kapoor/"><strong>Dr Rajesh Kapoor </strong></a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/"><strong>Fortis Hospital Vasant Kunj </strong></a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-prof-amit-javed/"><strong>Dr Amit Javed </strong></a></td>
+<td width="312"><a href="#/fortis-hospital-vasant-kunj/"><strong>Fortis Hospital Vasant Kunj </strong></a></td>
+<td width="312"><a href="#/dr-prof-amit-javed/"><strong>Dr Amit Javed </strong></a></td>
 </tr>
 </tbody>
 </table>
-<p><span style="color: #0048ad;"><strong>Cross Border Care and Stomach Cancer Treatment in India</strong></span></p>
-<p>Cross Border Care specializes in medical treatment for national and international patients seeking healthcare services in India. We can assist you with the following:</p>
+<p><span style="color: #0048ad;"><strong>Medihelp Global  and Stomach Cancer Treatment in India</strong></span></p>
+<p>Medihelp Global  specializes in medical treatment for national and international patients seeking healthcare services in India. We can assist you with the following:</p>
 <p><strong><span style="color: #0048ad;">Medical Consultation:</span> </strong>We can help you connect with the most experienced oncologists and other exceptional doctors in India who specialize in treating stomach cancer.</p>
 <p><strong><span style="color: #0048ad;">Treatment Planning:</span> </strong>We will help you develop a personalized treatment plan. This will involve coordinating appointments with doctors, arranging diagnostic tests, and organizing consultations with medical teams.</p>
-<p><span style="color: #0048ad;"><strong>Hospital Selection: </strong></span>Cross Border Care will help you choose reputable hospitals with India’s most advanced cancer treatment facilities.</p>
+<p><span style="color: #0048ad;"><strong>Hospital Selection: </strong></span>Medihelp Global  will help you choose reputable hospitals with India’s most advanced cancer treatment facilities.</p>
 <p><span style="color: #0048ad;"><strong>Logistic Support: </strong></span>we will help you with all travel arrangements, accommodation, transportation, and visa arrangements.</p>
 <p><strong><span style="color: #0048ad;">Cost Waiver:</span> </strong>We will also help you get maximum discounts on <span style="color: #0048ad;"><strong>stomach cancer treatment. </strong></span></p>
 <p><span style="color: #0048ad;"><strong>Continued Support: </strong></span>We understand how exhausting cancer treatment can be. That is why we provide you with continued support during your stay in India.</p>
@@ -8608,11 +8606,11 @@ Tips for our readers to prevent stomach cancer<br>
   },
   {
     name: "HIPEC-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/HIPEC-treatment.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">HIPEC Treatment in India: Tips and Insights</span></h2>
 <p>Hyperthermic Intraperitoneal Chemotherapy, or <strong>HIPEC Treatment</strong>, is a two-step procedure for treating cancers. Cancer tumors are first surgically removed, and then heated chemo drugs are applied directly inside the abdomen to eliminate the remaining cancer cells.<br>
-Today, we at Cross Border Care will explain HIPEC Treatment in India; examine the top hospitals performing it in India, and the factors affecting its cost.</p>
+Today, we at Medihelp Global  will explain HIPEC Treatment in India; examine the top hospitals performing it in India, and the factors affecting its cost.</p>
 <p><span style="color: #0048ad;"><strong>Let us look at the details one by one.</strong></span></p>
 <p><span style="color: #0048ad;"><strong>HIPEC|| Things you need to know</strong></span></p>
 <p>HIPEC treatment in Delhi involves delivering high doses of chemotherapy into the abdomen to treat cancer that has spread beyond the organ in which it originated. Abdominal cancers that have spread to the lining of the abdominal cavity( peritoneum)n can be difficult to treat through traditional chemotherapy. In such cases, doctors use HIPEC. HIPEC does not cure cancer but can surely help you live longer with cancer.</p>
@@ -8745,32 +8743,32 @@ Your doctor can help you weigh the benefits and risks of all your treatment opti
 <td width="312"><strong>Doctors </strong></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-manish-singhal/">Dr Manish Singhal</a></td>
+<td width="312"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td width="312"><a href="#/dr-manish-singhal/">Dr Manish Singhal</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-ankur-bahl/">Dr Ankur Behl</a></td>
+<td width="312"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a></td>
+<td width="312"><a href="#/dr-ankur-bahl/">Dr Ankur Behl</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-nitin-sood/">Dr Nitin Sood</a></td>
+<td width="312"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
+<td width="312"><a href="#/dr-nitin-sood/">Dr Nitin Sood</a></td>
 </tr>
 <tr>
 <td width="312">Marengo Asia Hospital</td>
-<td width="312"><a href="https://crossborderscare.com/dr-sunny-garg/">Dr Sunny Garg</a></td>
+<td width="312"><a href="#/dr-sunny-garg/">Dr Sunny Garg</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-dipanjan-panda/">Dr Dipanjan Panda</a></td>
+<td width="312"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td width="312"><a href="#/dr-dipanjan-panda/">Dr Dipanjan Panda</a></td>
 </tr>
 </thead>
 </table>
-<p><strong><span style="color: #000000;">&nbsp;Cross Border Care and HIPEC Surgery in India</span></strong></p>
-<p>Cross Border Care specializes in medical treatment for national and international patients seeking healthcare services in India. We can assist you with the following:</p>
+<p><strong><span style="color: #000000;">&nbsp;Medihelp Global  and HIPEC Surgery in India</span></strong></p>
+<p>Medihelp Global  specializes in medical treatment for national and international patients seeking healthcare services in India. We can assist you with the following:</p>
 <p><span style="color: #0048ad;"><strong>Medical Consultation: </strong></span>We can help you connect with the most experienced oncologists and other exceptional doctors in India who specialize in HIPEC Surgery</p>
 <p><strong><span style="color: #0048ad;">Treatment Planning:</span> </strong>We will help you develop a personalized treatment plan. This will involve coordinating appointments with doctors, arranging diagnostic tests, and organizing consultations with medical teams.</p>
-<p><strong><span style="color: #0048ad;">Hospital Selection:</span> </strong>Cross Border Care will help you choose reputable hospitals with India’s most advanced cancer treatment facilities.</p>
+<p><strong><span style="color: #0048ad;">Hospital Selection:</span> </strong>Medihelp Global  will help you choose reputable hospitals with India’s most advanced cancer treatment facilities.</p>
 <p><span style="color: #0048ad;"><strong>Logistic Support: </strong></span>we will help you with all travel arrangements, accommodation, transportation, and visa arrangements.</p>
 <p><strong><span style="color: #0048ad;">Cost Waiver:</span> </strong>We will also help you get maximum discounts on HIPEC Surgery in India</p>
 <p><span style="color: #0048ad;"><strong>Continued Support: </strong></span>We understand how exhausting cancer treatment can be. That is why we provide continued Support during your stay in India.</p>
@@ -8781,12 +8779,12 @@ Your doctor can help you weigh the benefits and risks of all your treatment opti
   },
   {
     name: "pancreatic-cancer-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/pancreatic-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Pancreatic Cancer</span></h2>
-<p>Cross Border Care empowering the patients with knowledge and hope<br>
+<p>Medihelp Global  empowering the patients with knowledge and hope<br>
 Pancreatic cancer is a daunting disease and requires specialized care and treatment. For patients who are diagnosed with this cancer, accessing evidence-based treatment as per international standards and support is important for their journey towards better health and improved quality of life.<br>
-At Cross Border Care, we aim to provide valuable information, guidance, and assistance to empower patients in navigating their journey and enhancing their overall well-being.</p>
+At Medihelp Global , we aim to provide valuable information, guidance, and assistance to empower patients in navigating their journey and enhancing their overall well-being.</p>
 <p><span style="color: #0048ad;"><strong>What is pancreatic cancer?</strong></span></p>
 <p>Pancreatic cancer is a type of cancer that begins as abnormal growth of cells in the pancreas. Early-stage pancreatic cancers do not show in the imaging, and for this reason, many people do not receive the diagnosis until the cancer spreads.</p>
 <p><span style="color: #0048ad;"><strong>Types of Pancreatic Cancer</strong></span></p>
@@ -8854,7 +8852,7 @@ At Cross Border Care, we aim to provide valuable information, guidance, and assi
 </tbody>
 </table>
 <h2><strong><span style="color: #0048ad;">Pancreatic Cancer Treatment Options in India</span></strong></h2>
-<p>There are several treatment options available for the treatment of pancreatic cancer in India. At Cross Border Care, we will help you choose the best treatment option, depending on your cancer stage.</p>
+<p>There are several treatment options available for the treatment of pancreatic cancer in India. At Medihelp Global , we will help you choose the best treatment option, depending on your cancer stage.</p>
 <p><span style="color: #0048ad;"><strong>Your treatment will depend on the following:</strong></span></p>
 <p>● The exact location of the tumor<br>
 ● The stage of the tumor<br>
@@ -8865,15 +8863,15 @@ At Cross Border Care, we aim to provide valuable information, guidance, and assi
 <p>Whipple Surgery for Pancreatic Cancer is done in top hospitals in India like Indraprastha</p>
 <p><span style="color: #0048ad;"><strong> Apollo and Fortis Hospital via several techniques:</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Open surgery:</strong></span> The surgeon will make an incision in the belly to reach the pancreas.</p>
-<p><span style="color: #0048ad;"><strong>Laparoscopic Surgery:</strong> </span>It is a minimally invasive surgery in which the surgeon will make minor cuts in the belly to insert tools and a camera. To know the cost of laparoscopic Whipples surgery in India, contact Cross Border Care today!!!</p>
+<p><span style="color: #0048ad;"><strong>Laparoscopic Surgery:</strong> </span>It is a minimally invasive surgery in which the surgeon will make minor cuts in the belly to insert tools and a camera. To know the cost of laparoscopic Whipples surgery in India, contact Medihelp Global  today!!!</p>
 <p><span style="color: #0048ad;"><strong>Robotic Whipples Surgery In India:</strong></span> Robotic surgery is another minimally invasive surgery in which the surgical tools are connected to a robot directed by the surgeon using hand controls.</p>
-<p><span style="color: #0048ad;"><strong>Cross Border Care will help you get the best Whipple’s surgery in India.</strong></span></p>
+<p><span style="color: #0048ad;"><strong>Medihelp Global  will help you get the best Whipple’s surgery in India.</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Distal Pancreatectomy:</strong> </span>In this operation, the best doctors for pancreatic cancer in India remove only the tail of the pancreas. Doctors in India use this surgical procedure if cancer is found in both the tail and the body of the pancreas.</p>
 <p><span style="color: #0048ad;"><strong>Total Pancreatectomy:</strong> </span>This operation will remove the entire pancreas, gallbladder, bile duct, small intestine, and spleen. It is a surgical option if cancer has spread, but it still can be removed.</p>
 <p><span style="color: #0048ad;"><strong>Bypass Surgery:</strong></span> This surgery is done to relieve the symptoms if the cancer has spread too far.</p>
 <p><span style="color: #0048ad;"><strong>Biliary Stent Placement:</strong> </span>Sometimes, cancer blocks the bile duct. This surgery relieves the blocked bile duct.</p>
 <p>Biliary Bypass Surgery is another surgical option to relieve a blocked bile duct. This procedure reroutes the bile flow from the common bile duct to the small intestine, bypassing the pancreas.<br>
-Cross Border Care’s medical consultant, <a href="https://crossborderscare.com/contact/"><span style="color: #0048ad;"><strong>Dr Nadeem Khan</strong></span></a>, will help you decide on the best surgical approach to treat your pancreatic cancer based on discussions with the top doctors in India. To know more about the cost of Whipples Surgery in India, please contact him now!! He will provide you with the best medical advice.</p>
+Medihelp Global ’s medical consultant, <a href="#/contact/"><span style="color: #0048ad;"><strong>Dr Nadeem Khan</strong></span></a>, will help you decide on the best surgical approach to treat your pancreatic cancer based on discussions with the top doctors in India. To know more about the cost of Whipples Surgery in India, please contact him now!! He will provide you with the best medical advice.</p>
 <p><span style="color: #0048ad;"><strong>Ablation Treatments</strong></span></p>
 <p>● Radiofrequency ablation uses high-frequency radio waves to destroy the tumor cells.<br>
 ● Microwave thermotherapy uses microwaves to destroy the tumor cells.<br>
@@ -8901,8 +8899,8 @@ Different types of radiation therapies given in the best hospitals for pancreati
 <span style="color: #0048ad;"><strong>Targeted Therapy:</strong></span> This pancreatic cancer treatment option in India will use medicines to target the specific chemicals present in cancer cells. By targeting these chemicals, the cancer cells will die. It is used for advanced-stage stomach cancer.<br>
 Immunotherapy is another pancreatic cancer treatment in which the immune system starts killing cancer cells. It is also used to treat advanced-stage cancer.</p>
 <p><span style="color: #0048ad;"><strong>Palliative Care</strong></span></p>
-<p>If you are dealing with advanced-stage pancreatic cancer, Cross Border Care can help you get the best palliative care in the top hospitals of India. The best doctors for pancreatic cancer treatment in India will work with you and your family to give you an extra layer of Support to make you feel better at the time of surgery, chemotherapy, and radiation therapy.</p>
-<p><span style="color: #0048ad;"><strong>Questions to ask your doctor: A guide by Cross Border Care</strong></span></p>
+<p>If you are dealing with advanced-stage pancreatic cancer, Medihelp Global  can help you get the best palliative care in the top hospitals of India. The best doctors for pancreatic cancer treatment in India will work with you and your family to give you an extra layer of Support to make you feel better at the time of surgery, chemotherapy, and radiation therapy.</p>
+<p><span style="color: #0048ad;"><strong>Questions to ask your doctor: A guide by Medihelp Global </strong></span></p>
 <p>● What type of cancer do I have?<br>
 ● Has my cancer spread beyond the pancreas?<br>
 ● Is my tumor resectable?<br>
@@ -8942,37 +8940,37 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 <td width="312"><strong>Doctor Name </strong></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-deepak-govil-gastrointestinal-surgeon/">Dr Deepak Govil</a></td>
+<td width="312"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td width="312"><a href="#/dr-deepak-govil-gastrointestinal-surgeon/">Dr Deepak Govil</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-prof-amit-javed/">Dr Amit Javed</a></td>
+<td width="312"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a></td>
+<td width="312"><a href="#/dr-prof-amit-javed/">Dr Amit Javed</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-tapan-singh-chauhan-surgical-oncologist-in-delhi/">Dr Tapan Singh</a></td>
+<td width="312"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td width="312"><a href="#/dr-tapan-singh-chauhan-surgical-oncologist-in-delhi/">Dr Tapan Singh</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-adarsh-chaudhary-gi-surgeon/">Dr Adarsh Chaudhary</a></td>
+<td width="312"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
+<td width="312"><a href="#/dr-adarsh-chaudhary-gi-surgeon/">Dr Adarsh Chaudhary</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/max-hospital-patparganj/">Max Healthcare</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-prof-p-k-mishra-surgical-gastroenterology-gi-oncology/">Dr PK Mishra</a></td>
+<td width="312"><a href="#/max-hospital-patparganj/">Max Healthcare</a></td>
+<td width="312"><a href="#/dr-prof-p-k-mishra-surgical-gastroenterology-gi-oncology/">Dr PK Mishra</a></td>
 </tr>
 <tr>
-<td width="312"><a href="https://crossborderscare.com/venkateshwar-hospital-delhi/">Venkateshwar Hospital</a></td>
-<td width="312"><a href="https://crossborderscare.com/dr-tushar-aeron/">Dr Tushar Aeron</a></td>
+<td width="312"><a href="#/venkateshwar-hospital-delhi/">Venkateshwar Hospital</a></td>
+<td width="312"><a href="#/dr-tushar-aeron/">Dr Tushar Aeron</a></td>
 </tr>
 </tbody>
 </table>
 <p><strong><span style="color: #0048ad;">To know the surgery cost of pancreatic cancer in India, please visit our cost page.</span> </strong></p>
-<p><span style="color: #0048ad;"><strong>Cross Border Care and Pancreatic Cancer Treatment in India</strong></span></p>
-<p>Cross Border Care specializes in medical treatment for national and international patients seeking healthcare services in India. We can assist you with the following:</p>
+<p><span style="color: #0048ad;"><strong>Medihelp Global  and Pancreatic Cancer Treatment in India</strong></span></p>
+<p>Medihelp Global  specializes in medical treatment for national and international patients seeking healthcare services in India. We can assist you with the following:</p>
 <p><span style="color: #0048ad;"><strong>Medical Consultation: </strong></span>We can help you connect with the most experienced oncologists and exceptional doctors in India who specialize in treating <span style="color: #0048ad;"><strong>pancreatic cancer. </strong></span></p>
 <p><span style="color: #0048ad;"><strong>Treatment Planning: </strong></span>We will help you develop a personalized treatment plan. This will involve coordinating appointments with doctors, arranging diagnostic tests, and organizing consultations with medical teams.</p>
-<p><strong><span style="color: #0048ad;">Hospital Selection:</span> </strong>Cross Border Care will help you choose reputable hospitals with India’s most advanced cancer treatment facilities.</p>
+<p><strong><span style="color: #0048ad;">Hospital Selection:</span> </strong>Medihelp Global  will help you choose reputable hospitals with India’s most advanced cancer treatment facilities.</p>
 <p><span style="color: #0048ad;"><strong>Logistic Support: </strong></span>we will help you with all travel arrangements, accommodation, transportation, and visa arrangements.</p>
 <p><span style="color: #0048ad;"><strong>Cost Waiver: </strong></span>We will also help you get maximum discounts on <span style="color: #0048ad;"><strong>pancreatic cancer treatment in Delhi.&nbsp; </strong></span></p>
 <p><strong><span style="color: #0048ad;">Continued Support:</span> </strong>We understand how exhausting cancer treatment can be. That is why we provide you with continued support during your stay in India.</p>
@@ -8983,10 +8981,10 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
   },
   {
     name: "radio-active-iodine-therapy",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/radio-active-iodine-therapy.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Radioactive Iodine Therapy for Thyroid Cancer</strong></span></h2>
-<p>Radioactive iodine-131 thyroid cancer treatment is a safe and effective procedure for treating thyroid cancer and hyperthyroidism. It is also very brief and straightforward. Here at Cross Border Care, the best medical consulting in India, we will explain the treatment, its cost, and the best hospitals offering this treatment in India.</p>
+<p>Radioactive iodine-131 thyroid cancer treatment is a safe and effective procedure for treating thyroid cancer and hyperthyroidism. It is also very brief and straightforward. Here at Medihelp Global , the best medical consulting in India, we will explain the treatment, its cost, and the best hospitals offering this treatment in India.</p>
 <p><span style="color: #0048ad;"><strong>What is radioactive iodine therapy?</strong></span></p>
 <p>The term radioactive may sound frightening, but it is a safe treatment. It targets thyroid cells to eradicate them. It involves using radioactive isotopes -IODINE 131—to diagnose or treat thyroid-related diseases.</p>
 <p><span style="color: #0048ad;"><strong>Iodine-131 thyroid cancer treatment in India</strong></span> is also done to destroy any thyroid tissue that is not removed by the surgery or to treat some types of thyroid cancers that have spread to lymph nodes and other parts of the body.</p>
@@ -9001,7 +8999,7 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 <p><span style="color: #0048ad;"><strong>● RAI( Radioactive Iodine) therapy for Thyroid cancer</strong></span></p>
 <p>If you are suffering from papillary thyroid cancer or follicular thyroid cancer, then <span style="color: #0048ad;"><strong>Radioactive iodine treatment in India</strong></span> will surely be a part of your treatment plan. It destroys the thyroid tissue that cannot be removed by surgery. It is also used to treat metastasized thyroid cancers.</p>
 <p>This therapy will not work for anaplastic thyroid cancer and medullary thyroid cancer.</p>
-<p><span style="color: #0048ad;"><strong>Cross Border Care does not recommend this therapy if :</strong></span></p>
+<p><span style="color: #0048ad;"><strong>Medihelp Global  does not recommend this therapy if :</strong></span></p>
 <p>● You are pregnant<br>
 ● You are breastfeeding<br>
 ● You have high thyroid hormone levels<br>
@@ -9016,7 +9014,7 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 <p><span style="color: #0048ad;"><strong>Just before the procedure:</strong></span></p>
 <p>● You will have to take a pregnancy test.<br>
 ● You will have to undergo a body scan to check if there are any remaining cancer cells in your body.</p>
-<p>Our team at Cross Border Care will help you complete all these preparations in detail. However, follow all these instructions, be bold, and ask us questions. We work closely with patients and doctors to achieve a high success rate during <span style="color: #0048ad;"><strong>thyroid cancer ablation with radioiodine treatment in Delhi.</strong></span></p>
+<p>Our team at Medihelp Global  will help you complete all these preparations in detail. However, follow all these instructions, be bold, and ask us questions. We work closely with patients and doctors to achieve a high success rate during <span style="color: #0048ad;"><strong>thyroid cancer ablation with radioiodine treatment in Delhi.</strong></span></p>
 <p><span style="color: #0048ad;"><strong>How is the procedure performed?</strong></span></p>
 <p>The<span style="color: #0048ad;"><strong> Radioactive iodine treatment in Delhi</strong></span> involves the following steps:</p>
 <p>● You will be given the dose of <span style="color: #0048ad;"><strong>radioactive iodine ( I-131)</strong></span> orally as a capsule, liquid, or injection into a vein. The thyroid gland absorbs the radioactive iodine, emitting radiation and thus targeting and destroying the thyroid cells.<br>
@@ -9087,28 +9085,28 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 <th class="m-table__data" style="text-align: left;">Best Doctor</th>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-uma-ravishankar/">Dr Uma Ravishankar</a></td>
+<td class="m-table__data"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td class="m-table__data"><a href="#/dr-uma-ravishankar/">Dr Uma Ravishankar</a></td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-ishita-b-sen/">Dr Ishita B. Sen</a></td>
+<td class="m-table__data"><a href="#/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
+<td class="m-table__data"><a href="#/dr-ishita-b-sen/">Dr Ishita B. Sen</a></td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare&nbsp;</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-pankaj-dougall/">Dr Pankaj Dougall</a></td>
+<td class="m-table__data"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare&nbsp;</a></td>
+<td class="m-table__data"><a href="#/dr-pankaj-dougall/">Dr Pankaj Dougall</a></td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/max-hospital-patparganj/">Max -BLK Hospital</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-alka-kumar/">Dr Alka Kumar</a></td>
+<td class="m-table__data"><a href="#/max-hospital-patparganj/">Max -BLK Hospital</a></td>
+<td class="m-table__data"><a href="#/dr-alka-kumar/">Dr Alka Kumar</a></td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-noaline-sinha/">Dr Noaline Sinha</a></td>
+<td class="m-table__data"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td class="m-table__data"><a href="#/dr-noaline-sinha/">Dr Noaline Sinha</a></td>
 </tr>
 </thead>
 </table>
-<p><span style="color: #0048ad;"><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with:</strong></span></p>
+<p><span style="color: #0048ad;"><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:</strong></span></p>
 <p>● Arranging visa<br>
 ● Finding the best hospital<br>
 ● Surgical package negotiation on your behalf<br>
@@ -9116,17 +9114,17 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 ● Medicines at reasonable rates<br>
 ● Affordable options to stay in India<br>
 ● Over saving of 15% treatment cost through us</p>
-<p>To learn more about our services, please write to us at info@crossborderscare.com. Based on your reports, we will let you know the <span style="color: #0048ad;"><strong>Radioactive iodine treatment cost in India.</strong></span></p>
+<p>To learn more about our services, please write to us at info@Medihelp Globalglobal.com. Based on your reports, we will let you know the <span style="color: #0048ad;"><strong>Radioactive iodine treatment cost in India.</strong></span></p>
 
 		</div>`,
   },
   {
     name: "latest-radiation-therapy",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/latest-radiation-therapy.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;"><strong>Radiation Therapy: IGRT, IMRT, CyberKnife, Zap-X &amp; Tomotherapy</strong></span></h2>
 <p><strong>Radiation therapy</strong>, or <strong>radiotherapy</strong>, is a <strong>cancer treatment</strong> that uses high-energy X-ray beams to kill cancer cells. Radiation therapy damages cells by destroying their genetic material, which controls cell growth.<br>
-Here, with <strong>Cross Border Care</strong>, our readers will learn about <strong>radiation therapy</strong> in detail and the best hospitals providing it in India.</p>
+Here, with <strong>Medihelp Global </strong>, our readers will learn about <strong>radiation therapy</strong> in detail and the best hospitals providing it in India.</p>
 <h2><span style="color: #0048ad;"><strong>Why is radiation therapy done?</strong></span></h2>
 <p>The goal of<strong> radiation therapy in India</strong> is to kill as many cancer cells as possible while harming very few healthy cells. Over half of the patients with cancer receive radiation therapy at some point in their lives.<br>
 Your <strong>radiation oncology</strong> team in India may suggest radiation:<br>
@@ -9257,28 +9255,28 @@ You can also follow the given safety measures after the first few days of the <s
 <th class="m-table__data" style="text-align: left;">Doctors</th>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-g-k-jadhav/">Dr. G.K. Jadhav</a></td>
+<td class="m-table__data"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td class="m-table__data"><a href="#/dr-g-k-jadhav/">Dr. G.K. Jadhav</a></td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-mano-badhuria/">Dr. Mano Bhaduria</a></td>
+<td class="m-table__data"><a href="#/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
+<td class="m-table__data"><a href="#/dr-mano-badhuria/">Dr. Mano Bhaduria</a></td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare&nbsp;</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-sapna-manocha-verma/">Dr. Sapna Manocha Verma</a></td>
+<td class="m-table__data"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare&nbsp;</a></td>
+<td class="m-table__data"><a href="#/dr-sapna-manocha-verma/">Dr. Sapna Manocha Verma</a></td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/medanta-hospital-gurgaon-india/">Medanta The Medicity</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-tejinder-kataria/">Dr. Tejinder Kataria</a></td>
+<td class="m-table__data"><a href="#/medanta-hospital-gurgaon-india/">Medanta The Medicity</a></td>
+<td class="m-table__data"><a href="#/dr-tejinder-kataria/">Dr. Tejinder Kataria</a></td>
 </tr>
 <tr class="m-table__row">
-<td class="m-table__data"><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td class="m-table__data"><a href="https://crossborderscare.com/dr-robin-khosa/">Dr. Robin Khosa</a></td>
+<td class="m-table__data"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td class="m-table__data"><a href="#/dr-robin-khosa/">Dr. Robin Khosa</a></td>
 </tr>
 </thead>
 </table>
-<p><strong>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with: </strong></p>
+<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with: </strong></p>
 <p>● Arranging visa<br>
 ● Finding the best hospital<br>
 ● Surgical package negotiation on your behalf<br>
@@ -9286,14 +9284,14 @@ You can also follow the given safety measures after the first few days of the <s
 ● Medicines at reasonable rates<br>
 ● Affordable options to stay in India<br>
 ● Over saving of 15% treatment cost through us</p>
-<p>To learn more about our services, please write to us at info@crossborderscare.com. Based on your reports, we will let you know the <strong>radiation therapy cost in Delhi</strong>.</p>
+<p>To learn more about our services, please write to us at info@Medihelp Globalglobal.com. Based on your reports, we will let you know the <strong>radiation therapy cost in Delhi</strong>.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Latest Radiation Therapy </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
   {
     name: "general-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/general-surgery.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Obesity and Metabolic/ Bariatric Surgery in India</span></h2>
 <p>Globally, more than 1.9 billion adults are overweight and 650 million are obese. Approximately 2.8 million deaths are reported as a result of being overweight or obese.<sup>1</sup>Obesity and Type-II Diabetes (T2DM) have become pandemic. There are many ways to manage obesity; however the fastest and most dramatic option is Bariatric or weight loss surgery. It is considered to be safe and recommended for patients, who have co-morbid diabetes or hypertension and stand a higher risk due to obesity.</p>
@@ -9381,20 +9379,20 @@ You can also follow the given safety measures after the first few days of the <s
 </ul>
 <h3><span style="color: #0048ad;">Top doctors in India offering bariatric or weight loss surgery in India</span></h3>
 <ol>
-<li><a href="https://crossborderscare.com/dr-pradeep-chowbey-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Pradeep Chowbey</strong></a>, Chirman Minimal Access GI &amp; Robotic Weight Loss Surgery unit at Max Super Speciality Hospital, Experience 45 years.</li>
-<li><a href="https://crossborderscare.com/dr-adarsh-chaudhary-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Adarsh Chaudhary</strong></a> Chairman Minimal Access GI &amp; Robotic Surgery unit at Medanta the Medicity , Experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-atul-n-c-peters-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Atul N.C. Peters</strong></a>, Senior Consultant Minimal Access GI &amp; Robotic Weight Loss Surgery unit at Max Super Specialty Hospital, Experience 22 years.</li>
+<li><a href="#/dr-pradeep-chowbey-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Pradeep Chowbey</strong></a>, Chirman Minimal Access GI &amp; Robotic Weight Loss Surgery unit at Max Super Speciality Hospital, Experience 45 years.</li>
+<li><a href="#/dr-adarsh-chaudhary-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Adarsh Chaudhary</strong></a> Chairman Minimal Access GI &amp; Robotic Surgery unit at Medanta the Medicity , Experience 42 years</li>
+<li><a href="#/dr-atul-n-c-peters-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Atul N.C. Peters</strong></a>, Senior Consultant Minimal Access GI &amp; Robotic Weight Loss Surgery unit at Max Super Specialty Hospital, Experience 22 years.</li>
 <li><strong>Dr Alloy Mukharjee</strong> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-randeep-wadhawan-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Randeep Wadhawan</strong></a>, Director Minimal Access GI &amp; Robotic Surgery Department, at Manipal Hospital, Experience 22 years</li>
-<li><a href="https://crossborderscare.com/dr-vivek-bindal-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Vivek Bindal</strong></a>, Director at Minimal Access &amp; Robotic GI Surgery at Max Hospital. Experience 18 years</li>
+<li><a href="#/dr-randeep-wadhawan-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Randeep Wadhawan</strong></a>, Director Minimal Access GI &amp; Robotic Surgery Department, at Manipal Hospital, Experience 22 years</li>
+<li><a href="#/dr-vivek-bindal-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Vivek Bindal</strong></a>, Director at Minimal Access &amp; Robotic GI Surgery at Max Hospital. Experience 18 years</li>
 </ol>
 <h3><span style="color: #0048ad;">Top hospitals in India Offering Bariatric or weight loss surgery</span></h3>
 <ol>
 <li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Super Specialty Hospital</a></li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li><a href="#/max-hospital-as-eye-centre/">Max Super Specialty Hospital</a></li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
 </ol>
 <p><span style="color: #0048ad;"><strong>Need assistance with advanced treatment for bariatric or weight loss surgery to be performed in India? Contact us today!</strong></span></p>
 
@@ -9402,7 +9400,7 @@ You can also follow the given safety measures after the first few days of the <s
   },
   {
     name: "vascular-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/vascular-surgery.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Obesity and Metabolic/ Bariatric Surgery in India</span></h2>
 <p>Globally, more than 1.9 billion adults are overweight and 650 million are obese. Approximately 2.8 million deaths are reported as a result of being overweight or obese.<sup>1</sup>Obesity and Type-II Diabetes (T2DM) have become pandemic. There are many ways to manage obesity; however the fastest and most dramatic option is Bariatric or weight loss surgery. It is considered to be safe and recommended for patients, who have co-morbid diabetes or hypertension and stand a higher risk due to obesity.</p>
@@ -9490,20 +9488,20 @@ You can also follow the given safety measures after the first few days of the <s
 </ul>
 <h3><span style="color: #0048ad;">Top doctors in India offering bariatric or weight loss surgery in India</span></h3>
 <ol>
-<li><a href="https://crossborderscare.com/dr-pradeep-chowbey-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Pradeep Chowbey</strong></a>, Chirman Minimal Access GI &amp; Robotic Weight Loss Surgery unit at Max Super Speciality Hospital, Experience 45 years.</li>
-<li><a href="https://crossborderscare.com/dr-adarsh-chaudhary-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Adarsh Chaudhary</strong></a> Chairman Minimal Access GI &amp; Robotic Surgery unit at Medanta the Medicity , Experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-atul-n-c-peters-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Atul N.C. Peters</strong></a>, Senior Consultant Minimal Access GI &amp; Robotic Weight Loss Surgery unit at Max Super Specialty Hospital, Experience 22 years.</li>
+<li><a href="#/dr-pradeep-chowbey-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Pradeep Chowbey</strong></a>, Chirman Minimal Access GI &amp; Robotic Weight Loss Surgery unit at Max Super Speciality Hospital, Experience 45 years.</li>
+<li><a href="#/dr-adarsh-chaudhary-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Adarsh Chaudhary</strong></a> Chairman Minimal Access GI &amp; Robotic Surgery unit at Medanta the Medicity , Experience 42 years</li>
+<li><a href="#/dr-atul-n-c-peters-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Atul N.C. Peters</strong></a>, Senior Consultant Minimal Access GI &amp; Robotic Weight Loss Surgery unit at Max Super Specialty Hospital, Experience 22 years.</li>
 <li><strong>Dr Alloy Mukharjee</strong> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-randeep-wadhawan-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Randeep Wadhawan</strong></a>, Director Minimal Access GI &amp; Robotic Surgery Department, at Manipal Hospital, Experience 22 years</li>
-<li><a href="https://crossborderscare.com/dr-vivek-bindal-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Vivek Bindal</strong></a>, Director at Minimal Access &amp; Robotic GI Surgery at Max Hospital. Experience 18 years</li>
+<li><a href="#/dr-randeep-wadhawan-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Randeep Wadhawan</strong></a>, Director Minimal Access GI &amp; Robotic Surgery Department, at Manipal Hospital, Experience 22 years</li>
+<li><a href="#/dr-vivek-bindal-minimal-access-gi-robotic-weight-loss-surgeon/"><strong>Dr Vivek Bindal</strong></a>, Director at Minimal Access &amp; Robotic GI Surgery at Max Hospital. Experience 18 years</li>
 </ol>
 <h3><span style="color: #0048ad;">Top hospitals in India Offering Bariatric or weight loss surgery</span></h3>
 <ol>
 <li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="https://crossborderscare.com/max-hospital-as-eye-centre/">Max Super Specialty Hospital</a></li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li><a href="#/max-hospital-as-eye-centre/">Max Super Specialty Hospital</a></li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
 </ol>
 <p><span style="color: #0048ad;"><strong>Need assistance with advanced treatment for bariatric or weight loss surgery to be performed in India? Contact us today!</strong></span></p>
 
@@ -9511,12 +9509,12 @@ You can also follow the given safety measures after the first few days of the <s
   },
   {
     name: "dental-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/dental-surgery.webp",
     data: ``,
   },
   {
     name: "hip-replacement-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/hip-replacement-surgery.webp",
     data: `<div class="wpb_wrapper">
 			<p style="text-align: left;"><strong>A hip replacement surgery</strong> is recommended when the hip joint becomes severely damaged due to a disease resulting in chronic pain, decreased quality of life and limited mobility.</p>
 <p style="text-align: left;"><strong>A</strong> <strong>robotic hip replacement surgery</strong> is a procedure in which the surgeon removes damaged tissue/femur bone head in a patient’s hip and replaces it with an artificial joint. It is done with the help of a robotic arm hence also called robotic-assisted hip replacement surgery. The robotic procedure allows the surgery to be performed with great precision and also gives miraculous clinical results.</p>
@@ -9594,9 +9592,9 @@ You can also follow the given safety measures after the first few days of the <s
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;">&nbsp;<strong>Top Hospitals for Robotic Hip Replacement in India</strong></span></h2>
 <ul style="text-align: left;">
-<li><span style="color: #000000;"><strong><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/"><span style="color: #0048ad;">Max Super speciality Hospital</span></a>: </strong></span>It is India’s largest private sector <strong>JCI accredited</strong> hospital located in New Delhi and one of the <strong>best hospitals for Robotic hip surgery</strong>. The Max Cancer Center is equipped with state-of-the-art equipment, facilities &amp; experienced doctors. <strong><a href="https://crossborderscare.com/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><span style="color: #0048ad;">Dr Anil Arora</span> </a>is</strong> one of the best robotic doctors in India with 35 years of experience. Over the past five years, he has performed numerous surgeries and has helped many people suffering from damaged hip joints.</li>
-<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="https://crossborderscare.com/ck-birla-hospital/"><strong>CK Birla Hospital:</strong> </a></span>CK Birla Hospital in Delhi is a <strong>NABH-accredited,</strong> cutting-edge multidisciplinary centre. They have an international team of top-notch medical specialists who provide the best possible care. Their healthcare technology allows them to provide the best possible patient experience and accurate, collaborative treatment. <span style="color: #0048ad;"><strong><a href="https://crossborderscare.com/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr Aswami Maichand</a>, </strong></span>the Director of the Robotic Orthopedic division, is the best doctor for a robotic hip replacement here. He has an experience of over 35 years and has performed numerous hip replacement surgeries in his vast and successful career.</li>
-<li><span style="color: #000000;"><strong><a href="https://crossborderscare.com/w-pratiksha-hospital/">W Partiksha Hospital</a>: </strong></span>W Pratiksha Hospital in Gurgaon is a multi-speciality hospital that provides the highest level of healthcare through cutting-edge technology, skilled and experienced physicians, and super-specialized treatments, particularly orthopaedics and <strong>robotic joint replacement surgery</strong>. Thousands of patients have been served by W Pratiksha Hospital over the last 25 years. <a href="https://crossborderscare.com/dr-hemant-sharma-robotic-joint-replacement-surgeon/"><strong><span style="color: #0048ad;">Dr Hemant Sharma </span></strong></a>is the best robotic hip replacement surgeon here.</li>
+<li><span style="color: #000000;"><strong><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><span style="color: #0048ad;">Max Super speciality Hospital</span></a>: </strong></span>It is India’s largest private sector <strong>JCI accredited</strong> hospital located in New Delhi and one of the <strong>best hospitals for Robotic hip surgery</strong>. The Max Cancer Center is equipped with state-of-the-art equipment, facilities &amp; experienced doctors. <strong><a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><span style="color: #0048ad;">Dr Anil Arora</span> </a>is</strong> one of the best robotic doctors in India with 35 years of experience. Over the past five years, he has performed numerous surgeries and has helped many people suffering from damaged hip joints.</li>
+<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="#/ck-birla-hospital/"><strong>CK Birla Hospital:</strong> </a></span>CK Birla Hospital in Delhi is a <strong>NABH-accredited,</strong> cutting-edge multidisciplinary centre. They have an international team of top-notch medical specialists who provide the best possible care. Their healthcare technology allows them to provide the best possible patient experience and accurate, collaborative treatment. <span style="color: #0048ad;"><strong><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr Aswami Maichand</a>, </strong></span>the Director of the Robotic Orthopedic division, is the best doctor for a robotic hip replacement here. He has an experience of over 35 years and has performed numerous hip replacement surgeries in his vast and successful career.</li>
+<li><span style="color: #000000;"><strong><a href="#/w-pratiksha-hospital/">W Partiksha Hospital</a>: </strong></span>W Pratiksha Hospital in Gurgaon is a multi-speciality hospital that provides the highest level of healthcare through cutting-edge technology, skilled and experienced physicians, and super-specialized treatments, particularly orthopaedics and <strong>robotic joint replacement surgery</strong>. Thousands of patients have been served by W Pratiksha Hospital over the last 25 years. <a href="#/dr-hemant-sharma-robotic-joint-replacement-surgeon/"><strong><span style="color: #0048ad;">Dr Hemant Sharma </span></strong></a>is the best robotic hip replacement surgeon here.</li>
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Cost of robotic hip replacement in India</strong></span></h2>
 <p style="text-align: left;">In India, there are many factors which determine the<strong> cost of hip replacement surgery</strong> such as:</p>
@@ -9613,13 +9611,13 @@ You can also follow the given safety measures after the first few days of the <s
 <li>Bilateral Robotic Hip Replacement Surgery: USD 9500</li>
 </ul>
 </li>
-<li><span style="color: #000000;"><a style="color: #000000;" href="https://crossborderscare.com/w-pratiksha-hospital/"><strong>W Partiksha Hospital</strong></a></span>
+<li><span style="color: #000000;"><a style="color: #000000;" href="#/w-pratiksha-hospital/"><strong>W Partiksha Hospital</strong></a></span>
 <ul>
 <li>Unilateral Robotic Hip Replacement Surgery USD 6200</li>
 <li>Bilateral Robotic Hip Replacement Surgery USD 10400</li>
 </ul>
 </li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a> PPG</strong></span>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> PPG</strong></span>
 <ul>
 <li>Unilateral Robotic Hip Replacement Surgery USD 6500</li>
 <li>Bilateral Robotic Hip Replacement Surgery USD 10300</li>
@@ -9649,7 +9647,7 @@ You can also follow the given safety measures after the first few days of the <s
 <p style="text-align: left;"><span style="color: #0048ad;"><strong>Stay in India: </strong></span>You must stay in India for at least 15 days after your surgery to complete the process.</p>
 <p style="text-align: left;"><span style="color: #0048ad;"><strong>Percentage of success: </strong></span>There is no doubt that India is one of the world’s top countries when it comes to robotic hip replacement procedures, enjoying a success rate of 99.9%.</p>
 <h3 style="text-align: left;"><span style="color: #0048ad;"><strong>How can you avail the best Robotic Hip Replacement in India-Step through Step process?</strong></span></h3>
-<p style="text-align: left;">If you are looking for trustworthy treatment consultants in India, then Cross Border Care is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <span style="color: #0048ad;">hip replacement <strong>surgery</strong> <strong>in India </strong></span>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p style="text-align: left;">If you are looking for trustworthy treatment consultants in India, then Medihelp Global  is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <span style="color: #0048ad;">hip replacement <strong>surgery</strong> <strong>in India </strong></span>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professionals themselves who are involved in each step of patient care. It is good to have an experienced ‘<strong>treatment consultant</strong>’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Hip Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 
@@ -9657,7 +9655,7 @@ You can also follow the given safety measures after the first few days of the <s
   },
   {
     name: "knee-replacement-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/knee-replacement-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -9788,34 +9786,34 @@ You can also follow the given safety measures after the first few days of the <s
 <tr>
 <td>5000$</td>
 <td>8500$</td>
-<td><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a>, {JCI}</td>
-<td><a href="https://crossborderscare.com/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/">Dr Anil Arora</a> Exp:35 years Principal and Director and HOD ( Robotics Department)</td>
+<td><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a>, {JCI}</td>
+<td><a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/">Dr Anil Arora</a> Exp:35 years Principal and Director and HOD ( Robotics Department)</td>
 </tr>
 <tr>
 <td>4400$</td>
 <td>7400$</td>
-<td><a href="https://crossborderscare.com/ck-birla-hospital/">CK Birla Hospital</a>, Delhi,{ NABH}</td>
-<td><a href="https://crossborderscare.com/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr. Ashwani Maichand</a> Exp: 25 years Director( Robotic Orthopaedic division)</td>
+<td><a href="#/ck-birla-hospital/">CK Birla Hospital</a>, Delhi,{ NABH}</td>
+<td><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr. Ashwani Maichand</a> Exp: 25 years Director( Robotic Orthopaedic division)</td>
 </tr>
 <tr>
 <td>4700$</td>
 <td>9000$</td>
-<td><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a>, {JCI}</td>
-<td><a href="https://crossborderscare.com/dr-subhash-jangid-knee-replacement-surgeon/">Dr Subash Jangit</a> Exp: 25 years Director( Minimal Access Orthopedic and Joint Replacement</td>
+<td><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a>, {JCI}</td>
+<td><a href="#/dr-subhash-jangid-knee-replacement-surgeon/">Dr Subash Jangit</a> Exp: 25 years Director( Minimal Access Orthopedic and Joint Replacement</td>
 </tr>
 <tr>
 <td>5000$</td>
 <td>9000$</td>
-<td><a href="https://crossborderscare.com/sarvodaya-hospital-faridabad-india/">Sarvodhya Hospital</a>, Faridabad,<br>
+<td><a href="#/sarvodaya-hospital-faridabad-india/">Sarvodhya Hospital</a>, Faridabad,<br>
 {NABH}</td>
-<td><a href="https://crossborderscare.com/dr-sujoy-bhattacharjee-robotic-joint-replacement/">Dr Sujoy Bhattacharjee</a> Exp: 25 years Chairman Orthopaedics Department</td>
+<td><a href="#/dr-sujoy-bhattacharjee-robotic-joint-replacement/">Dr Sujoy Bhattacharjee</a> Exp: 25 years Chairman Orthopaedics Department</td>
 </tr>
 <tr>
 <td>4700$</td>
 <td>7500$</td>
-<td><a href="https://crossborderscare.com/w-pratiksha-hospital/">W Pratiksha Hospital</a>, Gurugram,<br>
+<td><a href="#/w-pratiksha-hospital/">W Pratiksha Hospital</a>, Gurugram,<br>
 {NABH}</td>
-<td><a href="https://crossborderscare.com/dr-hemant-sharma-robotic-joint-replacement-surgeon/">Dr Hemant Sharma</a> Exp: 30 years HOD Orthopedics and Joint Replacement</td>
+<td><a href="#/dr-hemant-sharma-robotic-joint-replacement-surgeon/">Dr Hemant Sharma</a> Exp: 30 years HOD Orthopedics and Joint Replacement</td>
 </tr>
 </tbody>
 </table>
@@ -9884,7 +9882,7 @@ You can also follow the given safety measures after the first few days of the <s
 <p><strong>Stay in hospital : </strong>04 Days</p>
 <p><strong>Stay in India : </strong>15 Days</p>
 <p><strong>Percentage of success: </strong>99.9%</p>
-<h2><b>Knee Health on a Budget: </b>Service Cost at Cross-Border Care</h2>
+<h2><b>Knee Health on a Budget: </b>Service Cost at Medihelp Global Global</h2>
 <table>
 <tbody>
 <tr>
@@ -9914,7 +9912,7 @@ You can also follow the given safety measures after the first few days of the <s
 </tbody>
 </table>
 <p><span style="font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
-<p><b>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with:&nbsp;</b></p>
+<p><b>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:&nbsp;</b></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital</span></li>
@@ -9924,13 +9922,13 @@ You can also follow the given safety measures after the first few days of the <s
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Knee Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 </div>`,
   },
   {
     name: "shoulder-replacement-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/shoulder-replacement-surgery.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Shoulder Replacement Surgery in India: Shoulder Pain No More</span></h2>
 <p>For individuals who suffer from severe shoulder pain or shoulder conditions, shoulder replacement surgery has emerged as a beacon of hope, which promises relief from pain and helps them to return to normalcy.</p>
@@ -10032,46 +10030,46 @@ Glenoid Component: It replaces the worn-out socket of the shoulder joint. It is 
 <td width="89"><strong>Cost&nbsp;</strong></td>
 </tr>
 <tr>
-<td width="216"><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital</a>, New Delhi<p></p>
+<td width="216"><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital</a>, New Delhi<p></p>
 <p>(JCI accredited )</p></td>
-<td width="164"><a href="https://crossborderscare.com/dr-s-k-s-marya-orthopedic-joint-replacement-surgeon/">Dr. S.K.S. Marya</a>, Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, (Experience 42 years)</td>
+<td width="164"><a href="#/dr-s-k-s-marya-orthopedic-joint-replacement-surgeon/">Dr. S.K.S. Marya</a>, Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, (Experience 42 years)</td>
 <td width="89">9000$</td>
 </tr>
 <tr>
-<td width="216"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>,<p></p>
+<td width="216"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>,<p></p>
 <p>(JCI accredited )</p></td>
-<td width="164"><a href="https://crossborderscare.com/dr-subhash-jangid-director-and-head-of-the-orthopaedics-and-robotic-joint-reconstruction/">Dr Subhash Jangit</a>– Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, (Experience 25 years)</td>
+<td width="164"><a href="#/dr-subhash-jangid-director-and-head-of-the-orthopaedics-and-robotic-joint-reconstruction/">Dr Subhash Jangit</a>– Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, (Experience 25 years)</td>
 <td width="89">8500$</td>
 </tr>
 <tr>
-<td width="216"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta, The Medicity</a><p></p>
+<td width="216"><a href="#/medanta-the-medicity-eye-department/">Medanta, The Medicity</a><p></p>
 <p>(JCI accredited )</p></td>
-<td width="164"><a href="https://crossborderscare.com/dr-ashok-rajgopal-orthopaedic-surgeon-in-delhi-india/">&nbsp;Dr. Ashok Rajgopal</a>, Group Chairman, Institute Of Musculoskeletal Disorders and Orthopaedics, (Experience 40 years)</td>
+<td width="164"><a href="#/dr-ashok-rajgopal-orthopaedic-surgeon-in-delhi-india/">&nbsp;Dr. Ashok Rajgopal</a>, Group Chairman, Institute Of Musculoskeletal Disorders and Orthopaedics, (Experience 40 years)</td>
 <td width="89">9500$</td>
 </tr>
 <tr>
-<td width="216"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>s, New Delhi,<p></p>
+<td width="216"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>s, New Delhi,<p></p>
 <p>(JCI accredited )</p></td>
-<td width="164"><a href="https://crossborderscare.com/dr-prof-raju-vaishya-orthopedic-surgeon-in-delhi/">Dr (Prof) Raju Vaishya</a>, Sr. Consultant Orthopaedics, (Experience 35 years)</td>
+<td width="164"><a href="#/dr-prof-raju-vaishya-orthopedic-surgeon-in-delhi/">Dr (Prof) Raju Vaishya</a>, Sr. Consultant Orthopaedics, (Experience 35 years)</td>
 <td width="89">9000$</td>
 </tr>
 <tr>
-<td width="216"><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram,<p></p>
+<td width="216"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram,<p></p>
 <p>(NABH accredited )</p></td>
-<td width="164">&nbsp;<a href="https://crossborderscare.com/dr-ips-oberoi-orthopaedic-surgeon/">Dr. I P S Oberoi</a>, Chairperson of Orthopedics Program – Joint Replacement &amp; Arthroscopy, (Experience 25 years )</td>
+<td width="164">&nbsp;<a href="#/dr-ips-oberoi-orthopaedic-surgeon/">Dr. I P S Oberoi</a>, Chairperson of Orthopedics Program – Joint Replacement &amp; Arthroscopy, (Experience 25 years )</td>
 <td width="89">8000$</td>
 </tr>
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><strong>How can you avail the best Shoulder Replacement surgery in India By Step process?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your shoulder replacement surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your shoulder replacement surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Shoulder Replacement Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
   {
     name: "arthroscopy-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/arthroscopy-surgery.webp",
     data: `<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">High-end technology-driven arthroscopic surgery in India</span></h2>
 <p><span style="color: #0048ad;"><strong>What is Arthroscopic surgery?</strong></span></p>
@@ -10171,20 +10169,20 @@ o swollen synovium (the lining in the joint)</p>
 ● Excessive bleeding<br>
 ● Infections</p>
 <h2><span style="color: #0048ad;"><strong>Top orthopaedicians carrying out arthroscopic surgeries in India</strong></span></h2>
-<p>● <strong><em><a href="https://crossborderscare.com/dr-s-k-s-marya-orthopedic-joint-replacement-surgeon/">Dr. S.K.S. Marya</a>,</em> </strong>Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, Max Hospital, Gurgaon &amp; Max Smart Super Speciality Hospital, Saket, experience 42 years.<br>
-● <a href="https://crossborderscare.com/dr-ashok-rajgopal-orthopaedic-surgeon-in-delhi-india/"><em><strong>Dr Ashok Rajgopal</strong></em></a>, Group Chairman, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta, Gurugram, has 40 years of experience.<br>
-● <a href="https://crossborderscare.com/dr-prof-raju-vaishya-orthopedic-surgeon-in-delhi/"><em><strong>Dr (Prof) Raju Vaishya</strong></em></a>, Sr. Consultant Orthopaedics, Indraprastha Apollo Hospitals, New Delhi, experience 35 years.<br>
-● <a href="https://crossborderscare.com/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><em><strong>Dr. (Prof.) Anil Arora</strong></em></a>, Principal Director &amp; Head of Department – Orthopaedics &amp; Joint Replacement Surgery, Orthopaedics &amp; Joint Replacement, Max Super Speciality Hospital, Patparganj, 35 years of experience<br>
-● <a href="https://crossborderscare.com/dr-ramneek-mahajan-orthopedic-surgeon-in-delhi-india/"><em><strong>Dr. Ramneek Mahajan</strong></em></a>, Senior Director (Orthopaedics) &amp; Head Joint Reconstruction (Hip &amp; Knee) Unit Orthopaedics &amp; Joint Replacement, Arthroscopy &amp; Sports Injury, Max Smart Super Speciality Hospital, Saket, experience 25 years</p>
+<p>● <strong><em><a href="#/dr-s-k-s-marya-orthopedic-joint-replacement-surgeon/">Dr. S.K.S. Marya</a>,</em> </strong>Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, Max Hospital, Gurgaon &amp; Max Smart Super Speciality Hospital, Saket, experience 42 years.<br>
+● <a href="#/dr-ashok-rajgopal-orthopaedic-surgeon-in-delhi-india/"><em><strong>Dr Ashok Rajgopal</strong></em></a>, Group Chairman, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta, Gurugram, has 40 years of experience.<br>
+● <a href="#/dr-prof-raju-vaishya-orthopedic-surgeon-in-delhi/"><em><strong>Dr (Prof) Raju Vaishya</strong></em></a>, Sr. Consultant Orthopaedics, Indraprastha Apollo Hospitals, New Delhi, experience 35 years.<br>
+● <a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><em><strong>Dr. (Prof.) Anil Arora</strong></em></a>, Principal Director &amp; Head of Department – Orthopaedics &amp; Joint Replacement Surgery, Orthopaedics &amp; Joint Replacement, Max Super Speciality Hospital, Patparganj, 35 years of experience<br>
+● <a href="#/dr-ramneek-mahajan-orthopedic-surgeon-in-delhi-india/"><em><strong>Dr. Ramneek Mahajan</strong></em></a>, Senior Director (Orthopaedics) &amp; Head Joint Reconstruction (Hip &amp; Knee) Unit Orthopaedics &amp; Joint Replacement, Arthroscopy &amp; Sports Injury, Max Smart Super Speciality Hospital, Saket, experience 25 years</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals offering Arthroscopy Surgery in India</strong></span></h2>
 <p>● <a href="https://www.medanta.org/">Medanta the Medicity</a>, Gurugram<br>
-● <a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, Patparganj. New Delhi.<br>
-●<a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/"> Max Smart Super Speciality Hospital</a>, Saket, New Delhi.<br>
-●<a href="https://crossborderscare.com/bl-kapur-hospital/"> BLK-Max Hospital</a>, New Delhi,<br>
-●<a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/"> Artemis Hospital</a>, Gurugram<br>
-● <a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram<br>
-● <a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</p>
-<h2><span style="color: #0048ad;"><strong>Cost of <a href="https://crossborderscare.com/cost-of-arthroscopy-surgery-in-india/">Arthroscopy Surgery</a> in India</strong></span></h2>
+● <a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, Patparganj. New Delhi.<br>
+●<a href="#/max-super-speciality-hospital-in-saket-new-delhi/"> Max Smart Super Speciality Hospital</a>, Saket, New Delhi.<br>
+●<a href="#/bl-kapur-hospital/"> BLK-Max Hospital</a>, New Delhi,<br>
+●<a href="#/artemis-hospital-gurgaon-india/"> Artemis Hospital</a>, Gurugram<br>
+● <a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram<br>
+● <a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</p>
+<h2><span style="color: #0048ad;"><strong>Cost of <a href="#/cost-of-arthroscopy-surgery-in-india/">Arthroscopy Surgery</a> in India</strong></span></h2>
 <p>● The cost of knee arthroscopic surgery ranges between 2500 -3000$<br>
 ● Shoulder arthroscopic surgery costs you around 2,500 $<br>
 ● The cost of an ACL tear would be around 3,000 $ in top hospitals.<br>
@@ -10193,19 +10191,19 @@ o swollen synovium (the lining in the joint)</p>
 ● The cost of rotator cuff injury with arthroscopic repair will be around 3,000$.<br>
 ● Arthroscopic hip surgery also cost around 3,000 $</p>
 <p><em><span style="color: #0048ad;"><strong>How can you avail yourself of the best Arthroscopy surgery in India Step by Step process?</strong></span></em></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your arthroscopy surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your arthroscopy surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Arthroscopy Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
   {
     name: "male-to-female-sex-change-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/male-to-female-sex-change-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1700" height="1200" src="https://crossborderscare.com/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1.webp" class="vc_single_image-img attachment-full" alt="Male Female Sex Conversion Surgery" title="Male-Female-Sex-Conversion-Surgery-1" srcset="https://crossborderscare.com/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1.webp 1700w, https://crossborderscare.com/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-300x212.webp 300w, https://crossborderscare.com/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1024x723.webp 1024w, https://crossborderscare.com/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-768x542.webp 768w, https://crossborderscare.com/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1536x1084.webp 1536w, https://crossborderscare.com/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1200x847.webp 1200w" sizes="(max-width: 1700px) 100vw, 1700px"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1700" height="1200" src="#/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1.webp" class="vc_single_image-img attachment-full" alt="Male Female Sex Conversion Surgery" title="Male-Female-Sex-Conversion-Surgery-1" srcset="#/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1.webp 1700w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-300x212.webp 300w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1024x723.webp 1024w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-768x542.webp 768w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1536x1084.webp 1536w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1200x847.webp 1200w" sizes="(max-width: 1700px) 100vw, 1700px"></div>
 		</figure>
 	</div>
 
@@ -10313,12 +10311,12 @@ Surgery is just one possible way to transition.</p>
 <p><span style="color: #0048ad;"><strong>Outlook</strong></span></p>
 <p>Gender-affirming surgery provides long-term mental health benefits, too. Studies consistently show that gender affirmation surgery reduces gender dysphoria and related conditions like anxiety and depression.</p>
 <p><span style="color: #0048ad;"><strong>Best hospital and doctor doing gender affirmation surgery in India</strong></span></p>
-<p><a href="https://crossborderscare.com/fortis-la-famme/"><span style="color: #0048ad;"><strong>Dr Richie Gupta at Fortis Hospital, Shalimar Bagh, New Delhi</strong></span></a></p>
+<p><a href="#/fortis-la-famme/"><span style="color: #0048ad;"><strong>Dr Richie Gupta at Fortis Hospital, Shalimar Bagh, New Delhi</strong></span></a></p>
 <p><span style="color: #0048ad;"><strong>Dr. Richie Gupta</strong> </span>has been in clinical practice in Plastic, Aesthetic, and Reconstructive Surgery for the past 30 years. He is widely experienced in all aspects of Plastic Surgery. He is one of the leading surgeons in the country in the field of Sex Change Surgery and Cleft Lip and Palate Surgery.</p>
 <p>Presently, he is a Senior Consultant and Head of the Department of Plastic, Cosmetic, and Reconstructive Surgery at Fortis Hospital Shalimar Bagh. The Department, together with the Department of Dermatology, is providing the latest in the field of Aesthetic Medicine and Surgery. A large number of reconstructive surgeries such as craniofacial surgery, post-cancer resection reconstructive surgery, microvascular and free flap surgery, sex change surgery, hand and brachial plexus surgery, post burns reconstructive surgery and surgery for correction of congenital disabilities are routinely carried out in this Department. This Department is also the leading unit in the country in terms of several sex change operations being performed, currently around 50-60 per year.</p>
 <p><span style="color: #0048ad;"><strong>Sex change surgery cost – 7500 USD</strong></span></p>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Sex Change Surgery Male to Female in India?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your sex change surgery- Male to female in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your sex change surgery- Male to female in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Male to Female Sex Change Surgery Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
@@ -10328,7 +10326,7 @@ Surgery is just one possible way to transition.</p>
   },
   {
     name: "tetralogy-of-fallot-repair",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/tetralogy-of-fallot-repair.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -10361,17 +10359,17 @@ Surgery is just one possible way to transition.</p>
 <p>Premature babies or babies with underdeveloped pulmonary arteries often have to undergo temporary shut surgery before intracardiac repair. In this procedure, the surgeon creates a temporary bypass between a large artery and a pulmonary artery.</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors</strong> <strong>in India</strong></span></h2>
 <ul>
-<li><strong>Dr.</strong> <a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>K.S. Iyer</strong></a> – Paediatric Cardiac Surgeon, Fortis Escorts Heart Institute</li>
-<li><strong>Dr.</strong> <a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Rajesh Sharma</strong> </a>– Director and the Pediatric Cardiothoracic Surgeon at Marengo Aisa Hospital.</li>
-<li><strong>Dr.</strong> <a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>K.S. Dagar </strong></a>– Director Neonatal &amp; Congenital Heart Surgery, Max Healthcare,</li>
-<li><strong>Dr.</strong> <a href="https://crossborderscare.com/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Anil Bhan </strong></a>– Chairman of Cardiac Surgery Heart Institute, Medanta the Medicity</li>
+<li><strong>Dr.</strong> <a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>K.S. Iyer</strong></a> – Paediatric Cardiac Surgeon, Fortis Escorts Heart Institute</li>
+<li><strong>Dr.</strong> <a href="#/dr-rajesh-sharma/"><strong>Rajesh Sharma</strong> </a>– Director and the Pediatric Cardiothoracic Surgeon at Marengo Aisa Hospital.</li>
+<li><strong>Dr.</strong> <a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>K.S. Dagar </strong></a>– Director Neonatal &amp; Congenital Heart Surgery, Max Healthcare,</li>
+<li><strong>Dr.</strong> <a href="#/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Anil Bhan </strong></a>– Chairman of Cardiac Surgery Heart Institute, Medanta the Medicity</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top hospitals in India&nbsp;</strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="https://crossborderscare.com/fortis-escorts-heart-institute/">Fortis Escorts Heart Institute</a></li>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
+<li><a href="#/fortis-escorts-heart-institute/">Fortis Escorts Heart Institute</a></li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Factors that Affect the Cost of TOF surgery in India</strong></span></h2>
 <p><b>Choice of Hospital: </b>The cost will be higher if you choose a JCI-accredited hospital with a brand name<span style="font-weight: 400;">.&nbsp;</span></p>
@@ -10437,7 +10435,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0048ad;">With Cross Border Care, your package will include:</span></h2>
+<h2><span style="color: #0048ad;">With Medihelp Global , your package will include:</span></h2>
 <table>
 <tbody>
 <tr>
@@ -10510,7 +10508,7 @@ Surgery is just one possible way to transition.</p>
 </tbody>
 </table>
 <p><span style="font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
-<p><span style="color: #0048ad;"><b>Cross Border Care is the best treatment consultant in India. When you contact us, we will help you with:&nbsp;</b></span></p>
+<p><span style="color: #0048ad;"><b>Medihelp Global  is the best treatment consultant in India. When you contact us, we will help you with:&nbsp;</b></span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital</span></li>
@@ -10520,13 +10518,13 @@ Surgery is just one possible way to transition.</p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@corssborderscare.com</span></a></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><strong>Planning to travel to India for medical treatment. Book a free consultation with us!</strong></p>
 </div>`,
   },
   {
     name: "asd-closure",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/asd-closure.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -10586,16 +10584,16 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top paediatric heart surgeons for ASD repair in India </strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>&nbsp;Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
+<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>&nbsp;Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Paediatric Cardiologist for </strong>ASD Closure Surgery <strong>India </strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-sushil-azad-pediatric-cardiac-surgeon/"><strong>Dr Sushil Azad-</strong></a>&nbsp;Pediatric Cardiologist, Amrita Hospital, New Delhi, Delhi, experience 23 years.</li>
+<li><a href="#/dr-sushil-azad-pediatric-cardiac-surgeon/"><strong>Dr Sushil Azad-</strong></a>&nbsp;Pediatric Cardiologist, Amrita Hospital, New Delhi, Delhi, experience 23 years.</li>
 <li><strong>Dr Neeraj Awasthy-</strong>&nbsp;Director Paediatric Cardiology, Fortis Escorts Heart Institute, experience , 20 years.</li>
 <li><strong>Dr Amit Misri-</strong>&nbsp;Associate Director, Paediatic Cardiology, Medanta the Medicity, Gurigram, experience 15 years.</li>
 <li><strong>Dr Manvinder Sign Sachdev-</strong>&nbsp;Director Paediatric Cardiology, Fortis Memorial Research Institute, Gurugram, Experience 20 years.</li>
@@ -10603,10 +10601,10 @@ Surgery is just one possible way to transition.</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals for </strong>ASD Closure Surgery in India</span></h2>
 <ul>
 <li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram.</li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram.</li>
+<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
 </ul>
 <p><span style="font-weight: 400;">Atrial Septal Defect or ASD is a hole in the heart in the Atrial chambers of the heart. ASD is a congenital heart defect in children born in such holes. With modern-day developments in surgical sciences, these holes are easily treatable.&nbsp;</span></p>
 <h2><span style="color: #0048ad;"><b>Factors that Affect the Treatment Cost of ASD in India:&nbsp;</b></span></h2>
@@ -10694,7 +10692,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<h2><b>With Cross Border Care, your package will include:&nbsp;</b></h2>
+<h2><b>With Medihelp Global , your package will include:&nbsp;</b></h2>
 <table>
 <tbody>
 <tr>
@@ -10770,13 +10768,13 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<p><span style="font-weight: 400;">At Cross Border Care, we will consolidate most of the expenses of your Atrial Septal Defect and provide you with the most cost-effective packages that are specifically tailored to meet the requirements of every individual.&nbsp;</span></p>
-<p><strong>All you have to do is send us your query and medical reports at <a href="mailto:infor@crossborderscare.com">infor@crossborderscare.com</a>, and we will then give you a cost estimate. </strong></p>
+<p><span style="font-weight: 400;">At Medihelp Global , we will consolidate most of the expenses of your Atrial Septal Defect and provide you with the most cost-effective packages that are specifically tailored to meet the requirements of every individual.&nbsp;</span></p>
+<p><strong>All you have to do is send us your query and medical reports at <a href="mailto:info@medihelpglobal.com">info@medihelpglobal.com</a>, and we will then give you a cost estimate. </strong></p>
 </div>`,
   },
   {
     name: "arterial-switch-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/arterial-switch-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -10810,20 +10808,20 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Doctors doing Arterial Switch Surgery in India</strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
+<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals for Arterial Switch Surgery in India</strong></span></h2>
 <ul>
 <li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram.</li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram.</li>
+<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Key Cost Determinants for Arterial Switch Surgery in India.</b></span></h2>
 <ul>
@@ -10890,8 +10888,8 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<p>If you decide to tie up with Cross Border Care for Arterial Switch surgery, your package will include<span style="font-weight: 400;">:&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>With Cross Border Care, your package will include:&nbsp;</b></span></h2>
+<p>If you decide to tie up with Medihelp Global  for Arterial Switch surgery, your package will include<span style="font-weight: 400;">:&nbsp;</span></p>
+<h2><span style="color: #0048ad;"><b>With Medihelp Global , your package will include:&nbsp;</b></span></h2>
 <table>
 <tbody>
 <tr>
@@ -10964,7 +10962,7 @@ Surgery is just one possible way to transition.</p>
 </tbody>
 </table>
 <p><span style="font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
-<p><span style="color: #0048ad;"><b>Cross Border Care is the best medical tourism in India. When you contact us, we will help you with:&nbsp;</b></span></p>
+<p><span style="color: #0048ad;"><b>Medihelp Global  is the best medical tourism in India. When you contact us, we will help you with:&nbsp;</b></span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital&nbsp;</span></li>
@@ -10974,19 +10972,17 @@ Surgery is just one possible way to transition.</p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@corssborderscare.com</span></a></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Arterial Switch Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
   {
     name: "bd-glenn-on-bypass",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/bd-glenn-on-bypass.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1275" height="900" src="https://crossborderscare.com/wp-content/uploads/2023/08/BD-Glenn-on-Bypass-surgery.webp" class="vc_single_image-img attachment-full" alt="BD Glenn on Bypass surgery" title="BD Glenn on Bypass surgery" srcset="https://crossborderscare.com/wp-content/uploads/2023/08/BD-Glenn-on-Bypass-surgery.webp 1275w, https://crossborderscare.com/wp-content/uploads/2023/08/BD-Glenn-on-Bypass-surgery-300x212.webp 300w, https://crossborderscare.com/wp-content/uploads/2023/08/BD-Glenn-on-Bypass-surgery-1024x723.webp 1024w, https://crossborderscare.com/wp-content/uploads/2023/08/BD-Glenn-on-Bypass-surgery-768x542.webp 768w, https://crossborderscare.com/wp-content/uploads/2023/08/BD-Glenn-on-Bypass-surgery-1200x847.webp 1200w" sizes="(max-width: 1275px) 100vw, 1275px"></div>
-		</figure>
+		
 	</div>
 
 	<div class="wpb_text_column wpb_content_element">
@@ -11013,12 +11009,12 @@ Surgery is just one possible way to transition.</p>
 <p>The bidirectional Glenn procedure is generally performed at around 4-6 months, while the Fontan procedure is typically performed at approximately 18-24 months. The time gap between the bidirectional Glenn procedure and the Fontan procedure can vary greatly depending on the patient’s specific circumstances.</p>
 <h2><span style="color: #0048ad;"><strong>Top Paediatric Heart Surgeons for </strong>Bidirectional </span><strong><span style="color: #0048ad;">Glenn on Bypass Surgery in India</span> </strong></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experienc</li>
+<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experienc</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Determining factors that affect the cost of Glenn On Bypass surgery in India</b></span></h2>
 <h3><b>Hospital Factors</b></h3>
@@ -11095,7 +11091,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0048ad;"><b>With Cross Border Care, your package will include:&nbsp;</b></span></h2>
+<h2><span style="color: #0048ad;"><b>With Medihelp Global , your package will include:&nbsp;</b></span></h2>
 <table>
 <tbody>
 <tr>
@@ -11167,7 +11163,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<p><b>Cross Border Care is the best medical tourism company in India. When you contact us, we will help you with:&nbsp;</b></p>
+<p><b>Medihelp Global  is the best medical tourism company in India. When you contact us, we will help you with:&nbsp;</b></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital&nbsp;</span></li>
@@ -11177,13 +11173,13 @@ Surgery is just one possible way to transition.</p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@corssborderscare.com</span></a></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Bidirectional (BD) Glenn On Bypass surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
   {
     name: "bentall-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/bentall-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -11237,12 +11233,12 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><strong><span style="color: #0048ad;">Top Paediatric Heart Surgeons for Bentall Surgery in India</span> </strong></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong> Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
+<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong> Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
 </ul>
 <p><span style="font-weight: 400;">Bentall surgery is primarily performed to treat aortic aneurysms, a condition where the walls of the aorta become weak and bulged. If left untreated, these aneurysms can rupture and lead to life-threatening conditions.&nbsp;</span></p>
 <ul>
@@ -11303,7 +11299,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0048ad;"><b>With Cross Border Care, your package will include:&nbsp;</b></span></h2>
+<h2><span style="color: #0048ad;"><b>With Medihelp Global , your package will include:&nbsp;</b></span></h2>
 <table>
 <tbody>
 <tr>
@@ -11391,12 +11387,12 @@ Surgery is just one possible way to transition.</p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up post-op</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Overall savings of 15% on a complete surgical package&nbsp;</span></li>
 </ul>
-<p><strong>Choose Cross-Border Care Today. We are the best medical tourism company in India, and we will help you with Bentall Surgery at the most affordable prices in India.</strong></p>
+<p><strong>Choose Medihelp Global Global Today. We are the best medical tourism company in India, and we will help you with Bentall Surgery at the most affordable prices in India.</strong></p>
 </div>`,
   },
   {
     name: "bt-shunt-with-bypass",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/bt-shunt-with-bypass.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
@@ -11425,20 +11421,20 @@ Surgery is just one possible way to transition.</p>
 <p>The average BT Shunt Surgery price in India is 4,800 USD</p>
 <h2><strong><span style="color: #0048ad;">Top Paediatric Heart Surgeons Carrying out BT Shunt Surgery in India</span> </strong></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
+<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals C</strong><strong>arrying out BT Shunt Surgery </strong></span><strong><span style="color: #0048ad;">in India</span> </strong></h2>
 <ul>
 <li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>&nbsp;Factors that Will Affect the Cost of </b><strong>BT Shunt Surgery </strong><strong>in India</strong></span></h2>
 <p><b>Reputation of the Hospital: </b><span style="font-weight: 400;">The reputation and brand value of the hospital play a deciding role in the overall cost of the surgery. Plus the accreditation ( JCi or NABH ) also matters a lot. In addition, hospital infrastructure also decides the cost. A hospital with :&nbsp;</span></p>
@@ -11514,7 +11510,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0048ad;"><b>At Cross Border Care your package will include:&nbsp;</b></span></h2>
+<h2><span style="color: #0048ad;"><b>At Medihelp Global  your package will include:&nbsp;</b></span></h2>
 <table>
 <tbody>
 <tr>
@@ -11590,7 +11586,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<p><span style="font-weight: 400;">Cross Border Care is the best medical tourism company in India. If you choose our services you get the following advantages:&nbsp;</span></p>
+<p><span style="font-weight: 400;">Medihelp Global  is the best medical tourism company in India. If you choose our services you get the following advantages:&nbsp;</span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation with the best doctors and surgery in the best hospital in India</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Total guidance from your arrival in India to your departure</span></li>
@@ -11599,13 +11595,13 @@ Surgery is just one possible way to transition.</p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help at every step ( before the procedure, during the procedure, and after the procedure)&nbsp;</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up post-op</span></li>
 </ul>
-<p><span style="font-weight: 400;">Please write to us today at </span><a href="mailto:info@crossborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a><span style="font-weight: 400;">. If you are looking for affordable BT Shunt surgery in India.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Please write to us today at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a><span style="font-weight: 400;">. If you are looking for affordable BT Shunt surgery in India.&nbsp;</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best BT Shunt with Bypass Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
   {
     name: "fontan-procedure",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/fontan-procedure.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -11636,20 +11632,20 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><strong><span style="color: #0048ad;">Top paediatric heart surgeons for fontal surgery in India</span> </strong></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
+<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
 </ul>
 <h2><strong><span style="color: #0048ad;">Top Hospitals Carrying out Fontan Procedure in India</span> </strong></h2>
 <ul>
 <li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a> , Gurugram</li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-<li><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a> , Gurugram</li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Some of the factors affecting the cost of the Fontan Procedure in India are:&nbsp;</b></span></h2>
 <ul>
@@ -11737,7 +11733,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0048ad;"><b>Your Package at Cross Border Care will Include:&nbsp;</b></span></h2>
+<h2><span style="color: #0048ad;"><b>Your Package at Medihelp Global  will Include:&nbsp;</b></span></h2>
 <table>
 <tbody>
 <tr>
@@ -11813,7 +11809,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<p><b>Cross Border Care is the best medical tourism company in India. With our services, you get:&nbsp;</b></p>
+<p><b>Medihelp Global  is the best medical tourism company in India. With our services, you get:&nbsp;</b></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Maximum discount on the procedures upto 15%&nbsp;</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help from the start to the beginning</span></li>
@@ -11822,13 +11818,13 @@ Surgery is just one possible way to transition.</p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Visa arrangement</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation at every step of the surgery ( before, during and after )&nbsp;</span></li>
 </ul>
-<p><b>To avail of our services and to know about our packages, please write to us today at </b><a href="mailto:info@crossborderscare.com"><b>info@crossborderscare.com</b></a><b>.</b></p>
+<p><b>To avail of our services and to know about our packages, please write to us today at </b><a href="mailto:info@Medihelp Globalglobal.com"><b>info@Medihelp Globalglobal.com</b></a><b>.</b></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Fontan Procedure </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
   {
     name: "pda-closure",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/pda-closure.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
@@ -11985,16 +11981,16 @@ Surgery is just one possible way to transition.</p>
 </table>
 <h2><strong><span style="color: #0048ad;">Top Pediatric Heart Surgeons for PDA Surgery in India</span> </strong></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi-</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>&nbsp;Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
+<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><a href="#/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi-</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>&nbsp;Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
 </ul>
 <h2><strong><span style="color: #0048ad;">Top Pediatric cardiologist for PDA Surgery in India</span> </strong></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-sushil-azad-pediatric-cardiac-surgeon/"><strong>Dr Sushil Azad</strong></a>, Pediatric Cardiologist, Amrita Hospital, New Delhi, Delhi, experience 23 years.</li>
+<li><a href="#/dr-sushil-azad-pediatric-cardiac-surgeon/"><strong>Dr Sushil Azad</strong></a>, Pediatric Cardiologist, Amrita Hospital, New Delhi, Delhi, experience 23 years.</li>
 <li><strong>Dr Neeraj Awasthy</strong> , Director Paediatric Cardiology, Fortis Escorts Heart Institute, experience , 20 years.</li>
 <li><strong>Dr Amit Misri</strong>, Associate Director, Paediatic Cardiology, Medanta the Medicity, Gurigram, experience 15 years.</li>
 <li><strong>Dr Manvinder Singh Sachdev</strong>, Director Paediatric Cardiology, Fortis Memorial Research Institute, Gurugram, Experience 20 years.</li>
@@ -12009,7 +12005,7 @@ Surgery is just one possible way to transition.</p>
   },
   {
     name: "vsd-closure",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/vsd-closure.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -12072,16 +12068,16 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top paediatric heart surgeons doing VSD Surgery in India </strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="https://crossborderscare.com/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="https://crossborderscare.com/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li>Dr.<a href="https://crossborderscare.com/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Muthu Jothi-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="https://crossborderscare.com/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>&nbsp;Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
+<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li>Dr.<a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Muthu Jothi-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>&nbsp;Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Paediatric Cardiologist doing VSD Surgery in India </strong></span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-sushil-azad-pediatric-cardiac-surgeon/"><strong> Sushil Azad</strong></a>, Pediatric Cardiologist, Amrita Hospital, New Delhi, Delhi, experience 23 years.</li>
+<li><a href="#/dr-sushil-azad-pediatric-cardiac-surgeon/"><strong> Sushil Azad</strong></a>, Pediatric Cardiologist, Amrita Hospital, New Delhi, Delhi, experience 23 years.</li>
 <li><strong>Dr Neeraj Awasthy</strong> , Director Paediatric Cardiology, Fortis Escorts Heart Institute, experience , 20 years.</li>
 <li><strong>Dr Amit Misri</strong>, Associate Director, Paediatic Cardiology, Medanta the Medicity, Gurigram, experience 15 years.</li>
 <li><strong>Dr Manvinder Sign Sachdev</strong>, Director Paediatric Cardiology, Fortis Memorial Research Institute, Gurugram, Experience 20 years.</li>
@@ -12089,11 +12085,11 @@ Surgery is just one possible way to transition.</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals D</strong><strong>oing VSD Surgery </strong><strong>in India</strong></span></h2>
 <ul>
 <li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Specialty Hospital</a> , New Delhi</li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram</li>
+<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Specialty Hospital</a> , New Delhi</li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>The key factors affecting the cost of VSD surgery in India are:&nbsp;</b></span></h2>
 <ul>
@@ -12166,7 +12162,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0048ad;"><b>Your Package at Cross Border Care will Include:&nbsp;</b></span></h2>
+<h2><span style="color: #0048ad;"><b>Your Package at Medihelp Global  will Include:&nbsp;</b></span></h2>
 <table>
 <tbody>
 <tr>
@@ -12242,7 +12238,7 @@ Surgery is just one possible way to transition.</p>
 </tr>
 </tbody>
 </table>
-<p><b>Cross Border Care is the best medical tourism company in India. With our services, you get:&nbsp;</b></p>
+<p><b>Medihelp Global  is the best medical tourism company in India. With our services, you get:&nbsp;</b></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Maximum discount on the procedures upto 15%&nbsp;</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help from the start to the beginning</span></li>
@@ -12256,7 +12252,7 @@ Surgery is just one possible way to transition.</p>
   },
   {
     name: "contoura-super-vision-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/contoura-super-vision-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -12291,17 +12287,17 @@ Surgery is just one possible way to transition.</p>
 <p>Clinical studies have shown that Contoura surgery can provide patients with better visual outcomes and fewer side effects compared to traditional LASIK surgery. One study published in the Journal of Refractive Surgery found that patients who underwent Contoura surgery had significantly better visual acuity, contrast sensitivity, and refractive outcomes compared to those who underwent conventional LASIK. Another study published in the Journal of Cataract and Refractive Surgery found that Contoura surgery resulted in a higher percentage of patients achieving 20/20 or better vision compared to conventional LASIK.</p>
 <h2><span style="color: #0048ad;">Top hospitals for Contoura super vision surgery in India</span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/centre-for-sight/">Centre for sight</a></li>
-<li><a href="https://crossborderscare.com/sight-avenue-hospital/">The Sight Avenue</a></li>
-<li><a href="https://crossborderscare.com/eye-7-eye-hospital-lajpat-nagar/">Eye 7 eye hospital</a></li>
-<li><a href="https://crossborderscare.com/narang-eye-institute/">Narang Eye Institute</a></li>
+<li><a href="#/centre-for-sight/">Centre for sight</a></li>
+<li><a href="#/sight-avenue-hospital/">The Sight Avenue</a></li>
+<li><a href="#/eye-7-eye-hospital-lajpat-nagar/">Eye 7 eye hospital</a></li>
+<li><a href="#/narang-eye-institute/">Narang Eye Institute</a></li>
 </ol>
 <h2><span style="color: #0048ad;">Top Doctors for Contoura super vision surgery in India</span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/prof-mahipal-s-sachdev-2/">Dr Mahipal S Sachdev</a></li>
-<li><a href="https://crossborderscare.com/dr-suraj-munjal/">Dr Suraj Munjal</a></li>
+<li><a href="#/prof-mahipal-s-sachdev-2/">Dr Mahipal S Sachdev</a></li>
+<li><a href="#/dr-suraj-munjal/">Dr Suraj Munjal</a></li>
 <li>Dr Sunil Narang</li>
-<li><a href="https://crossborderscare.com/dr-rahil-chaudhary/">Dr Rahil Chaudhary</a></li>
+<li><a href="#/dr-rahil-chaudhary/">Dr Rahil Chaudhary</a></li>
 </ol>
 <h2><span style="color: #0048ad;">Cost of robotic contoura super vision surgery in India</span></h2>
 <p>Following are the advantages of Contoura surgery in India</p>
@@ -12350,17 +12346,17 @@ Surgery is just one possible way to transition.</p>
 </tr>
 <tr>
 <td width="52">2.</td>
-<td width="146"><a href="https://crossborderscare.com/sight-avenue-hospital/">The Sight Avenue</a></td>
+<td width="146"><a href="#/sight-avenue-hospital/">The Sight Avenue</a></td>
 <td width="91">2000</td>
 </tr>
 <tr>
 <td width="52">3.</td>
-<td width="146"><a href="https://crossborderscare.com/eye-7-eye-hospital-lajpat-nagar/">Eye 7 Hospital</a></td>
+<td width="146"><a href="#/eye-7-eye-hospital-lajpat-nagar/">Eye 7 Hospital</a></td>
 <td width="91">1100</td>
 </tr>
 <tr>
 <td width="52">4.</td>
-<td width="146"><a href="https://crossborderscare.com/narang-eye-institute/">Narang Eye Institute</a></td>
+<td width="146"><a href="#/narang-eye-institute/">Narang Eye Institute</a></td>
 <td width="91">1700</td>
 </tr>
 </tbody>
@@ -12389,7 +12385,7 @@ Surgery is just one possible way to transition.</p>
 <p>Due to the nature of the surgery, you will need to stay in India for a minimum of 05 days.</p>
 <h3><span style="color: #0048ad;">Success rate</span></h3>
 <p>99% success rate for cataract surgery is achieved through robot.</p>
-<p><strong>If you need the best medical consultant in India to help you choose the best hospital and the best doctor, contact <span style="color: #0048ad;">Dr Nadeem Khan</span> from Cross Border Care today!!!</strong></p>
+<p><strong>If you need the best medical consultant in India to help you choose the best hospital and the best doctor, contact <span style="color: #0048ad;">Dr Nadeem Khan</span> from Medihelp Global  today!!!</strong></p>
 <p><strong>&nbsp;</strong></p>
 
 		</div>
@@ -12399,7 +12395,7 @@ Surgery is just one possible way to transition.</p>
   },
   {
     name: "robotic-femtosecond-laser-cataract-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/robotic-femtosecond-laser-cataract-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
@@ -12422,13 +12418,13 @@ In addition to the advantages mentioned above, there are also other benefits to 
 <ol>
 <li><a href="https://www.centreforsight.net/">Centre for sight</a></li>
 <li><a href="https://www.eye7.in/">Eye 7 eye hospital</a></li>
-<li><a href="https://crossborderscare.com/narang-eye-institute/">Narang Eye</a> Institute</li>
+<li><a href="#/narang-eye-institute/">Narang Eye</a> Institute</li>
 </ol>
 <h2><span style="color: #0048ad;">Top doctors</span></h2>
 <ol>
-<li><a href="https://crossborderscare.com/prof-mahipal-s-sachdev-2/">Dr Mahipal S Sachdev</a></li>
+<li><a href="#/prof-mahipal-s-sachdev-2/">Dr Mahipal S Sachdev</a></li>
 <li>Dr Sunil Narang</li>
-<li><a href="https://crossborderscare.com/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></li>
+<li><a href="#/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></li>
 </ol>
 <h2><strong><span style="color: #0048ad;">Factors that Affect Robotic Cataract Surgery in India</span></strong></h2>
 <p><span style="font-weight: 400;">Cataract surgeries have become faster and hassle free with the new technology that uses laser system to operate on cataract patients. Also known as robotic cataract surgery, this technology uses femtosecond laser machine and the incision into cornea is made using a robot. The whole surgery gets completed in 30 seconds. Here are some factors that effet the robotioc cataract surgery in India.&nbsp;</span></p>
@@ -12458,17 +12454,17 @@ The cost of femtosecond laser cataract surgery in India is much lower than in We
 The cost mainly depends on the technology used and type and make of Intra Ocular lenses (IOL). Indian made IOL is cheaper than American brands.<br>
 In addition to this robotic and MICS are always expensive as they are painless, suture less surgeries.</p>
 <h2><span style="color: #0048ad;"><strong>Cost of Robotic Cataract Surgery in Top-notch Hospitals</strong></span></h2>
-<p><a href="https://crossborderscare.com/centre-for-sight/"><strong><span style="color: #0048ad;">Centre for sight</span> </strong></a></p>
+<p><a href="#/centre-for-sight/"><strong><span style="color: #0048ad;">Centre for sight</span> </strong></a></p>
 <ul>
 <li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2000</li>
 <li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 3800</li>
 </ul>
-<p><a href="https://crossborderscare.com/eye-7-eye-hospital-lajpat-nagar/"><span style="color: #0048ad;"><strong>Eye 7 Hospital </strong></span></a></p>
+<p><a href="#/eye-7-eye-hospital-lajpat-nagar/"><span style="color: #0048ad;"><strong>Eye 7 Hospital </strong></span></a></p>
 <ul>
 <li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2200</li>
 <li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 4200</li>
 </ul>
-<p><a href="https://crossborderscare.com/narang-eye-institute/"><strong>Narang Eye Institute </strong></a></p>
+<p><a href="#/narang-eye-institute/"><strong>Narang Eye Institute </strong></a></p>
 <ul>
 <li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2100</li>
 <li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 4200</li>
@@ -12502,7 +12498,7 @@ In addition to this robotic and MICS are always expensive as they are painless, 
 The advantages of getting femtosecond laser cataract surgery in India include lower treatment costs, low waiting times, highly qualified doctors, and access to the latest medical technology.<br>
 Additionally, many hospitals and clinics in India offer comprehensive medical tourism packages that make the entire experience more comfortable and enjoyable for patients.<br>
 Therefore, if you are considering femtosecond laser cataract surgery, you should definitely consider India as a viable option.</p>
-<p>Are you looking for <strong>“robotic cataract surgery”</strong> to be performed in India? Contact cross border care your trusted partner to help you find the best doctor and treatment in JCI accredited hospital at pocket –friendly price.<br>
+<p>Are you looking for <strong>“robotic cataract surgery”</strong> to be performed in India? Contact Medihelp Global  your trusted partner to help you find the best doctor and treatment in JCI accredited hospital at pocket –friendly price.<br>
 We score over others because the ‘treatment consultants’ in our company are medical professional themselves who are involved in each step of patient care. It is good to have an experienced ‘treatment consultant’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Cataract Surgery Doctors in India</strong>&nbsp;</span></p>
 
@@ -12513,7 +12509,7 @@ We score over others because the ‘treatment consultants’ in our company are 
   },
   {
     name: "retinal-detachment-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/retinal-detachment-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -12633,28 +12629,28 @@ After the Surgery</p>
 </tr>
 <tr>
 <td width="217"><a href="https://www.centreforsight.net/">Centre of Sight</a></td>
-<td width="164"><a href="https://crossborderscare.com/dr-hemlata-gupta/">Dr. Hemlata Gupta</a></td>
+<td width="164"><a href="#/dr-hemlata-gupta/">Dr. Hemlata Gupta</a></td>
 <td width="89">2300</td>
 </tr>
 <tr>
-<td width="217"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="164"><a href="https://crossborderscare.com/dr-carreen-pakrasi/">Dr. Carreen Pakrasi</a></td>
+<td width="217"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
+<td width="164"><a href="#/dr-carreen-pakrasi/">Dr. Carreen Pakrasi</a></td>
 <td width="89">2700</td>
 </tr>
 <tr>
-<td width="217"><a href="https://crossborderscare.com/sight-avenue-hospital/">The Sight Avenue</a></td>
-<td width="164"><a href="https://crossborderscare.com/dr-suraj-munjal/">Dr Suraj Munjal</a></td>
+<td width="217"><a href="#/sight-avenue-hospital/">The Sight Avenue</a></td>
+<td width="164"><a href="#/dr-suraj-munjal/">Dr Suraj Munjal</a></td>
 <td width="89">2200</td>
 </tr>
 <tr>
-<td width="217"><a href="https://crossborderscare.com/eye-7-eye-hospital-lajpat-nagar/">Chaudhary Eye Center</a></td>
-<td width="164"><a href="https://crossborderscare.com/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></td>
+<td width="217"><a href="#/eye-7-eye-hospital-lajpat-nagar/">Chaudhary Eye Center</a></td>
+<td width="164"><a href="#/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></td>
 <td width="89">2500</td>
 </tr>
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Retinal Detachment Surgery in India?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Retinal Detachment surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Retinal Detachment surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Retinal Detachment Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -12664,7 +12660,7 @@ After the Surgery</p>
   },
   {
     name: "squint-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/squint-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -12814,34 +12810,34 @@ Speak to your doctor about the risks associated with the squint surgery.</p>
 <td width="89"><strong>USD Cost </strong></td>
 </tr>
 <tr>
-<td width="220"><a href="https://crossborderscare.com/centre-for-sight/">Centre for Sight Eye Hospital</a></td>
-<td width="164">&nbsp;<a href="https://crossborderscare.com/prof-mahipal-s-sachdev-">Dr Mahipal S Sachdev</a></td>
+<td width="220"><a href="#/centre-for-sight/">Centre for Sight Eye Hospital</a></td>
+<td width="164">&nbsp;<a href="#/prof-mahipal-s-sachdev-">Dr Mahipal S Sachdev</a></td>
 <td width="89">2200</td>
 </tr>
 <tr>
-<td width="220"><a href="https://crossborderscare.com/eye-7-eye-hospital-lajpat-nagar/">&nbsp;Eye 7 Eye Hospital</a></td>
-<td width="164">&nbsp;<a href="https://crossborderscare.com/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></td>
+<td width="220"><a href="#/eye-7-eye-hospital-lajpat-nagar/">&nbsp;Eye 7 Eye Hospital</a></td>
+<td width="164">&nbsp;<a href="#/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></td>
 <td width="89">2000</td>
 </tr>
 <tr>
-<td width="220"><a href="https://crossborderscare.com/sight-avenue-hospital/">The Sight Avenue</a></td>
-<td width="164"><a href="https://crossborderscare.com/dr-suraj-munjal/">Dr Suraj Munjal</a></td>
+<td width="220"><a href="#/sight-avenue-hospital/">The Sight Avenue</a></td>
+<td width="164"><a href="#/dr-suraj-munjal/">Dr Suraj Munjal</a></td>
 <td width="89">2000</td>
 </tr>
 <tr>
-<td width="220"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="164"><a href="https://crossborderscare.com/dr-sudipto-pakrasi/">Dr. Sudipto Pakrasi</a></td>
+<td width="220"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
+<td width="164"><a href="#/dr-sudipto-pakrasi/">Dr. Sudipto Pakrasi</a></td>
 <td width="89">2500</td>
 </tr>
 <tr>
-<td style="text-align: left;" width="220"><a href="https://crossborderscare.com/max-hospital-patparganj/">Max Healthcare</a></td>
-<td style="text-align: left;" width="164"><a href="https://crossborderscare.com/dr-tarun-kapur/">Dr Tarun Kapur</a></td>
+<td style="text-align: left;" width="220"><a href="#/max-hospital-patparganj/">Max Healthcare</a></td>
+<td style="text-align: left;" width="164"><a href="#/dr-tarun-kapur/">Dr Tarun Kapur</a></td>
 <td style="text-align: left;" width="89">2300</td>
 </tr>
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Squint Surgery in India?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>squint surgery in India, </strong></span>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>squint surgery in India, </strong></span>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Squint Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -12851,7 +12847,7 @@ Speak to your doctor about the risks associated with the squint surgery.</p>
   },
   {
     name: "ptosis-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/ptosis-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -12969,34 +12965,34 @@ Here are some treatment options available for ptosis in India:</p>
 <td width="92"><strong>USD Cost </strong></td>
 </tr>
 <tr>
-<td width="217"><a href="https://crossborderscare.com/centre-for-sight/">Center for Sight Eye Hospital</a></td>
-<td width="236"><a href="https://crossborderscare.com/prof-mahipal-s-sachdev/">&nbsp;Dr. Mahipal S Sachdev</a></td>
+<td width="217"><a href="#/centre-for-sight/">Center for Sight Eye Hospital</a></td>
+<td width="236"><a href="#/prof-mahipal-s-sachdev/">&nbsp;Dr. Mahipal S Sachdev</a></td>
 <td width="92">2000</td>
 </tr>
 <tr>
-<td width="217">&nbsp;<a href="https://crossborderscare.com/eye-7-eye-hospital-lajpat-nagar/">Eye 7 Eye Hospital</a></td>
-<td width="236">&nbsp;<a href="https://crossborderscare.com/dr-sanjay-chaudhary/">Dr. Sanjay Chaudhary</a></td>
+<td width="217">&nbsp;<a href="#/eye-7-eye-hospital-lajpat-nagar/">Eye 7 Eye Hospital</a></td>
+<td width="236">&nbsp;<a href="#/dr-sanjay-chaudhary/">Dr. Sanjay Chaudhary</a></td>
 <td width="92">2000</td>
 </tr>
 <tr>
-<td width="217"><a href="https://crossborderscare.com/sight-avenue-hospital/">The Sight Avenue</a></td>
-<td width="236"><a href="https://crossborderscare.com/dr-suraj-munjal/">Dr. Suraj Munjal</a></td>
+<td width="217"><a href="#/sight-avenue-hospital/">The Sight Avenue</a></td>
+<td width="236"><a href="#/dr-suraj-munjal/">Dr. Suraj Munjal</a></td>
 <td width="92">2000</td>
 </tr>
 <tr>
-<td width="217"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="236"><a href="https://crossborderscare.com/dr-sudipto-pakrasi/">Dr. Sudipto Pakrasi</a></td>
+<td width="217"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
+<td width="236"><a href="#/dr-sudipto-pakrasi/">Dr. Sudipto Pakrasi</a></td>
 <td width="92">2200</td>
 </tr>
 <tr>
-<td width="217"><a href="https://crossborderscare.com/max-hospital-patparganj/">Max Healthcare</a></td>
-<td width="236"><a href="https://crossborderscare.com/dr-tarun-kapur/">Dr. Tarun Kapur</a></td>
+<td width="217"><a href="#/max-hospital-patparganj/">Max Healthcare</a></td>
+<td width="236"><a href="#/dr-tarun-kapur/">Dr. Tarun Kapur</a></td>
 <td width="92">2300</td>
 </tr>
 </tbody>
 </table>
 <h3><span style="color: #0048ad;">&nbsp;</span><strong style="color: #0048ad;">How can you avail yourself of the best Ptosis Surgery in India?</strong></h3>
-<p><span style="color: #0048ad;"><strong>Cross Border Care</strong> </span>is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your ptosis surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p><span style="color: #0048ad;"><strong>Medihelp Global </strong> </span>is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your ptosis surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Ptosis Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -13006,7 +13002,7 @@ Here are some treatment options available for ptosis in India:</p>
   },
   {
     name: "vitrectomy-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/vitrectomy-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -13196,13 +13192,13 @@ Here are some treatment options available for ptosis in India:</p>
 <div>● Additional procedures and complications</div>
 <div></div>
 <h2><span style="color: #0048ad;"><strong>The top hospitals in India to get vitrectomy surgery are:&nbsp;</strong></span></h2>
-<div>●<a href="https://crossborderscare.com/centre-for-sight/"> Centre for Sight Eye Hospital</a>: Cost 1000 USD</div>
-<div>● <a href="https://crossborderscare.com/sight-avenue-hospital/">The Sight Avenue Hospital:</a> Cost 1000 USD</div>
+<div>●<a href="#/centre-for-sight/"> Centre for Sight Eye Hospital</a>: Cost 1000 USD</div>
+<div>● <a href="#/sight-avenue-hospital/">The Sight Avenue Hospital:</a> Cost 1000 USD</div>
 <div></div>
 <h2><span style="color: #0048ad;"><strong>Recommended Hospital &amp; Doctor&nbsp;</strong></span></h2>
 <div><span style="color: #0048ad;"><strong>The top hospitals and doctors to consider to get vitrectomy surgery in India are:&nbsp;</strong></span></div>
 <div></div>
-<div><a href="https://crossborderscare.com/centre-for-sight/"><span style="color: #0048ad;"><strong>Centre Of Sight Hospital</strong></span></a>: Centre of Sight is accredited by NABH and is awarded as the best eye hospital in North India. The hospital has the most advanced technology, operated by experts who provide comprehensive eye care. The doctors here use the latest diagnostics and surgical technologies. The hospital also specialises in the most advanced robotic surgeries.</div>
+<div><a href="#/centre-for-sight/"><span style="color: #0048ad;"><strong>Centre Of Sight Hospital</strong></span></a>: Centre of Sight is accredited by NABH and is awarded as the best eye hospital in North India. The hospital has the most advanced technology, operated by experts who provide comprehensive eye care. The doctors here use the latest diagnostics and surgical technologies. The hospital also specialises in the most advanced robotic surgeries.</div>
 <div></div>
 <div><span style="color: #0048ad;"><strong>Recommended Doctors:&nbsp;</strong></span></div>
 <div></div>
@@ -13216,7 +13212,7 @@ Here are some treatment options available for ptosis in India:</p>
 <div></div>
 <div><span style="color: #0048ad;"><strong>How can you avail yourself of the best Vitrectomy Surgery in India?</strong></span></div>
 <div></div>
-<div>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Vitrectomy surgery in India, fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</div>
+<div>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Vitrectomy surgery in India, fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</div>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Vitrectomy Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -13226,7 +13222,7 @@ Here are some treatment options available for ptosis in India:</p>
   },
   {
     name: "coronary-artery-bypass-graft",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/coronary-artery-bypass-graft.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -13267,14 +13263,14 @@ Here are some treatment options available for ptosis in India:</p>
 <p>Redo coronary artery bypass grafting (CABG) occurs when patients who previously underwent CABG develop progression of their native coronary artery disease or graft occlusion that requires another surgical revascularization.</p>
 <h3><span style="color: #0048ad;">Top Surgeons offering CABG in India</span></h3>
 <ul>
-<li><a href="https://crossborderscare.com/dr-bhaba-nanda-das-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Bhaba Nanda Das</strong></a> – Chief Cardiac Surgeon (CTVS), Indraprastha Apollo Hospital, New Delhi, (Experience <strong>38</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Dr Anil Bhan</strong></a> – Chairman, Cardiac Surgery, Heart Institute, Medanta the Medicity, Gurugram, (Experience <strong>40</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-z-s-meharwal-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Z.S. Meherwal</strong></a> – Executive Director, Fortis Escorts Heart Institute, New Delhi, (Experience <strong>30</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-s-k-sinha-cardiothoracic-and-vascular-surgeon/"><strong>Dr S K Sinha</strong></a> – Senior Director, Cardiac Sciences, Cardiac Surgery (CTVS), Max Super Speciality Hospital, Saket, (Experience <strong>33</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/"><strong>Dr Y K Mishra</strong></a> – Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, Manipal Hospitals, (Experience <strong>34 </strong>years).</li>
-<li><a href="https://crossborderscare.com/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Rajneesh Malhotra</strong> </a>– Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS) at Max Super Speciality Hospital, Saket, (Experience <strong>35</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/"><strong>Dr Udgeath Dhir</strong></a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Fortis Escorts Hospital, Faridabad | Fortis Memorial Research Institute, Gurugram, (Experience <strong>15</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-akhil-govil-cardiothoracic-and-vascular-surgeon/"><strong>Dr Akhil Govil</strong></a> – Unit Head – Cardio Thoracic and Vascular Surgery, Artemis Hospital, New Delhi, (Experience <strong>20</strong> years).</li>
+<li><a href="#/dr-bhaba-nanda-das-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Bhaba Nanda Das</strong></a> – Chief Cardiac Surgeon (CTVS), Indraprastha Apollo Hospital, New Delhi, (Experience <strong>38</strong> years).</li>
+<li><a href="#/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Dr Anil Bhan</strong></a> – Chairman, Cardiac Surgery, Heart Institute, Medanta the Medicity, Gurugram, (Experience <strong>40</strong> years).</li>
+<li><a href="#/dr-z-s-meharwal-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Z.S. Meherwal</strong></a> – Executive Director, Fortis Escorts Heart Institute, New Delhi, (Experience <strong>30</strong> years).</li>
+<li><a href="#/dr-s-k-sinha-cardiothoracic-and-vascular-surgeon/"><strong>Dr S K Sinha</strong></a> – Senior Director, Cardiac Sciences, Cardiac Surgery (CTVS), Max Super Speciality Hospital, Saket, (Experience <strong>33</strong> years).</li>
+<li><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/"><strong>Dr Y K Mishra</strong></a> – Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, Manipal Hospitals, (Experience <strong>34 </strong>years).</li>
+<li><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Rajneesh Malhotra</strong> </a>– Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS) at Max Super Speciality Hospital, Saket, (Experience <strong>35</strong> years).</li>
+<li><a href="#/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/"><strong>Dr Udgeath Dhir</strong></a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Fortis Escorts Hospital, Faridabad | Fortis Memorial Research Institute, Gurugram, (Experience <strong>15</strong> years).</li>
+<li><a href="#/dr-akhil-govil-cardiothoracic-and-vascular-surgeon/"><strong>Dr Akhil Govil</strong></a> – Unit Head – Cardio Thoracic and Vascular Surgery, Artemis Hospital, New Delhi, (Experience <strong>20</strong> years).</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Factors Affecting the Overall Cost of the Treatment CABG:&nbsp;</b></span></h2>
 <ul>
@@ -13404,13 +13400,13 @@ Here are some treatment options available for ptosis in India:</p>
 </tr>
 </tbody>
 </table>
-<p><span style="font-weight: 400;">For those planning a medical trip to India, meticulous planning is crucial. Researching accredited hospitals, consulting with renowned cardiac surgeons, and understanding the visa and travel requirements are essential steps. Collaborating with medical tourism agencies like Cross Border Care, that specialize in facilitating healthcare journeys can simplify logistics, including accommodation and transportation.</span></p>
+<p><span style="font-weight: 400;">For those planning a medical trip to India, meticulous planning is crucial. Researching accredited hospitals, consulting with renowned cardiac surgeons, and understanding the visa and travel requirements are essential steps. Collaborating with medical tourism agencies like Medihelp Global , that specialize in facilitating healthcare journeys can simplify logistics, including accommodation and transportation.</span></p>
 <p><span style="color: #0048ad;"><b>Contact Dr. Nadeem Khan today, if you are planning your CABG surgery in India.&nbsp;</b></span></p>
 </div>`,
   },
   {
     name: "minimally-invasive-cardiac-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/minimally-invasive-cardiac-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -13530,28 +13526,28 @@ Here are some treatment options available for ptosis in India:</p>
 <tr>
 <td width="222"><a href="https://www.apollohospitals.com/delhi/"><strong>Indraprastha Apollo Hospital</strong></a><p></p>
 <p>(JCI Accreditation)</p></td>
-<td width="326"><a href="https://crossborderscare.com/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Chief Cardiac Surgeon<p></p>
+<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Chief Cardiac Surgeon<p></p>
 <p>(Experience 25 years)</p></td>
 <td width="92">8000 USD</td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/bl-kapur-hospital/"><strong>Max Super Speciality Hospital</strong></a><p></p>
+<td width="222"><a href="#/bl-kapur-hospital/"><strong>Max Super Speciality Hospital</strong></a><p></p>
 <p>(JCI Accreditation)</p></td>
-<td width="326"><a href="https://crossborderscare.com/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,<p></p>
+<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,<p></p>
 <p>(Experience 35 years).</p></td>
 <td width="92">8500 USD</td>
 </tr>
 <tr>
-<td width="222"><strong><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a>s</strong><p></p>
+<td width="222"><strong><a href="#/manipal-hospital/">Manipal Hospital</a>s</strong><p></p>
 <p>(NABH Accreditation)</p></td>
-<td width="326"><a href="https://crossborderscare.com/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a>&nbsp; – Chief of Clinical Services,<p></p>
+<td width="326"><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a>&nbsp; – Chief of Clinical Services,<p></p>
 <p>(Experience 34 years).</p></td>
 <td width="92">8000 USD</td>
 </tr>
 </thead>
 </table>
 <h2><span style="color: #0048ad;">How can you avail the best MICS-CABG Surgery in India-Step By Step process?</span></h2>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your MICS-CABG surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your MICS-CABG surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Minimally Invasive Coronary Artery Bypass Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>
 
@@ -13568,7 +13564,7 @@ Here are some treatment options available for ptosis in India:</p>
   },
   {
     name: "mics-valve-replacement-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/mics-valve-replacement-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
@@ -13680,33 +13676,33 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <td width="66"><span style="color: #000000;"><strong>Cost </strong></span></td>
 </tr>
 <tr>
-<td width="222"><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a><p></p>
+<td width="222"><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a><p></p>
 <p>(JCI accredited )</p></td>
-<td width="326"><a href="https://crossborderscare.com/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS), (Experience 35 years).</td>
+<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS), (Experience 35 years).</td>
 <td width="66"><strong>9500$</strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi .<p></p>
+<td width="222"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi .<p></p>
 <p>(JCI accredited )</p></td>
-<td width="326"><a href="https://crossborderscare.com/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Senior Consultant –&nbsp;&nbsp; Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS), (Experience 25 years).</td>
+<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Senior Consultant –&nbsp;&nbsp; Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS), (Experience 25 years).</td>
 <td width="66"><strong>9000$</strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>,<p></p>
+<td width="222"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>,<p></p>
 <p>(JCI accredited )</p></td>
-<td width="326"><a href="https://crossborderscare.com/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/">Dr Udgeath Dhir</a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Gurugram, (Experience 15 years).</td>
+<td width="326"><a href="#/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/">Dr Udgeath Dhir</a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Gurugram, (Experience 15 years).</td>
 <td width="66"><strong>9000$</strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a>s,<p></p>
+<td width="222"><a href="#/manipal-hospital/">Manipal Hospital</a>s,<p></p>
 <p>(NABH accredited )</p></td>
-<td width="326"><a href="https://crossborderscare.com/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Y K Mishra</a> – Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, (Experience 34 years).</td>
+<td width="326"><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Y K Mishra</a> – Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, (Experience 34 years).</td>
 <td width="66"><strong>10000$</strong></td>
 </tr>
 </tbody>
 </table>
 <h2><span style="color: #0048ad;"><strong>How can you avail the best Heart Valve replacement surgery in India-Step By Step process?</strong></span></h2>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your valve replacement surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your valve replacement surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best MICS Valve Replacement Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -13716,7 +13712,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
   },
   {
     name: "double-valve-replacement",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/double-valve-replacement.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -13894,34 +13890,34 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <td width="66"><span style="color: #000000;"><strong>Cost </strong></span></td>
 </tr>
 <tr>
-<td width="222"><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi, </a>(JCI accredited )</td>
-<td width="326"><a href="https://crossborderscare.com/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences (CTVS), (Experience 35 years).</td>
+<td width="222"><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi, </a>(JCI accredited )</td>
+<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences (CTVS), (Experience 35 years).</td>
 <td width="66"><strong>11000$ </strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi . (JCI accredited )</td>
-<td width="326"><a href="https://crossborderscare.com/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Senior Consultant –&nbsp;&nbsp; Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences (CTVS), (Experience 25 years).</td>
+<td width="222"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi . (JCI accredited )</td>
+<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Senior Consultant –&nbsp;&nbsp; Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences (CTVS), (Experience 25 years).</td>
 <td width="66"><strong>9500$</strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, (JCI accredited )</td>
-<td width="326"><a href="https://crossborderscare.com/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/">Dr Udgeath Dhir</a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Gurugram (Experience 15 years).</td>
+<td width="222"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, (JCI accredited )</td>
+<td width="326"><a href="#/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/">Dr Udgeath Dhir</a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Gurugram (Experience 15 years).</td>
 <td width="66"><strong>13500$ </strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/manipal-hospital/">Manipal Hospital</a>s, (NABH accredited )</td>
-<td width="326"><a href="https://crossborderscare.com/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Y K Mishra</a> – Chief of Clinical Services, Head of Cardiac Sciences, and Chief Cardio Vascular Surgeon, (Experience 34 years).</td>
+<td width="222"><a href="#/manipal-hospital/">Manipal Hospital</a>s, (NABH accredited )</td>
+<td width="326"><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Y K Mishra</a> – Chief of Clinical Services, Head of Cardiac Sciences, and Chief Cardio Vascular Surgeon, (Experience 34 years).</td>
 <td width="66"><strong>12000$</strong></td>
 </tr>
 <tr>
-<td width="222"><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta the Medicity, </a>(JCI accredited )</td>
-<td width="326"><a href="https://crossborderscare.com/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/">Dr Anil Bhan</a> – Chairman, Cardiac Surgery , Heart Institute, Gurugram, (Experience 41 years).</td>
+<td width="222"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity, </a>(JCI accredited )</td>
+<td width="326"><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/">Dr Anil Bhan</a> – Chairman, Cardiac Surgery , Heart Institute, Gurugram, (Experience 41 years).</td>
 <td width="66"><strong>11500$</strong></td>
 </tr>
 </thead>
 </table>
 <h2><span style="color: #0048ad;"><strong>How can you avail the best Double Valve replacement surgery in India-Step By Step process?</strong></span></h2>
-<p><span style="color: #000000;"><strong>Cross Border Care</strong> </span>is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your double valve replacement surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p><span style="color: #000000;"><strong>Medihelp Global </strong> </span>is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your double valve replacement surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best DVR ( Double Valve Replacement Surgery ) </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 <p><strong>&nbsp;</strong></p>
 
@@ -13932,7 +13928,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
   },
   {
     name: "valve-replacement",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/valve-replacement.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -13971,14 +13967,14 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </ol>
 <h2><span style="color: #0048ad;">Top Surgeons Offering Valve Replacement Surgery in India</span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-bhaba-nanda-das-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Bhaba Nanda Das</strong></a> – Chief Cardiac Surgeon (CTVS), Apollo Indraprastha Hospital, New Delhi, (Experience <strong>38</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong> Anil Bhan</strong> </a>– Chairman, Cardiac Surgery, Heart Institute, Medanta the Medicity, Gurugram, (Experience <strong>40</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-z-s-meharwal-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Z.S. Meherwal</strong></a> – Executive Director, Fortis Escorts Heart Institute, New Delhi, (Experience <strong>30</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-s-k-sinha-cardiothoracic-and-vascular-surgeon/"><strong>Dr S K Sinha</strong></a> – Senior Director, Cardiac Sciences, Cardiac Surgery (CTVS), Max Super Speciality Hospital, Saket, (Experience <strong>33</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/"><strong>Dr Y K Mishra</strong></a> – Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, Manipal Hospitals, (Experience <strong>34 </strong>years).</li>
-<li><a href="https://crossborderscare.com/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Rajneesh Malhotra</strong></a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS) at Max Super Speciality Hospital, Saket, (Experience <strong>35</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/"><strong>Dr Udgeath Dhir</strong></a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Fortis Escorts Hospital, Faridabad | Fortis Memorial Research Institute, Gurugram, (Experience <strong>15</strong> years).</li>
-<li><a href="https://crossborderscare.com/dr-akhil-govil-cardiothoracic-and-vascular-surgeon/"><strong>Dr Akhil Govil</strong> </a>– Unit Head – Cardio Thoracic and Vascular Surgery, Artemis Hospital, New Delhi, (Experience <strong>20</strong> years).</li>
+<li><a href="#/dr-bhaba-nanda-das-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Bhaba Nanda Das</strong></a> – Chief Cardiac Surgeon (CTVS), Apollo Indraprastha Hospital, New Delhi, (Experience <strong>38</strong> years).</li>
+<li><a href="#/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong> Anil Bhan</strong> </a>– Chairman, Cardiac Surgery, Heart Institute, Medanta the Medicity, Gurugram, (Experience <strong>40</strong> years).</li>
+<li><a href="#/dr-z-s-meharwal-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Z.S. Meherwal</strong></a> – Executive Director, Fortis Escorts Heart Institute, New Delhi, (Experience <strong>30</strong> years).</li>
+<li><a href="#/dr-s-k-sinha-cardiothoracic-and-vascular-surgeon/"><strong>Dr S K Sinha</strong></a> – Senior Director, Cardiac Sciences, Cardiac Surgery (CTVS), Max Super Speciality Hospital, Saket, (Experience <strong>33</strong> years).</li>
+<li><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/"><strong>Dr Y K Mishra</strong></a> – Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, Manipal Hospitals, (Experience <strong>34 </strong>years).</li>
+<li><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Rajneesh Malhotra</strong></a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS) at Max Super Speciality Hospital, Saket, (Experience <strong>35</strong> years).</li>
+<li><a href="#/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/"><strong>Dr Udgeath Dhir</strong></a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Fortis Escorts Hospital, Faridabad | Fortis Memorial Research Institute, Gurugram, (Experience <strong>15</strong> years).</li>
+<li><a href="#/dr-akhil-govil-cardiothoracic-and-vascular-surgeon/"><strong>Dr Akhil Govil</strong> </a>– Unit Head – Cardio Thoracic and Vascular Surgery, Artemis Hospital, New Delhi, (Experience <strong>20</strong> years).</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Heart Valve Replacement Surgery in India: Factors Affecting Cost</b></span></h2>
 <p><span style="font-weight: 400;">The cost of heart valve replacement surgery is cheaper in India than in the majority of the countries in the world. This is primarily because of the Excellent facilities for cardiac surgeries and the fact that valves used for the surgery are mainly manufactured and available within the country’s boundaries.</span></p>
@@ -14143,12 +14139,12 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
   },
   {
     name: "bentall-surgery",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/bentall-surgery.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="850" height="600" src="https://crossborderscare.com/wp-content/uploads/2023/07/Bentalls-Surgery-1.webp" class="vc_single_image-img attachment-full" alt="Bentall's-Surgery" title="Bentall's-Surgery (1)" srcset="https://crossborderscare.com/wp-content/uploads/2023/07/Bentalls-Surgery-1.webp 850w, https://crossborderscare.com/wp-content/uploads/2023/07/Bentalls-Surgery-1-300x212.webp 300w, https://crossborderscare.com/wp-content/uploads/2023/07/Bentalls-Surgery-1-768x542.webp 768w" sizes="(max-width: 850px) 100vw, 850px"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="850" height="600" src="#/wp-content/uploads/2023/07/Bentalls-Surgery-1.webp" class="vc_single_image-img attachment-full" alt="Bentall's-Surgery" title="Bentall's-Surgery (1)" srcset="#/wp-content/uploads/2023/07/Bentalls-Surgery-1.webp 850w, #/wp-content/uploads/2023/07/Bentalls-Surgery-1-300x212.webp 300w, #/wp-content/uploads/2023/07/Bentalls-Surgery-1-768x542.webp 768w" sizes="(max-width: 850px) 100vw, 850px"></div>
 		</figure>
 	</div>
 
@@ -14247,20 +14243,20 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <td width="194">&nbsp;<p></p>
 <p><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></p>
 <p><strong>(JCI Accreditation)</strong></p></td>
-<td width="354"><a href="https://crossborderscare.com/dr-bhaba-nanda-das-cardiothoracic-vascular-surgeon-in-delhi/">Dr Bhaba Nanda Das</a> – Chief Cardiac Surgeon Experience 38 years</td>
+<td width="354"><a href="#/dr-bhaba-nanda-das-cardiothoracic-vascular-surgeon-in-delhi/">Dr Bhaba Nanda Das</a> – Chief Cardiac Surgeon Experience 38 years</td>
 <td width="92">12000 USD</td>
 </tr>
 <tr>
-<td width="194"><a href="https://crossborderscare.com/fortis-escorts-heart-institute/">Fortis Escorts Heart Institute</a><p></p>
+<td width="194"><a href="#/fortis-escorts-heart-institute/">Fortis Escorts Heart Institute</a><p></p>
 <p><strong>(JCI Accreditation)</strong></p>
 <p>&nbsp;</p></td>
-<td width="354"><a href="https://crossborderscare.com/dr-z-s-meharwal-cardiothoracic-vascular-surgeon-in-delhi/">Dr Z.S. Meherwal</a> – Executive Director (CTVS) Experience 30 years).</td>
+<td width="354"><a href="#/dr-z-s-meharwal-cardiothoracic-vascular-surgeon-in-delhi/">Dr Z.S. Meherwal</a> – Executive Director (CTVS) Experience 30 years).</td>
 <td width="92">14000 USD</td>
 </tr>
 <tr>
-<td width="194"><a href="https://crossborderscare.com/bl-kapur-hospital/">Max Super Speciality Hospital</a>, Saket,<p></p>
+<td width="194"><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a>, Saket,<p></p>
 <p><strong>(JCI Accreditation)</strong></p></td>
-<td width="354"><a href="https://crossborderscare.com/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,<p></p>
+<td width="354"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,<p></p>
 <p>(Experience 35 years).</p></td>
 <td width="92">15000 USD</td>
 </tr>
@@ -14268,7 +14264,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </table>
 <p>Bentall procedure is a complex and highly successful surgical intervention for the treatment of aortic root pathology. Patients with life-threatening cardiovascular conditions can now have a better prognosis with this life-saving procedure. As surgical techniques and post-operative care have improved, the Bentall procedure continues to play a crucial role in modern cardiac surgery.</p>
 <h2><span style="color: #0048ad;"><strong>How can you avail the best Bentall Surgery in India-Step By Step process?</strong></span></h2>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Bentall surgery<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Bentall surgery<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Bentall Surgery The Future of Heart Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
@@ -14278,7 +14274,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
   },
   {
     name: "erectile-dysfunction-treatments",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/erectile-dysfunction-treatments.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -14420,19 +14416,19 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </table>
 <h2><strong>Top doctors in India offering penile implant surgery in India&nbsp;</strong></h2>
 <ol>
-<li><strong><a href="https://crossborderscare.com/dr-anshuman-agarwal-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Anshuman Agarwal</a>,</strong> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 20 years.</li>
-<li><strong><a href="https://crossborderscare.com/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/">Dr Rajesh Ahlawat</a>,</strong> working as Chairman Urology &amp; Kidney Transplant at Medanta the Medicity, experience 40 years.</li>
+<li><strong><a href="#/dr-anshuman-agarwal-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Anshuman Agarwal</a>,</strong> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 20 years.</li>
+<li><strong><a href="#/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/">Dr Rajesh Ahlawat</a>,</strong> working as Chairman Urology &amp; Kidney Transplant at Medanta the Medicity, experience 40 years.</li>
 <li><strong>Dr Vikram Sharma</strong>, Director Fortis Memorial Research Institute, Gurugram, experience 32 years</li>
-<li><a href="https://crossborderscare.com/dr-gagan-gautam-robotic-urological-cancer-kidney-transplant-surgeon/"><strong>Dr Gagan Gautam</strong></a> Director Urology at Max Super Speciality Hospital, Experience 22 years.</li>
-<li><a href="https://crossborderscare.com/dr-shailesh-chandra-sahay/"><strong>Dr Shailesh Chandra Sahay</strong></a> Director Urology at Max Super Speciality Hospital, PPG, Experience 20 years.</li>
+<li><a href="#/dr-gagan-gautam-robotic-urological-cancer-kidney-transplant-surgeon/"><strong>Dr Gagan Gautam</strong></a> Director Urology at Max Super Speciality Hospital, Experience 22 years.</li>
+<li><a href="#/dr-shailesh-chandra-sahay/"><strong>Dr Shailesh Chandra Sahay</strong></a> Director Urology at Max Super Speciality Hospital, PPG, Experience 20 years.</li>
 </ol>
 <h2><strong>Top hospitals in India Offering erectile dysfunction treatment</strong></h2>
 <ol>
 <li><a href="https://www.apollohospitals.com/locations/india/delhi/">Indraprastha Apollo Hospital, Delhi</a></li>
-<li><a href="https://crossborderscare.com/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
-<li><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram</li>
-<li><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Specialty Hospital</a>, Delhi</li>
-<li><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
+<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram</li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Specialty Hospital</a>, Delhi</li>
+<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
 </ol>
 <h2><span style="font-weight: 400;">Factors Affecting Erectile Dysfunction Cost in India:&nbsp;</span></h2>
 <p><b>Type of Hospital you choose: </b>The cost greatly depends on the type of hospital you choose. If the hospital is JCI a<span style="font-weight: 400;">ccredited, located in a top-tier city in India, and offers single super specialty or multi-super specialty treatment, the cost of the treatment will be higher. The cost also depends on the hospital’s brand.&nbsp;</span></p>
@@ -14462,7 +14458,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up care and visits</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
 </ul>
-<h2><b>With Cross Border Care, your package will include:&nbsp;</b></h2>
+<h2><b>With Medihelp Global , your package will include:&nbsp;</b></h2>
 <table>
 <tbody>
 <tr>
@@ -14505,7 +14501,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </table>
 <p><b>India Stay: 10 days&nbsp;</b></p>
 <p><b>The success rate of the surgery </b><span style="font-weight: 400;">is 99%&nbsp;</span></p>
-<p><b>Sexual Health on a Budget: </b>Service Cost at Cross-Border Care</p>
+<p><b>Sexual Health on a Budget: </b>Service Cost at Medihelp Global Global</p>
 <table>
 <tbody>
 <tr>
@@ -14534,7 +14530,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </tr>
 </tbody>
 </table>
-<p><b>Cross Border Care is the best medical consultant in India. When you contact us, we will help you with:&nbsp;</b></p>
+<p><b>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:&nbsp;</b></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital</span></li>
@@ -14544,13 +14540,13 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@corssborderscare.com"><span style="font-weight: 400;">info@crossborderscare.com</span></a></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Erectile Dysfunction Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
   {
     name: "penile-implant",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/penile-implant.webp",
     data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -14688,23 +14684,23 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 <p><span style="color: #0048ad;"><strong>Transgender penile implant</strong></span></p>
 <p>Transgender penile implants are done as a component of gender affirmation surgery to increase the overall outcome of the surgery.</p>
 <p><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Penile Implant in India</strong></span></p>
-<p><a href="https://crossborderscare.com/dr-vikram-sharma/"><span style="color: #0048ad;"><strong>Dr Vikram Sharma</strong></span></a> -Director, Director Fortis Memorial Research Institute, Gurugram</p>
+<p><a href="#/dr-vikram-sharma/"><span style="color: #0048ad;"><strong>Dr Vikram Sharma</strong></span></a> -Director, Director Fortis Memorial Research Institute, Gurugram</p>
 <p>Dr. Vikram is a urologist and Andrologist. He holds vast experience in Laparoscopic Urological Surgeries.</p>
 <p>Dr. Sharma was also the Founding Director of India’s first Andrology Centre, the Alpha One Andrology Group, exclusively dedicated to the treatment of Male Sexual Dysfunction.</p>
-<p><a href="https://crossborderscare.com/best-robotic-urologist-andrologist/"><span style="color: #0048ad;"><strong>Dr Ajit Saxena</strong></span></a>– Robotic Urologist Andrologist, Apollo Hospital Delhi</p>
+<p><a href="#/best-robotic-urologist-andrologist/"><span style="color: #0048ad;"><strong>Dr Ajit Saxena</strong></span></a>– Robotic Urologist Andrologist, Apollo Hospital Delhi</p>
 <p>Dr. Ajit Saxena is a highly experienced urologist as well as an andrologist and has vast experience of over 35 years of experience in the same field. He specializes in treating various male reproductive system-related disorders such as erectile dysfunction, male infertility, kidney stones, prostate cancer, sexual disorders, and urinary tract infections. Dr. Saxena has received numerous prizes for his exemplary work in the field, including the UP Ratna Award and the Japanese OISC International Award for Surgical Excellence.</p>
-<p><a href="https://crossborderscare.com/dr-ashish-sabharwal-in-urology-andrology-and-robotic-surgereon/"><span style="color: #0048ad;"><strong>Dr Ashish Sabharwal</strong></span></a>-Urologist, Apollo Hospital Delhi</p>
+<p><a href="#/dr-ashish-sabharwal-in-urology-andrology-and-robotic-surgereon/"><span style="color: #0048ad;"><strong>Dr Ashish Sabharwal</strong></span></a>-Urologist, Apollo Hospital Delhi</p>
 <p>Dr. Ashish Sabharwal is one of the best urologists and andrologists in Delhi-NCR, with two decades of experience. His expertise includes prostate cancer, kidney cancer, robotic surgery, erectile dysfunction, penile implants, enlarged prostate (BPH), and kidney stones.</p>
-<p><a href="https://crossborderscare.com/dr-manish-singla/"><span style="color: #0048ad;"><strong>Dr Manish Singla</strong></span></a> – Urology, Sr Consultant at RG Stone</p>
+<p><a href="#/dr-manish-singla/"><span style="color: #0048ad;"><strong>Dr Manish Singla</strong></span></a> – Urology, Sr Consultant at RG Stone</p>
 <p>Dr. Manish Singla is a highly skilled urologist and Andrologist with extensive experience in the diagnosis and treatment of various urological conditions. Dr. Singla’s areas of specialization include the treatment of male hypogonadism, erectile dysfunction, kidney stones, bladder and prostate cancer, and female incontinence.</p>
-<p><a href="https://crossborderscare.com/dr-abhinandan-mukhopadhyay/"><span style="color: #0048ad;"><strong>Dr Abhinandan</strong></span></a> -Artemis Hospital Gurgaon</p>
+<p><a href="#/dr-abhinandan-mukhopadhyay/"><span style="color: #0048ad;"><strong>Dr Abhinandan</strong></span></a> -Artemis Hospital Gurgaon</p>
 <p>Dr. Abhinandan Mukhopadhyay specializes in the field of Urology and Andrology, dealing with several Urologic problems ranging from kidney stone disease, male sexual problems and infertility, diseases of the prostate and its management to performance of complex reconstructive procedures for urethral stricture and uro-oncological surgery.</p>
-<p><a href="https://crossborderscare.com/cost-of-penile-implant-surgery-in-india/"><span style="color: #0048ad;"><strong>Penile Implant Cost in India</strong></span></a></p>
+<p><a href="#/cost-of-penile-implant-surgery-in-india/"><span style="color: #0048ad;"><strong>Penile Implant Cost in India</strong></span></a></p>
 <p>● Single Piece / Semi Rigid –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3000 USD<br>
 ● Two Piece –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4500 – 9000 USD<br>
 ● Three Piece –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14000 – 17000 USD</p>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Penile Implant Surgery in India?</strong></span></p>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Penile Implant surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Penile Implant surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Penile Implant Surgery Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
@@ -14714,12 +14710,12 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
   },
   {
     name: "gynecology-treatments",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/gynecology-treatments.webp",
     data: ``,
   },
   {
     name: "ivf-procedure",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/ivf-procedure.webp",
     data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
@@ -14780,7 +14776,7 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 <p>There is no need for anesthesia during the simple embryo transfer procedure. It has a comparable sensation to a Pap smear or pelvic exam. A tiny catheter is introduced into the uterus through the cervix using a speculum positioned within the vagina. A syringe with one or more embryos inside it is connected to the catheter’s other end. Through the catheter, the embryos are inserted into the uterus. Usually, the process is finished in under ten minutes.</p>
 <p><span style="color: #0048ad;"><strong>Pregnancy</strong></span></p>
 <p>When the embryo embeds itself in the uterine lining, pregnancy results. About nine to 14 days following embryo transfer, your doctor will perform a blood test to see if you’re pregnant. The same procedures are followed if donor eggs are being used.</p>
-<p><span style="color: #0048ad;"><strong>FAQs as described by <a href="https://crossborderscare.com/dr-sushma-prasad-sinha-senior-consultant-obstetrician-and-gynaecologist/">Dr Shushma Sinha</a> , Senior IVF&nbsp; Specialist at Indraprastha Apollo Hospital New Delhi.</strong></span></p>
+<p><span style="color: #0048ad;"><strong>FAQs as described by <a href="#/dr-sushma-prasad-sinha-senior-consultant-obstetrician-and-gynaecologist/">Dr Shushma Sinha</a> , Senior IVF&nbsp; Specialist at Indraprastha Apollo Hospital New Delhi.</strong></span></p>
 <p><strong><span style="color: #0048ad;">Is an IVF baby normal?</span> </strong></p>
 <p>In general, YES; there is not much difference in the anomaly rate of the babies born by IVF or naturally.</p>
 <p><strong><span style="color: #0048ad;">Can I have baby even when my testicular biopsy report says nil sperm count (Azoospermia)?</span> </strong></p>
@@ -14806,21 +14802,21 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 <p>The cost of IVF in top Indian hospital is 3500$, donor egg IVF will additionally cost you around 1000$ extra.</p>
 <h2><span style="color: #0048ad;">Top five IVF &amp;Infertility Treatment specialist in Delhi, India</span></h2>
 <ul>
-<li><a href="https://crossborderscare.com/dr-ila-gupta-best-ivf-infertility-specialist-in-india/"><strong>Dr Ila Gupta-</strong></a>&nbsp;Clinical Director , Ferticity Fertility Clinic ,New Delhi , India , <strong>27&nbsp;Years’ Experienc</strong></li>
-<li><a href="https://crossborderscare.com/dr-sushma-prasad-sinha-senior-consultant-obstetrician-and-gynaecologist/"><strong>Dr Shushma Sinha-</strong></a>&nbsp;Senior Consultant IVF ,Indraprastha Apollo Hospital, <strong>25&nbsp;Years’ Experience</strong></li>
-<li><a href="https://crossborderscare.com/dr-nalini-mahajan-director-at-mother-and-child-hospital-delhi/"><strong>Dr Nalini Mahajan-</strong></a>&nbsp;Scientific Director, Ferticity Fertility Clinic ,New Delhi , India,<strong> 38&nbsp;Years’ Experience</strong></li>
-<li><a href="https://crossborderscare.com/dr-kaberi-banerjee/"><strong>Dr Kaberi Banerjee-</strong></a>&nbsp;Director , Kaberi IVF Clinic, New Delhi, <strong>22&nbsp;Years’ Experience</strong></li>
-<li><strong><a href="https://crossborderscare.com/dr-parul-kathiyar-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr Parul Kathiyar-</a>&nbsp;</strong>Senior Consultant<strong> , </strong>NOVA IVF Clinic , New Delhi<strong> , 15&nbsp;Years’ Experience</strong></li>
+<li><a href="#/dr-ila-gupta-best-ivf-infertility-specialist-in-india/"><strong>Dr Ila Gupta-</strong></a>&nbsp;Clinical Director , Ferticity Fertility Clinic ,New Delhi , India , <strong>27&nbsp;Years’ Experienc</strong></li>
+<li><a href="#/dr-sushma-prasad-sinha-senior-consultant-obstetrician-and-gynaecologist/"><strong>Dr Shushma Sinha-</strong></a>&nbsp;Senior Consultant IVF ,Indraprastha Apollo Hospital, <strong>25&nbsp;Years’ Experience</strong></li>
+<li><a href="#/dr-nalini-mahajan-director-at-mother-and-child-hospital-delhi/"><strong>Dr Nalini Mahajan-</strong></a>&nbsp;Scientific Director, Ferticity Fertility Clinic ,New Delhi , India,<strong> 38&nbsp;Years’ Experience</strong></li>
+<li><a href="#/dr-kaberi-banerjee/"><strong>Dr Kaberi Banerjee-</strong></a>&nbsp;Director , Kaberi IVF Clinic, New Delhi, <strong>22&nbsp;Years’ Experience</strong></li>
+<li><strong><a href="#/dr-parul-kathiyar-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr Parul Kathiyar-</a>&nbsp;</strong>Senior Consultant<strong> , </strong>NOVA IVF Clinic , New Delhi<strong> , 15&nbsp;Years’ Experience</strong></li>
 </ul>
 <h2><span style="color: #0048ad;">Top&nbsp; Infertility hospitals in Delhi, India</span></h2>
 <ul>
 <li><a href="https://ferticity.com/"><strong>Ferticity Fertility Clinic</strong> ,New Delhi , India</a></li>
-<li><a href="https://crossborderscare.com/apollo-fertility-clinic/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="https://crossborderscare.com/advance-fertility-and-gynecology-centre/">Kaberi IVF Clinic</a>, New Delhi,</li>
-<li><a href="https://crossborderscare.com/nova-ivf-centre/">NOVA IVF Clinic</a> , New Delhi<strong> ,</strong></li>
-<li><a href="https://crossborderscare.com/medicover-ivf-centre/">Medicover IVF Centre</a> ,New Delhi</li>
-<li><a href="https://crossborderscare.com/max-panchsheel-ivf-centre/">Max Panchseel Hospital</a> ,New Delhi</li>
-<li><a href="https://crossborderscare.com/art-ivf-clinic/"><strong>ART IVF Clinic</strong></a> ,New Delhi</li>
+<li><a href="#/apollo-fertility-clinic/">Indraprastha Apollo Hospital</a>, New Delhi</li>
+<li><a href="#/advance-fertility-and-gynecology-centre/">Kaberi IVF Clinic</a>, New Delhi,</li>
+<li><a href="#/nova-ivf-centre/">NOVA IVF Clinic</a> , New Delhi<strong> ,</strong></li>
+<li><a href="#/medicover-ivf-centre/">Medicover IVF Centre</a> ,New Delhi</li>
+<li><a href="#/max-panchsheel-ivf-centre/">Max Panchseel Hospital</a> ,New Delhi</li>
+<li><a href="#/art-ivf-clinic/"><strong>ART IVF Clinic</strong></a> ,New Delhi</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>Need Assistance in IVF ! Contact Us today</strong></p>
@@ -14832,7 +14828,7 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
   },
   {
     name: "male-infertility-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/male-infertility-treatment.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
@@ -14952,32 +14948,32 @@ Surgery: It involves various procedures like TESA and Micro TESE.<br>
 <td width="231"><strong>Best Doctor</strong></td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/babyscience-ivf-clinics/">Baby Science IVF Centre</a>, New Delhi</td>
+<td width="300"><a href="#/babyscience-ivf-clinics/">Baby Science IVF Centre</a>, New Delhi</td>
 <td width="231">Dr Vineet Malhotra,<p></p>
 <p>Director Andrology</p></td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, Experience 22 years.</td>
-<td width="231"><a href="https://crossborderscare.com/dr-gagan-gautam-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Gagan Gautam</a>, Director of Urology &amp; Andrology</td>
+<td width="300"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, Experience 22 years.</td>
+<td width="231"><a href="#/dr-gagan-gautam-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Gagan Gautam</a>, Director of Urology &amp; Andrology</td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram,</td>
+<td width="300"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram,</td>
 <td width="231">Dr Vikram Sharma, Director Urology &amp; Andrology</td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a> Delhi</td>
-<td width="231"><a href="https://crossborderscare.com/best-robotic-urologist-andrologist/">Dr Ajit Saxena</a><p></p>
+<td width="300"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a> Delhi</td>
+<td width="231"><a href="#/best-robotic-urologist-andrologist/">Dr Ajit Saxena</a><p></p>
 <p>Urologist and Andrologist</p></td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/artemis-hospital-gurgaon-india/">Artemis Hospital</a>s</td>
-<td width="231"><a href="https://crossborderscare.com/dr-rajiv-yadav/">Dr Rajiv Yadav</a><p></p>
+<td width="300"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a>s</td>
+<td width="231"><a href="#/dr-rajiv-yadav/">Dr Rajiv Yadav</a><p></p>
 <p>Director of Urology &amp; Robotics</p></td>
 </tr>
 </tbody>
 </table>
 <h2><span style="color: #0048ad;"><strong>How can you avail yourself of the best Male Fertility Treatment in India?</strong></span></h2>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Male Infertility Treatment in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Male Infertility Treatment in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Male Infertility Treatment Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
@@ -14986,13 +14982,11 @@ Surgery: It involves various procedures like TESA and Micro TESE.<br>
   },
   {
     name: "female-infertility-treatment",
-    img: "/doctor-consult-illustration.svg",
+    img: "/treatment/female-infertility-treatment.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1700" height="1200" src="https://crossborderscare.com/wp-content/uploads/2023/11/Female-Infertility-Treatment.webp" class="vc_single_image-img attachment-full" alt="Female-Infertility-Treatment" title="Female-Infertility-Treatment" srcset="https://crossborderscare.com/wp-content/uploads/2023/11/Female-Infertility-Treatment.webp 1700w, https://crossborderscare.com/wp-content/uploads/2023/11/Female-Infertility-Treatment-300x212.webp 300w, https://crossborderscare.com/wp-content/uploads/2023/11/Female-Infertility-Treatment-1024x723.webp 1024w, https://crossborderscare.com/wp-content/uploads/2023/11/Female-Infertility-Treatment-768x542.webp 768w, https://crossborderscare.com/wp-content/uploads/2023/11/Female-Infertility-Treatment-1536x1084.webp 1536w, https://crossborderscare.com/wp-content/uploads/2023/11/Female-Infertility-Treatment-1200x847.webp 1200w" sizes="(max-width: 1700px) 100vw, 1700px"></div>
-		</figure>
+		
 	</div>
 
 	<div class="wpb_text_column wpb_content_element">
@@ -15132,37 +15126,37 @@ Testosterone: Testosterone is a male sex hormone that is also in smaller amounts
 <td width="231"><strong>Best Doctor</strong></td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/babyscience-ivf-clinics/">Baby Science IVF Centre</a>, New Delhi</td>
-<td width="231"><a href="https://crossborderscare.com/dr-reena-gupta/">Dr Reena Gupta</a><p></p>
+<td width="300"><a href="#/babyscience-ivf-clinics/">Baby Science IVF Centre</a>, New Delhi</td>
+<td width="231"><a href="#/dr-reena-gupta/">Dr Reena Gupta</a><p></p>
 <p>Senior Consultant &amp; Director IVF</p></td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/apollo-fertility-clinic/">Apollo Fertility Clinic</a><p></p>
+<td width="300"><a href="#/apollo-fertility-clinic/">Apollo Fertility Clinic</a><p></p>
 <p>&nbsp;</p></td>
-<td width="231"><a href="https://crossborderscare.com/dr-brinda-narain-kalro-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Brinda Narain Kalro</a>,<p></p>
+<td width="231"><a href="#/dr-brinda-narain-kalro-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Brinda Narain Kalro</a>,<p></p>
 <p>Director IVF</p></td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/fortis-la-famme/">Fortis La Femme</a><p></p>
+<td width="300"><a href="#/fortis-la-famme/">Fortis La Femme</a><p></p>
 <p>&nbsp;</p></td>
 <td width="231">Dr. Jasbir Chandna<p></p>
 <p>HOD Infertility</p></td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/art-ivf-clinic/">ART IVF Clinic</a><p></p>
+<td width="300"><a href="#/art-ivf-clinic/">ART IVF Clinic</a><p></p>
 <p>&nbsp;</p></td>
-<td width="231"><a href="https://crossborderscare.com/dr-parul-kathiyar-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Parul Kathiyar</a><p></p>
+<td width="231"><a href="#/dr-parul-kathiyar-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Parul Kathiyar</a><p></p>
 <p>Director IVF &amp; Infertility</p></td>
 </tr>
 <tr>
-<td width="300"><a href="https://crossborderscare.com/nova-ivf-centre/">Nova IVF Centre</a></td>
-<td width="231"><a href="https://crossborderscare.com/dr-sonia-malik-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Sonia Malik</a><p></p>
+<td width="300"><a href="#/nova-ivf-centre/">Nova IVF Centre</a></td>
+<td width="231"><a href="#/dr-sonia-malik-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Sonia Malik</a><p></p>
 <p>Director Infertility Program</p></td>
 </tr>
 </thead>
 </table>
 <h3><span style="color: #0048ad;"><strong>How can you avail yourself of the best Female Fertility Treatment in India?</strong></span></h3>
-<p>Cross Border Care is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>female infertility </strong></span>treatment in India<strong>, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>female infertility </strong></span>treatment in India<strong>, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Female Infertility Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
