@@ -4,9 +4,11 @@ import { doctors } from "@/lib/constant/Doctors"
 import Image from 'next/image'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useParams } from 'next/navigation'
+import { useSendWhatsApp } from '@/hooks/useSendWhatsApp'
 export default function Page() {
     const { slug } = useParams()
     const doctor = doctors.find((doctor) => doctor.id === slug)
+    const send = useSendWhatsApp()
     return (
         <div className='max-w-7xl mx-auto'>
             <div className="flex flex-col md:flex-row items-center md:items-start p-4 bg-white   mx-auto">
@@ -39,7 +41,7 @@ export default function Page() {
                         <button className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 focus:outline-none">
                          Book Appointment
                         </button>
-                        <button className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none ">
+                        <button onClick={() => send({message:`Hii,  I am Consult With ${doctor?.name}`})} className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none ">
 
                             WhatsApp Us
                         </button>

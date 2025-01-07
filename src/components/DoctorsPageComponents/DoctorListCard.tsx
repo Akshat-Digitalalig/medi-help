@@ -10,11 +10,19 @@ interface DoctorCardProps {
 
 const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
   const router = useRouter()
+  const handleBooking = () => {
+    // Ensure the query parameter is safely encoded
+    // console.log("hello")
+    const doctorName = encodeURIComponent(doctor?.name || "");
+    router.push(`/consult-online`);
+    console.log(doctorName)
+    // router.push(`/consult-online?doctor=${doctorName}`);
+  };
   if (!doctor) {
     return <div>Doctor data not available</div>;
   }
   return (
-    <div onClick={() => router.push(`/doctors/${doctor.id}`)} className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden border border-blue-200 my-4">
+    <div  className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden border border-blue-200 my-4">
       <div className="flex flex-col md:flex-row ">
         <div className="w-full md:w-1/4 p-2 flex justify-center md:justify-start  ">
           <Image
@@ -22,7 +30,7 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
             src={doctor.image}
             alt={doctor.name}
             width={800}
-            height={100}
+            height={600}
             className="w-full h-96 md:h-60 rounded-xl object-cover object-center"
           />
         </div>
@@ -31,7 +39,7 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
             <div className="flex justify-between w-full">
               <h2 onClick={() => router.push(`/doctors/${doctor.id}`)} className="text-2xl font-bold text-gray-800 hover:underline cursor-pointer">{doctor.name}</h2>
               <div className="hidden md:flex gap-x-2">
-                <button className="bg-red-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-red-600 flex gap-1 leading-none flex-col md:flex-row items-center">
+                <button  className="bg-red-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-red-600 flex gap-1 leading-none flex-col md:flex-row items-center">
                   <UserPlus size={18} />
                 </button>
                 <button className="bg-green-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-green-600 flex gap-1 leading-none flex-col md:flex-row items-center">
@@ -72,7 +80,7 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
           </p>
 
           <div className="flex md:hidden space-x-4 mt-6">
-            <button className="bg-red-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-red-600 flex gap-1 leading-none flex-col md:flex-row items-center">
+            <button onClick={handleBooking} className="bg-red-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-red-600 flex gap-1 leading-none flex-col md:flex-row items-center">
               <UserPlus size={18} /> Book Appointment
             </button>
             <button className="bg-green-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-green-600 flex gap-1 leading-none flex-col md:flex-row items-center">

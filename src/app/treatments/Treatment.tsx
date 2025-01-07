@@ -1,6 +1,14 @@
 import { RoboticIcon, BrainIcon, SpineIcon, CardiologyIcon, TransplantIcon, OncologyIcon, GeneralSurgeryIcon, VascularSurgeryIcon, DentalSurgeryIcon, OrthopedicIcon,  CosmeticSurgeryIcon, PediatricCardiologyIcon, ENTIcon, EyeIcon,  HeartIcon, UrologyIcon, GynecologyIcon, ReproductiveMedicineIcon } from '@/components/icons';
 
 
+export const allSubTreatmentLinks = () => {
+
+  const sublinks = Treatments.map((treatment) => {
+    return treatment.sublinks;
+  });
+  return sublinks.flat();
+}
+
 
 export const Treatments = [
   {

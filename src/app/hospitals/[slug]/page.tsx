@@ -10,17 +10,21 @@ import Link from 'next/link'
 import { SlideRating } from '@/components/Universal/Sliderating'
 import { HospitalImage } from '@/components/HospitalPageComponents/HospitalImages'
 import { useRouter } from 'next/navigation' 
+import { useSendWhatsApp } from '@/hooks/useSendWhatsApp'
 
 export default function Page() {
     const { slug } = useParams()
     const router = useRouter()
+    const send = useSendWhatsApp();
 
     
     const hospital = hospitalData.find((hospital: Hospital) => hospital.id === slug);
     const handleBooking = () => {
         // Ensure the query parameter is safely encoded
         const hospitalName = encodeURIComponent(hospital?.name || "");
-        router.push(`/consult-online?hospital=${hospitalName}`);
+        router.push(`/consult-online`);
+        console.log(hospitalName)
+        // router.push(`/consult-online?hospital=${hospitalName}`);
       };
     return (
         <div className='max-w-7xl mx-auto'>
@@ -82,7 +86,9 @@ export default function Page() {
                         <button onClick={handleBooking} className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 focus:outline-none">
                             Book Appointment
                         </button>
-                        <button className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none ">
+                        <button onClick={() => send({
+                         message: `Hello, I would like to know more about ${hospital?.name}`,
+                        })} className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none ">
                             WhatsApp Us
                         </button>
                     </div>

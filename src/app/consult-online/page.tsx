@@ -8,6 +8,7 @@ import {  useSearchParams } from 'next/navigation';
 const PatientForm: React.FC = () => {
     const searchParams = useSearchParams();
     const hospital = searchParams.get('hospital');
+    // const doctor = searchParams.get('doctor'); this is small changes for making doctors consulting redirecting 
     
     const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
     const [formData, setFormData] = useState({
@@ -86,9 +87,7 @@ const PatientForm: React.FC = () => {
             alert('An error occurred while sending the email');
         }
     };
-
     return (
-        
             <Suspense>
             <div className="max-w-xl mx-auto p-6 my-2 rounded-lg">
                 <h2 className="text-center text-xl font-semibold mb-2">Help Us With Patient Details</h2>
