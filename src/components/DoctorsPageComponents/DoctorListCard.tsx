@@ -4,19 +4,17 @@ import Image from "next/image"
 import { Doctor } from "@/types/doctors"
 import { useRouter } from "next/navigation"
 import { TrucanteText } from "@/lib/utils";
+import { useSendWhatsApp } from "@/hooks/useSendWhatsApp";
 interface DoctorCardProps {
   doctor: Doctor;
 }
 
 const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
+  const send = useSendWhatsApp();
   const router = useRouter()
   const handleBooking = () => {
-    // Ensure the query parameter is safely encoded
-    // console.log("hello")
     const doctorName = encodeURIComponent(doctor?.name || "");
-    router.push(`/consult-online`);
-    console.log(doctorName)
-    // router.push(`/consult-online?doctor=${doctorName}`);
+    router.push(`/consult-online?doctor=${doctorName}`);
   };
   if (!doctor) {
     return <div>Doctor data not available</div>;
@@ -39,10 +37,10 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
             <div className="flex justify-between w-full">
               <h2 onClick={() => router.push(`/doctors/${doctor.id}`)} className="text-2xl font-bold text-gray-800 hover:underline cursor-pointer">{doctor.name}</h2>
               <div className="hidden md:flex gap-x-2">
-                <button  className="bg-red-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-red-600 flex gap-1 leading-none flex-col md:flex-row items-center">
+                <button onClick={handleBooking}  className="bg-red-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-red-600 flex gap-1 leading-none flex-col md:flex-row items-center">
                   <UserPlus size={18} />
                 </button>
-                <button className="bg-green-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-green-600 flex gap-1 leading-none flex-col md:flex-row items-center">
+                <button  onClick={() => send({message:`Hii, I want to Consult With ${doctor?.name}`})} className="bg-green-500 text-white px-3 py-2 text-xs rounded-lg hover:bg-green-600 flex gap-1 leading-none flex-col md:flex-row items-center">
                   <Phone size={18} />
                 </button>
               </div>

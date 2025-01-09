@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import { toast } from "sonner";
 import { countryCityData, countryCodeData } from "@/lib/constant/unversal";
+import Link from "next/link";
 
 export default function GetFreeConsult() {
   const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
@@ -146,7 +147,7 @@ export default function GetFreeConsult() {
             value={formData.city}
             onChange={handleChange}
             className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-            disabled={!formData.country} // Disable if no country is selected
+            disabled={!formData.country} 
           >
             <option value="">Select City</option>
             {formData.country &&
@@ -214,14 +215,14 @@ export default function GetFreeConsult() {
         </button>
         <p className="text-xs text-center text-gray-500 mt-2">
           By submitting the form I agree to the{" "}
-          <a href="#" className="text-blue-600">
+          <Link href="/info/terms-conditions" className="text-blue-600">
             Terms of Use
-          </a>{" "}
+          </Link>{" "}
           and{" "}
-          <a href="#" className="text-blue-600">
+          <Link href="/info/privacy-policy" className="text-blue-600">
             Privacy Policy
-          </a>{" "}
-          of Vaidam Health.
+          </Link>{" "}
+          of MediHelp Global.
         </p>
       </form>
     </div>

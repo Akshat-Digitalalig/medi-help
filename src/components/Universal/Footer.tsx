@@ -22,8 +22,11 @@ export default function Footer() {
                                 className="object-contain"
                             />
                         </Link>
-                        <p className="mb-6 text-myblue font-semibold text-center lg:text-left">
+                        <p className=" text-myblue font-semibold text-center lg:text-left">
                             One Destination For All Treatment
+                        </p>
+                        <p className="mb-6 mt-2 text-myblue font-semibold text-center lg:text-left">
+                           +91 98971 86585
                         </p>
                         <SocialLinks />
                         <div className="mt-6">
@@ -106,9 +109,9 @@ export default function Footer() {
             </div>
 
             {/* Bottom Section */}
-            <div className="border-t mt-12 py-8 text-center text-sm text-gray-400">
+            <div className="border-t mt-12 py-4 text-center text-sm ">
                 <p>
-                    © 2024 - Present <span className="font-semibold text-myblue">MediHelp</span>. All rights reserved.
+                    © 2025 Present <span className="font-semibold text-myblue">MediHelp</span>. All rights reserved.
                 </p>
             </div>
         </footer>

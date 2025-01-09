@@ -4,6 +4,7 @@ import { Dialog, DialogClose, DialogContent, DialogFooter, DialogTrigger } from 
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { doctors } from "@/lib/constant/Doctors";
 import { toast } from "sonner";
+import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/UniversalToast";
 
 export default function VideoConsulting() {
   const [formData, setFormData] = useState({
@@ -47,8 +48,6 @@ export default function VideoConsulting() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    toast.success("Sending email...");
-
     // Validate required fields
     if (
       !formData.patientName ||
@@ -61,7 +60,8 @@ export default function VideoConsulting() {
       toast.error("All fields are required.");
       return;
     }
-    console.log(passport)
+    
+    sendingMail();
 
     // Prepare form data
     const data = new FormData();
@@ -94,7 +94,7 @@ export default function VideoConsulting() {
 
 
       if (response.ok) {
-        toast.success("Email sent successfully!");
+        sendSuccuss()
         // Optionally reset the form
         setFormData({
           patientName: "",
@@ -109,18 +109,20 @@ export default function VideoConsulting() {
         setSuccess(true);
       } else {
         const errorData = await response.json();
+        failedMail();
         toast.error(`Failed to send email: ${errorData.message}`);
       }
     } catch (error) {
       console.error("Error during form submission:", error);
       toast.error("Something went wrong. Please try again later.");
+      failedMail()
     }
   };
 
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <button className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500">
+        <button className="bg-blue-500 text-xs text-white px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500">
           Send Request
         </button>
       </DialogTrigger>

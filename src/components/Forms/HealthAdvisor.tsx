@@ -5,6 +5,7 @@ import { DialogTitle } from "@radix-ui/react-dialog";
 import { countryCityData} from "@/lib/constant/unversal";
 import { HeartHandshake } from "lucide-react";
 import { toast } from "sonner";
+import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/UniversalToast";
 
 export default function HealthAdvisor() {
   const [formData, setFormData] = useState({
@@ -30,9 +31,12 @@ export default function HealthAdvisor() {
     }));
   };
 
+
+  
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    toast.success("Sending request...");
+   
 
     // Validate required fields
     if (
@@ -47,7 +51,7 @@ export default function HealthAdvisor() {
       toast.error("All fields are required.");
       return;
     }
-
+    sendingMail()
     // Prepare form data
     const data = new FormData();
     data.append( "name", formData.patientName);
@@ -62,14 +66,11 @@ export default function HealthAdvisor() {
       // Make API call
       const response = await fetch("/api/healthadvisor", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json", // Explicitly set Content-Type
-        },
         body: data,
       });
 
       if (response.ok) {
-        toast.success("Request sent successfully!");
+        sendSuccuss()
         setFormData({
           patientName: "",
           phoneNumber: "",
@@ -83,10 +84,11 @@ export default function HealthAdvisor() {
       } else {
         const errorData = await response.json();
         toast.error(`Failed to send request: ${errorData.message}`);
+        
       }
     } catch (error) {
       console.error("Error during form submission:", error);
-      toast.error("Something went wrong. Please try again later.");
+      failedMail()
     }
   };
 

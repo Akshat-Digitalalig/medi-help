@@ -12,7 +12,6 @@ const UPLOAD_DIR = path.resolve("public/uploads");
 export async function POST(req: NextRequest) {
   try {
     const formdata = await req.formData();
-    console.log(formdata);
     const name = formdata.get("name");
     const email = formdata.get("email");
     const country = formdata.get("country");
@@ -21,6 +20,7 @@ export async function POST(req: NextRequest) {
     const medicalProblem = formdata.get("medicalProblem");
     const ageOrDOB = formdata.get("ageOrDOB");
     const hospital = formdata.get("hospital");
+    const doctor = formdata.get("doctors");
     const file = formdata.get("file1") as File;
 
     // Validate input
@@ -62,6 +62,7 @@ export async function POST(req: NextRequest) {
         pass: process.env.NEXT_PUBLIC_SENDER_EMAIL_PASSWORD,
       },
     });
+    
 
     // Render the email template
     const emailHtml = await render(
@@ -74,6 +75,7 @@ export async function POST(req: NextRequest) {
         medicalProblem: String(medicalProblem),
         ageOrDOB: String(ageOrDOB),
         hospital: String(`${hospital}`),
+        doctor: String(`${doctor}`),
       })
     );
 

@@ -26,13 +26,15 @@ export async function POST(req: NextRequest) {
     }
 
     // Set up Nodemailer
-    const transporter = nodemailer.createTransport({
-      service: "Gmail",
-      auth: {
-        user: "tharabhainarendra7@gmail.com",
-        pass: "rloeduhdtwapycbj",
-      },
-    });
+   const transporter = nodemailer.createTransport({
+         host: "smtpout.secureserver.net", // GoDaddy's SMTP server
+         port: 465, // Use 465 for SSL
+         secure: true,
+         auth: {
+           user: process.env.NEXT_PUBLIC_SENDER_EMAIL,
+           pass: process.env.NEXT_PUBLIC_SENDER_EMAIL_PASSWORD,
+         },
+       });
 
     // Render the email template
     const emailHtml = await render(
@@ -56,10 +58,13 @@ export async function POST(req: NextRequest) {
     };
 
     // Send the email
-    await transporter.sendMail(mailOptions);
-
+    const result = await transporter.sendMail(mailOptions);
+    console.log("Email sent successfully:", result);
     return NextResponse.json(
-      { message: "Email sent successfully" },
+      { 
+        message: "Email sent successfully",
+        details: result // Include email sending details in the response
+      },
       { status: 200 }
     );
   } catch (error) {

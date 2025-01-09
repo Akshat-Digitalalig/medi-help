@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { toast } from "sonner";
+import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/UniversalToast";
 
 export default function AirportPickup() {
   const [formData, setFormData] = useState({
@@ -35,11 +36,8 @@ export default function AirportPickup() {
     }
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    console.log("calll")
+  const handleSubmit = async (e: React.FormEvent) => {  
     e.preventDefault();
-    toast.success("Sending request...");
-
     // Validate required fields
     if (
       !formData.patientName ||
@@ -51,7 +49,7 @@ export default function AirportPickup() {
       toast.error("All fields are required.");
       return;
     }
-
+     sendingMail()
     // Prepare form data
     const data = new FormData();
     data.append("name", formData.patientName);
@@ -73,7 +71,7 @@ export default function AirportPickup() {
       });
 
       if (response.ok) {
-        toast.success("Request sent successfully!");
+        sendSuccuss();
         setFormData({
           patientName: "",
           phoneNumber: "",
@@ -85,18 +83,20 @@ export default function AirportPickup() {
         setSuccess(true);
       } else {
         const errorData = await response.json();
+        failedMail();
         toast.error(`Failed to send request: ${errorData.message}`);
       }
     } catch (error) {
       console.error("Error during form submission:", error);
       toast.error("Something went wrong. Please try again later.");
+      failedMail();
     }
   };
 
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <button className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500">
+        <button className="bg-blue-500 text-xs text-white px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500">
           Send Request
         </button>
       </DialogTrigger>

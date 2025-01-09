@@ -1,15 +1,17 @@
 "use client";
 import React, { useState, Suspense } from 'react';
-import { toast } from "sonner";
 import { countryCityData, countryCodeData } from "@/lib/constant/unversal";
-import {  useSearchParams } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
+import Link from 'next/link';
+import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/UniversalToast";
+import { toast } from 'sonner';
 
 
 const PatientForm: React.FC = () => {
     const searchParams = useSearchParams();
     const hospital = searchParams.get('hospital');
-    // const doctor = searchParams.get('doctor'); this is small changes for making doctors consulting redirecting 
-    
+    const router = useRouter()
+    const doctor = searchParams.get('doctor'); 
     const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
     const [formData, setFormData] = useState({
         name: '',
@@ -20,6 +22,7 @@ const PatientForm: React.FC = () => {
         medicalProblem: '',
         ageOrDOB: '',
         hospital: hospital,
+        doctor:doctor,
 
     });
     const [files, setFiles] = useState<File[]>([]);
@@ -46,13 +49,13 @@ const PatientForm: React.FC = () => {
     };
 
     const handleSubmit = async (e: React.FormEvent) => {
-        toast.success("Email Sending...");
+        
         e.preventDefault();
         if (!formData.name || !formData.email || !formData.city || !formData.phone || !formData.medicalProblem || !formData.ageOrDOB) {
-            alert('All fields are required');
+            toast.error("All fields are required.");
             return;
         }
-
+        sendingMail();
         try {
             const formDataPayload = new FormData();
             formDataPayload.append("name", formData.name);
@@ -63,6 +66,7 @@ const PatientForm: React.FC = () => {
             formDataPayload.append("phone", countryCode + formData.phone);
             formDataPayload.append("ageOrDOB", formData.ageOrDOB);
             formDataPayload.append("hospital", formData.hospital || '');
+            formDataPayload.append("doctor", formData.doctor || '');
 
             files.forEach((file, index) => {
                 formDataPayload.append(`file${index + 1}`, file); // Append each file
@@ -75,39 +79,55 @@ const PatientForm: React.FC = () => {
 
             const data = await response.json();
             if (response.ok) {
-                toast.success("Email Sent Successfully");
-                setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '', hospital: hospital });
+                sendSuccuss()
+                setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '', hospital: hospital, doctor:doctor });
                 setFiles([]); // Reset file input
+                router.push("/")
             } else {
-                toast.error("Failed to send email");
+                failedMail()
                 console.log(data.message);
             }
         } catch (error) {
             console.error('Error:', error);
-            alert('An error occurred while sending the email');
+            failedMail()
         }
     };
     return (
-            <Suspense>
+        <Suspense>
             <div className="max-w-xl mx-auto p-6 my-2 rounded-lg">
                 <h2 className="text-center text-xl font-semibold mb-2">Help Us With Patient Details</h2>
                 <form onSubmit={handleSubmit} className="space-y-2">
-                <div>
-                       {hospital && <>
-                        <label htmlFor="hospital" className="block py-1 text-sm font-medium">
-                            Hospital<span className='text-red-500'>*</span>
-                        </label>
-                        <input
-                            type="text"
-                            id="hospital"
-                            name="hospital"
-                            value={formData.hospital || ''}
-                            onChange={handleChange}
-                            placeholder="Hospital Name"
-                            className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                            disabled
-                        />
-                       </>}
+                    <div>
+                        {hospital && <>
+                            <label htmlFor="hospital" className="block py-1 text-sm font-medium">
+                                Hospital<span className='text-red-500'>*</span>
+                            </label>
+                            <input
+                                type="text"
+                                id="hospital"
+                                name="hospital"
+                                value={formData.hospital || ''}
+                                onChange={handleChange}
+                                placeholder="Hospital Name"
+                                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                disabled
+                            />
+                        </>}
+                        {doctor && <>
+                            <label htmlFor="hospital" className="block py-1 text-sm font-medium">
+                                Doctor 
+                            </label>
+                            <input
+                                type="text"
+                                id="hospital"
+                                name="hospital"
+                                value={formData.doctor || ''}
+                                onChange={handleChange}
+                                placeholder="Hospital Name"
+                                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                disabled
+                            />
+                        </>}
                         <label htmlFor="name" className="block py-1 text-sm font-medium">
                             Name <span className='text-red-500'>*</span>
                         </label>
@@ -136,23 +156,23 @@ const PatientForm: React.FC = () => {
                         />
                     </div>
                     <div>
-                    <label htmlFor="country" className="block py-1 text-sm font-medium">
-                        Country<span className='text-red-500'>*</span>
-                    </label>
-                    <select
-                        id="country"
-                        name="country"
-                        value={formData.country}
-                        onChange={handleChange}
-                        className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                    >
-                        {Object.keys(countryCityData).map((country) => (
-                            <option key={country} value={country}>
-                                {country}
-                            </option>
-                        ))}
-                    </select>
-                </div>
+                        <label htmlFor="country" className="block py-1 text-sm font-medium">
+                            Country<span className='text-red-500'>*</span>
+                        </label>
+                        <select
+                            id="country"
+                            name="country"
+                            value={formData.country}
+                            onChange={handleChange}
+                            className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                        >
+                            {Object.keys(countryCityData).map((country) => (
+                                <option key={country} value={country}>
+                                    {country}
+                                </option>
+                            ))}
+                        </select>
+                    </div>
                     <div>
                         <label htmlFor="city" className="block py-1 text-sm font-medium">
                             City<span className='text-red-500'>*</span>
@@ -241,13 +261,19 @@ const PatientForm: React.FC = () => {
                         Submit
                     </button>
                     <p className="text-xs text-center text-gray-500 mt-2">
-                        By submitting the form I agree to the{' '}
-                        <a href="#" className="text-blue-600">Terms of Use</a> and{' '}
-                        <a href="#" className="text-blue-600">Privacy Policy</a> of Vaidam Health.
+                        By submitting the form I agree to the{" "}
+                        <Link href="/info/terms-conditions" className="text-blue-600">
+                            Terms of Use
+                        </Link>{" "}
+                        and{" "}
+                        <Link href="/info/privacy-policy" className="text-blue-600">
+                            Privacy Policy
+                        </Link>{" "}
+                        of MediHelp Global.
                     </p>
                 </form>
             </div>
-        
+
         </Suspense>
     );
 };

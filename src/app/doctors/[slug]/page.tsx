@@ -3,12 +3,17 @@ import React from 'react'
 import { doctors } from "@/lib/constant/Doctors"
 import Image from 'next/image'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { useParams } from 'next/navigation'
+import { useParams, useRouter } from 'next/navigation'
 import { useSendWhatsApp } from '@/hooks/useSendWhatsApp'
 export default function Page() {
+    const router = useRouter()
     const { slug } = useParams()
     const doctor = doctors.find((doctor) => doctor.id === slug)
     const send = useSendWhatsApp()
+    const handleBooking = () => {
+        const doctorName = encodeURIComponent(doctor?.name || "");
+        router.push(`/consult-online?doctor=${doctorName}`);
+      };
     return (
         <div className='max-w-7xl mx-auto'>
             <div className="flex flex-col md:flex-row items-center md:items-start p-4 bg-white   mx-auto">
@@ -38,10 +43,10 @@ export default function Page() {
                         ))}                       
                     </div>
                     <div className="flex flex-col mt-4 md:mt-0 md:ml-4 space-y-2">
-                        <button className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 focus:outline-none">
+                        <button onClick={handleBooking} className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 focus:outline-none">
                          Book Appointment
                         </button>
-                        <button onClick={() => send({message:`Hii,  I am Consult With ${doctor?.name}`})} className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none ">
+                        <button onClick={() => send({message:`Hii, I want to Consult With ${doctor?.name}`})} className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none ">
 
                             WhatsApp Us
                         </button>
