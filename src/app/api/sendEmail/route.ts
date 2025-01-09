@@ -100,6 +100,12 @@ export async function POST(req: NextRequest) {
 
     // Send the email
     await transporter.sendMail(mailOptions);
+    
+     // Remove the files after sending the email
+       if (fs.existsSync(UPLOAD_DIR)) {
+        fs.rmSync(UPLOAD_DIR, { recursive: true });
+      } 
+    
 
     return NextResponse.json(
       { message: "Email sent successfully" },

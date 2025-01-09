@@ -6,7 +6,7 @@ import path from "path";
 import fs from "fs";
 import { EmailTempTranslator } from "@/lib/Email/EmailTemp";
 
-const UPLOAD_DIR = path.resolve("public/uploads");
+const UPLOAD_DIR = path.resolve("/tmp/uploads");
 
 // Handle POST requests
 export async function POST(req: NextRequest) {
