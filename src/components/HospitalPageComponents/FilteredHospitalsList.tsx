@@ -34,7 +34,7 @@ const FilteredHospitalsList = () => {
 
   return (
     <div className="hospital-list">
-      <h1 className="text-xl font-bold my-4 mx-6">Show Results {filteredHospital.length}</h1>
+      <h1 className="text-xl font-bold my-4 mx-4">Show Results {filteredHospital.length}</h1>
       {filteredHospital.length > 0 ? (
         filteredHospital.map((hospital, index) => (
           <HospitalCard key={index} hospital={hospital} />

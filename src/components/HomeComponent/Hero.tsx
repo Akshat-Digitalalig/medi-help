@@ -11,7 +11,7 @@ export default function Hero() {
     return (
         <section className="flex flex-col">
             <div className="flex flex-col items-center w-full">
-                <div className="bg-[#e1f5ff] bg-center bg-cover  w-full pb-10"
+                <div className="bg-[#e1f5ff] bg-center bg-cover px-2  w-full pb-10"
 
                     style={{
                         backgroundImage: `url('/medibg.png')`,

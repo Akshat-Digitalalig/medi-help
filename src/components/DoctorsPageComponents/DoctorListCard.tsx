@@ -66,7 +66,7 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
               <BriefcaseMedical />
               <div>
                 <p className="inline-block bg-blue-100 text-blue-800 mx-1 text-xs  font-semibold px-2 py-1 rounded ">
-                  {TrucanteText(doctor?.designation, 34)} 
+                  {TrucanteText(doctor?.designation, 30)} 
                 </p>
 
               </div>

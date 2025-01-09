@@ -159,15 +159,27 @@ interface ListItemsProps {
 
 const ListItems: React.FC<ListItemsProps> = ({ img, name, location, onClick }) => {
 	return (
-		<div className="flex gap-x-2" onClick={onClick}>
-			<div>
-				<Image src={img} alt="img" className="rounded-lg" height={70} width={70} />
-			</div>
-			<div>
-				<p>{name}</p>
-				<p className="text-blue-500">{location}</p>
-			</div>
+	  <div
+		className="flex gap-x-4   rounded-lg  transition-all duration-300 cursor-pointer items-center"
+		onClick={onClick}
+	  >
+		{/* Image Section */}
+		<div className="flex-shrink-0">
+		  <Image
+			src={img}
+			alt="img"
+			className="rounded-lg object-cover"
+			height={80}
+			width={80}
+		  />
 		</div>
+  
+		{/* Text Section */}
+		<div className="flex flex-col justify-center">
+		  <p className="font-semibold text-sm truncate">{name}</p>
+		  <p className="text-blue-500 text-sm truncate">{location}</p>
+		</div>
+	  </div>
 	);
-};
+  };
 

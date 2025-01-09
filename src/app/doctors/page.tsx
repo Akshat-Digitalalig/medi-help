@@ -57,7 +57,7 @@ const DoctorList = () => {
   const filteredDoctors  = doctorsList();
   return (
     <div className="w-full my-4 h-auto">
-    <h1 className="text-xl font-bold my-4 mx-6">Show Results {filteredDoctors.length}</h1>
+    <h1 className="text-xl font-bold my-4 ">Show Results {filteredDoctors.length}</h1>
     <div>
       {filteredDoctors.map((doctor) => (
         <DoctorCard key={doctor.id} doctor={doctor} />

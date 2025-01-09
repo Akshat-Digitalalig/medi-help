@@ -19,7 +19,7 @@ export default function Services() {
           </h2>
         </div>
 
-        <div className="grid gap-4 md:gap-12 grid-cols-2 md:grid-cols-3 xl:grid-cols-3">
+        <div className="grid gap-2 md:gap-12 grid-cols-2 md:grid-cols-3 xl:grid-cols-3">
           <div>
             <FeatureItem
               ImgPath="/icons/service6.webp"
@@ -103,10 +103,10 @@ function FeatureItem({
       <div className="mb-2 flex h-12 w-12 items-center justify-center text-indigo-500 sm:mb-4 md:h-14 md:w-14">
         <Image src={ImgPath} alt={title} width={56} height={56} />
       </div>
-      <h3 className="mb-2 text-center text-lg font-semibold md:text-lg">
+      <h3 className="mb-2 text-center text-sm font-semibold md:text-lg">
         {title}
       </h3>
-      <p className="mb-2 text-center text-gray-500 text-sm">{description}</p>
+      <p className="mb-2 text-center text-gray-400 text-xs md:text-sm">{description}</p>
       {children && <div>{children}</div>}
     </div>
   );
