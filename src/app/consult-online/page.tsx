@@ -1,18 +1,21 @@
 "use client";
 import React, { useState, Suspense } from 'react';
-import { countryCityData, countryCodeData } from "@/lib/constant/unversal";
+import { countryCityData } from "@/lib/constant/unversal";
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/UniversalToast";
 import { toast } from 'sonner';
+import PhoneInput from "react-phone-number-input";
+import "./phone.css";
+import "react-phone-number-input/style.css";
 
 
 const PatientForm: React.FC = () => {
     const searchParams = useSearchParams();
     const hospital = searchParams.get('hospital');
     const router = useRouter()
-    const doctor = searchParams.get('doctor'); 
-    const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
+    const doctor = searchParams.get('doctor');
+    // const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
     const [formData, setFormData] = useState({
         name: '',
         email: '',
@@ -22,7 +25,7 @@ const PatientForm: React.FC = () => {
         medicalProblem: '',
         ageOrDOB: '',
         hospital: hospital,
-        doctor:doctor,
+        doctor: doctor,
 
     });
     const [files, setFiles] = useState<File[]>([]);
@@ -30,9 +33,9 @@ const PatientForm: React.FC = () => {
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
         const { name, value } = e.target;
 
-        if (name === "country") {
-            setCountryCode(countryCodeData[value as keyof typeof countryCodeData]);
-        }
+        // if (name === "country") {
+        //     setCountryCode(countryCodeData[value as keyof typeof countryCodeData]);
+        // }
 
         setFormData((prevData) => ({
             ...prevData,
@@ -49,7 +52,7 @@ const PatientForm: React.FC = () => {
     };
 
     const handleSubmit = async (e: React.FormEvent) => {
-        
+
         e.preventDefault();
         if (!formData.name || !formData.email || !formData.city || !formData.phone || !formData.medicalProblem || !formData.ageOrDOB) {
             toast.error("All fields are required.");
@@ -63,7 +66,7 @@ const PatientForm: React.FC = () => {
             formDataPayload.append("medicalProblem", formData.medicalProblem);
             formDataPayload.append("country", formData.country);
             formDataPayload.append("city", formData.city);
-            formDataPayload.append("phone", countryCode + formData.phone);
+            formDataPayload.append("phone",  formData.phone);
             formDataPayload.append("ageOrDOB", formData.ageOrDOB);
             formDataPayload.append("hospital", formData.hospital || '');
             formDataPayload.append("doctor", formData.doctor || '');
@@ -80,7 +83,7 @@ const PatientForm: React.FC = () => {
             const data = await response.json();
             if (response.ok) {
                 sendSuccuss()
-                setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '', hospital: hospital, doctor:doctor });
+                setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '', hospital: hospital, doctor: doctor });
                 setFiles([]); // Reset file input
                 router.push("/")
             } else {
@@ -115,7 +118,7 @@ const PatientForm: React.FC = () => {
                         </>}
                         {doctor && <>
                             <label htmlFor="hospital" className="block py-1 text-sm font-medium">
-                                Doctor 
+                                Doctor
                             </label>
                             <input
                                 type="text"
@@ -198,18 +201,16 @@ const PatientForm: React.FC = () => {
                             Phone Number<span className='text-red-500'>*</span>
                         </label>
                         <div className="flex">
-                            <span className="inline-flex items-center px-3 text-gray-600 bg-gray-200 border border-r-0 rounded-l-md">
-                                {countryCode}
-                            </span>
-                            <input
-                                type="text"
-                                id="phone"
-                                name="phone"
+                           
+                            <PhoneInput
+                            className='w-full focus:outline-none focus:ring-2 focus:ring-blue-500'
+                            international
+                            countryCallingCodeEditable={false}
+                            defaultCountry="IN"
+                                placeholder="Enter phone number"
                                 value={formData.phone}
-                                onChange={handleChange}
-                                placeholder="Your Phone number"
-                                className="w-full px-4 py-2 border rounded-r-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                            />
+                                onChange={(value) => setFormData({ ...formData, phone: value || '' })} />
+                           
                         </div>
                     </div>
                     <div>

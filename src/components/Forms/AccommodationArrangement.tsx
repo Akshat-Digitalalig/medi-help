@@ -5,6 +5,9 @@ import { DialogTitle } from "@radix-ui/react-dialog";
 import { hospitalData } from "@/lib/constant/Hospital";
 import { toast } from "sonner";
 import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/UniversalToast";
+import PhoneInput from "react-phone-number-input";
+import "./phone.css";
+import "react-phone-number-input/style.css";
 
 export default function VisaInvitation() {
 
@@ -147,16 +150,14 @@ export default function VisaInvitation() {
               >
                 Phone Number
               </label>
-              <input
-                type="number"
-                id="phoneNumber"
-                name="phoneNumber"
+              <PhoneInput
+                className='w-full focus:outline-none focus:ring-2 focus:ring-blue-500'
+                international
+                countryCallingCodeEditable={false}
+                defaultCountry="IN"
+                placeholder="Enter phone number"
                 value={formData.phoneNumber}
-                onChange={handleChange}
-                placeholder="Enter Phone number"
-                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                required
-              />
+                onChange={(value) => setFormData({ ...formData, phoneNumber: value || '' })} />
             </div>
             <div>
               <label
@@ -301,7 +302,7 @@ export default function VisaInvitation() {
               ></textarea>
             </div>
             <div>
-            {success ? (
+              {success ? (
                 <p className="text-green-500 text-center">
                   Request sent successfully!
                 </p>

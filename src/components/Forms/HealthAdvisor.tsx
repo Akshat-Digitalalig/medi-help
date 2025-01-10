@@ -6,6 +6,9 @@ import { countryCityData} from "@/lib/constant/unversal";
 import { HeartHandshake } from "lucide-react";
 import { toast } from "sonner";
 import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/UniversalToast";
+import PhoneInput from "react-phone-number-input";
+import "./phone.css";
+import "react-phone-number-input/style.css";
 
 export default function HealthAdvisor() {
   const [formData, setFormData] = useState({
@@ -136,16 +139,14 @@ export default function HealthAdvisor() {
               >
                 Phone Number
               </label>
-              <input
-                type="number"
-                id="phoneNumber"
-                name="phoneNumber"
+              <PhoneInput
+                className='w-full focus:outline-none focus:ring-2 focus:ring-blue-500'
+                international
+                countryCallingCodeEditable={false}
+                defaultCountry="IN"
+                placeholder="Enter phone number"
                 value={formData.phoneNumber}
-                onChange={handleChange}
-                placeholder="Enter Phone number"
-                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                required
-              />
+                onChange={(value) => setFormData({ ...formData, phoneNumber: value || '' })} />
             </div>
 
             <div>
