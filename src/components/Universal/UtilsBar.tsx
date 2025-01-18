@@ -59,9 +59,10 @@ export default function UtilsBar() {
         ).slice(0, 10);
 
         // Filter doctors
-        const filteredDoctors = doctors.filter((doctor) =>
-            doctor.name.toLowerCase().includes(query.toLowerCase())
-        ).slice(0, 10);
+        const filteredDoctors = doctors
+        .filter((doctor) =>
+          doctor?.tags?.some((tag) => tag.toLowerCase().includes(query.toLowerCase()))
+        );
 
         // Filter treatments
         const filteredTreatments = treatmentLinks.filter((treatment) =>

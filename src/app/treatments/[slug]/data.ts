@@ -1,8 +1,13 @@
 export const data = [
+  // robotic-thyroidectomy
   {
     name: "robotic-thyroidectomy",
     img: "/treatment/robotic-thyroidectomy.webp",
     data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Robotic thyroidectomy Surgery Cost in India: 4000–5500 USD in JCI accredited Hospital.</strong></span></h2>
+<h3><strong><span style="color: #0048ad;">How can you avail the best Robotic Thyroidectomy in India-Step by Step process?</span></strong></h3>
+<p>If you are looking for trustworthy treatment consultants in India, then<a href="/contact/"> Medihelp Global </a> is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <strong>thyroid cancer treatment in India </strong>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p><strong>We will help you to find the best Robotic Thyroidectomy Doctors in India</strong></p>
 			<h2><span style="color: #0048ad;">Scarless Robotic Thyroidectomy Surgery in India-A complete Patient’s guide</span></h2>
 <p>Thyroid cancer has become extremely common these days. With the increase in the number of cases and advancement in medical science, new surgical techniques have been developed for the treatment of cancer. People suffering from benign thyroid tumours and thyroid cancer can now take a sigh of relief with the development of <strong>Scarless Robotic Thyroidectomy Sugery in India</strong>.</p>
 <p>Robotic Thyroidectomy is a special surgical procedure where surgery is performed with the help of a robot. The robot receives the instructions from the surgeon and then puts them into action. The surgery has proved to be a boon for cancer patients who do not want any visible scar in the neck region after the surgery. In the robotic procedure, there are no visible scars because the thyroid region is accessed using an underarm incision. The results of <strong>robotic thyroidectomy surgery in Delhi</strong> are more aesthetically pleasing than conventional thyroid surgery.</p>
@@ -71,17 +76,75 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p><span style="color: #0048ad;"><strong>Reduced postoperative pain:</strong></span> People who undergo robotic thyroidectomy experience less pain and thus have fewer pain medications compared to people who choose the traditional surgical technique.</p>
 <p><span style="color: #0048ad;"><strong>Shorter Hospital Stays:</strong></span> Hospital stays are shorter with robotic thyroidectomy as there is less tissue damage.</p>
 <p><span style="color: #0048ad;"><strong>Better cosmetic outcomes:</strong></span>&nbsp; S<strong>carless Robotic Thyroidectomy Surgery</strong> gives better cosmetic outcomes as the incisions made are extremely small and are hardly visible.</p>
-<h2><span style="color: #0048ad;"><strong>Robotic thyroidectomy Surgery Cost in India: 4000–5500 USD in JCI accredited Hospital.</strong></span></h2>
-<h3><strong><span style="color: #0048ad;">How can you avail the best Robotic Thyroidectomy in India-Step by Step process?</span></strong></h3>
-<p>If you are looking for trustworthy treatment consultants in India, then<a href="/contact/"> Medihelp Global </a> is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <strong>thyroid cancer treatment in India </strong>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
-<p><strong>We will help you to find the best Robotic Thyroidectomy Doctors in India</strong></p>
-
 		</div>`,
   },
+  // robotic-prostatectomy
   {
     name: "robotic-prostatectomy",
     img: "/treatment/RoboticProstatectomy.webp",
     data: `<div class="wpb_wrapper">
+    <h2><b>The cost of robotic radical prostatectomy in top Indian hospitals will be as follows:</b></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">&nbsp;</span><a href="#/apollo-hospital/"><span style="font-weight: 400;">Indraprastha Apollo Hospital</span></a><span style="font-weight: 400;">: USD 8000</span></li>
+<li style="font-weight: 400;" aria-level="1"><a href="#/bl-kapur-hospital/"><span style="font-weight: 400;">Max Superspeciality Hospital</span></a><span style="font-weight: 400;">:&nbsp; USD 9000</span></li>
+<li style="font-weight: 400;" aria-level="1"><a href="#/fortis-memorial-research-institute/"><span style="font-weight: 400;">Fortis Memorial &amp; Research Institute</span></a><span style="font-weight: 400;">: USD 8500</span></li>
+</ul>
+<h2><b>Factors Affecting the Cost of Robotic Prostatectomy Surgery in India&nbsp;</b></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of hospital</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation of the hospital</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Location of the hospital</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Urologists fees</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of surgical approach used</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pre and post-surgical expenses like tests, medicines, and follow-up appointments</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates for international patients</span></li>
+</ul>
+<p><span style="font-weight: 400;">Medihelp Global Global will assist you in determining the overall </span><b>robotic prostatectomy cost in India</b><span style="font-weight: 400;">. Contact us today to learn more!</span></p>
+<table>
+<tbody>
+<tr>
+<td><b>Package Inclusions</b></td>
+<td><b>Package Exclusions</b></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Room Rent</span></td>
+<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Consultant and Surgeon’s fees</span></td>
+<td><span style="font-weight: 400;">Consultation of other specialities</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Airport Pick Up and drop</span></td>
+<td><span style="font-weight: 400;">Complications</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Attendant Stay with the patient during treatment and meals&nbsp;</span></td>
+<td><span style="font-weight: 400;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">International Patient Care Lounge Access&nbsp;&nbsp;</span></td>
+<td><span style="font-weight: 400;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">10 days hotel stay ( 3 star)&nbsp;</span></td>
+<td><span style="font-weight: 400;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Local Transport&nbsp;</span></td>
+<td><span style="font-weight: 400;">&nbsp;</span></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Stay in the hospital: </b><span style="font-weight: 400;">You will need to stay in the hospital for 2 days after your surgery.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Stay in India:</b><span style="font-weight: 400;"> Due to the nature of the surgery, you will need to stay in India for a minimum of 12 days.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Success rate:</b><span style="font-weight: 400;"> India boasts a 99% success rate for robotic prostate cancer procedures, cementing its reputation as a leader in prostate cancer.</span></li>
+</ul>
+<p><strong>How can you avail the best Nerve Sparing Robotic Prostatectomy in India-Step through Step process?</strong></p>
+<p><span style="font-weight: 400;">If you are looking for trustworthy treatment consultants in India, then Medihelp Global  is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your </span><b>prostate cancer treatment in India </b><span style="font-weight: 400;">fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
+<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Prostatectomy Doctors in India</strong>&nbsp;</span></p>
+
 			<h2><b>Nerve Sparing Robotic Prostatectomy in India: Revolutionizing Prostate Cancer Surgery</b></h2>
 <p><span style="font-weight: 400;">About 1 in 8 men get prostate cancer in their life. It is one of the most common types of cancer in men and usually affects men in their older age. Early detection and treatment of prostate cancer is essential for the best outcomes of prostate cancer. However, with the advancement in medical science, the survival rate of people who have prostate cancer has increased to five years.</span></p>
 <p><span style="font-weight: 400;">Scientists have come up with the most advanced surgical option for the treatment of prostate cancer, and that is</span><b> nerve-sparing</b> <b>robotic prostatectomy in India</b><span style="font-weight: 400;">. It is a minimally invasive procedure performed with the help of a robot, allowing great precision compared to when surgery is performed by hand. Please keep reading to know more about robotic prostatectomy, including what happens during the surgery and how it is different from other treatment options.</span></p>
@@ -217,74 +280,19 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p><a href="#/fortis-memorial-research-institute/"><b>Fortis Healthcare:</b></a> <span style="font-weight: 400;">Fortis is a multispeciality hospital and one of India’s top hospitals performing robotic surgery. It is the leading hospital in India, and it has super-advanced robotic systems like the</span><b> Da Vinci system </b><span style="font-weight: 400;">to perform robotic procedures.</span><a href="#/dr-pradeep-bansal-robotic-urological-cancer-kidney-transplant-surgeon/"> <b>Dr Pradeep Bansal</b></a> <span style="font-weight: 400;">is one of the best doctors for robotic surgeries in Fortis and has over 23 years of experience in urology.</span></p>
 <h2><b>Cost of Robotic Prostate Cancer Surgery in JCI Accredited Hospital</b></h2>
 <p><span style="font-weight: 400;">India offers the best choice for</span><b> robotic prostate cancer surger</b><span style="font-weight: 400;">y due to its highly skilled and experienced surgeons, advanced medical technology, and affordable cost. Although several factors determine the cost of prostate surgery, like a surgeon’s experience, the type of hospital, and its quality accreditation (JCI), robotic technology primarily determines the cost of the surgery.</span></p>
-<h2><b>The cost of robotic radical prostatectomy in top Indian hospitals will be as follows:</b></h2>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">&nbsp;</span><a href="#/apollo-hospital/"><span style="font-weight: 400;">Indraprastha Apollo Hospital</span></a><span style="font-weight: 400;">: USD 8000</span></li>
-<li style="font-weight: 400;" aria-level="1"><a href="#/bl-kapur-hospital/"><span style="font-weight: 400;">Max Superspeciality Hospital</span></a><span style="font-weight: 400;">:&nbsp; USD 9000</span></li>
-<li style="font-weight: 400;" aria-level="1"><a href="#/fortis-memorial-research-institute/"><span style="font-weight: 400;">Fortis Memorial &amp; Research Institute</span></a><span style="font-weight: 400;">: USD 8500</span></li>
-</ul>
-<h2><b>Factors Affecting the Cost of Robotic Prostatectomy Surgery in India&nbsp;</b></h2>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Location of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Urologists fees</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of surgical approach used</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pre and post-surgical expenses like tests, medicines, and follow-up appointments</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates for international patients</span></li>
-</ul>
-<p><span style="font-weight: 400;">Medihelp Global Global will assist you in determining the overall </span><b>robotic prostatectomy cost in India</b><span style="font-weight: 400;">. Contact us today to learn more!</span></p>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusions</b></td>
-<td><b>Package Exclusions</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Room Rent</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Consultant and Surgeon’s fees</span></td>
-<td><span style="font-weight: 400;">Consultation of other specialities</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Airport Pick Up and drop</span></td>
-<td><span style="font-weight: 400;">Complications</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Attendant Stay with the patient during treatment and meals&nbsp;</span></td>
-<td><span style="font-weight: 400;">&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">International Patient Care Lounge Access&nbsp;&nbsp;</span></td>
-<td><span style="font-weight: 400;">&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">10 days hotel stay ( 3 star)&nbsp;</span></td>
-<td><span style="font-weight: 400;">&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Transport&nbsp;</span></td>
-<td><span style="font-weight: 400;">&nbsp;</span></td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><b>Stay in the hospital: </b><span style="font-weight: 400;">You will need to stay in the hospital for 2 days after your surgery.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Stay in India:</b><span style="font-weight: 400;"> Due to the nature of the surgery, you will need to stay in India for a minimum of 12 days.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Success rate:</b><span style="font-weight: 400;"> India boasts a 99% success rate for robotic prostate cancer procedures, cementing its reputation as a leader in prostate cancer.</span></li>
-</ul>
-<p><strong>How can you avail the best Nerve Sparing Robotic Prostatectomy in India-Step through Step process?</strong></p>
-<p><span style="font-weight: 400;">If you are looking for trustworthy treatment consultants in India, then Medihelp Global  is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your </span><b>prostate cancer treatment in India </b><span style="font-weight: 400;">fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Prostatectomy Doctors in India</strong>&nbsp;</span></p>
 
 		</div>`,
   },
+  // robotic-sleep-apnea-surgery
   {
     name: "robotic-sleep-apnea-surgery",
     img: "/treatment/robotic-sleep-apnea-surgery.webp",
     data: `<div class="wpb_wrapper">
+    <p style="text-align: left;"><span style="color: #0048ad;"><strong>What is The Cost of Robotic Sleep Apnea Surgery in India?&nbsp;</strong></span></p>
+<p style="text-align: left;">On average, the <strong>cost of robotic sleep apnea surgery in India</strong> would range somewhere around <strong><span style="color: #000000;">4500 USD to 5000 USD</span></strong> in top-notch JCI-accredited hospitals.</p>
+<p style="text-align: left;">Seeking <span style="color: #000000;"><strong>“best robotic sleep apnea surgeon in India “</strong></span>for evidence-based treatment in Delhi, India! Contact Medihelp Global Global today.&nbsp;&nbsp; Save 20% on treatment costs.</p>
+<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Sleep Apnea Doctors in India</strong>&nbsp;</span></p>
+
 			<h2 style="text-align: left;"><span style="color: #0048ad;">Trans-oral Robotic Surgery for Obstructive Sleep Apnea in India&nbsp;</span></h2>
 <p style="text-align: left;">Obstructive sleep apnea (OSA) is a health disorder, characterized by patients who display snoring accompanied by irregular breathing patterns while being asleep. The main cause of OSA is the ’obstruction in throat muscles’ – they are normally in a relaxed state but tend to fall backwards during sleep – hence the disease is referred to as obstructive sleep apnea or OSA. It affects 22% of men and 17% of women globally, especially middle-aged overweight adults.</p>
 <p>Here we will discuss the best <strong>treatment for sleep apnea in India</strong> and we will also let you know how Medihelp Global  will help you.</p>
@@ -350,79 +358,15 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <li><a href="#/bl-kapur-hospital/">BLK – Max Super Specialty Hospital</a></li>
 <li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
 </ol>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>What is The Cost of Robotic Sleep Apnea Surgery in India?&nbsp;</strong></span></p>
-<p style="text-align: left;">On average, the <strong>cost of robotic sleep apnea surgery in India</strong> would range somewhere around <strong><span style="color: #000000;">4500 USD to 5000 USD</span></strong> in top-notch JCI-accredited hospitals.</p>
-<p style="text-align: left;">Seeking <span style="color: #000000;"><strong>“best robotic sleep apnea surgeon in India “</strong></span>for evidence-based treatment in Delhi, India! Contact Medihelp Global Global today.&nbsp;&nbsp; Save 20% on treatment costs.</p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Sleep Apnea Doctors in India</strong>&nbsp;</span></p>
 
 		</div>`,
   },
+  // robotic-lung-cancer-surgery
   {
     name: "robotic-lung-cancer-surgery",
     img: "/treatment/Robotic-Lung-Cancer-Treatment-and-Surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2 style="text-align: left;"><span style="color: #0048ad;"><strong>What is Lung Cancer?</strong></span></h2>
-<p style="text-align: left;">The growth of cancer tissues in the cells of air passage within the lungs is called lung cancer. The commonest cause is smoking. It is characterised by cough with blood, hoarseness of voice and shortness of breath. It is the most common cancer worldwide and a leading reason for death.</p>
-<p>This article will take you through the most widely prcaticed lung cancer treatment options in India: <strong>Robotic Lung Cancer Surgery.&nbsp;</strong></p>
-<h2 style="text-align: left;"><span style="color: #0048ad;">How to Make Diagnosis?</span></h2>
-<p style="text-align: left;">Patient’s history is examined with a full range of modern diagnostics such as HRCT, PET scan, biopsy etc to make a confirmed diagnosis.</p>
-<h2 style="text-align: left;"><span style="color: #0048ad;">Treatment Options Available for Lung Cancer in India</span></h2>
-<p style="text-align: left;">Staging of cancer is a crucial first step in developing a care plan. Treatment is selected depending on the genetic and immunological makeup of tumor. Knowing the exact type of lung cancer plays an important role in the outcome because this information sets as a base to create a tailor-made treatment plan that can include one or more of the following processes:</p>
-<ul style="text-align: left;">
-<li><strong>Robotic Lung Surgery in India</strong></li>
-<li>Molecularly targeted therapy</li>
-<li>Immunotherapy</li>
-<li>Chemotherapy</li>
-<li>Photodynamic therapy</li>
-<li>Radiation</li>
-</ul>
-<p style="text-align: left;"><strong><span style="color: #0048ad;">What do You Mean by Robotic Lung Cancer Surgery?</span></strong></p>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Robotic lung cancer surgery in Delhi</strong> </span>means removing part of a lung using minimally invasive techniques, including <strong>V</strong>ideo-<strong>A</strong>ssisted <strong>T</strong>horacic <strong>S</strong>urgery (VATS) and <strong>R</strong>obotic <strong>A</strong>ssisted <strong>T</strong>horacic <strong>S</strong>urgery (RATS).</p>
-<p><strong>VATS: VATS for lung cancer treatment in India</strong> is a minimally invasive procedure that allows surgeons to remove tumors through small incisions, resulting in reduced pain and quicker recovery times compared to traditional open surgery. This advanced technique provides effective treatment for lung cancer with less impact on the patient’s overall health</p>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Robotic lung cancer treatment</strong> </span>in India is one of the most advanced surgeries in the world. This is a minimally invasive surgery used to treat lung cancer by removing diseased tissue using the latest Da Vinci Xi Surgical Robot. Let’s learn more about affordable lung cancer treatment options&nbsp; in India.</p>
-<p style="text-align: left;"><strong><span style="color: #0048ad;">What is the Indication for Robotic Lung Cancer Surgery?</span></strong></p>
-<p style="text-align: left;">If detected at early stage the best way to eradicate lung cancer is robotic lung cancer surgery. And it is used worldwide as standard care of treatment.</p>
-<h2 style="text-align: left;"><strong><span style="color: #0048ad;">Key Advantages of Robotic Lung Cancer Surgery</span></strong></h2>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Minimal Invasive with complete automation:</strong> </span><strong>Surgery for lung cancer</strong> if carried out through high end surgical robots provides magnified 3D view and wristed instruments of robots allow surgeons to make precise, controlled movements, without having to make larger incisions in the ribs. This allows surgeon to remove entire tumor mass present in the thoracic cavity (chest). Other advantages include:</p>
-<ul style="text-align: left;">
-<li><strong>Faster recovery</strong></li>
-<li><strong>Less change of infection post surgery</strong></li>
-<li><strong>Early discharge</strong></li>
-<li><strong>Surgical outcome is unmatched</strong></li>
-<li><strong>Less bleeding as compared to open surgery</strong></li>
-</ul>
-<p style="text-align: left;"><strong><span style="color: #0048ad;">Surgical Outcome of Lung Cancer Surgery</span></strong></p>
-<p style="text-align: left;">Robotic surgeries for lung cancer can eradiate lung cancer completely with its 3D camera which gives surgeon 360° magnifying view in order to remove each and every tumor cell. The patient can live a normal life after <strong>lung cancer treatment in India</strong>.&nbsp; These sophisticated robotic systems are new and gives maximum benefits to the patients.</p>
-<p style="text-align: left;"><strong><span style="color: #0048ad;">What is the Post op Recovery?</span></strong></p>
-<p style="text-align: left;">Robotic thoracic surgeries are minimal invasive, surgeon goes inside the chest cavity with a very tiny cut hence recovery is very fast. Patient can go home after 4-5 days after surgery without much discomfort.</p>
-<p style="text-align: left;">For the holistic management of cancer patient treatment, <span style="color: #000000;"><strong><a href="#/max-hospital-gurgaon/">Max Hospital</a> in India</strong>,</span> one of the best lung surgery hospitals, has created a Tumor Board. To get <span style="color: #0048ad;"><strong>lung cancer surgery in India</strong></span>, Max hospital can be your go to place, especially for low-cost lung cancer removal. The Tumor Board in Max hospital comprises of a group of above-mentioned specialists and best lung surgeons who collaborate on a recurring basis to discuss the best possible approaches and possibilities for cancer treatment.</p>
-<h2 style="text-align: left;"><strong><span style="color: #0048ad;">Roles Within Care Team in Lung Cancer Treatment</span></strong></h2>
-<p style="text-align: left;">Multidisciplinary care provides important benefits for treatment planning for people with complex lung cancer. In general, below are specialist roles that are required to involve in cancer treatment:</p>
-<ul style="text-align: left;">
-<li><em>Thoracic Surgeon</em></li>
-<li><em>Pulmonologist</em></li>
-<li><em>Radiologist</em></li>
-<li><em>Pulmonary pathologist</em></li>
-<li><em>Oncologist (Medical Radiation, Molecular, Palliative)</em></li>
-<li><em>Pathologist</em></li>
-<li><em>Oncopsychologist</em></li>
-<li><em>Oncorehabilitation</em></li>
-</ul>
-<h2 style="text-align: left;"><span style="color: #0048ad;">Best Robotic Lung Cancer Surgeon in India</span></h2>
-<h2 style="text-align: left;"><a href="#/dr-arvind-kumar-robotic-thoracic-lung-cancer-surgeon/"><span style="color: #000000;"><strong>Dr. Arvind Kumar</strong></span></a></h2>
-<p style="text-align: left;">Dr. Kumar was the first surgeon in India to perform <strong><span style="color: #000000;">Robotic Chest Surgery</span>, </strong>At present he is a chairman of the Institute of <span style="color: #000000;"><strong>Robotic Surgery</strong></span> and the Chairman of the Centre for Chest Surgery and Lung Transplantation at Medanta the Medicity.</p>
-<p style="text-align: left;">The path from being a faculty member in 1988 to Professor of Surgery in 2003 in 2008, he was the country’s first Thoracic Surgeon to begin a <span style="color: #008000;"><strong><span style="color: #000000;">Robotic programm</span>e</strong> </span>at AIIMS. He received <strong>Robotic Surgery t</strong>raining in Italy for this and performed India’s first<strong><span style="color: #000000;"> Robotic Thymectomy</span> Surgery</strong>. His expertise has allowed him to see more than 650-700 patients every year, encompassing a wide range of basic and complex thoracoscopy treatments</p>
-<h2 style="text-align: left;"><a href="#/dr-pramoj-jindal-robotic-thoracic-lung-cancer-surgeon/"><span style="color: #000000;"><strong>Dr. Pramoj Jindal </strong></span></a></h2>
-<p style="text-align: left;">One of the <strong>top doctors for lung cancer treatment in India</strong> who is trained to perform from bronchoscopy to lung transplant, the entire spectrum of thoracic surgery.Dr. Pramoj Jindalis currently working as Director, Department of Thoracic &amp; Robotic Thoracic Surgery at Max Super Speciality Hospital, one of the best lung cancer hospital.</p>
-<p style="text-align: left;">He has been to multiple international institutions of repute for the entire repertoire of thoracic Surgery. Dr. Pramoj Jindalis the best lung cancer surgeon and an early mover for Thoracic and robotic assisted lung surgery in this part of the world. Lung cancer, thymus surgery, surgery for hyperhidrosis and lung transplant are few of his expertise area.</p>
-<p style="text-align: left;">He is also into prevention and screening of lung diseases. Fighting for the cause of “Clean Air” and “Save Earth” is his life mission. He is closely associated with “Clean Air Clean Lung Foundation” to achieve his mission.</p>
-<h2 style="text-align: left;"><span style="color: #0048ad;">Top Hospitals in India Offering Robotic Lung Cancer Surgery</span></h2>
-<ol style="text-align: left;">
-<li><a href="#/medanta-the-medicity-eye-department/"><strong>Medanta The Medicity</strong></a></li>
-<li><a href="#/artemis-hospital-gurgaon-india/"><strong>Artemis Hospital</strong></a></li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><strong>Max Super Specialty Hospital</strong></a></li>
-</ol>
-<h2 style="text-align: left;"><span style="color: #0048ad;">Cost of Robotic Lung Cancer Surgery</span></h2>
+    <h2 style="text-align: left;"><span style="color: #0048ad;">Cost of Robotic Lung Cancer Surgery</span></h2>
 <p style="text-align: left;">To get <span style="color: #000000;"><strong>lung cancer surgery in India</strong>,</span> <a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a> and Max hospital can be your go to place, especially for low-cost robotics. Both hospitals have commissioned world’s best surgical robots to be able to carry out robotic lung cancer surgeries.</p>
 <p style="text-align: left;">The <strong>cost of robotic lung surgery in India</strong> depends on:</p>
 <ul>
@@ -497,16 +441,110 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professional themselves who are involved in each step of patient care. It is good to have an experienced <strong>‘treatment consultant in India</strong>’ if you are planning for any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Lung Cancer Treatment Doctors in India</strong>&nbsp;</span></p>
 
+			<h2 style="text-align: left;"><span style="color: #0048ad;"><strong>What is Lung Cancer?</strong></span></h2>
+<p style="text-align: left;">The growth of cancer tissues in the cells of air passage within the lungs is called lung cancer. The commonest cause is smoking. It is characterised by cough with blood, hoarseness of voice and shortness of breath. It is the most common cancer worldwide and a leading reason for death.</p>
+<p>This article will take you through the most widely prcaticed lung cancer treatment options in India: <strong>Robotic Lung Cancer Surgery.&nbsp;</strong></p>
+<h2 style="text-align: left;"><span style="color: #0048ad;">How to Make Diagnosis?</span></h2>
+<p style="text-align: left;">Patient’s history is examined with a full range of modern diagnostics such as HRCT, PET scan, biopsy etc to make a confirmed diagnosis.</p>
+<h2 style="text-align: left;"><span style="color: #0048ad;">Treatment Options Available for Lung Cancer in India</span></h2>
+<p style="text-align: left;">Staging of cancer is a crucial first step in developing a care plan. Treatment is selected depending on the genetic and immunological makeup of tumor. Knowing the exact type of lung cancer plays an important role in the outcome because this information sets as a base to create a tailor-made treatment plan that can include one or more of the following processes:</p>
+<ul style="text-align: left;">
+<li><strong>Robotic Lung Surgery in India</strong></li>
+<li>Molecularly targeted therapy</li>
+<li>Immunotherapy</li>
+<li>Chemotherapy</li>
+<li>Photodynamic therapy</li>
+<li>Radiation</li>
+</ul>
+<p style="text-align: left;"><strong><span style="color: #0048ad;">What do You Mean by Robotic Lung Cancer Surgery?</span></strong></p>
+<p style="text-align: left;"><span style="color: #0048ad;"><strong>Robotic lung cancer surgery in Delhi</strong> </span>means removing part of a lung using minimally invasive techniques, including <strong>V</strong>ideo-<strong>A</strong>ssisted <strong>T</strong>horacic <strong>S</strong>urgery (VATS) and <strong>R</strong>obotic <strong>A</strong>ssisted <strong>T</strong>horacic <strong>S</strong>urgery (RATS).</p>
+<p><strong>VATS: VATS for lung cancer treatment in India</strong> is a minimally invasive procedure that allows surgeons to remove tumors through small incisions, resulting in reduced pain and quicker recovery times compared to traditional open surgery. This advanced technique provides effective treatment for lung cancer with less impact on the patient’s overall health</p>
+<p style="text-align: left;"><span style="color: #0048ad;"><strong>Robotic lung cancer treatment</strong> </span>in India is one of the most advanced surgeries in the world. This is a minimally invasive surgery used to treat lung cancer by removing diseased tissue using the latest Da Vinci Xi Surgical Robot. Let’s learn more about affordable lung cancer treatment options&nbsp; in India.</p>
+<p style="text-align: left;"><strong><span style="color: #0048ad;">What is the Indication for Robotic Lung Cancer Surgery?</span></strong></p>
+<p style="text-align: left;">If detected at early stage the best way to eradicate lung cancer is robotic lung cancer surgery. And it is used worldwide as standard care of treatment.</p>
+<h2 style="text-align: left;"><strong><span style="color: #0048ad;">Key Advantages of Robotic Lung Cancer Surgery</span></strong></h2>
+<p style="text-align: left;"><span style="color: #0048ad;"><strong>Minimal Invasive with complete automation:</strong> </span><strong>Surgery for lung cancer</strong> if carried out through high end surgical robots provides magnified 3D view and wristed instruments of robots allow surgeons to make precise, controlled movements, without having to make larger incisions in the ribs. This allows surgeon to remove entire tumor mass present in the thoracic cavity (chest). Other advantages include:</p>
+<ul style="text-align: left;">
+<li><strong>Faster recovery</strong></li>
+<li><strong>Less change of infection post surgery</strong></li>
+<li><strong>Early discharge</strong></li>
+<li><strong>Surgical outcome is unmatched</strong></li>
+<li><strong>Less bleeding as compared to open surgery</strong></li>
+</ul>
+<p style="text-align: left;"><strong><span style="color: #0048ad;">Surgical Outcome of Lung Cancer Surgery</span></strong></p>
+<p style="text-align: left;">Robotic surgeries for lung cancer can eradiate lung cancer completely with its 3D camera which gives surgeon 360° magnifying view in order to remove each and every tumor cell. The patient can live a normal life after <strong>lung cancer treatment in India</strong>.&nbsp; These sophisticated robotic systems are new and gives maximum benefits to the patients.</p>
+<p style="text-align: left;"><strong><span style="color: #0048ad;">What is the Post op Recovery?</span></strong></p>
+<p style="text-align: left;">Robotic thoracic surgeries are minimal invasive, surgeon goes inside the chest cavity with a very tiny cut hence recovery is very fast. Patient can go home after 4-5 days after surgery without much discomfort.</p>
+<p style="text-align: left;">For the holistic management of cancer patient treatment, <span style="color: #000000;"><strong><a href="#/max-hospital-gurgaon/">Max Hospital</a> in India</strong>,</span> one of the best lung surgery hospitals, has created a Tumor Board. To get <span style="color: #0048ad;"><strong>lung cancer surgery in India</strong></span>, Max hospital can be your go to place, especially for low-cost lung cancer removal. The Tumor Board in Max hospital comprises of a group of above-mentioned specialists and best lung surgeons who collaborate on a recurring basis to discuss the best possible approaches and possibilities for cancer treatment.</p>
+<h2 style="text-align: left;"><strong><span style="color: #0048ad;">Roles Within Care Team in Lung Cancer Treatment</span></strong></h2>
+<p style="text-align: left;">Multidisciplinary care provides important benefits for treatment planning for people with complex lung cancer. In general, below are specialist roles that are required to involve in cancer treatment:</p>
+<ul style="text-align: left;">
+<li><em>Thoracic Surgeon</em></li>
+<li><em>Pulmonologist</em></li>
+<li><em>Radiologist</em></li>
+<li><em>Pulmonary pathologist</em></li>
+<li><em>Oncologist (Medical Radiation, Molecular, Palliative)</em></li>
+<li><em>Pathologist</em></li>
+<li><em>Oncopsychologist</em></li>
+<li><em>Oncorehabilitation</em></li>
+</ul>
+<h2 style="text-align: left;"><span style="color: #0048ad;">Best Robotic Lung Cancer Surgeon in India</span></h2>
+<h2 style="text-align: left;"><a href="#/dr-arvind-kumar-robotic-thoracic-lung-cancer-surgeon/"><span style="color: #000000;"><strong>Dr. Arvind Kumar</strong></span></a></h2>
+<p style="text-align: left;">Dr. Kumar was the first surgeon in India to perform <strong><span style="color: #000000;">Robotic Chest Surgery</span>, </strong>At present he is a chairman of the Institute of <span style="color: #000000;"><strong>Robotic Surgery</strong></span> and the Chairman of the Centre for Chest Surgery and Lung Transplantation at Medanta the Medicity.</p>
+<p style="text-align: left;">The path from being a faculty member in 1988 to Professor of Surgery in 2003 in 2008, he was the country’s first Thoracic Surgeon to begin a <span style="color: #008000;"><strong><span style="color: #000000;">Robotic programm</span>e</strong> </span>at AIIMS. He received <strong>Robotic Surgery t</strong>raining in Italy for this and performed India’s first<strong><span style="color: #000000;"> Robotic Thymectomy</span> Surgery</strong>. His expertise has allowed him to see more than 650-700 patients every year, encompassing a wide range of basic and complex thoracoscopy treatments</p>
+<h2 style="text-align: left;"><a href="#/dr-pramoj-jindal-robotic-thoracic-lung-cancer-surgeon/"><span style="color: #000000;"><strong>Dr. Pramoj Jindal </strong></span></a></h2>
+<p style="text-align: left;">One of the <strong>top doctors for lung cancer treatment in India</strong> who is trained to perform from bronchoscopy to lung transplant, the entire spectrum of thoracic surgery.Dr. Pramoj Jindalis currently working as Director, Department of Thoracic &amp; Robotic Thoracic Surgery at Max Super Speciality Hospital, one of the best lung cancer hospital.</p>
+<p style="text-align: left;">He has been to multiple international institutions of repute for the entire repertoire of thoracic Surgery. Dr. Pramoj Jindalis the best lung cancer surgeon and an early mover for Thoracic and robotic assisted lung surgery in this part of the world. Lung cancer, thymus surgery, surgery for hyperhidrosis and lung transplant are few of his expertise area.</p>
+<p style="text-align: left;">He is also into prevention and screening of lung diseases. Fighting for the cause of “Clean Air” and “Save Earth” is his life mission. He is closely associated with “Clean Air Clean Lung Foundation” to achieve his mission.</p>
+<h2 style="text-align: left;"><span style="color: #0048ad;">Top Hospitals in India Offering Robotic Lung Cancer Surgery</span></h2>
+<ol style="text-align: left;">
+<li><a href="#/medanta-the-medicity-eye-department/"><strong>Medanta The Medicity</strong></a></li>
+<li><a href="#/artemis-hospital-gurgaon-india/"><strong>Artemis Hospital</strong></a></li>
+<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><strong>Max Super Specialty Hospital</strong></a></li>
+</ol>
+
 		</div>`,
-  },
+  }, 
+  // robotic-cabg
   {
     name: "robotic-cabg",
     img: "/treatment/robotic-cabg.webp",
     data: `<div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
-		
-		
 	</div>
+<h2><span style="color: #0048ad;"><strong>Top Robotic CABG Doctors in India || Top Hospitals || Cost</strong></span></h2>
+<table widthh="614">
+<thead>
+<tr>
+<td width="222"><strong>Hospital</strong></td>
+<td width="326"><strong>Best Doctor</strong></td>
+<td width="66"><strong>Cost </strong></td>
+</tr>
+<tr>
+<td width="222"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><strong>Max Super Speciality Hospital, </strong></a>(JCI Accreditation)</td>
+<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,, (Experience 35 years).</td>
+<td width="66"><strong>9000$</strong></td>
+</tr>
+<tr>
+<td width="222"><a href="#/manipal-hospital/"><strong>Manipal Hospitals, </strong></a>(NABH Accreditation)</td>
+<td width="326">&nbsp;<a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a>, Head Of Cardiac Sciences And Chief Cardio Vascular Surgeon., (Experience 30 years).</td>
+<td width="66"><strong>8500$</strong></td>
+</tr>
+<tr>
+<td width="222"><a href="#/indraprastha-apollo-hospital-new-delhi/"><strong>Indraprastha Apollo Hospital, </strong></a>(JCI Accreditation)</td>
+<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Chief Cardiac Surgeon, (Experience 25 years)</td>
+<td width="66"><strong>8000$</strong></td>
+</tr>
+<tr>
+<td width="222"><a href="#/medanta-the-medicity-eye-department/"><strong>Medanta the Medicity , </strong></a><strong>(</strong>JCI Accreditation)</td>
+<td width="326"><a href="#/dr-sanjay-mittal/">Dr Sanjay Mittal, Director</a> – Clinical and Preventive Cardiology, (Experience 20 years)</td>
+<td width="66"><strong>8500$</strong></td>
+</tr>
+</thead>
+</table>
+<h3><span style="color: #0048ad;"><strong>How can you avail the best Robotic CABG Surgery in India – Step By Step process?</strong></span></h3>
+<p><strong>Medihelp Global </strong> is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>Robotic-CABG surgery in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Coronary Artery Bypass Graft (CABG) Doctors in India</strong>&nbsp;</span></p>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
@@ -672,48 +710,64 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <li>It may take longer to complete robotic CABG compared to traditional CABG.</li>
 <li>&nbsp;The success of R<strong>obotic CABG surgery in Delhi</strong> depends on the robotic system and associated technology. Mistakes or system failures could affect the surgery.</li>
 </ul>
-<h2><span style="color: #0048ad;"><strong>Top Robotic CABG Doctors in India||Top Hospitals|| Cost</strong></span></h2>
-<table widthh="614">
-<thead>
-<tr>
-<td width="222"><strong>Hospital</strong></td>
-<td width="326"><strong>Best Doctor</strong></td>
-<td width="66"><strong>Cost </strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><strong>Max Super Speciality Hospital, </strong></a>(JCI Accreditation)</td>
-<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,, (Experience 35 years).</td>
-<td width="66"><strong>9000$</strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/manipal-hospital/"><strong>Manipal Hospitals, </strong></a>(NABH Accreditation)</td>
-<td width="326">&nbsp;<a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a>, Head Of Cardiac Sciences And Chief Cardio Vascular Surgeon., (Experience 30 years).</td>
-<td width="66"><strong>8500$</strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/indraprastha-apollo-hospital-new-delhi/"><strong>Indraprastha Apollo Hospital, </strong></a>(JCI Accreditation)</td>
-<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Chief Cardiac Surgeon, (Experience 25 years)</td>
-<td width="66"><strong>8000$</strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/medanta-the-medicity-eye-department/"><strong>Medanta the Medicity , </strong></a><strong>(</strong>JCI Accreditation)</td>
-<td width="326"><a href="#/dr-sanjay-mittal/">Dr Sanjay Mittal, Director</a> – Clinical and Preventive Cardiology, (Experience 20 years)</td>
-<td width="66"><strong>8500$</strong></td>
-</tr>
-</thead>
-</table>
-<h3><span style="color: #0048ad;"><strong>How can you avail the best Robotic CABG Surgery in India – Step By Step process?</strong></span></h3>
-<p><strong>Medihelp Global </strong> is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>Robotic-CABG surgery in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Coronary Artery Bypass Graft (CABG) Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
 	</div>
 </div>`,
   },
+  // robotic-hip-replacement
   {
     name: "robotic-hip-replacement",
     img: "/treatment/robotic-hip-replacement.webp",
     data: `<div class="wpb_wrapper">
+    <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Top Hospitals Robotic Hip Replacement Surgery Cost Comparison</strong></span></h2>
+<ul style="text-align: left;">
+<li><span style="color: #000000;"><a style="color: #000000;" href="https://www.ckbhospital.com/"><strong>CK Birla Hospital</strong></a></span>
+<ul>
+<li>Unilateral Robotic Hip Replacement Surgery: USD 5400</li>
+<li>Bilateral Robotic Hip Replacement Surgery: USD 9500</li>
+</ul>
+</li>
+<li><span style="color: #000000;"><a style="color: #000000;" href="#/w-pratiksha-hospital/"><strong>W Partiksha Hospital</strong></a></span>
+<ul>
+<li>Unilateral Robotic Hip Replacement Surgery USD 6200</li>
+<li>Bilateral Robotic Hip Replacement Surgery USD 10400</li>
+</ul>
+</li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> PPG</strong></span>
+<ul>
+<li>Unilateral Robotic Hip Replacement Surgery USD 6500</li>
+<li>Bilateral Robotic Hip Replacement Surgery USD 10300</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: left;"><span style="color: #0048ad;"><strong>Included in the package are the following:</strong></span></p>
+<ul style="text-align: left;">
+<li>Rent for a room</li>
+<li>Fees charged by consultants and surgeons</li>
+<li>O.T. charges and Anaesthesia charges</li>
+<li>Medicines, tests, and routine medical care</li>
+<li>Pickup and drop off at the airport</li>
+<li>Attendant Stay with the patient during treatment</li>
+<li>Access to the International Patient Care Lounge</li>
+<li>Handhold care by an executive</li>
+<li>Patient and attendant 3 meals</li>
+</ul>
+<p style="text-align: left;"><span style="color: #0048ad;"><strong>Exclusions from the package</strong></span></p>
+<ul style="text-align: left;">
+<li>Stay beyond package days</li>
+<li>Added drugs and consumables to the list</li>
+<li>Consultation with specialists from other fields of medicine</li>
+<li>The complications involved</li>
+</ul>
+<p style="text-align: left;"><span style="color: #0048ad;"><strong>Stay in hospital: </strong></span>After your surgery, you will have to stay in the hospital for four days to recover from it.</p>
+<p style="text-align: left;"><span style="color: #0048ad;"><strong>Stay in India: </strong></span>You must stay in India for at least 15 days after your surgery to complete the process.</p>
+<p style="text-align: left;"><span style="color: #0048ad;"><strong>Percentage of success: </strong></span>There is no doubt that India is one of the world’s top countries when it comes to robotic hip replacement procedures, enjoying a success rate of 99.9%.</p>
+<h3 style="text-align: left;"><span style="color: #0048ad;"><strong>How can you avail the best Robotic Hip Replacement in India-Step through Step process?</strong></span></h3>
+<p style="text-align: left;">If you are looking for trustworthy treatment consultants in India, then Medihelp Global  is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <span style="color: #0048ad;">hip replacement <strong>surgery</strong> <strong>in India </strong></span>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professionals themselves who are involved in each step of patient care. It is good to have an experienced ‘<strong>treatment consultant</strong>’ if you are planning for any medical treatment in India.</p>
+<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Hip Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
+
 			<p style="text-align: left;"><strong>A hip replacement surgery</strong> is recommended when the hip joint becomes severely damaged due to a disease resulting in chronic pain, decreased quality of life and limited mobility.</p>
 <p style="text-align: left;"><strong>A</strong> <strong>robotic hip replacement surgery</strong> is a procedure in which the surgeon removes damaged tissue/femur bone head in a patient’s hip and replaces it with an artificial joint. It is done with the help of a robotic arm hence also called robotic-assisted hip replacement surgery. The robotic procedure allows the surgery to be performed with great precision and also gives miraculous clinical results.</p>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Complex Cases: When is hip replacement surgery needed?</strong></span></h2>
@@ -801,56 +855,10 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 <li><span style="color: #000000;"><strong>Quality of implant</strong>:</span> There are two types of implants available in India, imported and local Indian implants are cheap but long-lasting. Imported implants such as Stryker, Johnson &amp; Johnson and Zimmer are the best in the industry hence expensive but long-lasting. These implants may last for 25 -30 years if replaced through robots due to better alignment and less trauma after surgery. Type of implant used determines <span style="font-weight: 400;"><strong>hip replacement surgery cost in India</strong>“</span></li>
 <li><span style="color: #000000;"><strong>Other factors: </strong></span>The cost also depends on credentialing, privileges and experience of an orthopaedic surgeon. Hospital brand, type, size, its quality certificate whether it is following JCI protocols or NABH protocols plays a vital role in costing. Big brands such as Apollo, Max, Fortis and Medanta follow American clinical protocols, hence they are expensive. <strong>R</strong><span style="font-weight: 400;"><strong>obotic hip replacement surgery cost in Delhi</strong> is high </span>since they follow good quality standards concerning second or third tier cities.</li>
 </ul>
-<h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Top Hospitals Robotic Hip Replacement Surgery Cost Comparison</strong></span></h2>
-<ul style="text-align: left;">
-<li><span style="color: #000000;"><a style="color: #000000;" href="https://www.ckbhospital.com/"><strong>CK Birla Hospital</strong></a></span>
-<ul>
-<li>Unilateral Robotic Hip Replacement Surgery: USD 5400</li>
-<li>Bilateral Robotic Hip Replacement Surgery: USD 9500</li>
-</ul>
-</li>
-<li><span style="color: #000000;"><a style="color: #000000;" href="#/w-pratiksha-hospital/"><strong>W Partiksha Hospital</strong></a></span>
-<ul>
-<li>Unilateral Robotic Hip Replacement Surgery USD 6200</li>
-<li>Bilateral Robotic Hip Replacement Surgery USD 10400</li>
-</ul>
-</li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> PPG</strong></span>
-<ul>
-<li>Unilateral Robotic Hip Replacement Surgery USD 6500</li>
-<li>Bilateral Robotic Hip Replacement Surgery USD 10300</li>
-</ul>
-</li>
-</ul>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Included in the package are the following:</strong></span></p>
-<ul style="text-align: left;">
-<li>Rent for a room</li>
-<li>Fees charged by consultants and surgeons</li>
-<li>O.T. charges and Anaesthesia charges</li>
-<li>Medicines, tests, and routine medical care</li>
-<li>Pickup and drop off at the airport</li>
-<li>Attendant Stay with the patient during treatment</li>
-<li>Access to the International Patient Care Lounge</li>
-<li>Handhold care by an executive</li>
-<li>Patient and attendant 3 meals</li>
-</ul>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Exclusions from the package</strong></span></p>
-<ul style="text-align: left;">
-<li>Stay beyond package days</li>
-<li>Added drugs and consumables to the list</li>
-<li>Consultation with specialists from other fields of medicine</li>
-<li>The complications involved</li>
-</ul>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Stay in hospital: </strong></span>After your surgery, you will have to stay in the hospital for four days to recover from it.</p>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Stay in India: </strong></span>You must stay in India for at least 15 days after your surgery to complete the process.</p>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Percentage of success: </strong></span>There is no doubt that India is one of the world’s top countries when it comes to robotic hip replacement procedures, enjoying a success rate of 99.9%.</p>
-<h3 style="text-align: left;"><span style="color: #0048ad;"><strong>How can you avail the best Robotic Hip Replacement in India-Step through Step process?</strong></span></h3>
-<p style="text-align: left;">If you are looking for trustworthy treatment consultants in India, then Medihelp Global  is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <span style="color: #0048ad;">hip replacement <strong>surgery</strong> <strong>in India </strong></span>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
-<p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professionals themselves who are involved in each step of patient care. It is good to have an experienced ‘<strong>treatment consultant</strong>’ if you are planning for any medical treatment in India.</p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Hip Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 
 		</div>`,
   },
+  // robotic-knee-replacement
   {
     name: "robotic-knee-replacement",
     img: "/treatment/robotic-knee-replacement.webp",
@@ -865,112 +873,7 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;"><strong>Robotic Knee Replacement Surgery- Transforming Knee Replacement&nbsp; </strong><strong>Surgery for Better Lives</strong></span></h2>
-<p><span style="color: #0048ad;"><strong>Robotic knee replacement surgery</strong> </span>is often called Knee arthroplasty surgery. This can help reduce discomfort and restore function in severely damaged knee joints. This operation entails removing diseased bone and cartilage from the lower end of the thighbone, upper end of the shinbone, and kneecap and replacing it with an implant consisting of metal alloys, high-grade plastics, and polymers to make an artificial joint. This new joint is designed and aligned to mimic the function of normal human joints.</p>
-<p>It becomes mandatory for patients who are in pain due to an injury in their knee joint and when no other therapy seems to be working. This may commonly be caused by age-related osteoarthritis or rheumatoid arthritis.</p>
-<h2><span style="color: #0048ad;"><strong>When Pain Rules: Understanding the Need for Knee Replacement</strong></span></h2>
-<p><strong>&nbsp;A knee replacement surgery</strong> is typically considered when all other treatment options fail to provide relief for chronic knee pain. Here are some common situations when a person has to go for knee replacement surgery:</p>
-<ul>
-<li><span style="color: #0048ad;"><strong>Osteoarthritis:</strong> </span>It is one of the most common reasons for knee replacement. If traditional treatment options like pain medications, and physical therapy fail to provide relief, then knee replacement is the ultimate option.</li>
-<li><span style="color: #0048ad;"><strong>Rheumatoid arthritis: </strong></span>It is an autoimmune disorder that can cause inflammation in knee joints. If the inflammation cannot be controlled via pain medications, then knee replacement is the last option considered by the doctors.</li>
-<li><span style="color: #0048ad;"><strong>Knee Deformity:</strong> </span>Severe knee deformities like bowing in or out of the knee, can lead to uneven distribution of weight and excessive joint wear. In such cases, <strong>knee replacement surgery in India</strong> is suggested to restore normal knee function.</li>
-<li><span style="color: #0048ad;"><strong>Failed surgeries:</strong></span> In some cases, previous knee surgeries like arthroscopy or partial knee replacement may not have provided complete relief. A total knee replacement is considered a salvage option.</li>
-<li><span style="color: #0048ad;"><strong>Other cases: </strong></span>Knee replacement is also recommended for patients suffering from avascular necrosis, knee tumors, and severe knee joint infections.</li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Exploring Different surgical options available for Knee Replacement in India</strong></span></h2>
-<ul>
-<li><strong>&nbsp;</strong><span style="color: #0048ad;"><strong>Total knee replacement (TKR): </strong></span>This involves replacing the whole knee joint with artificial implants. To recreate the joint, the damaged cartilage and bone are removed and replaced with metal and plastic implants. TKR relieves joint pain, improves function, and restores mobility.</li>
-<li><span style="color: #0048ad;"><strong>Partial Knee Replacements (PKRs): </strong></span>Also known as unicompartmental <strong>knee replacement surgery in Apollo</strong> Hospital, India, PKRs are done when only one compartment of the knee joint is damaged. During this procedure, only the damaged section of the knee is replaced with a prosthesis, preserving the healthy parts<strong>.</strong></li>
-<li><span style="color: #0048ad;"><strong>Bilateral knee replacement: </strong></span>This involves replacing both knees at the same time. The procedure is good for patients with severe arthritis or damage to both knees, so they can recover and rehabilitate simultaneously.</li>
-<li><span style="color: #0048ad;"><strong>Robotic-assisted knee replacement: </strong></span>A robotic arm system helps the surgeon with the knee replacement. It can increase precision, and accuracy, and allow a more customized implant fit, which can lead to better results.</li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Choosing the right knee replacement option for your needs: A detailed look at the different options available to you</strong></span></h2>
-<p><strong>&nbsp;</strong>Robotic-assisted<strong> knee replacement surgery in Delhi</strong> involves the use of a robot to assist the surgeon during the knee replacement procedure. Different types of robotic knee surgeries performed in India are:</p>
-<ul>
-<li><span style="color: #0048ad;"><strong>Fully Automatic Knee Replacement: </strong></span>In this procedure, the entire surgery is performed by the robot with minimal or no input from the surgeon. It uses preoperative imaging data and advanced algorithms to plan and execute surgeries. Robotic systems use sensors and artificial intelligence to make adjustments in real-time to align implants and ensure they’re positioned correctly. In most cases, surgeons oversee the process and can intervene, but it’s mostly autonomous.</li>
-<li><span style="color: #0048ad;"><strong>Partially Automatic Knee Replacement: </strong></span>In a partially <strong>robotic knee replacement surgery in India</strong>, there is a collaboration between the robotic system and the surgeon. The system provides real-time feedback to the surgeon and also guides the surgeon during the procedure. The surgeon takes control of the surgery and makes important decisions while the robotic system helps to enhance accuracy and precision during the procedure.</li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Mako Robotic Knee Replacement-Empowering Patients with Precision and Accuracy</strong></span></h2>
-<p>Over the years, knee replacement techniques and instrumentation have gone through countless improvements. In this technique, surgery is performed by a surgeon using a <strong>Mako Robotic Arm</strong>. The Mako system pre-plan your surgery and then the surgeon guides the arm to remove diseased bone or cartilage from the knee. The surgeon will then insert the implant. <strong>Mako technology</strong> was developed to provide a personalized surgical experience to patients based on their specific diagnoses and anatomy.</p>
-<h2><span style="color: #0048ad;"><strong>Mako Robotic Knee Replacement Surgery in India – Know the complete procedure</strong></span></h2>
-<p><span style="color: #0048ad;"><strong>&nbsp;</strong><strong>Before the Surgery:</strong></span></p>
-<ul>
-<li>You will be advised to go through a comprehensive preoperative evaluation with the orthopedic surgeon to determine if you are a good candidate. A physical exam and diagnostic are part of this evaluation.</li>
-<li>The surgeon will then discuss the benefits, risks, and expected outcomes of robotic knee replacement surgery. You can also ask any questions you have. A detailed list of preoperative instructions will be given, including medication management, fasting guidelines, and medications to stop.</li>
-<li>X-rays and CT scans are used to create a 3D model of the knee joint using advanced imaging techniques. Imaging data is used in conjunction with specialized software to develop a surgical plan. The surgeon can see how bad the joint is, plan the implant positioning and alignment, and determine which prosthetic pieces are the right size and fit.</li>
-<li>You may be advised to undergo preoperative medical clearance in the days leading up to&nbsp; <strong>robotic knee replacement surgery in Apollo Hospital,</strong> which might include blood tests, ECGs, and other exams.</li>
-</ul>
-<p><span style="color: #0048ad;"><strong>During the Surgery: </strong></span></p>
-<ul>
-<li><strong>&nbsp;</strong>The surgery begins with a CT scan of the knee joint that is used to generate a virtual 3D model. This model is then loaded into the Mako System software and is used to create a personalized treatment plan.</li>
-<li>The robotic arm and the pre-operative plan are synced and the arthritic portions of the bone appear green on the 3D model.</li>
-<li>The surgeon then guides the robotic arm to remove the damaged bone. With the use of Haptic technology, the surgeon only removed the damaged area eliminating the risk of damaging the healthy bone and ligaments.</li>
-<li>The Mako robot provides the exact coordinates to the surgeon for the implants. It also confirms the gaps on the inside and outside of the knee remain the same throughout the arc of motion. This results in a knee that moves efficiently with a perfect balance.</li>
-</ul>
-<p><span style="color: #0048ad;"><strong>Recovery After the Surgery</strong></span></p>
-<ul>
-<li><strong>&nbsp;</strong>Robotic knee replacements usually heal quicker than traditional knee replacements.</li>
-<li>Most people return home the same day after surgery and can walk within a few hours</li>
-<li>It takes about 3-6 weeks for you to fully recover from <strong>robotic knee replacement surgery in Delhi</strong>.</li>
-<li>There may be a need for physical therapy to help strengthen the muscles around the knee.</li>
-</ul>
-<p><span style="color: #0048ad;"><strong>Precautions to follow after the surgery</strong></span></p>
-<ul>
-<li><strong>&nbsp;</strong>Strictly adhere to the post-operative instructions provided by the surgeon to ensure maximum recovery.</li>
-<li>Take pain medications on time to avoid severe pain and discomfort.</li>
-<li>Take complete rest and do gentle movements after the surgery. Avoid heavy exercises or any kind of movement that can strain the surgical area.</li>
-<li>Avoid smoking and drinking alcohol because excessive drinking and smoking can interfere with the recovery process.</li>
-<li>Make sure to attend all the follow-up appointments with your doctor to avoid any future complications.</li>
-</ul>
-<p><span style="color: #0048ad;"><strong>Traditional vs. Robotic Surgery for Knee Replacement- Which is Better?</strong></span></p>
-<p><strong>&nbsp;</strong>In the last few decades, knee replacement surgery has been the preferred treatment. This method relies heavily on X-rays for visual evaluation and manual direction.</p>
-<p><strong>Traditional total knee replacement surgery</strong> involves an incision around 10 to 12 inches long. While this was the procedure used for a while and it helped patients. It’s invasive, painful, and takes a while to recover. Additionally, because conventional knee replacement surgery relies on vision and human judgment and the technique relies on bone section and soft tissue balance, it’s more likely to misalign.</p>
-<p>In robotic TKA, dynamic referencing is used to assess knee stability, alignment, and range of motion while operating on the patient. This allows adjustments to be made to bone resection and prosthesis positioning during surgery. Due to the limited soft-tissue dissection and muscle injury, inflammation is reduced.</p>
-<p>Compared to conventional knee replacement, <strong>robotic knee replacement</strong> has less pain, less blood loss, shorter hospital stays, and better flexion and straight leg tests after surgery on discharge.</p>
-<h2><span style="color: #0048ad;"><strong>The Profound Benefits of Robotic Knee Replacement</strong></span></h2>
-<p><strong>Robotic Knee Replacement surgery has the following advantages:</strong></p>
-<ul>
-<li><span style="color: #0048ad;"><strong>Enhanced Precision: </strong></span>Robotic Assisted Knee Replacement offers enhanced precision and accuracy. The computer system uses advanced algorithms to create a 3D model of the knee which helps the surgeon to perform the procedure with greater precision.</li>
-<li><span style="color: #0048ad;"><strong>Personalized Treatment: </strong></span>The anatomy of every patient is unique and the robotic system helps to create a customized surgical plan for every individual. The pre-operative planning ensures a correct implant size and alignment. With such advantages, the outcomes are better.</li>
-<li><span style="color: #0048ad;"><strong>Small Incisions: </strong></span>As compared to conventional knee replacement,<strong> robotic knee replacement surgery in India</strong>&nbsp;allows small incisions. It allows accurate bone preparation which helps to preserve healthy bone and soft tissue.</li>
-<li><span style="color: #0048ad;"><strong>Fewer Complications: </strong></span>Since robotic surgery is extremely precise, it has fewer complications. Accurate implant positioning and alignment decrease the chances of implant loosening leading to improved longevity and better outcomes.</li>
-<li><span style="color: #0048ad;"><strong>Fast Recovery: </strong></span>Studies have shown that patients who have robotic knee replacements feel better faster than those who have traditional knee replacements. Smaller incisions, less tissue damage, and better alignment can lead to a quicker return to normal activity and quicker rehab.</li>
-<li><span style="color: #0048ad;"><strong>Improved patient satisfaction:</strong></span> Precision, personalized treatment, and faster recovery can lead to better patient satisfaction. In the long run, patients may be able to enjoy better knee function, less pain, and a quicker return to their favourite activity.</li>
-</ul>
-<h2><strong>Key Factors Affecting the Cost of Robotic Knee Replacement Surgery in India are:&nbsp;</strong></h2>
-<p>The <strong>knee replacement surgery cost in India</strong> depends on:</p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The choice of the hospital ( JCI or NABH)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Expertise of surgeon in robotics&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cost also depends on the type of robotic system you chose, fully automated robotic systems are more expensive than partial ones.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of knee replacement surgery selected ( robotic knee replacement is more costly than traditional knee replacement technique)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Total knee replacement is significantly costlier than partial knee replacement.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of implant selected ( titanium implant is expensive )&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make of implant – Indian is cheap whereas American are expensive&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A metal-on-metal implant is also more costly than a metal-on-plastic implant.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The <strong>robotic knee replacement surgery cost in Delhi</strong> will also depend on the type of room you choose to stay in. Private rooms are costly.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The location of the hospital also matters a lot. Cost is higher in Delhi as it is a tier 1 city.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The cost will also depend on pre-operative tests performed before the surgery.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The cost is also affected by the patient’s overall health, the severity of knee damage, and complications.&nbsp;</span></li>
-</ul>
-<h2><b>Other factors affecting <span style="font-weight: 400;"><strong>robotic knee replacement surgery cost in India</strong>“</span></b></h2>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post-operative care</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up care and visits</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rehabilitation after surgery&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Length of hospitalization</span></li>
-</ul>
-<p><b>Different Types&nbsp; Robotic Knee Replacement Surgery in India</b><b></b></p>
-<ul>
-<li aria-level="1">The Navio Surgical System</li>
-</ul>
-<ul>
-<li aria-level="1">Mako Robotic Assisted Knee Surgery</li>
-</ul>
-<h2><span style="color: #0048ad;">Top Hospitals For&nbsp; Knee Replacement Surgery In India and their Cost Comparison</span></h2>
+  <h2><span style="color: #0048ad;">Top Hospitals For&nbsp; Knee Replacement Surgery In India and their Cost Comparison</span></h2>
 <div class="table-container">
 <p><!-- Additional rows... --></p><table>
 <thead>
@@ -1123,8 +1026,115 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 </ul>
 <p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Knee Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
+<h2><span style="color: #0048ad;"><strong>Robotic Knee Replacement Surgery- Transforming Knee Replacement&nbsp; </strong><strong>Surgery for Better Lives</strong></span></h2>
+<p><span style="color: #0048ad;"><strong>Robotic knee replacement surgery</strong> </span>is often called Knee arthroplasty surgery. This can help reduce discomfort and restore function in severely damaged knee joints. This operation entails removing diseased bone and cartilage from the lower end of the thighbone, upper end of the shinbone, and kneecap and replacing it with an implant consisting of metal alloys, high-grade plastics, and polymers to make an artificial joint. This new joint is designed and aligned to mimic the function of normal human joints.</p>
+<p>It becomes mandatory for patients who are in pain due to an injury in their knee joint and when no other therapy seems to be working. This may commonly be caused by age-related osteoarthritis or rheumatoid arthritis.</p>
+<h2><span style="color: #0048ad;"><strong>When Pain Rules: Understanding the Need for Knee Replacement</strong></span></h2>
+<p><strong>&nbsp;A knee replacement surgery</strong> is typically considered when all other treatment options fail to provide relief for chronic knee pain. Here are some common situations when a person has to go for knee replacement surgery:</p>
+<ul>
+<li><span style="color: #0048ad;"><strong>Osteoarthritis:</strong> </span>It is one of the most common reasons for knee replacement. If traditional treatment options like pain medications, and physical therapy fail to provide relief, then knee replacement is the ultimate option.</li>
+<li><span style="color: #0048ad;"><strong>Rheumatoid arthritis: </strong></span>It is an autoimmune disorder that can cause inflammation in knee joints. If the inflammation cannot be controlled via pain medications, then knee replacement is the last option considered by the doctors.</li>
+<li><span style="color: #0048ad;"><strong>Knee Deformity:</strong> </span>Severe knee deformities like bowing in or out of the knee, can lead to uneven distribution of weight and excessive joint wear. In such cases, <strong>knee replacement surgery in India</strong> is suggested to restore normal knee function.</li>
+<li><span style="color: #0048ad;"><strong>Failed surgeries:</strong></span> In some cases, previous knee surgeries like arthroscopy or partial knee replacement may not have provided complete relief. A total knee replacement is considered a salvage option.</li>
+<li><span style="color: #0048ad;"><strong>Other cases: </strong></span>Knee replacement is also recommended for patients suffering from avascular necrosis, knee tumors, and severe knee joint infections.</li>
+</ul>
+<h2><span style="color: #0048ad;"><strong>Exploring Different surgical options available for Knee Replacement in India</strong></span></h2>
+<ul>
+<li><strong>&nbsp;</strong><span style="color: #0048ad;"><strong>Total knee replacement (TKR): </strong></span>This involves replacing the whole knee joint with artificial implants. To recreate the joint, the damaged cartilage and bone are removed and replaced with metal and plastic implants. TKR relieves joint pain, improves function, and restores mobility.</li>
+<li><span style="color: #0048ad;"><strong>Partial Knee Replacements (PKRs): </strong></span>Also known as unicompartmental <strong>knee replacement surgery in Apollo</strong> Hospital, India, PKRs are done when only one compartment of the knee joint is damaged. During this procedure, only the damaged section of the knee is replaced with a prosthesis, preserving the healthy parts<strong>.</strong></li>
+<li><span style="color: #0048ad;"><strong>Bilateral knee replacement: </strong></span>This involves replacing both knees at the same time. The procedure is good for patients with severe arthritis or damage to both knees, so they can recover and rehabilitate simultaneously.</li>
+<li><span style="color: #0048ad;"><strong>Robotic-assisted knee replacement: </strong></span>A robotic arm system helps the surgeon with the knee replacement. It can increase precision, and accuracy, and allow a more customized implant fit, which can lead to better results.</li>
+</ul>
+<h2><span style="color: #0048ad;"><strong>Choosing the right knee replacement option for your needs: A detailed look at the different options available to you</strong></span></h2>
+<p><strong>&nbsp;</strong>Robotic-assisted<strong> knee replacement surgery in Delhi</strong> involves the use of a robot to assist the surgeon during the knee replacement procedure. Different types of robotic knee surgeries performed in India are:</p>
+<ul>
+<li><span style="color: #0048ad;"><strong>Fully Automatic Knee Replacement: </strong></span>In this procedure, the entire surgery is performed by the robot with minimal or no input from the surgeon. It uses preoperative imaging data and advanced algorithms to plan and execute surgeries. Robotic systems use sensors and artificial intelligence to make adjustments in real-time to align implants and ensure they’re positioned correctly. In most cases, surgeons oversee the process and can intervene, but it’s mostly autonomous.</li>
+<li><span style="color: #0048ad;"><strong>Partially Automatic Knee Replacement: </strong></span>In a partially <strong>robotic knee replacement surgery in India</strong>, there is a collaboration between the robotic system and the surgeon. The system provides real-time feedback to the surgeon and also guides the surgeon during the procedure. The surgeon takes control of the surgery and makes important decisions while the robotic system helps to enhance accuracy and precision during the procedure.</li>
+</ul>
+<h2><span style="color: #0048ad;"><strong>Mako Robotic Knee Replacement-Empowering Patients with Precision and Accuracy</strong></span></h2>
+<p>Over the years, knee replacement techniques and instrumentation have gone through countless improvements. In this technique, surgery is performed by a surgeon using a <strong>Mako Robotic Arm</strong>. The Mako system pre-plan your surgery and then the surgeon guides the arm to remove diseased bone or cartilage from the knee. The surgeon will then insert the implant. <strong>Mako technology</strong> was developed to provide a personalized surgical experience to patients based on their specific diagnoses and anatomy.</p>
+<h2><span style="color: #0048ad;"><strong>Mako Robotic Knee Replacement Surgery in India – Know the complete procedure</strong></span></h2>
+<p><span style="color: #0048ad;"><strong>&nbsp;</strong><strong>Before the Surgery:</strong></span></p>
+<ul>
+<li>You will be advised to go through a comprehensive preoperative evaluation with the orthopedic surgeon to determine if you are a good candidate. A physical exam and diagnostic are part of this evaluation.</li>
+<li>The surgeon will then discuss the benefits, risks, and expected outcomes of robotic knee replacement surgery. You can also ask any questions you have. A detailed list of preoperative instructions will be given, including medication management, fasting guidelines, and medications to stop.</li>
+<li>X-rays and CT scans are used to create a 3D model of the knee joint using advanced imaging techniques. Imaging data is used in conjunction with specialized software to develop a surgical plan. The surgeon can see how bad the joint is, plan the implant positioning and alignment, and determine which prosthetic pieces are the right size and fit.</li>
+<li>You may be advised to undergo preoperative medical clearance in the days leading up to&nbsp; <strong>robotic knee replacement surgery in Apollo Hospital,</strong> which might include blood tests, ECGs, and other exams.</li>
+</ul>
+<p><span style="color: #0048ad;"><strong>During the Surgery: </strong></span></p>
+<ul>
+<li><strong>&nbsp;</strong>The surgery begins with a CT scan of the knee joint that is used to generate a virtual 3D model. This model is then loaded into the Mako System software and is used to create a personalized treatment plan.</li>
+<li>The robotic arm and the pre-operative plan are synced and the arthritic portions of the bone appear green on the 3D model.</li>
+<li>The surgeon then guides the robotic arm to remove the damaged bone. With the use of Haptic technology, the surgeon only removed the damaged area eliminating the risk of damaging the healthy bone and ligaments.</li>
+<li>The Mako robot provides the exact coordinates to the surgeon for the implants. It also confirms the gaps on the inside and outside of the knee remain the same throughout the arc of motion. This results in a knee that moves efficiently with a perfect balance.</li>
+</ul>
+<p><span style="color: #0048ad;"><strong>Recovery After the Surgery</strong></span></p>
+<ul>
+<li><strong>&nbsp;</strong>Robotic knee replacements usually heal quicker than traditional knee replacements.</li>
+<li>Most people return home the same day after surgery and can walk within a few hours</li>
+<li>It takes about 3-6 weeks for you to fully recover from <strong>robotic knee replacement surgery in Delhi</strong>.</li>
+<li>There may be a need for physical therapy to help strengthen the muscles around the knee.</li>
+</ul>
+<p><span style="color: #0048ad;"><strong>Precautions to follow after the surgery</strong></span></p>
+<ul>
+<li><strong>&nbsp;</strong>Strictly adhere to the post-operative instructions provided by the surgeon to ensure maximum recovery.</li>
+<li>Take pain medications on time to avoid severe pain and discomfort.</li>
+<li>Take complete rest and do gentle movements after the surgery. Avoid heavy exercises or any kind of movement that can strain the surgical area.</li>
+<li>Avoid smoking and drinking alcohol because excessive drinking and smoking can interfere with the recovery process.</li>
+<li>Make sure to attend all the follow-up appointments with your doctor to avoid any future complications.</li>
+</ul>
+<p><span style="color: #0048ad;"><strong>Traditional vs. Robotic Surgery for Knee Replacement- Which is Better?</strong></span></p>
+<p><strong>&nbsp;</strong>In the last few decades, knee replacement surgery has been the preferred treatment. This method relies heavily on X-rays for visual evaluation and manual direction.</p>
+<p><strong>Traditional total knee replacement surgery</strong> involves an incision around 10 to 12 inches long. While this was the procedure used for a while and it helped patients. It’s invasive, painful, and takes a while to recover. Additionally, because conventional knee replacement surgery relies on vision and human judgment and the technique relies on bone section and soft tissue balance, it’s more likely to misalign.</p>
+<p>In robotic TKA, dynamic referencing is used to assess knee stability, alignment, and range of motion while operating on the patient. This allows adjustments to be made to bone resection and prosthesis positioning during surgery. Due to the limited soft-tissue dissection and muscle injury, inflammation is reduced.</p>
+<p>Compared to conventional knee replacement, <strong>robotic knee replacement</strong> has less pain, less blood loss, shorter hospital stays, and better flexion and straight leg tests after surgery on discharge.</p>
+<h2><span style="color: #0048ad;"><strong>The Profound Benefits of Robotic Knee Replacement</strong></span></h2>
+<p><strong>Robotic Knee Replacement surgery has the following advantages:</strong></p>
+<ul>
+<li><span style="color: #0048ad;"><strong>Enhanced Precision: </strong></span>Robotic Assisted Knee Replacement offers enhanced precision and accuracy. The computer system uses advanced algorithms to create a 3D model of the knee which helps the surgeon to perform the procedure with greater precision.</li>
+<li><span style="color: #0048ad;"><strong>Personalized Treatment: </strong></span>The anatomy of every patient is unique and the robotic system helps to create a customized surgical plan for every individual. The pre-operative planning ensures a correct implant size and alignment. With such advantages, the outcomes are better.</li>
+<li><span style="color: #0048ad;"><strong>Small Incisions: </strong></span>As compared to conventional knee replacement,<strong> robotic knee replacement surgery in India</strong>&nbsp;allows small incisions. It allows accurate bone preparation which helps to preserve healthy bone and soft tissue.</li>
+<li><span style="color: #0048ad;"><strong>Fewer Complications: </strong></span>Since robotic surgery is extremely precise, it has fewer complications. Accurate implant positioning and alignment decrease the chances of implant loosening leading to improved longevity and better outcomes.</li>
+<li><span style="color: #0048ad;"><strong>Fast Recovery: </strong></span>Studies have shown that patients who have robotic knee replacements feel better faster than those who have traditional knee replacements. Smaller incisions, less tissue damage, and better alignment can lead to a quicker return to normal activity and quicker rehab.</li>
+<li><span style="color: #0048ad;"><strong>Improved patient satisfaction:</strong></span> Precision, personalized treatment, and faster recovery can lead to better patient satisfaction. In the long run, patients may be able to enjoy better knee function, less pain, and a quicker return to their favourite activity.</li>
+</ul>
+<h2><strong>Key Factors Affecting the Cost of Robotic Knee Replacement Surgery in India are:&nbsp;</strong></h2>
+<p>The <strong>knee replacement surgery cost in India</strong> depends on:</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The choice of the hospital ( JCI or NABH)&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand of the hospital</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Expertise of surgeon in robotics&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cost also depends on the type of robotic system you chose, fully automated robotic systems are more expensive than partial ones.&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of knee replacement surgery selected ( robotic knee replacement is more costly than traditional knee replacement technique)&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Total knee replacement is significantly costlier than partial knee replacement.&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of implant selected ( titanium implant is expensive )&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make of implant – Indian is cheap whereas American are expensive&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A metal-on-metal implant is also more costly than a metal-on-plastic implant.&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The <strong>robotic knee replacement surgery cost in Delhi</strong> will also depend on the type of room you choose to stay in. Private rooms are costly.&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The location of the hospital also matters a lot. Cost is higher in Delhi as it is a tier 1 city.&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The cost will also depend on pre-operative tests performed before the surgery.&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The cost is also affected by the patient’s overall health, the severity of knee damage, and complications.&nbsp;</span></li>
+</ul>
+<h2><b>Other factors affecting <span style="font-weight: 400;"><strong>robotic knee replacement surgery cost in India</strong>“</span></b></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post-operative care</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up care and visits</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rehabilitation after surgery&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Length of hospitalization</span></li>
+</ul>
+<p><b>Different Types&nbsp; Robotic Knee Replacement Surgery in India</b><b></b></p>
+<ul>
+<li aria-level="1">The Navio Surgical System</li>
+</ul>
+<ul>
+<li aria-level="1">Mako Robotic Assisted Knee Surgery</li>
+</ul>
+
 </div>`,
   },
+  // robotic-femtosecond-laser-cataract-surgery
   {
     name: "robotic-femtosecond-laser-cataract-surgery",
     img: "/treatment/robotic-femtosecond-laser-cataract-surgery.webp",
@@ -1136,16 +1146,16 @@ If your entire thyroid gland has been removed, you’ll need thyroid hormone rep
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Blade free cataract surgery all you need to know</strong></span></h2>
+			<h2><span style="color: #0048ad;">Cost of Robotic&nbsp; Cataract Surgery in India</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">One of the primary advantages of undergoing femtosecond laser cataract surgery in India is the lower cost of treatment.<br />India is known for providing world-class medical care at a fraction of the cost of other countries.<br />The cost of femtosecond laser cataract surgery in India is much lower than in Western countries, making it a more affordable option for patients from around the world.<br />The cost mainly depends on the technology used and type and make of Intra Ocular lenses (IOL). Indian made IOL is cheaper than American brands.<br />In addition to this robotic and MICS are always expensive as they are painless, suture less surgeries.</p></span></h2><h2><span style="color: #0048ad;">Cost of Robotic Cataract Surgery in Top-notch Hospitals</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;"><a href="#/centre-for-sight/"><strong><span style="color: #0048ad;">Centre for sight</span></strong></a></p><ul style="color: black; font-size: medium; font-weight: 400;"><li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2000</li><li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 3800</li></ul><p style="color: black; font-size: medium; font-weight: 400;"><a href="#/eye-7-eye-hospital-lajpat-nagar/"><span style="color: #0048ad;"><strong>Eye 7 Hospital</strong></span></a></p><ul style="color: black; font-size: medium; font-weight: 400;"><li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2200</li><li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 4200</li></ul><p style="color: black; font-size: medium; font-weight: 400;"><a href="#/narang-eye-institute/"><strong>Narang Eye Institute</strong></a></p><ul style="color: black; font-size: medium; font-weight: 400;"><li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2100</li><li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 4200</li></ul></span></h2><h2><span style="color: #0048ad;">Package Inclusions</span></h2><h2><span style="color: #0048ad;"><ul style="color: black; font-size: medium; font-weight: 400;"><li>Cost of lenses</li><li>Day care room rent</li><li>Consultant fees and Surgeon’s fees</li><li>O.T. charges and Anaesthesia charges</li><li>Routine Medicines and investigations</li><li>Airport Pick Up</li><li>International Patient Care Lounge Access</li><li>Handhold care by an executive</li><li>Airport Drop</li><li>Taxi</li></ul></span></h2><h2><span style="color: #0048ad;">Package Exclusions</span></h2><h2><span style="color: #0048ad;"><ul style="color: black; font-size: medium; font-weight: 400;"><li>Additional drugs and Consumables</li><li>Consultation of other specialities</li><li>Complications</li></ul></span></h2><h2><span style="color: #0048ad;">Stay in hospital</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">It is a day care procedure and patients get discharged on same day of the surgery. Tropic anesthesia needed to carry out this surgery</p></span></h2><h2><span style="color: #0048ad;">Stay in India</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">Due to the nature of the surgery, you will need to stay in India for a minimum of 05 days.</p></span></h2><h2><span style="color: #0048ad;">Success rate</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">99% success rate for cataract surgery is achieved through robot.</p><p style="color: black; font-size: medium; font-weight: 400;">In conclusion, femtosecond laser cataract surgery is the latest and most advanced technology available for the treatment of cataracts, and India is an excellent place to undergo this procedure.<br />The advantages of getting femtosecond laser cataract surgery in India include lower treatment costs, low waiting times, highly qualified doctors, and access to the latest medical technology.<br />Additionally, many hospitals and clinics in India offer comprehensive medical tourism packages that make the entire experience more comfortable and enjoyable for patients.<br />Therefore, if you are considering femtosecond laser cataract surgery, you should definitely consider India as a viable option.</p><p style="color: black; font-size: medium; font-weight: 400;">Are you looking for&nbsp;<strong>“robotic cataract surgery”</strong>&nbsp;to be performed in India? Contact Medihelp Global your trusted partner to help you find the best doctor and treatment in JCI accredited hospital at pocket –friendly price.<br />We score over others because the ‘treatment consultants’ in our company are medical professional themselves who are involved in each step of patient care. It is good to have an experienced ‘treatment consultant’ if you are planning for any medical treatment in India.</p><p style="color: black; font-size: medium; font-weight: 400;"><span><strong>We will help you to find the best Robotic Cataract Surgery Doctors in India</strong>&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;"><strong>Blade free cataract surgery all you need to know</strong></span></h2>
 <p>Femtosecond laser cataract surgery is the latest and most advanced robotic technology for the treatment of cataracts, and it has significant advantages over traditional cataract surgery t.</p>
 <p><span style="color: #0048ad;"><strong>Why Robotic Femtosecond laser?</strong></span></p>
-<p>When it comes to the technology used in femtosecond laser cataract surgery, India is at the forefront. Many of the hospitals and eye clinics in India are equipped with the latest femtosecond laser technology, which allows for more precise, fast and less invasive surgery. Actual working time of the laser is less than a minute.<br>
+<p>When it comes to the technology used in femtosecond laser cataract surgery, India is at the forefront. Many of the hospitals and eye clinics in India are equipped with the latest femtosecond laser technology, which allows for more precise, fast and less invasive surgery. Actual working time of the laser is less than a minute.<br />
 The femtosecond robot can perform some of the most critical steps of the surgery, such as creating corneal incisions and fragmenting the cataract, with greater accuracy and safety than traditional manual techniques. This leads to better visual outcomes, quicker recovery times, and a reduced risk of complications since it is 100% blade and suture free surgery.</p>
 <h2><span style="color: #0048ad;"><strong>Why Robotic Cataract Surgery in India?</strong></span></h2>
-<p>In India, femtosecond laser cataract surgery is becoming increasingly popular due to its numerous benefits, including lower waiting times, highly qualified doctors, and more affordable treatment costs.<br>
-Another significant advantage of choosing India for femtosecond laser cataract surgery is the low waiting times. Due to the high demand for medical services in other countries, the waiting times for cataract surgery can be quite long, sometimes months or even years. In India, however, patients can usually get the surgery they need without having to wait for an extended period. This is because India has a vast network of hospitals and clinics that are equipped with the latest technology and staffed by highly qualified doctors.<br>
+<p>In India, femtosecond laser cataract surgery is becoming increasingly popular due to its numerous benefits, including lower waiting times, highly qualified doctors, and more affordable treatment costs.<br />
+Another significant advantage of choosing India for femtosecond laser cataract surgery is the low waiting times. Due to the high demand for medical services in other countries, the waiting times for cataract surgery can be quite long, sometimes months or even years. In India, however, patients can usually get the surgery they need without having to wait for an extended period. This is because India has a vast network of hospitals and clinics that are equipped with the latest technology and staffed by highly qualified doctors.<br />
 Speaking of highly qualified doctors, India is renowned for producing some of the best medical professionals in the world. Indian doctors are highly educated, with many having trained in some of the most prestigious medical schools in the world. They are also well-versed in the latest medical technologies and techniques, including femtosecond laser cataract surgery. This means that patients who undergo this surgery in India can be assured that they are receiving the highest standard of care from some of the best doctors in the world.</p>
-<p><span style="color: #0048ad;"><strong>Why Choose Us for Robotic Cataract Surgery?</strong></span><br>
+<p><span style="color: #0048ad;"><strong>Why Choose Us for Robotic Cataract Surgery?</strong></span><br />
 In addition to the advantages mentioned above, there are also other benefits to undergoing femtosecond laser cataract surgery in India. For example, many hospitals and clinics in India offer comprehensive surgical packages that include everything from transportation and accommodation to sightseeing and post-operative care. This can make the entire experience of getting cataract surgery in India much more comfortable and enjoyable for patients.</p>
 <h2><span style="color: #0048ad;">Top hospitals</span></h2>
 <ol>
@@ -1165,87 +1175,34 @@ In addition to the advantages mentioned above, there are also other benefits to 
 <p><b>Previous Eye Surgery: </b><span style="font-weight: 400;">Patinets who have undergone multiple eye surgeries or have had complications from previous surgeries, may not be the suitable candidate for the cataract surgery.&nbsp;</span></p>
 <p><b>Abnormalities in Cornea: </b><span style="font-weight: 400;">People who have corneal abnormalieties like :&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Irregular astigmatism</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Corneal scarring&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Thin corneas</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Irregular astigmatism</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Corneal scarring&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Thin corneas</span></li>
 </ul>
 <p><span style="font-weight: 400;">These people are not suitable candidate of the robotic cataract surgery.&nbsp;</span></p>
 <p><b>General Health Conditions: </b><span style="font-weight: 400;">Patients with significant health issues like&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Uncontrolled diabetes</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hypertension</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Auto immune disorders</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Uncontrolled diabetes</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Hypertension</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Auto immune disorders</span></li>
 </ul>
 <p><span style="font-weight: 400;">They are not the suitable candidates of the robotic cataract surgery as these conditions slow down the healing and increase risk of complications.&nbsp;</span></p>
 <p><b>Mature Cataract: </b><span style="font-weight: 400;">Mature cataract is an advanced stage of cataract development where the lens of the ye becomes clouded and leads to vision impairment. Performing robotic cataract surgery becomes difficult in such situations due to hard nature of lens. It becomes difficult for robotic system to remove cataract material in such cases.&nbsp;</span></p>
 <p><b>Small Non Dilating Pupil: </b><span style="font-weight: 400;">it is a condition when pupil size is insufficiently large or fails to dilate during the surgical procedure. A small pupil will limit the access to the lens and thus make it challenging for the robot.&nbsp;</span></p>
 <p><b>Cost Factors: </b><span style="font-weight: 400;">Robotic Cataract surgery is more costly than traditional cataract surgery. If you considering it, you should take your financial condition in account and also check insurance coverage before opting this procedure.&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><strong>Cost of Robotic&nbsp; Cataract Surgery in India</strong></span></h2>
-<p>One of the primary advantages of undergoing femtosecond laser cataract surgery in India is the lower cost of treatment.<br>
-India is known for providing world-class medical care at a fraction of the cost of other countries.<br>
-The cost of femtosecond laser cataract surgery in India is much lower than in Western countries, making it a more affordable option for patients from around the world.<br>
-The cost mainly depends on the technology used and type and make of Intra Ocular lenses (IOL). Indian made IOL is cheaper than American brands.<br>
-In addition to this robotic and MICS are always expensive as they are painless, suture less surgeries.</p>
-<h2><span style="color: #0048ad;"><strong>Cost of Robotic Cataract Surgery in Top-notch Hospitals</strong></span></h2>
-<p><a href="#/centre-for-sight/"><strong><span style="color: #0048ad;">Centre for sight</span> </strong></a></p>
-<ul>
-<li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2000</li>
-<li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 3800</li>
-</ul>
-<p><a href="#/eye-7-eye-hospital-lajpat-nagar/"><span style="color: #0048ad;"><strong>Eye 7 Hospital </strong></span></a></p>
-<ul>
-<li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2200</li>
-<li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 4200</li>
-</ul>
-<p><a href="#/narang-eye-institute/"><strong>Narang Eye Institute </strong></a></p>
-<ul>
-<li>Unilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 2100</li>
-<li>Bilateral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USD 4200</li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Package Inclusions</strong></span></h2>
-<ul>
-<li>Cost of lenses</li>
-<li>Day care room rent</li>
-<li>Consultant fees and Surgeon’s fees</li>
-<li>O.T. charges and Anaesthesia charges</li>
-<li>Routine Medicines and investigations</li>
-<li>Airport Pick Up</li>
-<li>International Patient Care Lounge Access</li>
-<li>Handhold care by an executive</li>
-<li>Airport Drop</li>
-<li>Taxi</li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Package Exclusions</strong></span></h2>
-<ul>
-<li>Additional drugs and Consumables</li>
-<li>Consultation of other specialities</li>
-<li>Complications</li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Stay in hospital</strong></span></h2>
-<p>It is a day care procedure and patients get discharged on same day of the surgery. Tropic anesthesia needed to carry out this surgery</p>
-<h2><span style="color: #0048ad;"><strong>Stay in India</strong></span></h2>
-<p>Due to the nature of the surgery, you will need to stay in India for a minimum of 05 days.</p>
-<h2><span style="color: #0048ad;"><strong>Success rate</strong></span></h2>
-<p>99% success rate for cataract surgery is achieved through robot.</p>
-<p>In conclusion, femtosecond laser cataract surgery is the latest and most advanced technology available for the treatment of cataracts, and India is an excellent place to undergo this procedure.<br>
-The advantages of getting femtosecond laser cataract surgery in India include lower treatment costs, low waiting times, highly qualified doctors, and access to the latest medical technology.<br>
-Additionally, many hospitals and clinics in India offer comprehensive medical tourism packages that make the entire experience more comfortable and enjoyable for patients.<br>
-Therefore, if you are considering femtosecond laser cataract surgery, you should definitely consider India as a viable option.</p>
-<p>Are you looking for <strong>“robotic cataract surgery”</strong> to be performed in India? Contact Medihelp Global  your trusted partner to help you find the best doctor and treatment in JCI accredited hospital at pocket –friendly price.<br>
-We score over others because the ‘treatment consultants’ in our company are medical professional themselves who are involved in each step of patient care. It is good to have an experienced ‘treatment consultant’ if you are planning for any medical treatment in India.</p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Cataract Surgery Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
 	</div>
 </div></div></div></div>
 </div>`,
   },
+  // brain-tumor-surgery
   {
     name: "brain-tumor-surgery",
     img: "/treatment/brain-tumor-surgery.webp",
     data: `<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Cutting-edge Brain Tumor Surgery in India: Advanced Treatment for Best Outcomes</strong></span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals Cost of Brain Tumor Surgery in India</span></h2><h2><span style="color: #0048ad;"><div class="table-container" style="color: black; font-size: medium; font-weight: 400;"><p><!--Additional rows...--></p><table><thead><tr><th>Hospital</th><th>Accreditation</th><th>Best Doctor</th><th>Experience</th><th>Post</th><th>Cost</th></tr></thead><tbody><tr><td>Max Super Speciality Hospital, New Delhi</td><td>JCI</td><td>Prof. (Col.) Dr. Bipin Walia.</td><td>26+ Years</td><td>Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, and Spine Surgery.</td><td>7500$</td></tr><tr><td>Indraprastha Apollo Hospital</td><td>JCI</td><td>Dr. Sudheer Kumar Tyagi</td><td>24+ Years</td><td>MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon, Indraprastha Apollo Hospitals</td><td>10000$</td></tr><tr><td>Fortis Memorial Research Institute, Gurugram</td><td>JCI</td><td>Dr. Rana Patir,</td><td>26+ Years</td><td>MS (General Surgery), MCh (Neurosurgery), CONSULTANT NEUROSURGERY, Fortis Memorial Research Institute, Gurugram</td><td>7800$</td></tr><tr><td>Medanta the Medicity</td><td>JCI</td><td>Dr. VP Singh – Chairman Neurosurgery at Medanta the Medicity</td><td>33 + Years</td><td>Chairman Neurosurgery at Medanta the Medicity</td><td>USD 10000</td></tr><tr><td>Artemis Hospital</td><td>JCI</td><td>Dr. Aditya Gupta</td><td>27+ Years</td><td>Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery) and Co-Chief (Cyberknife Centre) Artemis Hospital in Gurugram.</td><td>USD 7000</td></tr></tbody></table></div></span></h2><h2><span style="color: #0048ad;"><strong>&nbsp;</strong><strong>Package Inclusions and Exclusions</strong></span></h2><h2><span style="color: #0048ad;"><table widthh="672"><thead><tr><td width="339"><span style="color: #0048ad;"><strong>Inclusions</strong></span></td><td width="333"><span style="color: #0048ad;"><strong>Exclusions</strong></span></td></tr><tr><td width="339">Routier Pre-op investigations</td><td width="333">Stay beyond package days</td></tr><tr><td width="339">Single/Private Room</td><td width="333">Added drugs and consumables to the list</td></tr><tr><td width="339">Implant cost</td><td width="333">Consultation with specialists from other fields of medicine</td></tr><tr><td width="339">Rehabilitation during hospitalization</td><td width="333">The complications involved</td></tr><tr><td width="339">Consultant’s and surgeon’s fees</td><td width="333"><strong>&nbsp;</strong></td></tr><tr><td width="339">O.T. charges and Anaesthesia charges</td><td width="333"><strong>&nbsp;</strong></td></tr><tr><td width="339">Medicines and consumables</td><td width="333"><strong>&nbsp;</strong></td></tr><tr><td width="339">Pickup and drop off at the airport</td><td width="333"><strong>&nbsp;</strong></td></tr><tr><td width="339">Attendant Stay and meals.</td><td width="333"><strong>&nbsp;</strong></td></tr><tr><td width="339">Access to the International Patient Care Lounge</td><td width="333"><strong>&nbsp;</strong></td></tr><tr><td width="339">Handhold care by an executive</td><td width="333"><strong>&nbsp;</strong></td></tr><tr><td width="339">Taxi to visit the hospital</td><td width="333"><strong>&nbsp;</strong></td></tr><tr><td width="339">Normal Hotel with kitchen 10 days</td><td width="333"><strong>&nbsp;</strong></td></tr></thead></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in hospital:&nbsp;</strong>4 Days</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in India:&nbsp;</strong>15 Days</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Percentage of success:&nbsp;</strong>99.9%</p></span></h2><h2><span style="color: #0048ad;">How can you avail the Best brain tumor surgery in India, Step-by-step process?</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">Medihelp Global is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your&nbsp;<strong><span style="color: #333333;">brain tumor surgery in&nbsp;India</span>,&nbsp;</strong>fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p><p style="color: black; font-size: medium; font-weight: 400;">We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p><p style="color: black; font-size: medium; font-weight: 400;"><span><strong>We will help you to find the best Brain Tumors Surgery Doctors in India</strong>&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;"><strong>Cutting-edge Brain Tumor Surgery in India: Advanced Treatment for Best Outcomes</strong></span></h2>
 <p>A brain tumor is an abnormal growth of cells in the brain. It can develop anywhere in the brain, such as the protective lining, skull base, brainstem, nasal cavity, and more. There are estimated to be 120 different types of brain tumors. Throughout this article, we’ll explore brain tumor types, symptoms, causes, and <strong>brain tumor surgery in India</strong>.</p>
 <h2><span style="color: #0048ad;"><strong>A look at the different types of brain tumors</strong></span></h2>
 <p><strong>There are two types of brain tumors:</strong></p>
@@ -1350,141 +1307,18 @@ We score over others because the ‘treatment consultants’ in our company are 
 <li>Each craniotomy procedure is tailored to a patient’s specific condition. Surgeons can optimize patient outcomes based on the location, size, and nature of the pathology.</li>
 <li><strong>Craniotomy surgery in Delhi</strong> continues to improve through advances in surgical techniques, imaging technologies, and intraoperative monitoring tools. With these advances, surgery is more precise, minimally invasive, and safe.</li>
 </ul>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals Cost of Brain Tumor Surgery in India</strong></span></h2>
-<div class="table-container">
-<p><!-- Additional rows... --></p><table>
-<thead>
-<tr>
-<th>Hospital</th>
-<th>Accreditation</th>
-<th>Best Doctor</th>
-<th>Experience</th>
-<th>Post</th>
-<th>Cost</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a></td>
-<td>JCI</td>
-<td><a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Prof. (Col.) Dr. Bipin Walia</a>.</td>
-<td>26+ Years</td>
-<td>Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, and Spine Surgery.</td>
-<td>7500$</td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td>JCI</td>
-<td><a href="#/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer Kumar Tyagi</a></td>
-<td>24+ Years</td>
-<td>MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon, Indraprastha Apollo Hospitals</td>
-<td>10000$</td>
-</tr>
-<tr>
-<td><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a></td>
-<td>JCI</td>
-<td><a href="#/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr. Rana Patir</a>,</td>
-<td>26+ Years</td>
-<td>MS (General Surgery), MCh (Neurosurgery), CONSULTANT NEUROSURGERY, Fortis Memorial Research Institute, Gurugram</td>
-<td>7800$</td>
-</tr>
-<tr>
-<td><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td>JCI</td>
-<td><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr. VP Singh – Chairman Neurosurgery at Medanta the Medicity</a></td>
-<td>33 + Years</td>
-<td>Chairman Neurosurgery at Medanta the Medicity</td>
-<td>USD 10000</td>
-</tr>
-<tr>
-<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td>JCI</td>
-<td><a href="#/dr-aditya-gupta-neurosurgery/">Dr. Aditya Gupta</a></td>
-<td>27+ Years</td>
-<td>Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery) and Co-Chief (Cyberknife Centre) Artemis Hospital in Gurugram.</td>
-<td>USD 7000</td>
-</tr>
-</tbody>
-</table>
-</div>
-<h2><span style="color: #0048ad;"><strong>&nbsp;</strong><strong>Package Inclusions and Exclusions</strong></span></h2>
-<table widthh="672">
-<thead>
-<tr>
-<td width="339"><span style="color: #0048ad;"><strong>Inclusions</strong></span></td>
-<td width="333"><span style="color: #0048ad;"><strong>Exclusions</strong></span></td>
-</tr>
-<tr>
-<td width="339">Routier Pre-op investigations</td>
-<td width="333">Stay beyond package days</td>
-</tr>
-<tr>
-<td width="339">Single/Private Room</td>
-<td width="333">Added drugs and consumables to the list</td>
-</tr>
-<tr>
-<td width="339">Implant cost</td>
-<td width="333">Consultation with specialists from other fields of medicine</td>
-</tr>
-<tr>
-<td width="339">Rehabilitation during hospitalization</td>
-<td width="333">The complications involved</td>
-</tr>
-<tr>
-<td width="339">Consultant’s and surgeon’s fees</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="339">O.T. charges and Anaesthesia charges</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="339">Medicines and consumables</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="339">Pickup and drop off at the airport</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="339">Attendant Stay and meals.</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="339">Access to the International Patient Care Lounge</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="339">Handhold care by an executive</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="339">Taxi to visit the hospital</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="339">Normal Hotel with kitchen 10 days</td>
-<td width="333"><strong>&nbsp;</strong></td>
-</tr>
-</thead>
-</table>
-<p><strong>Stay in hospital: </strong>4 Days</p>
-<p><strong>Stay in India: </strong>15 Days</p>
-<p><strong>Percentage of success: </strong>99.9%</p>
-<h2><span style="color: #0048ad;"><strong>How can you avail the Best brain tumor surgery in India, Step-by-step process?</strong></span></h2>
-<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong><span style="color: #333333;">brain tumor surgery in&nbsp;India</span>, </strong>fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>
-<p>We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Brain Tumors Surgery Doctors in India</strong>&nbsp;</span></p>
+<h2><br /></h2>
 
 		</div>
 	</div>`,
   },
+  // pituitary-tumor-treatment
   {
     name: "pituitary-tumor-treatment",
     img: "/treatment/pituitary-tumor-treatment.webp",
     data: `<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span lang="EN" style="color: #0048ad;">The Trans-Nasal Trans-sphenoidal (TNTS) Surgery in India: Treating Pituitary Gland Tumors</span></h2>
+			<h2><span style="color: #0048ad;">Best Doctors For Pituitary Tumor Surgery in India</span></h2><h2><span lang="EN" style="color: #0048ad;"><table widthh="767"><tbody><tr><td width="185"><span style="color: black;"><strong>Hospital</strong></span></td><td width="388"><span style="color: black;"><strong>Best Doctor</strong></span></td><td width="92"><span style="color: black;"><strong>Cos<a href="https://www.medanta.org/" style="color: black;">t</a></strong></span></td></tr><tr><td width="185">Medanta Medicity,&nbsp;(JCI Accreditation)</td><td width="388">Dr VP Singh&nbsp;(Chairman Neurosurgery)</td><td width="92">8000$</td></tr><tr><td width="185">Max Hospital, Saket,&nbsp;(JCI Accreditation)</td><td width="388">Prof. (Col.)&nbsp;Dr. Bipin Walia,&nbsp;(Principal Director and Head – of Neurosurgery )</td><td width="92">7000$</td></tr><tr><td width="185">Indraprastha Apollo Hospital, (JCI Accreditation)</td><td width="388">Dr. Sudheer Kumar Tyagi&nbsp;(Senior Consultant )</td><td width="92">9000$</td></tr><tr><td width="185">Fortis, Memorial Research Institute,&nbsp;(JCI Accreditation)</td><td width="388">Dr. Rana Patir,&nbsp;(Director&nbsp; Neurosurgery),</td><td width="92">8500$</td></tr><tr><td width="185">Artemis Hospital,&nbsp;(JCI Accreditation)</td><td width="388">Dr Aditya Gupta,&nbsp;(Chief Neurosurgery &amp; CNS Radiosurgery) Co-Chief (Cyberknife Centre)</td><td width="92">6500$</td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>How can you avail of the Best TNTS surgery in India-Step, By Step process?</strong></p><p style="color: black; font-size: medium; font-weight: 400;">Medihelp Global is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done at JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your&nbsp;<strong>TNTS surgery</strong>&nbsp;<strong>in India,&nbsp;</strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art-technology.</p><p style="color: black; font-size: medium; font-weight: 400;">We score over others because our company’s ‘t<strong>reatment consultants</strong>‘ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p><p style="color: black; font-size: medium; font-weight: 400;"><span><strong>We will help you to find the best Pituitary Gland Tumor Doctors in India</strong>&nbsp;</span></p></span></h2><h2><span lang="EN" style="color: #0048ad;">The Trans-Nasal Trans-sphenoidal (TNTS) Surgery in India: Treating Pituitary Gland Tumors</span></h2>
 <p>Pituitary Tumors develop in the pituitary gland, which is about the size of a pea and located at the base of the skull. They may produce too many hormones that control various body functions.</p>
 <p>Most of these tumors are benign, which means they are noncancerous. They can be removed with <strong>pituitary tumor surgery in India</strong>, and their growth can be controlled via radiation and medications.</p>
 <p><strong>Pituitary gland tumors</strong> can be treated in several ways. Here, we will focus on the most popular surgery: Endoscopic surgery. We will also discuss the types of pituitary tumors and their associated symptoms. Let us delve into the details one by one.</p>
@@ -1540,7 +1374,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 <h3><span style="color: #0048ad;"><strong>Pituitary Tumor Surgery in India</strong></span></h3>
 <ul>
 <li><span style="color: #0048ad;"><strong>Transsphenoidal Surgery:&nbsp;</strong></span><strong> TNTS surgery in India </strong>is a type of surgery in which instruments are inserted into the brain via an incision made under the upper lip or at the bottom of the nose to reach the pituitary gland. An endoscope and a curette are inserted through the nose and sphenoid bone to remove the tumor from the pituitary gland.</li>
-<li><span style="color: #0048ad;"><b>Endoscopic Transsphenoidal Surgery: </b><span style="color: #000000;"><strong>Endoscopic pituitary tumor surgery in Delh</strong>i is a type of surgery in which an endoscope is inserted through a cut made at the back of the nose and then through the sphenoid bone to reach the pituitary gland</span><b>.</b></span> An endoscope is a thin tube-like instrument with a light to remove the tumor inside.</li>
+<li><span style="color: #0048ad;"><b>Endoscopic Transsphenoidal Surgery: </b><span style="color: black;"><strong>Endoscopic pituitary tumor surgery in Delh</strong>i is a type of surgery in which an endoscope is inserted through a cut made at the back of the nose and then through the sphenoid bone to reach the pituitary gland</span><b>.</b></span> An endoscope is a thin tube-like instrument with a light to remove the tumor inside.</li>
 <li><span style="color: #0048ad;"><strong>Craniotomy: </strong></span>It is a surgical procedure that involves opening the skull to gain access to the brain tumor.</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Radiation therapy</strong></span></h2>
@@ -1586,53 +1420,16 @@ We score over others because the ‘treatment consultants’ in our company are 
 <li>Aspirin and anti-inflammatory medicines are prohibited up to two weeks after surgery.</li>
 <li>If everything goes normal, it may take two weeks to return to a routine.</li>
 </ul>
-<h2><span style="color: #0048ad;">Best Doctors For Pituitary Tumor Surgery in India</span></h2>
-<table widthh="767">
-<tbody>
-<tr>
-<td width="185"><span style="color: #000000;"><strong>Hospital</strong></span></td>
-<td width="388"><span style="color: #000000;"><strong>Best Doctor</strong></span></td>
-<td width="92"><span style="color: #000000;"><strong>Cos<a style="color: #000000;" href="https://www.medanta.org/">t </a></strong></span></td>
-</tr>
-<tr>
-<td width="185"><a href="#/medanta-the-medicity-eye-department/">Medanta Medicity, </a>(JCI Accreditation)</td>
-<td width="388"><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr VP Singh </a>(Chairman Neurosurgery)</td>
-<td width="92">8000$</td>
-</tr>
-<tr>
-<td width="185"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Hospital, Saket, </a>(JCI Accreditation)</td>
-<td width="388">Prof. (Col.) <a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Dr. Bipin Walia, </a>(Principal Director and Head – of Neurosurgery )</td>
-<td width="92">7000$</td>
-</tr>
-<tr>
-<td width="185"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospita</a>l, (JCI Accreditation)</td>
-<td width="388"><a href="#/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer Kumar Tyagi</a> (Senior Consultant )</td>
-<td width="92">9000$</td>
-</tr>
-<tr>
-<td width="185"><a href="#/fortis-memorial-research-institute/">Fortis, Memorial Research Institute, </a>(JCI Accreditation)</td>
-<td width="388"><a href="#/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr. Rana Patir, </a>(Director&nbsp; Neurosurgery),</td>
-<td width="92">8500$</td>
-</tr>
-<tr>
-<td width="185"><a href="https://www.artemishospitals.com/">Artemis Hospital, </a>(JCI Accreditation)</td>
-<td width="388"><a href="#/dr-aditya-gupta-neurosurgery/">Dr Aditya Gupta, </a>(Chief Neurosurgery &amp; CNS Radiosurgery) Co-Chief (Cyberknife Centre)</td>
-<td width="92">6500$</td>
-</tr>
-</tbody>
-</table>
-<p><strong>How can you avail of the Best TNTS surgery in India-Step, By Step process?</strong></p>
-<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done at JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>TNTS surgery</strong> <strong>in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art-technology.</p>
-<p>We score over others because our company’s ‘t<strong>reatment consultants</strong>‘ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Pituitary Gland Tumor Doctors in India</strong>&nbsp;</span></p>
+<h2><br /></h2>
 
 		</div>
 	</div>`,
   },
+  // trans-nasal-trans-sphenoidal-surgery
   {
     name: "trans-nasal-trans-sphenoidal-surgery",
     img: "/treatment/trans-nasal-trans-sphenoidal-surgery.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid vc_custom_1671430440135"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid vc_custom_1671430440135" id="DColumn"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -1643,7 +1440,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 			
 		</div>
 	</div>
-<p>Transnasal transsphenoidal surgery (TNTS) is a popular minimally invasive procedure used to remove tumors from the pituitary gland situated at the base of the skull through the nasal cavity with the help of an endoscope. The major advantages of this procedure are&nbsp; less bleeding and faster recovery. To approach the hardest brain area, otherwise requiring an open surgery (Craniotomy).</p>
+<h2><b><span style="color: #00639c;">Cost of TNTS Surgery in India</span></b></h2><ul><li aria-level="1"><span>The average c<strong>ost of TNTS surgery in India</strong>&nbsp;is around $6000 to $8000.&nbsp;</span></li><li aria-level="1"><span>India offers the most comprehensive medical services in the world without compromising quality.&nbsp;</span></li><li aria-level="1"><span>TNTS surgery costs in India are lower than in other Western countries.&nbsp;</span></li></ul><h3>Cost Of Endoscopic Brain Surgery in India: On what factors does it depend?</h3><ul><li aria-level="1"><span>The type of hospital you choose ( public or private)&nbsp;</span></li><li aria-level="1"><span>Accreditation of the hospital ( NABH OR JCI)&nbsp;</span></li><li aria-level="1"><span>The brand and reputation of the hospital</span></li><li aria-level="1"><span>The expertise and skill of the surgeon greatly impacts the</span><b>&nbsp;cost of TNTS surgery in Delhi</b><span>&nbsp;</span></li><li aria-level="1"><span>The location of the hospital( cost in top tier cities is more)&nbsp;</span></li><li aria-level="1"><span>The type of pituitary tumor</span></li><li aria-level="1"><span>Approach used to perform the surgery ( endoscopic or microscopic)&nbsp;</span></li><li aria-level="1"><span>State of the art facilities available in the hospital</span></li></ul><h3><b>Other factors influencing the cost of transnasal transsphenoidal surgery in India</b></h3><ul><li aria-level="1"><span>Patient age</span></li><li aria-level="1"><span>Patient overall health</span></li><li aria-level="1"><span>Complexity of the procedure</span></li><li aria-level="1"><span>Length of hospitalization</span></li><li aria-level="1"><span>Type of room selected by the patient</span></li><li aria-level="1"><span>Any co-morbidities that the patient is suffering from</span></li><li aria-level="1"><span>Pre-operative tests and imaging</span></li><li aria-level="1"><span>Pre-operative consultations with doctors</span></li><li aria-level="1"><span>Transportation and accommodation</span></li><li aria-level="1"><span>Currency exchange rates</span></li><li aria-level="1"><span>Discounts offered by the hospital</span></li></ul><h3><b>Cost of TNTS Surgery in Top Hospitals of India</b></h3><table><tbody><tr><td><b>Hospital Name&nbsp;</b></td><td><b>Cost&nbsp;</b></td></tr><tr><td><span>Indraprastha Apollo Hospital</span></td><td><span>10000$</span></td></tr><tr><td><span>BLk – Max Super Speciality Hospital</span></td><td><span>8000$</span></td></tr><tr><td><span>Artemis Hospital&nbsp;</span></td><td><span>7500$</span></td></tr><tr><td><span>Marengo Asia Hospital&nbsp;</span></td><td><span>7000$</span></td></tr><tr><td><span>Metro Hospital&nbsp;</span></td><td><span>6500$</span></td></tr></tbody></table><p><span>India is gaining fame as the best destination for any medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p><p><strong><span style="color: #2b00fe;">Medihelp Global is the best medical consultant in India. When you contact us, we will help you with:</span></strong></p><ul><li>Arranging visa</li><li>Finding the best hospital</li><li>Surgical package negotiation on your behalf</li><li>Finding the best doctors</li><li>Medicines at reasonable rates</li><li>Affordable options to stay in India</li><li>Over saving of 15% treatment cost through us</li></ul><p>Transnasal transsphenoidal surgery (TNTS) is a popular minimally invasive procedure used to remove tumors from the pituitary gland situated at the base of the skull through the nasal cavity with the help of an endoscope. The major advantages of this procedure are&nbsp; less bleeding and faster recovery. To approach the hardest brain area, otherwise requiring an open surgery (Craniotomy).</p>
 <p>With world-class facilities and ultra-modern equipment, India has some of the best hospitals, with the highest success rate of TNTS surgery at one-tenth the cost of its Western counterparts. Let us know more about<strong> TNTS surgery in India</strong> and it’s associated costs.</p>
 <h2><span style="color: #0048ad;">Know Your TNTS Procedure</span></h2>
 <ul>
@@ -1660,100 +1457,32 @@ We score over others because the ‘treatment consultants’ in our company are 
 <h2><span style="color: #0048ad;">Top Neurosurgeons Carrying out TNTS in India</span></h2>
 <p>The <strong>best doctors for TNTS surgery in India</strong> are:</p>
 <ul>
-<li><span style="color: #000000;"><a style="color: #000000;" href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/"><strong>Dr VP Singh</strong></a> </span>– Chairman Neurosurgery at Medanta the Medicity</li>
+<li><span style="color: black;"><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/" style="color: black;"><strong>Dr VP Singh</strong></a> </span>– Chairman Neurosurgery at Medanta the Medicity</li>
 <li><a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/"><strong> (Col.) Dr. Bipin Walia.</strong></a> Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, Spine Surgery.</li>
 <li><a href="#/dr-sudheer-tyagi-neuro-surgeon/"><strong> Sudheer Kumar Tyagi</strong></a> -MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon Indraprastha Apollo Hospitals</li>
 <li><strong><a href="#/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Rana Patir</a>,</strong> MS (General Surgery), MCh (Neurosurgery), CONSULTANT NEUROSURGERY, Fortis Memorial Research Institute, Gurugram</li>
 <li><strong><a href="#/dr-aditya-gupta-neurosurgery/">Dr Aditya Gupta</a> – </strong>Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery) <strong>Co-Chief </strong>(Cyberknife Centre) Artemis Hospital in Gurugram<strong>. </strong></li>
 </ul>
 <h2><span style="color: #0048ad;">Top Neurosurgery Hospitals in India for TNTS Surgery</span></h2>
-<p><strong>Bes<span style="color: #000000;">t Hospitals for TNTS surgery in India</span><span style="color: #000000;"> are:</span></strong></p>
+<p><strong>Bes<span style="color: black;">t Hospitals for TNTS surgery in India</span><span style="color: black;"> are:</span></strong></p>
 <ul>
-<li><span style="color: #333399;"><a style="color: #333399;" href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></span></li>
-<li><span style="color: #333399;"><a style="color: #333399;" href="#/bl-kapur-hospital/">Max Super Speciality Hospital, Saket</a></span></li>
-<li><span style="color: #333399;"><a style="color: #333399;" href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a></span></li>
-<li><span style="color: #333399;"><a style="color: #333399;" href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></span></li>
-<li><span style="color: #333399;"><a style="color: #333399;" href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></span></li>
+<li><span style="color: #333399;">Indraprastha Apollo Hospital</span></li>
+<li><span style="color: #333399;">Max Super Speciality Hospital, Saket</span></li>
+<li><span style="color: #333399;">Fortis Memorial Research Institute, Gurugram</span></li>
+<li><span style="color: #333399;">Medanta the Medicity</span></li>
+<li><span style="color: #333399;">Artemis Hospital</span></li>
 </ul>
-<h2><b>Cost of TNTS Surgery in India</b></h2>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The average c<strong>ost of TNTS surgery in India</strong> is around $6000 to $8000.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">India offers the most comprehensive medical services in the world without compromising quality.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">TNTS surgery costs in India are lower than in other Western countries.&nbsp;</span></li>
-</ul>
-<h3>Cost Of Endoscopic Brain Surgery in India: On what factors does it depend?</h3>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The type of hospital you choose ( public or private)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation of the hospital ( NABH OR JCI)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand and reputation of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The expertise and skill of the surgeon greatly impacts the</span><b> cost of TNTS surgery in Delhi</b><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The location of the hospital( cost in top tier cities is more)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The type of pituitary tumor</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Approach used to perform the surgery ( endoscopic or microscopic)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">State of the art facilities available in the hospital</span></li>
-</ul>
-<h3><b>Other factors influencing the cost of transnasal transsphenoidal surgery in India</b></h3>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Patient age</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Patient overall health</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complexity of the procedure</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Length of hospitalization</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of room selected by the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Any co-morbidities that the patient is suffering from</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pre-operative tests and imaging</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pre-operative consultations with doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Transportation and accommodation</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Discounts offered by the hospital</span></li>
-</ul>
-<h3><b>Cost of TNTS Surgery in Top Hospitals of India</b></h3>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital Name&nbsp;</b></td>
-<td><b>Cost&nbsp;</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo Hospital</span></td>
-<td><span style="font-weight: 400;">10000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">BLk – Max Super Speciality Hospital</span></td>
-<td><span style="font-weight: 400;">8000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Artemis Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">7500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Marengo Asia Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">7000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Metro Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">6500$</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">India is gaining fame as the best destination for any medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
-<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with: </strong></p>
-<ul>
-<li>Arranging visa</li>
-<li>Finding the best hospital</li>
-<li>Surgical package negotiation on your behalf</li>
-<li>Finding the best doctors</li>
-<li>Medicines at reasonable rates</li>
-<li>Affordable options to stay in India</li>
-<li>Over saving of 15% treatment cost through us</li>
+<h2><br /></h2><ul>
 </ul>
 <p>To learn more about our services, please write to us at <a href="mailto:info@Medihelp Globalglobal.com">info@Medihelp Globalglobal.com</a>. Based on your reports, We will inform you of the<strong> total cost of endoscopic pituitary surgery in Delhi.</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Trans Nasal Trans Sphenoidal (TNTS) Endoscopic Surgery Doctors in India</strong>&nbsp;</span></p>
 </div>`,
   },
+  // deep-brain-stimulation-surgery
   {
     name: "deep-brain-stimulation-surgery",
     img: "/treatment/deep-brain-stimulation-surgery.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+    data: `<div class="vc_row wpb_row vc_row-fluid" id="DColumn"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -1761,49 +1490,49 @@ We score over others because the ‘treatment consultants’ in our company are 
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><strong><span style="color: #0048ad;">Deep Brain Stimulation Surgery In India- Rewiring the Brain</span></strong></h2>
+			<h2><strong><span style="color: #0048ad;">Top Hospitals and Doctors Performing Deep Brain Stimulation Surgery in India</span></strong></h2><h2><table style="height: 224px; width: 663px;"><tbody><tr><td><span style="color: black; font-size: xx-small;"><b>Hospital</b></span></td><td><span style="color: black; font-size: xx-small;"><b>Best Doctor</b></span></td><td><span style="color: purple; font-size: xx-small;"><b><span style="color: black;">Cost</span>&nbsp;</b></span></td></tr><tr><td><span style="font-size: xx-small;"><span>Medanta Medicity,&nbsp;</span><span>(JCI Accreditation)&nbsp;</span></span></td><td><span style="font-size: xx-small;"><span>Dr VP Singh&nbsp;,</span><span>(Chairman Neurosurgery)</span></span></td><td><span style="font-size: xx-small;">32000$</span></td></tr><tr><td><span style="font-size: xx-small;"><span>Max Hospital, Saket,&nbsp;</span><span>(JCI Accreditation)&nbsp;</span></span></td><td><span style="font-size: xx-small;"><span>Prof. (Col.) Dr.&nbsp;Bipin Walia.&nbsp;&nbsp;</span><span>(Principal Director and&nbsp;</span><span>Head – of Neurosurgery )</span></span></td><td><span style="font-size: xx-small;">32000$</span></td></tr><tr><td><span style="font-size: xx-small;"><span>Indraprastha Apollo Hospital,&nbsp;</span><span>(JCI Accreditation)&nbsp;</span></span></td><td><span style="font-size: xx-small;"><span>Dr Sudheer&nbsp;Kumar Tyagi,</span><span>(Senior Consultant )</span></span></td><td><span style="font-size: xx-small;">30000$</span></td></tr><tr><td><span style="font-size: xx-small;"><span>Fortis, Memorial Research Institute,&nbsp;</span><span>(JCI Accreditation)&nbsp;</span></span></td><td><span style="font-size: xx-small;"><span>Dr Rana Patir,&nbsp;</span><span>(Director&nbsp; Neurosurgery),</span></span></td><td><span style="font-size: xx-small;">29000$</span></td></tr><tr><td><span style="font-size: xx-small;"><span>Artemis Hospital,&nbsp;</span><span>(JCI Accreditation)&nbsp;</span></span></td><td><span style="font-size: xx-small;"><span>Dr Aditya Gupta ,&nbsp;</span><span>(Chief Neurosurgery &amp; CNS Radiosurgery),&nbsp;</span><span>Co-Chief (Cyberknife Centre)</span></span></td><td><span style="font-size: xx-small;">28000$</span></td></tr></tbody></table></h2><h2><span style="color: #0048ad;">Neuro Health on a Budget: Service Cost</span></h2><h2><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Traveling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><b>How can you avail of the best Deep Brain Stimulation Surgery in India-Step By Step process?</b></span></p><p style="font-size: medium; font-weight: 400;"><span>Medihelp Global is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done at JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your&nbsp;<strong>DBS surgery in India,</strong>&nbsp;fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</span></p><p style="font-size: medium; font-weight: 400;"><span>We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘<strong>treatment consultant</strong>‘ is good if you plan any medical treatment in India.</span></p><p style="font-size: medium; font-weight: 400;"><span><strong>We will help you to find the best Deep Brain Stimulation Surgery Doctors in India</strong>&nbsp;</span></p></h2><h2><strong><span style="color: #0048ad;">Deep Brain Stimulation Surgery In India- Rewiring the Brain</span></strong></h2>
 <p><span style="font-weight: 400;">The human brain is a complex organ that controls our thoughts, movements, and emotions. However, there are specific neurological disorders that can impair the normal functioning of the brain, which in turn causes a significant impact on the quality of life of an individual.&nbsp;</span></p>
 <p><span style="font-weight: 400;"><strong>Deep Brain Stimulation Surgery in India</strong> is a revolutionary treatment option for patients dealing with neurological disorders. In this specific guide, we will delve into the complete procedure and advantages of DBS, the conditions treated by it, and the risks associated with the surgery. Continue reading to learn more about this revolutionary treatment.&nbsp;</span></p>
 <p><span style="color: #0048ad;"><b>What is Deep Brain Stimulation?&nbsp;</b></span></p>
 <p><span style="font-weight: 400;">In <strong>Deep Brain Stimulation Surgery in Delhi</strong>, electrodes are implanted within some regions of the brain. These electrodes produce electrical impulses that are used to treat abnormal impulses. In DBS, a pacemaker-like device controls how much stimulation is delivered to the brain, placed under the skin in the chest. DBS is used to treat people whose neurons are not working correctly. <strong>Deep Brain Stimulation</strong> makes these neurons active and thus helps to improve the symptoms of various brain conditions. The DBS System involves three main components:</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b><i>An electrode, </i></b><i><span style="font-weight: 400;">or lead, is a thin insulated wire implanted through an opening in the skull.</span></i></li>
-<li style="font-weight: 400;" aria-level="1"><b><i>The extension wire</i></b><span style="font-weight: 400;">, passed under the head, neck, and shoulder skin, connects the electrode to the internal pulse generator.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b><i>The IPG ( Implantable Pulse Generator)</i></b><span style="font-weight: 400;"> is the third piece of the DBS system implanted under the upper chest’s skin.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b><i>An electrode, </i></b><i><span style="font-weight: 400;">or lead, is a thin insulated wire implanted through an opening in the skull.</span></i></li>
+<li aria-level="1" style="font-weight: 400;"><b><i>The extension wire</i></b><span style="font-weight: 400;">, passed under the head, neck, and shoulder skin, connects the electrode to the internal pulse generator.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b><i>The IPG ( Implantable Pulse Generator)</i></b><span style="font-weight: 400;"> is the third piece of the DBS system implanted under the upper chest’s skin.&nbsp;</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Conditions Treated By Deep Brain Stimulation Surgery in India</b></span></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Parkinson’s disease: </b><span style="font-weight: 400;">DBS eases tremors and improves motor function by modulating neural circuits that control movement.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Essential Tremors</b><span style="font-weight: 400;">: An Essential Tremor is an involuntary shaking of your hands, head, or voice caused by a neurological disorder. <strong>Deep brain stimulation</strong> can help patients with essential tremors.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Dystonia</b><span style="font-weight: 400;">: It’s when your muscles contract involuntarily, causing you to twist or repeat motions.<strong> Deep Brain Stimulation Surgery in Indraprastha Apollo Hospital&nbsp;</strong> relieves dystonia by normalizing muscle contractions and improving motor control.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>OCD</b><span style="font-weight: 400;">: Deep Brain Stimulation Surgery can help treat severe and treatment-resistant OCD. Using DBS, you can improve overall function and quality of life by targeting specific brain circuits.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Epilepsy</b><span style="font-weight: 400;">: <strong>Deep Brain Stimulation</strong> is being explored as a potential epilepsy treatment, especially for people who don’t respond to traditional treatments. It reduces the frequency and severity of seizures by modulating brain activity.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Parkinson’s disease: </b><span style="font-weight: 400;">DBS eases tremors and improves motor function by modulating neural circuits that control movement.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Essential Tremors</b><span style="font-weight: 400;">: An Essential Tremor is an involuntary shaking of your hands, head, or voice caused by a neurological disorder. <strong>Deep brain stimulation</strong> can help patients with essential tremors.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Dystonia</b><span style="font-weight: 400;">: It’s when your muscles contract involuntarily, causing you to twist or repeat motions.<strong> Deep Brain Stimulation Surgery in Indraprastha Apollo Hospital&nbsp;</strong> relieves dystonia by normalizing muscle contractions and improving motor control.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>OCD</b><span style="font-weight: 400;">: Deep Brain Stimulation Surgery can help treat severe and treatment-resistant OCD. Using DBS, you can improve overall function and quality of life by targeting specific brain circuits.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Epilepsy</b><span style="font-weight: 400;">: <strong>Deep Brain Stimulation</strong> is being explored as a potential epilepsy treatment, especially for people who don’t respond to traditional treatments. It reduces the frequency and severity of seizures by modulating brain activity.</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Symptoms of the diseases treated by Deep Brain Stimulation Surgery</b></span></h2>
 <p><span style="font-weight: 400;">Patients may experience a variety of symptoms. The most common ones are:</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Dystonia – Involuntary Muscle Contractions</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Epilepsy – Uncontrollable jerking movements of arms and legs</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Essential Tremor – Essential Tremor is an involuntary shaking of your hands, head</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Obsessive-compulsive disorders&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Parkinson’s</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Dystonia – Involuntary Muscle Contractions</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Epilepsy – Uncontrollable jerking movements of arms and legs</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Essential Tremor – Essential Tremor is an involuntary shaking of your hands, head</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Obsessive-compulsive disorders&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Parkinson’s</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>Testing and Diagnosis Before the Surgery</b></span></h3>
 <p><span style="font-weight: 400;">Patients with <strong>Parkinson’s disease</strong> have to undergo testing of motor functions on and off to determine the severity of their disease. <strong>Epilepsy testing</strong> includes electroencephalography, whereas patients suffering from OCD have to undergo Yale-Brown Obsessive Scale Testing.&nbsp;</span></p>
 <p><strong>Some other tests may include:</strong></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Blood and Urine Tests</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">MRI and CT Scans of the brain&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Blood and Urine Tests</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">MRI and CT Scans of the brain&nbsp;</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>Deep Brain Surgery In India for Treating Parkinson’s: Understanding Everything in Detail</b></span></h3>
 <p><b>Before the Surgery</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Before the surgery, your neurosurgeon will discuss the advantages and disadvantages of the DBS device that has to be implanted in the brain.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will have to undergo a series of MRI and CT scans to determine the best location for placing wires for the device.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You must stop taking medications before the surgery if you are on non-steroidal anti-inflammatories or blood thinners.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Your neurosurgeon will ask you to wash your skin and hair with Hibiclens to avoid any infection before the <strong>deep brain stimulation surgery in Delhi.</strong></span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Including your Parkinson’s medicine, no food or drink will be allowed after midnight.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make sure you get plenty of sleep. DBS is a long procedure. Make sure to get enough rest for favourable outcomes.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Before the surgery, your neurosurgeon will discuss the advantages and disadvantages of the DBS device that has to be implanted in the brain.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will have to undergo a series of MRI and CT scans to determine the best location for placing wires for the device.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You must stop taking medications before the surgery if you are on non-steroidal anti-inflammatories or blood thinners.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Your neurosurgeon will ask you to wash your skin and hair with Hibiclens to avoid any infection before the <strong>deep brain stimulation surgery in Delhi.</strong></span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Including your Parkinson’s medicine, no food or drink will be allowed after midnight.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Make sure you get plenty of sleep. DBS is a long procedure. Make sure to get enough rest for favourable outcomes.</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>During the Surgery</b></span></h3>
 <p><b>Step 1: </b><span style="font-weight: 400;">This procedure begins with attaching a frame to the head. The frame will be attached to your head with velcro straps. The four pin sites will be injected with local anesthesia to reduce discomfort.&nbsp;</span></p>
@@ -1814,20 +1543,20 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><b>Step 6: </b><span style="font-weight: 400;">When the surgical team is satisfied with the electrode placement, a plastic cap is placed over the burr hole to keep the lead in place. A coil wire is left under the scalp for the later procedure. The incision is then closed with sutures.&nbsp;</span></p>
 <h3><span style="color: #0048ad;"><b>After The Surgery</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will be kept overnight for observation and monitoring. Patients are usually discharged the next day.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">After implanting the electrodes, you might feel better than usual. Brain swelling around the electrode tip can last several days to weeks.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">After about a week, you’ll have outpatient surgery to implant the stimulator in your chest/abdomen.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">&nbsp;You’ll be under anesthesia for about an hour during this surgery. You can go home the same day.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will be kept overnight for observation and monitoring. Patients are usually discharged the next day.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">After implanting the electrodes, you might feel better than usual. Brain swelling around the electrode tip can last several days to weeks.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">After about a week, you’ll have outpatient surgery to implant the stimulator in your chest/abdomen.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;You’ll be under anesthesia for about an hour during this surgery. You can go home the same day.</span></li>
 </ul>
 <p><b>Step 7: T</b><span style="font-weight: 400;">his step happens a week after the first&nbsp; <strong>DBS surgery in India</strong>. A small incision is made under the collarbone, and a neurotransmitter is planted under the skin. An extension wire connects the lead to the stimulator/battery in the chest or abdomen under the scalp. The device will appear as a small bulge under the skin, but it’s usually not visible under clothes. Incisions take 6-8 weeks to heal, so you can’t lift anything. Follow the discharge instructions and do the neck exercises. You can take medication to ease the pain of an incision.</span></p>
 <p><b>Step 8: </b><span style="font-weight: 400;">You’ll be scheduled for an OPD visit 10 days after surgery. The simulator will be programmed, and your medication dose will be adjusted. You might have to stop taking your meds for 12 hours before programming. You’ll help determine the best program to control your symptoms during the appointment. Make sure you bring your remote and charger to every appointment. It usually takes 3 to 4 visits to tweak the program settings for the best results.</span></p>
 <p><span style="font-weight: 400;">Individuals may sometimes experience a brief tingling sensation when the stimulator is turned on for the first time. It’s important to keep in mind that Parkinson’s is a progressive disease and that symptoms tend to worsen over time. You must visit the neurologist’s office regularly to adjust the stimulation settings.</span></p>
 <h3><span style="color: #0048ad;"><b>Results of the Surgery</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For Parkinson’s, the success rate of<strong> Deep Brain Stimulation surgery in India</strong> is 70 %. It has improved many patients’ slowness, tremors, and rigidity symptoms. It has helped people to get off medicines and lessen their side effects.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">DBS has reduced hand tremors in about 60 to 90 % of people for essential tremors.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For people suffering from dystonia, DBS has proved to be the most effective treatment option.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Many patients have reported improvement in the quality of their lives after DBS surgery.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">For Parkinson’s, the success rate of<strong> Deep Brain Stimulation surgery in India</strong> is 70 %. It has improved many patients’ slowness, tremors, and rigidity symptoms. It has helped people to get off medicines and lessen their side effects.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">DBS has reduced hand tremors in about 60 to 90 % of people for essential tremors.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">For people suffering from dystonia, DBS has proved to be the most effective treatment option.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Many patients have reported improvement in the quality of their lives after DBS surgery.</span></li>
 </ul>
 <p><span style="color: #0048ad;"><b>What is it like living with a Stimulator?</b></span></p>
 <p><span style="font-weight: 400;">The handheld controller allows you to turn your stimulator on and off and adjust the strength of the stimulation. Most people keep their stimulators on the whole day. Some patients with essential tremors can use it during the day and turn it off at night. You can adjust the settings with the help of your doctor.&nbsp;</span></p>
@@ -1836,46 +1565,46 @@ We score over others because the ‘treatment consultants’ in our company are 
 <h3><span style="color: #0048ad;"><b>Advantages of the Surgery</b></span></h3>
 <p><em><span style="font-weight: 400;">The advantages of <strong>Deep Brain Stimulation surgery in Delhi</strong> are as follows:&nbsp;</span></em></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">DBS has proven to be a very effective treatment option for people with neurological conditions. The electrodes used in the surgery deliver electric signals to the targeted brain parts, thus reducing the symptoms.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Deep Brain Stimulation</strong> is an effective option for treating diseases that cause tremors in the body.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Most neurological conditions need to be managed via medicines. DBS can help people suffering from various neurological disorders reduce their medication dependence by alleviating their symptoms.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">DBS is a highly customizable treatment option. The stimulation parameters, like the intensity and frequency of the current, can be customized according to the needs of an individ</span><b>ual.&nbsp;</b></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">One of the benefits of <strong>DBS surgery in Delhi</strong> is that it’s reversible. Unlike other surgeries, electrodes can be adjusted, turned off, or removed entirely. Patients can modify or stop the treatment with this flexibility if their condition change</span><b>s.</b></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">DBS has proven to be a very effective treatment option for people with neurological conditions. The electrodes used in the surgery deliver electric signals to the targeted brain parts, thus reducing the symptoms.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;"><strong>Deep Brain Stimulation</strong> is an effective option for treating diseases that cause tremors in the body.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Most neurological conditions need to be managed via medicines. DBS can help people suffering from various neurological disorders reduce their medication dependence by alleviating their symptoms.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">DBS is a highly customizable treatment option. The stimulation parameters, like the intensity and frequency of the current, can be customized according to the needs of an individ</span><b>ual.&nbsp;</b></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">One of the benefits of <strong>DBS surgery in Delhi</strong> is that it’s reversible. Unlike other surgeries, electrodes can be adjusted, turned off, or removed entirely. Patients can modify or stop the treatment with this flexibility if their condition change</span><b>s.</b></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Deep Brain Stimulation Surgery in India: Factors Affecting the Cost</b></span></h2>
 <p><strong>Following are the factors affecting the cost of the surgery:&nbsp;</strong></p>
 <p><b>Hospital: </b><span style="font-weight: 400;">The <strong>cost of DBS surgery in India</strong> increases if:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital has advanced neurological facilities</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Experienced medical staff</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is multispecialty.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is a single super speciality</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Brand image of the hospital&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital has advanced neurological facilities</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Experienced medical staff</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is multispecialty.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is a single super speciality</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Brand image of the hospital&nbsp;</span></li>
 </ul>
 <p><b>Surgeons Fee: </b><span style="font-weight: 400;">The<strong> cost of DBS surgery in Delhi </strong>greatly depends on:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The expertise of the surgeon</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reputation and skill of the surgeon</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The surgeon is affiliated with reputable hospitals and medical institutions known for their expertise in neurosurgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">No. of successful procedures performed&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">International education and training&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The expertise of the surgeon</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Reputation and skill of the surgeon</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The surgeon is affiliated with reputable hospitals and medical institutions known for their expertise in neurosurgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">No. of successful procedures performed&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">International education and training&nbsp;</span></li>
 </ul>
 <p><b>Type of Device: </b><span style="font-weight: 400;">The cost of a DBS device depends on several factors like manufacturer, model and features.&nbsp; Discuss the cost of various devices with your treating surgeon, for example, the cost of Medtronic DBS Systems, Boston Scientific DBS Systems and Abbott DBS Systems.&nbsp;</span></p>
 <p><b>Duration and Hospital stay: </b><span style="font-weight: 400;">The length of the hospitalization post-surgery also affects the cost. The following things will determine the <strong>cost of deep brain stimulation surgery in India:</strong>&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of room you choose ( general wards are cheap, while single private rooms are costly)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications in the surgery may increase the hospital stay and hence, the costs</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ICU stay post-surgery if needed hence discuss the need of ICU after surgery with your neurosurgeon.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of room you choose ( general wards are cheap, while single private rooms are costly)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Complications in the surgery may increase the hospital stay and hence, the costs</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">ICU stay post-surgery if needed hence discuss the need of ICU after surgery with your neurosurgeon.&nbsp;</span></li>
 </ul>
 <p><b>Location of the Hospital: </b><span style="font-weight: 400;">The geographic location of the hospital affects the cost. If the hospital is located in a metropolitan city like Delhi, Gurugram etc. the cost will be on the higher side as compared to the hospitals located in smaller towns and cities of India.&nbsp;</span></p>
 <p><b>Surgery-related expenses: </b><span style="font-weight: 400;">The surgery-related expenses include the pre- and post-surgical investigations. The pre-surgical expenses are associated with the age and medical condition of the patient and thus the number and type of investigations required. Post-surgical expenses may include prescription medications and follow-up consultations.</span></p>
 <p><b>Other Expenses: </b><span style="font-weight: 400;">Other expenses include:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Anesthesia Fee</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Doctor Consultation Fees</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Interventions required during surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Additional costs due to the presence of any other health condition</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Anesthesia Fee</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Doctor Consultation Fees</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Interventions required during surgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Additional costs due to the presence of any other health condition</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></h2>
 <table>
@@ -1924,218 +1653,141 @@ We score over others because the ‘treatment consultants’ in our company are 
 </table>
 <p><b>India Stay: </b><span style="font-weight: 400;">15 days for DBS Surgery</span></p>
 <p><b>Success rate of the surgery: </b><span style="font-weight: 400;">99 %&nbsp;</span></p>
-<h2><strong><span style="color: #0048ad;">Top Hospitals and Doctors Performing Deep Brain Stimulation Surgery in India</span></strong></h2>
-<table style="height: 224px;" width="663">
-<tbody>
-<tr>
-<td><span style="color: #000000;"><b>Hospital</b></span></td>
-<td><span style="color: #000000;"><b>Best Doctor</b></span></td>
-<td><span style="color: #800080;"><b><span style="color: #000000;">Cost</span>&nbsp;</b></span></td>
-</tr>
-<tr>
-<td><a href="https://www.medanta.org/"><span style="font-weight: 400;">Medanta Medicity, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><span style="font-weight: 400;"><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr VP Singh</a> ,</span><span style="font-weight: 400;">(Chairman Neurosurgery)</span></td>
-<td><span style="font-weight: 400;">32000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Hospital</a>, Saket, </span><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><span style="font-weight: 400;">Prof. (Col.) Dr. <a href="#/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Bipin Walia</a>.&nbsp; </span><span style="font-weight: 400;">(Principal Director and </span><span style="font-weight: 400;">Head – of Neurosurgery )</span></td>
-<td><span style="font-weight: 400;">32000$</span></td>
-</tr>
-<tr>
-<td><a href="/indraprastha-apollo-hospital-new-delhi/"><span style="font-weight: 400;">Indraprastha Apollo Hospital, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><span style="font-weight: 400;"><a href="/dr-sudheer-tyagi-neuro-surgeon/">Dr Sudheer</a> Kumar Tyagi,</span><span style="font-weight: 400;">(Senior Consultant )</span></td>
-<td><span style="font-weight: 400;">30000$</span></td>
-</tr>
-<tr>
-<td><a href="/fortis-memorial-research-institute/"><span style="font-weight: 400;">Fortis, Memorial Research Institute, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><a href="/dr-rana-patir-neurosurgeon-in-gurgaon-india/"><span style="font-weight: 400;">Dr Rana Patir, </span></a><span style="font-weight: 400;">(Director&nbsp; Neurosurgery),</span></td>
-<td><span style="font-weight: 400;">29000$</span></td>
-</tr>
-<tr>
-<td><a href="/artemis-hospital-gurgaon-india/"><span style="font-weight: 400;">Artemis Hospital, </span></a><span style="font-weight: 400;">(JCI Accreditation)&nbsp;</span></td>
-<td><a href="/dr-aditya-kumar-singh/"><span style="font-weight: 400;">Dr Aditya Gupta , </span></a><span style="font-weight: 400;">(Chief Neurosurgery &amp; CNS Radiosurgery), </span><span style="font-weight: 400;">Co-Chief (Cyberknife Centre)</span></td>
-<td><span style="font-weight: 400;">28000$</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Neuro Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Traveling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><b>How can you avail of the best Deep Brain Stimulation Surgery in India-Step By Step process?</b></span></p>
-<p><span style="font-weight: 400;">Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done at JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>DBS surgery in India,</strong> fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</span></p>
-<p><span style="font-weight: 400;">We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘<strong>treatment consultant</strong>‘ is good if you plan any medical treatment in India.</span></p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Deep Brain Stimulation Surgery Doctors in India</strong>&nbsp;</span></p>
 
 		</div>
 	</div>
 </div></div></div></div>
-</div>`,
+
+`,
   },
+  //  burr-hole-surgery
   {
     name: "burr-hole-surgery",
     img: "/treatment/burr-hole-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><b>Breaking Barriers, Saving Lives: The Impact of Burr Hole Surgery in India</b></span></h2>
+			<h2><span style="color: #0048ad;">Cost of Burr Hole Surgery in India</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;"><span><strong>Burr hole surgery</strong>&nbsp;is a surgical procedure used to create one or more small openings in the skull. It is a minimally invasive neurosurgical technique that allows access to the brain for various diagnostic or therapeutic purposes. Here is a brief overview of</span>&nbsp; the&nbsp;<strong>Cost of Burr Hole Surgery in India:</strong></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><b>Lowest cost</b><span>: $4,000 USD&nbsp;</span></li><li aria-level="1"><b>Average cost: $</b><span>55,00 USD&nbsp;</span></li><li aria-level="1"><b>Highest cost:</b><span>&nbsp;$65,00 USD</span></li><li aria-level="1"><b>Treatment type</b><span>: Burr hole surgery is a minimally invasive procedure that involves making a small hole in the skull to access the brain</span></li><li aria-level="1"><b>Treatment time</b><span>: 30 minutes to 1 hour.</span></li><li aria-level="1"><b>Hospitalization day</b><span>s:1 to 2 days</span></li><li aria-level="1"><b>Chances of recurrence:</b><span>&nbsp;Moderate</span></li><li aria-level="1"><b>Recovery time</b><span>:1 to 2 weeks</span></li><li aria-level="1"><b>Success rate</b><span>:90%</span></li></ul></span></h2><h2><span style="color: #0048ad;"><b>Breaking Barriers, Saving Lives: The Impact of Burr Hole Surgery in India</b></span></h2>
 <p><span style="font-weight: 400;"><strong>Burr hole surgery in India</strong> is a type of neurosurgery used to treat various disorders involving the brain, skull, and other structures. To reach the underlying tissues, relieve pressure, or remove aberrant growths, a tiny hole must be made in the skull, generally using a specialized drill called a burr.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Our brain is protected by a layer of thin tissues known as meninges. These meninges have blood vessels to carry blood to and from the brain. The dura is the outermost covering of the brain. Any head injury can cause these blood vessels to tear and bleed. As a result, blood might start building up in the dura matter, leading to subdural hematoma.&nbsp;</span></p>
 <p><span style="font-weight: 400;">This buildup is dangerous and can cause death. However, this condition can be easily treated using <strong>burr hole surgery in&nbsp; Delhi</strong>, India. In this blog, we will delve into how a Burr hole Surgery is performed and the benefits of getting it done from India.&nbsp;</span></p>
 <p><span style="color: #0048ad;"><b>Burr Hole Surgery in India: When is it required?&nbsp;</b></span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">One of the most common reasons burr holes are needed is a subdural hematoma. Since the veins in the brain are fragile and easy to break, a hematoma can lead to symptoms like headaches, seizures, and one-sided muscle weakness.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">One of the most common reasons burr holes are needed is a subdural hematoma. Since the veins in the brain are fragile and easy to break, a hematoma can lead to symptoms like headaches, seizures, and one-sided muscle weakness.&nbsp;</span></li>
 </ul>
 <p><span style="font-weight: 400;"><strong>Other reasons why you may need a burr hole surgery in India are:</strong>&nbsp;</span></p>
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Chronic Subdural Hematoma</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Epidural hematoma</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Brain cancer</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Pus around meninges</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Hydrocephalus</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Brain bleeds</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Chronic Subdural Hematoma</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Epidural hematoma</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Brain cancer</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Pus around meninges</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Hydrocephalus</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Brain bleeds</span></li>
 </ul>
 </li>
 </ul>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Burr holes are the first step to bigger, more complicated brain surgeries. Surgery on the brain requires access to soft tissue underneath the skull. <strong>Burr hole surgery in Delhi</strong> allows surgeons to guide their instruments into your brain carefully. Burr holes can be made at different spots on your skull so surgeons can reach a wider brain area. While putting a burr hole in the skull is delicate, it’s relatively easy.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Burr holes are the first step to bigger, more complicated brain surgeries. Surgery on the brain requires access to soft tissue underneath the skull. <strong>Burr hole surgery in Delhi</strong> allows surgeons to guide their instruments into your brain carefully. Burr holes can be made at different spots on your skull so surgeons can reach a wider brain area. While putting a burr hole in the skull is delicate, it’s relatively easy.</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Burr Hole Surgery in India: Understanding its different types</b></span></h2>
 <p><span style="font-weight: 400;">Burr hole surgery includes several different methods that are used to treat a variety of neurological problems. Each kind of burr hole surgery necessitates meticulous preparation, imaging guidance, and expert surgical methods. Many factors, like conditions being treated, surgical objectives, patient conditions, etc., play an important role in determining the treatment to be used. Let’s get deeper into a few of the most common types of burr hole surgery:</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Burr Hole Craniostomy:</b><span style="font-weight: 400;"> During this procedure, one or more burr holes are made in the skull to reach the brain. It is frequently used to treat s<strong>ubdural hematoma</strong>, where blood builds between the dura and the brain’s protective covering. The surgeon can release pressure on the brain by draining the hematoma through the burr hole.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Stereotactic Burr Hole Biopsy: </b><span style="font-weight: 400;">This <strong>burr hole surgery in Indraprastha Apollo Hospital</strong> treats brain tumors. In this method, the placement of the burr hole is accurately guided by high-tech imaging techniques like computed tomography (C.T.) or magnetic resonance imaging (MRI). A biopsy needle is injected into the brain through the burr hole to retrieve a tissue sample for pathological investigation, which helps diagnose and select the best treatment for <strong>brain tumors.</strong></span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Ventriculostomy</b><span style="font-weight: 400;">: A drainage tube is inserted into the brain’s ventricular system during the burr hole procedure called <strong>ventriculostomy.</strong> This method is typically used to treat disorders like hydrocephalus, in which the ventricles of the brain experience an abnormal buildup of cerebrospinal fluid (CSF). The burr hole allows insertion of the drainage tube, which relieves pressure by allowing the extra CSF to be reabsorbed and rerouted.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Deep Brain Stimulation (DBS)</b><span style="font-weight: 400;">: <strong>DBS</strong> is a neurosurgical technique that inserts electrodes deep inside particular brain parts via burr holes. DBS is used to treat neurological disorders like<strong> Parkinson’s disease.&nbsp;</strong></span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Burr Hole Craniostomy:</b><span style="font-weight: 400;"> During this procedure, one or more burr holes are made in the skull to reach the brain. It is frequently used to treat s<strong>ubdural hematoma</strong>, where blood builds between the dura and the brain’s protective covering. The surgeon can release pressure on the brain by draining the hematoma through the burr hole.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Stereotactic Burr Hole Biopsy: </b><span style="font-weight: 400;">This <strong>burr hole surgery in Indraprastha Apollo Hospital</strong> treats brain tumors. In this method, the placement of the burr hole is accurately guided by high-tech imaging techniques like computed tomography (C.T.) or magnetic resonance imaging (MRI). A biopsy needle is injected into the brain through the burr hole to retrieve a tissue sample for pathological investigation, which helps diagnose and select the best treatment for <strong>brain tumors.</strong></span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Ventriculostomy</b><span style="font-weight: 400;">: A drainage tube is inserted into the brain’s ventricular system during the burr hole procedure called <strong>ventriculostomy.</strong> This method is typically used to treat disorders like hydrocephalus, in which the ventricles of the brain experience an abnormal buildup of cerebrospinal fluid (CSF). The burr hole allows insertion of the drainage tube, which relieves pressure by allowing the extra CSF to be reabsorbed and rerouted.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Deep Brain Stimulation (DBS)</b><span style="font-weight: 400;">: <strong>DBS</strong> is a neurosurgical technique that inserts electrodes deep inside particular brain parts via burr holes. DBS is used to treat neurological disorders like<strong> Parkinson’s disease.&nbsp;</strong></span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Burr Hole Surgery in India-Understanding the Complete Process</b></span></h2>
 <h3><span style="color: #0048ad;"><b>Before the Surgery</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Your healthcare professional will perform a thorough medical evaluation before the surgery. Your medical history must be completely and accurately disclosed, including any pre-existing diseases, allergies, medications, and past procedures.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make sure to disclose all your medications to your neurosurgeon before the <strong>burr hole surgery in Delhi</strong></span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Observe your surgeon’s pre-operative fasting recommendations. To reduce the danger of aspiration during anesthesia, you will typically be requested to refrain from eating or drinking for a specified amount of time before the procedure.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You must undergo a series of tests to determine your blood clotting capacity, general health, and any underlying medical disorder.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is advised to cut back or stop smoking and drinking before surgery if you do either. Alcohol and smoking can affect the healing of your wounds and how well anesthesia and medications work.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Your surgeon will review the procedure’s risks, advantages, and potential side effects with you before the operation. You must understand the potential risks that can occur during the procedure.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Your healthcare professional will perform a thorough medical evaluation before the surgery. Your medical history must be completely and accurately disclosed, including any pre-existing diseases, allergies, medications, and past procedures.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Make sure to disclose all your medications to your neurosurgeon before the <strong>burr hole surgery in Delhi</strong></span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Observe your surgeon’s pre-operative fasting recommendations. To reduce the danger of aspiration during anesthesia, you will typically be requested to refrain from eating or drinking for a specified amount of time before the procedure.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You must undergo a series of tests to determine your blood clotting capacity, general health, and any underlying medical disorder.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">It is advised to cut back or stop smoking and drinking before surgery if you do either. Alcohol and smoking can affect the healing of your wounds and how well anesthesia and medications work.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Your surgeon will review the procedure’s risks, advantages, and potential side effects with you before the operation. You must understand the potential risks that can occur during the procedure.</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>During the Burr Hole Surgery in India</b></span></h3>
 <p><span style="font-weight: 400;">The <strong>best doctors for Burr Hole Surgery in India</strong>, first of all, analyze where exactly burr holes need to go. For this, they use diagnostic image testing to determine the condition you are suffering from. Once the location of the Burr hole is decided, the procedure is performed as follows:</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will be given anesthesia during the procedure to not to feel any pain.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The area that needs a burr hole will then be shaved and disinfected. The hair will be removed to wipe the skin with the sterile solution to minimize the risk of infection.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The surgeon will then insert additional anesthesia in the skull so you do not feel anything.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The surgeon will then incision the scalp to expose the skull.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The surgeon will insert the burr hole in the skin using a special drill. The hole may be used to drain the fluid that is causing pressure in the brain.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Once the<strong> burr hole surgery in Indraprastha Apollo Hospital</strong> is complete, you will be shifted to the recovery room. The hospital stay can last a couple of days to ensure your vitals are okay.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will be given anesthesia during the procedure to not to feel any pain.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The area that needs a burr hole will then be shaved and disinfected. The hair will be removed to wipe the skin with the sterile solution to minimize the risk of infection.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The surgeon will then insert additional anesthesia in the skull so you do not feel anything.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The surgeon will then incision the scalp to expose the skull.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The surgeon will insert the burr hole in the skin using a special drill. The hole may be used to drain the fluid that is causing pressure in the brain.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Once the<strong> burr hole surgery in Indraprastha Apollo Hospital</strong> is complete, you will be shifted to the recovery room. The hospital stay can last a couple of days to ensure your vitals are okay.&nbsp;</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>After the Surgery</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It’s crucial to take good care of the surgical incision. Keep the incision site tidy and dry per your healthcare provider’s instructions.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow your surgeon’s instructions when taking prescribed drugs. To treat discomfort following surgery, this may also include antibiotics to avoid infection. Follow the recommended dosage and schedule, and let your doctor know if you have any negative reactions.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rest is essential for a speedy recovery. Avoid demanding tasks, hard lifting, and high physical activity during the early healing time.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You can lessen swelling and encourage drainage by keeping your head elevated, especially while you sleep. For the first several days following surgery, try to avoid lying flat by using pillows or a recliner to support yourself.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pay close attention to any infections or problems, such as pain, edema, redness, discharge, or fever. Inform your healthcare provider right away of any worries.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Attend every one of your surgeon’s scheduled follow-up appointments. These visits are essential for tracking your development, removing stitches or staples as necessary, and answering any queries or concerns you may have.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">It’s crucial to take good care of the surgical incision. Keep the incision site tidy and dry per your healthcare provider’s instructions.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Follow your surgeon’s instructions when taking prescribed drugs. To treat discomfort following surgery, this may also include antibiotics to avoid infection. Follow the recommended dosage and schedule, and let your doctor know if you have any negative reactions.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Rest is essential for a speedy recovery. Avoid demanding tasks, hard lifting, and high physical activity during the early healing time.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You can lessen swelling and encourage drainage by keeping your head elevated, especially while you sleep. For the first several days following surgery, try to avoid lying flat by using pillows or a recliner to support yourself.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Pay close attention to any infections or problems, such as pain, edema, redness, discharge, or fever. Inform your healthcare provider right away of any worries.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Attend every one of your surgeon’s scheduled follow-up appointments. These visits are essential for tracking your development, removing stitches or staples as necessary, and answering any queries or concerns you may have.</span></li>
 </ul>
 <h2><strong><span style="color: #0048ad;">Learning the Benefits of Burr Hole Surgery&nbsp;</span></strong></h2>
 <p><span style="font-weight: 400;"><strong>Burr hole surgery in India</strong> is a valuable method in neurosurgery due to its numerous benefits. Let’s explore the benefits in greater detail:</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Minimally Invasive:</b><span style="font-weight: 400;"><strong> Burr hole surgery in Delhi</strong> has several important benefits, one of which is that it is minimally invasive. Burr hole operations include making small incisions in the skull instead of conventional open cranial surgery, minimizing tissue stress, and lowering the possibility of complications. As a result, patients experience smaller incisions, less postoperative discomfort, less blood loss, and quicker healing time frames.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Minimally Invasive:</b><span style="font-weight: 400;"><strong> Burr hole surgery in Delhi</strong> has several important benefits, one of which is that it is minimally invasive. Burr hole operations include making small incisions in the skull instead of conventional open cranial surgery, minimizing tissue stress, and lowering the possibility of complications. As a result, patients experience smaller incisions, less postoperative discomfort, less blood loss, and quicker healing time frames.</span></li>
 </ul>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Versatility</b><span style="font-weight: 400;">: A variety of neurological diseases can be treated with <strong>burr hole surgery</strong>. The treatment gives access to numerous parts of the brain and surrounding tissues, whether for deep brain stimulation, taking a brain tumor biopsy, or draining a chronic subdural hematoma.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Versatility</b><span style="font-weight: 400;">: A variety of neurological diseases can be treated with <strong>burr hole surgery</strong>. The treatment gives access to numerous parts of the brain and surrounding tissues, whether for deep brain stimulation, taking a brain tumor biopsy, or draining a chronic subdural hematoma.&nbsp;</span></li>
 </ul>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Precise Targeting</b><span style="font-weight: 400;">: Burr hole surgery combines cutting-edge imaging techniques like MRI and C.T. scans. These imaging methods give surgeons precise anatomical information so they may precisely target the injured area.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Precise Targeting</b><span style="font-weight: 400;">: Burr hole surgery combines cutting-edge imaging techniques like MRI and C.T. scans. These imaging methods give surgeons precise anatomical information so they may precisely target the injured area.&nbsp;</span></li>
 </ul>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Shorter Hospital Stay</b><span style="font-weight: 400;">: Burr hole surgery frequently results in shorter hospital stays due to its minimally invasive nature and quicker healing durations. Patients often enjoy less postoperative pain, fewer complications, and quicker mobilization than more complex cranial procedures.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Shorter Hospital Stay</b><span style="font-weight: 400;">: Burr hole surgery frequently results in shorter hospital stays due to its minimally invasive nature and quicker healing durations. Patients often enjoy less postoperative pain, fewer complications, and quicker mobilization than more complex cranial procedures.&nbsp;</span></li>
 </ul>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Lower Risk of Infection</b><span style="font-weight: 400;">: Because of the smaller incisions made during burr hole surgery, the brain, and surrounding tissues are less exposed to the outside environment. This reduces the possibility of surgical site infections, which can pose a serious risk for open cranial procedures.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Lower Risk of Infection</b><span style="font-weight: 400;">: Because of the smaller incisions made during burr hole surgery, the brain, and surrounding tissues are less exposed to the outside environment. This reduces the possibility of surgical site infections, which can pose a serious risk for open cranial procedures.</span></li>
 </ul>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Fast Recovery and rehabilitation</b><span style="font-weight: 400;">: Recovery and rehabilitation are completed thanks to burr hole surgery’s reduced invasiveness compared to open cranial surgery. Patients who undergo surgery from the <strong>best hospitals for burr hole surgery in India </strong>benefit from higher functional outcomes and an overall improvement in quality of life.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Fast Recovery and rehabilitation</b><span style="font-weight: 400;">: Recovery and rehabilitation are completed thanks to burr hole surgery’s reduced invasiveness compared to open cranial surgery. Patients who undergo surgery from the <strong>best hospitals for burr hole surgery in India </strong>benefit from higher functional outcomes and an overall improvement in quality of life.</span></li>
 </ul>
-<h2><span style="color: #0048ad;">Cost of Burr Hole Surgery in India</span></h2>
-<p><span style="font-weight: 400;"><strong>Burr hole surgery</strong> is a surgical procedure used to create one or more small openings in the skull. It is a minimally invasive neurosurgical technique that allows access to the brain for various diagnostic or therapeutic purposes. Here is a brief overview of</span>&nbsp; the <strong>Cost of Burr Hole Surgery in India:</strong></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><b>Lowest cost</b><span style="font-weight: 400;">: $4,000 USD&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Average cost: $</b><span style="font-weight: 400;">55,00 USD&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Highest cost:</b><span style="font-weight: 400;"> $65,00 USD</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Treatment type</b><span style="font-weight: 400;">: Burr hole surgery is a minimally invasive procedure that involves making a small hole in the skull to access the brain</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Treatment time</b><span style="font-weight: 400;">: 30 minutes to 1 hour.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Hospitalization day</b><span style="font-weight: 400;">s:1 to 2 days</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Chances of recurrence:</b><span style="font-weight: 400;"> Moderate</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Recovery time</b><span style="font-weight: 400;">:1 to 2 weeks</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Success rate</b><span style="font-weight: 400;">:90%</span></li>
+<h2><br /></h2><ul>
 </ul>
 <h2><strong><span style="color: #0048ad;">Let us look at the key factors affecting Burr Hole Surgery Cost in India</span></strong></h2>
 <h3><span style="color: #0048ad;"><b>Pre -operative factors affecting burr hole surgery cost in Delhi:&nbsp;</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Diagnostic imaging including MRI and CT Scans</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Laboratory tests including CBC, coagulation profile,viral markers&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultations and evaluations with neurosurgeons and neurologists</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Diagnostic imaging including MRI and CT Scans</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Laboratory tests including CBC, coagulation profile,viral markers&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Consultations and evaluations with neurosurgeons and neurologists</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>Intraoperative factors affecting minimally invasive brain surgery cost</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgeons fee</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Anesthesia charges</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Operating room expenses</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Technology used&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of surgical approach&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgeons fee</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Anesthesia charges</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Operating room expenses</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Technology used&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of surgical approach&nbsp;</span></li>
 </ul>
 <p><span style="color: #0048ad;"><b>Post-operative factors affecting cost of brain tumor surgery in Indraprastha Apollo Hospital</b></span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Duration of hospital stay</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Followup visits and rehabilitation</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Duration of hospital stay</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medications</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Followup visits and rehabilitation</span></li>
 </ul>
 <p><span style="color: #0048ad;"><b>Patient- Related factors</b></span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Patient age</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Patient overall health</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Any disease that the patient is suffering from</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Patient age</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Patient overall health</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Any disease that the patient is suffering from</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Complications&nbsp;</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>What are various cost variations?&nbsp;</b></span></h3>
 <p><span style="font-weight: 400;">The</span><b> cost of burr hole surgery in Delhi</b><span style="font-weight: 400;"> also depends on:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of hospital you choose</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Location of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgeon’s experience and expertise</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Insurance coverage</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications or revisions during surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Insurance coverage</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Any discounts offered by the medical facility</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of hospital you choose</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Accreditation of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Location of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgeon’s experience and expertise</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Insurance coverage</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Complications or revisions during surgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Insurance coverage</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Currency exchange rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Any discounts offered by the medical facility</span></li>
 </ul>
 <p><span style="color: #0048ad;"><strong>&nbsp;</strong>&nbsp;</span><strong><span style="color: #0048ad;">Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:</span> </strong></p>
 <ul>
@@ -2149,7 +1801,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 </ul>
 <p>To learn more about our services, please write to us at <a href="mailto:info@Medihelp Globalglobal.com">info@Medihelp Globalglobal.com</a>. We will let you know the total<strong> cost of&nbsp; Burr hole surgery in Delh</strong>i based on your reports.</p>
 <h2><span style="color: #0048ad;">Best Hospitals for Burr Hole Surgery in India</span></h2>
-<table style="height: 359px;" width="990">
+<table style="height: 359px; width: 100%;">
 <tbody>
 <tr>
 <td><b>Hospital</b></td>
@@ -2187,14 +1839,14 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><span style="font-weight: 400;">Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be with you at each treatment step. So, if you are planning your <strong>Burr Hole surgery </strong></span><b>in India, </b><span style="font-weight: 400;">fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
 <p><span style="font-weight: 400;">We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. Having an experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Burr Hole Surgery Doctors in India</strong>&nbsp;&nbsp;</span></p>
-
 		</div>`,
   },
+  // craniotomy-surgery
   {
     name: "craniotomy-surgery",
     img: "/treatment/craniotomy-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Find The Best Neurosurgeon for Craniotomy Surgery in India</span></h2>
+			<h2><span style="color: #0048ad;">Cost in Top Hospitals Doing Craniotomy Surgery in India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Hospital Name&nbsp;</b></td><td><b>Craniotomy&nbsp;</b></td><td><b>TNTS&nbsp;</b></td></tr><tr><td><span>Indraprastha Apollo&nbsp;</span></td><td><span>9000$</span></td><td><span>9500$</span></td></tr><tr><td><span>Max Healthcare&nbsp;</span></td><td><span>8000$</span></td><td><span>8500$</span></td></tr><tr><td><span>Max – BLK&nbsp;</span></td><td><span>7500$</span></td><td><span>7500$</span></td></tr><tr><td><span>Fortis Memorial Research Institute&nbsp;</span></td><td><span>7500$</span></td><td><span>7800&amp;</span></td></tr><tr><td><span>Artemis Hospital&nbsp;</span></td><td><span>7200$</span></td><td><span>7500$</span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Your Package Will Cover</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 07 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay:&nbsp;</b>20 Days</p><p style="color: black; font-size: medium; font-weight: 400;"><b>The success rate of the surgery:&nbsp;</b><span>98%&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">Neuro Health on a Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><span>Book an appointment with&nbsp;</span><b>Dr Nadeem Khan</b><span>&nbsp;today to learn more about craniotomy surgery in India.&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">Find The Best Neurosurgeon for Craniotomy Surgery in India</span></h2>
 <p>A Craniotomy is a surgical procedure performed to remove certain tumors or blood clots from the brain. It allows accessing the brain for the surgeon to perform several complex neurosurgical procedures. The&nbsp;<strong>tumor decompression surgery&nbsp;</strong>allows the patient to feel more comfortable and lead a normal life by eliminating the pain caused by the growing tumor on the brain. It dramatically improves the quality of life for patients with brain tumors by reducing the symptoms and slowing down the progression of the disease.</p>
 <p>India is a popular destination for Craniotomy and tumor decompression surgery due to its advanced medical facilities. With&nbsp;<strong>some of the Best Craniotomy Surgeons in India</strong>, it also offers affordable surgical options with the latest stereotactic technology, making it a favorable choice for people worldwide.</p>
 <h2><span style="color: #0048ad;">Diagnosis for Craniotomy Surgery in India</span></h2>
@@ -2230,9 +1882,9 @@ We score over others because the ‘treatment consultants’ in our company are 
 <h3><span style="color: #0048ad;"><b>Intraoperative Factors</b></span></h3>
 <p><b>Surgeons Fee</b><span style="font-weight: 400;">: The <strong>cost of craniotomy in India</strong> greatly depends on the surgeon’s fees. The surgeon’s fee depends on the following:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Credentialing and privileging of the surgeon&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">International degree and training&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Successful surgeries performed&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Credentialing and privileging of the surgeon&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">International degree and training&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Successful surgeries performed&nbsp;</span></li>
 </ul>
 <p><b>Type of Craniotomy: </b><span style="font-weight: 400;"><strong>Open craniotom</strong>y is more economical than endoscopic and has minimal access due to special scopes and camera involvement.&nbsp;</span></p>
 <h3><span style="color: #0048ad;"><b>Post Operative Factors affecting the cost of craniotomy surgery in India</b></span></h3>
@@ -2243,119 +1895,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p><b>Geographic Factors: </b><span style="font-weight: 400;">If the hospital you choose for the surgery is located in metro cities of India like Gurgaon or Delhi, the<strong> cost of craniotomy surgery in India</strong> will be higher.&nbsp;</span></p>
 <p><b>Type of Hospital: </b><span style="font-weight: 400;">The <strong>cost of craniotomy in India</strong> increases if:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital has advanced neurological facilities</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand image of the hospital (Indraprastha Apollo, Fortis Hospital, etc.)</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital has advanced neurological facilities</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The brand image of the hospital (Indraprastha Apollo, Fortis Hospital, etc.)</span></li>
 </ul>
 <p><b>Complications and Revisions: </b><span style="font-weight: 400;">Complications like infections, shunt malfunction, or blockage may require additional revision surgeries. This adds to the overall cost of the surgery.&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>Cost in Top Hospitals Doing Craniotomy Surgery in India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital Name&nbsp;</b></td>
-<td><b>Craniotomy&nbsp;</b></td>
-<td><b>TNTS&nbsp;</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo&nbsp;</span></td>
-<td><span style="font-weight: 400;">9000$</span></td>
-<td><span style="font-weight: 400;">9500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Max Healthcare&nbsp;</span></td>
-<td><span style="font-weight: 400;">8000$</span></td>
-<td><span style="font-weight: 400;">8500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Max – BLK&nbsp;</span></td>
-<td><span style="font-weight: 400;">7500$</span></td>
-<td><span style="font-weight: 400;">7500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Fortis Memorial Research Institute&nbsp;</span></td>
-<td><span style="font-weight: 400;">7500$</span></td>
-<td><span style="font-weight: 400;">7800&amp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Artemis Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">7200$</span></td>
-<td><span style="font-weight: 400;">7500$</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 07 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: </b>20 Days</p>
-<p><b>The success rate of the surgery: </b><span style="font-weight: 400;">98%&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>Neuro Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">Book an appointment with </span><b>Dr Nadeem Khan</b><span style="font-weight: 400;"> today to learn more about craniotomy surgery in India.&nbsp;</span></p>
+<h2><br /></h2>
 <h2><span style="color: #0048ad;"><strong>Best Doctors for Craniotomy Surgery in India</strong></span></h2>
 <ul>
 <li><a href="#/dr-vp-singh-neurosurgeon-in-gurgaon-india/"><strong>Dr VP Singh</strong></a>&nbsp;– Chairman Neurosurgery at Medanta the Medicity</li>
@@ -2379,11 +1924,12 @@ We score over others because the ‘treatment consultants’ in our company are 
 
 		</div>`,
   },
+  // vp-shunt-surgery
   {
     name: "vp-shunt-surgery",
     img: "/treatment/vp-shunt-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Transforming Lives-VP shunt Surgery in India</strong></span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals For VP Shunt Surgery in India and Cost Comparision</span></h2><h2><span style="color: #0048ad;"><table style="height: 622px; width: 667px;"><thead><tr><td width="218"><strong>&nbsp;</strong><strong>Hospital</strong></td><td width="224"><strong>&nbsp;</strong><strong>Accreditation</strong></td><td width="242"><strong>&nbsp;</strong><strong>Best Doctor</strong></td><td width="208"><strong>&nbsp;</strong><strong>Experience&nbsp;&nbsp; of Doctor</strong></td><td width="302"><strong>&nbsp;</strong><strong>Post Of&nbsp; Doctor</strong></td><td width="204"><strong>&nbsp;</strong><strong>Cost</strong></td></tr><tr><td width="218">Max Super Speciality Hospital, New Delhi</td><td width="224">JCI</td><td width="242">Prof. (Col.)&nbsp;Dr. Bipin Walia.</td><td width="208">26+ Years</td><td width="302">Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, Spine Surgery.</td><td width="204">4500$</td></tr><tr><td width="218">Indraprastha Apollo Hospital</td><td width="224">JCI</td><td width="242">Dr. Sudheer Kumar Tyagi</td><td width="208">24+ Years</td><td width="302">-MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon Indraprastha Apollo Hospitals</td><td width="204">5500$</td></tr><tr><td width="218">Fortis Memorial Research Institute, Gurugram</td><td width="224">JCI</td><td width="242">Dr. Rana Patir,</td><td width="208">26+ Years</td><td width="302">MS (General Surgery), MCh (Neurosurgery), CONSULTANT NEUROSURGERY, Fortis Memorial Research Institute, Gurugram<p></p><p>&nbsp;</p></td><td width="204">5500$</td></tr><tr><td width="218">Medanta the Medicity</td><td width="224">JCI</td><td width="242">Dr. VP Singh&nbsp;– Chairman Neurosurgery at Medanta the Medicity</td><td width="208">33 + Years</td><td width="302">Chairman Neurosurgery at Medanta the Medicity</td><td width="204">5500$</td></tr><tr><td width="218">Artemis Hospital</td><td width="224">JCI</td><td width="242">Dr. Aditya Gupta</td><td width="208">27+ Years</td><td width="302">Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery) Co-Chief (Cyberknife Centre) Artemis Hospital in Gurugram.<p></p><p>&nbsp;</p><p>&nbsp;</p></td><td width="204">5000$</td></tr></thead></table></span></h2><h2><span style="color: #0048ad;">VP Shunt Surgery in India: Factors Affecting the Cost</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;"><span>A&nbsp;<strong>VP shunt surgery</strong>&nbsp;is a procedure that is performed to treat Hydrocephalus. It is a condition caused by the accumulation of Cerebrospinal fluid in the brain’s ventricles. During the procedure, a thin tube called a shunt is implanted into the brain’s ventricles to divert the fluid from the brain to other body parts.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><span>The&nbsp;<strong>VP shunt surgery cost in India</strong>&nbsp;depends on various factors. Let us know these factors one by one:&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Hospital Quality Accreditation: The&nbsp;</b><span>hospital’s choice and infrastructure significantly impact the cost. Well-established JCI-accredited hospitals charge more, like Indraprastha Apollo Hospital and Medanta Hospital.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Type of hospital you choose:&nbsp;</b><span>The&nbsp;<strong>cost of VP Shunt surgery in Delhi</strong>&nbsp;will also depend on the type of hospital you choose. The costs will be higher if the hospital is a super-specialty or a single super-specialist. The hospital’s brand also plays a key role in deciding the cost. For example, I<strong>ndraprastha Apollo Hospital and Fortis Hospital</strong>&nbsp;will charge you more for VP shunt surgery in India.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Surgeons Fee:&nbsp;</b><span>The cost will be more if you get the procedure done by an experienced neurosurgeon. The surgeons who use the latest technology to perform the procedure and have low mortality and low morbidity rates generally charge high. A highly qualified, experienced, and internationally trained surgeon tends to charge more for the same surgery.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Technology and Equipment:&nbsp;</b><span>The&nbsp;<strong>cost of VP shunt surgery</strong>&nbsp;also depends on the technology and equipment quality, since they play a major role in deciding the surgical outcomes. Hospitals using advanced tools like robotics, stereotactic, or neuronavigation will charge you more.</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Diagnostic Tests:&nbsp;</b><span>Pre-operative diagnostic tests like MRI scans or any other special tests the surgeon suggests also add to the overall&nbsp;<strong>cost of VP Shunt surgery in India.&nbsp;</strong></span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Duration of Hospital Stay:&nbsp;</b><span>The length of hospital stay also adds to the overall cost of the surgery. Complications or needing to stay longer in the hospital increases the overall cost. Also, the category of the room you choose for your hospital stay determines the cost.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Medications:&nbsp;</b><span>The cost of medicines, surgery supplies, and other things also contribute to the cost of VP Shunt surgery. Also, if you choose an American device for the surgery, the cost will be higher than an Indian device.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Complications:&nbsp;</b><span>In case of complications, you may need extra days of hospitalization and more medicines, leading to increased costs.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Comorbidity –&nbsp;</b><span>Co-morbidity is the presence of any other medical condition alongside the condition that is being treated. Co-morbidities complicate the procedure and collectively increase the surgical costs, long hospital stays, more medicines, etc.</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Location of the Hospital:&nbsp;</b><span>The location of the hospital also determines the<strong>&nbsp;cost of VP Shunt surgery in Delhi.</strong>&nbsp;The cost will increase if the hospital is located in metropolitan cities in India like Delhi, Mumbai and Bangalore.&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">Neuro Health on a Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Package Inclusions and Exclusions</span></h2><h2><span style="color: #0048ad;"><table widthh="1344"><thead><tr><td width="678"><strong>Inclusions</strong></td><td width="666"><strong>Exclusions</strong></td></tr><tr><td width="678">Routier Pre-op investigations</td><td width="666">Stay beyond package days</td></tr><tr><td width="678">Single /Private Room</td><td width="666">Added drugs and consumables to the list</td></tr><tr><td width="678">Implant cost</td><td width="666">Consultation with specialists from other fields of medicine</td></tr><tr><td width="678">Rehabilitation during hospitalization</td><td width="666">The complications involved</td></tr><tr><td width="678">Consultant’s and surgeon’s fees</td><td width="666"><strong>&nbsp;</strong></td></tr><tr><td width="678">O.T. charges and Anaesthesia charges</td><td width="666"><strong>&nbsp;</strong></td></tr><tr><td width="678">Medicines and consumables</td><td width="666"><strong>&nbsp;</strong></td></tr><tr><td width="678">Pickup and drop off at the airport</td><td width="666"><strong>&nbsp;</strong></td></tr><tr><td width="678">Attendant Stay and meals.</td><td width="666"><strong>&nbsp;</strong></td></tr><tr><td width="678">Access to the International Patient Care Lounge</td><td width="666"><strong>&nbsp;</strong></td></tr><tr><td width="678">Handhold care by an executive</td><td width="666"><strong>&nbsp;</strong></td></tr><tr><td width="678">Taxi to visit the hospital</td><td width="666"><strong>&nbsp;</strong></td></tr><tr><td width="678">Normal Hotel with kitchen 10 days</td><td width="666"><strong>&nbsp;</strong></td></tr></thead></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in hospital:&nbsp;</strong>04 Days</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in India:&nbsp;</strong>15 Days</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Percentage of success:&nbsp;</strong>99.9%</p></span></h2><h2><span style="color: #0048ad;"><strong>Transforming Lives-VP shunt Surgery in India</strong></span></h2>
 <p>A ventriculoperitoneal shunt is a device used to relieve pressure on the brain caused by the accumulation of tube fluid. <strong>V.P. shunt surgery in India </strong>is primarily a procedure used to treat a condition called Hydrocephalus. This condition occurs when excess cerebrospinal fluid gets collected in the brain ventricles. To treat this condition, a V.P. shunt is placed inside one of the ventricles to stop the fluid from accumulating.</p>
 <h2><span style="color: #0048ad;"><strong>What is Hydrocephalus, and How is it Diagnosed?</strong></span></h2>
 <p><strong>&nbsp;</strong>Hydrocephalus is a medical condition in which excessive brain fluid accumulates within the brain’s ventricles. CSF is a fluid that surrounds the spinal cord and the brain, providing cushioning and nourishment.</p>
@@ -2463,168 +2009,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 <li><strong>A minimally invasive surgery</strong>: <strong>V.P. shunt surgery</strong> is a surgery, but it’s generally considered a minimally invasive procedure compared to other neurosurgical procedures. In most cases, the procedure involves small incisions and endoscopic techniques. With minimally invasive procedures, tissues are less traumatized, hospital stays are shorter, and recovery is faster.</li>
 <li><strong>Wide availability</strong>: <strong>V.P. shunt surgery in India</strong> is widely available in hospitals and medical centers. Neurosurgeons and healthcare teams perform these surgeries so patients get quality care and get the best results.</li>
 </ul>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals For VP Shunt Surgery in India and Cost Comparision</strong></span></h2>
-<table style="height: 622px;" width="1315">
-<thead>
-<tr>
-<td width="218"><strong>&nbsp;</strong><strong>Hospital</strong></td>
-<td width="224"><strong>&nbsp;</strong><strong>Accreditation</strong></td>
-<td width="242"><strong>&nbsp;</strong><strong>Best Doctor</strong></td>
-<td width="208"><strong>&nbsp;</strong><strong>Experience&nbsp;&nbsp; of Doctor</strong></td>
-<td width="302"><strong>&nbsp;</strong><strong>Post Of&nbsp; Doctor</strong></td>
-<td width="204"><strong>&nbsp;</strong><strong>Cost</strong></td>
-</tr>
-<tr>
-<td width="218"><a href="/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, New Delhi</td>
-<td width="224">JCI</td>
-<td width="242">Prof. (Col.) <a href="/dr-bipin-swarn-walia-neurosurgeon-in-new-delhi/">Dr. Bipin Walia</a>.</td>
-<td width="208">26+ Years</td>
-<td width="302">Principal Director and Head – of Neurosurgery for Max Saket Complex. Neurosciences, Neurosurgery, Spine Surgery.</td>
-<td width="204">4500$</td>
-</tr>
-<tr>
-<td width="218"><a href="/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td width="224">JCI</td>
-<td width="242"><a href="/dr-sudheer-tyagi-neuro-surgeon/">Dr. Sudheer Kumar Tyagi</a></td>
-<td width="208">24+ Years</td>
-<td width="302">-MBBS, MS – General Surgery, MCh – Neuro Surgery, Neurosurgeon Indraprastha Apollo Hospitals</td>
-<td width="204">5500$</td>
-</tr>
-<tr>
-<td width="218"><a href="/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</td>
-<td width="224">JCI</td>
-<td width="242"><a href="/dr-rana-patir-neurosurgeon-in-gurgaon-india/">Dr. Rana Patir</a>,</td>
-<td width="208">26+ Years</td>
-<td width="302">MS (General Surgery), MCh (Neurosurgery), CONSULTANT NEUROSURGERY, Fortis Memorial Research Institute, Gurugram<p></p>
-<p>&nbsp;</p></td>
-<td width="204">5500$</td>
-</tr>
-<tr>
-<td width="218"><a href="/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="224">JCI</td>
-<td width="242"><a href="/dr-vp-singh-neurosurgeon-in-gurgaon-india/">Dr. VP Singh</a> – Chairman Neurosurgery at Medanta the Medicity</td>
-<td width="208">33 + Years</td>
-<td width="302">Chairman Neurosurgery at Medanta the Medicity</td>
-<td width="204">5500$</td>
-</tr>
-<tr>
-<td width="218"><a href="/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td width="224">JCI</td>
-<td width="242"><a href="/dr-aditya-gupta-neurosurgery/">Dr. Aditya Gupta</a></td>
-<td width="208">27+ Years</td>
-<td width="302">Chief at Artemis Hospital (Neurosurgery &amp; CNS Radiosurgery) Co-Chief (Cyberknife Centre) Artemis Hospital in Gurugram.<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p></td>
-<td width="204">5000$</td>
-</tr>
-</thead>
-</table>
-<h2><span style="color: #0048ad;"><b>VP Shunt Surgery in India: Factors Affecting the Cost</b></span></h2>
-<p><span style="font-weight: 400;">A <strong>VP shunt surgery</strong> is a procedure that is performed to treat Hydrocephalus. It is a condition caused by the accumulation of Cerebrospinal fluid in the brain’s ventricles. During the procedure, a thin tube called a shunt is implanted into the brain’s ventricles to divert the fluid from the brain to other body parts.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The <strong>VP shunt surgery cost in India</strong> depends on various factors. Let us know these factors one by one:&nbsp;</span></p>
-<p><b>Hospital Quality Accreditation: The </b><span style="font-weight: 400;">hospital’s choice and infrastructure significantly impact the cost. Well-established JCI-accredited hospitals charge more, like Indraprastha Apollo Hospital and Medanta Hospital.&nbsp;</span></p>
-<p><b>Type of hospital you choose: </b><span style="font-weight: 400;">The <strong>cost of VP Shunt surgery in Delhi</strong> will also depend on the type of hospital you choose. The costs will be higher if the hospital is a super-specialty or a single super-specialist. The hospital’s brand also plays a key role in deciding the cost. For example, I<strong>ndraprastha Apollo Hospital and Fortis Hospital</strong> will charge you more for VP shunt surgery in India.&nbsp;</span></p>
-<p><b>Surgeons Fee: </b><span style="font-weight: 400;">The cost will be more if you get the procedure done by an experienced neurosurgeon. The surgeons who use the latest technology to perform the procedure and have low mortality and low morbidity rates generally charge high. A highly qualified, experienced, and internationally trained surgeon tends to charge more for the same surgery.&nbsp;</span></p>
-<p><b>Technology and Equipment: </b><span style="font-weight: 400;">The <strong>cost of VP shunt surgery</strong> also depends on the technology and equipment quality, since they play a major role in deciding the surgical outcomes. Hospitals using advanced tools like robotics, stereotactic, or neuronavigation will charge you more.</span></p>
-<p><b>Diagnostic Tests: </b><span style="font-weight: 400;">Pre-operative diagnostic tests like MRI scans or any other special tests the surgeon suggests also add to the overall <strong>cost of VP Shunt surgery in India.&nbsp;</strong></span></p>
-<p><b>Duration of Hospital Stay: </b><span style="font-weight: 400;">The length of hospital stay also adds to the overall cost of the surgery. Complications or needing to stay longer in the hospital increases the overall cost. Also, the category of the room you choose for your hospital stay determines the cost.&nbsp;</span></p>
-<p><b>Medications: </b><span style="font-weight: 400;">The cost of medicines, surgery supplies, and other things also contribute to the cost of VP Shunt surgery. Also, if you choose an American device for the surgery, the cost will be higher than an Indian device.&nbsp;</span></p>
-<p><b>Complications: </b><span style="font-weight: 400;">In case of complications, you may need extra days of hospitalization and more medicines, leading to increased costs.&nbsp;</span></p>
-<p><b>Comorbidity – </b><span style="font-weight: 400;">Co-morbidity is the presence of any other medical condition alongside the condition that is being treated. Co-morbidities complicate the procedure and collectively increase the surgical costs, long hospital stays, more medicines, etc.</span></p>
-<p><b>Location of the Hospital: </b><span style="font-weight: 400;">The location of the hospital also determines the<strong> cost of VP Shunt surgery in Delhi.</strong> The cost will increase if the hospital is located in metropolitan cities in India like Delhi, Mumbai and Bangalore.&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>Neuro Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><strong>Package Inclusions and Exclusions</strong></span></h2>
-<table widthh="1344">
-<thead>
-<tr>
-<td width="678"><strong>Inclusions</strong></td>
-<td width="666"><strong>Exclusions</strong></td>
-</tr>
-<tr>
-<td width="678">Routier Pre-op investigations</td>
-<td width="666">Stay beyond package days</td>
-</tr>
-<tr>
-<td width="678">Single /Private Room</td>
-<td width="666">Added drugs and consumables to the list</td>
-</tr>
-<tr>
-<td width="678">Implant cost</td>
-<td width="666">Consultation with specialists from other fields of medicine</td>
-</tr>
-<tr>
-<td width="678">Rehabilitation during hospitalization</td>
-<td width="666">The complications involved</td>
-</tr>
-<tr>
-<td width="678">Consultant’s and surgeon’s fees</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="678">O.T. charges and Anaesthesia charges</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="678">Medicines and consumables</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="678">Pickup and drop off at the airport</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="678">Attendant Stay and meals.</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="678">Access to the International Patient Care Lounge</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="678">Handhold care by an executive</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="678">Taxi to visit the hospital</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="678">Normal Hotel with kitchen 10 days</td>
-<td width="666"><strong>&nbsp;</strong></td>
-</tr>
-</thead>
-</table>
-<p><strong>Stay in hospital: </strong>04 Days</p>
-<p><strong>Stay in India: </strong>15 Days</p>
-<p><strong>Percentage of success: </strong>99.9%</p>
+<h2><br /></h2>
 <h2><span style="color: #0048ad;"><strong>How can you avail of the best V.P. Shunt Surgery in India: Step By Step process?</strong></span></h2>
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>V.P. shunt surgery</strong> <strong>in India, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p>We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
@@ -2632,6 +2017,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 
 		</div>`,
   },
+  //  brain-avm-surgery
   {
     name: "brain-avm-surgery",
     img: "/treatment/brain-avm-surgery.webp",
@@ -2641,136 +2027,101 @@ We score over others because the ‘treatment consultants’ in our company are 
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><b>AVM Surgery in India: Your Health, Our Priority</b></span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals For AVM Surgery In India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><span style="color: black;"><b>Hospital</b></span></td><td><span style="color: black;"><b>Best Doctor</b></span></td><td><span style="color: black;"><b>Cost&nbsp;</b></span></td></tr><tr><td><span>Max Super Specialty Hospital, New Delhi</span><p></p><p><span>(JCI Accreditation)</span></p></td><td><span>Dr Himanshu Agarwal</span><p></p><p><b>Exp: 15 Years&nbsp;</b></p><p><span>(Senior Consultant: Interventional Neurology)</span></p></td><td><span>9000$</span></td></tr><tr><td><span>Indraprastha Apollo Hospital</span><p></p><p><span>(JCI Accreditation)</span></p></td><td><span>Dr Harsh Rastogi</span><p></p><p><b>Exp: 29 Years&nbsp;</b></p><p><span>(Consultant &amp; Clinical Co-ordinator, Radiology Department)</span></p></td><td><span>8500$</span></td></tr><tr><td><span>Fortis Memorial Research Institute, Gurugram</span><p></p><p><span>(JCI Accreditation)</span></p></td><td><span>Dr Vijay Kant Dixit</span><p></p><p><b>Exp: 20 Years&nbsp;</b></p><p><span>(Director of Interventional Neurocardiolog)</span></p></td><td><span>10000$</span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">How can you avail the best AVM Surgery in India-Step By Step process?</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;"><span>Medihelp Global is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your&nbsp;<strong>AVM surgery in India</strong></span><b>,&nbsp;</b><span>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p><p style="color: black; font-size: medium; font-weight: 400;"><span>We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</span></p><b>AVM Surgery in India: Your Health, Our Priority</b></span></h2>
 <p><span style="font-weight: 400;">An arteriovenous malformation is an abnormal tangle of blood vessels that connect arteries and veins in the brain. The arteries carry oxygen-rich blood from the heart to the brain, whereas veins carry oxygen-depleted blood from the heart to the lungs. For people who suffer from AVM, this normal process is disrupted.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The cause of AVM is still not clear. Many people have it from birth, while some develop it later in life. In this article, we will delve into the surgical options available for the <strong>treatment of AVM in India</strong> and we will also look into how you can access the best AVM surgery in India. Please continue reading to learn everything about AVM and its treatment in India.&nbsp;</span></p>
 <h2><strong>Arteriovenous Malformation Surgery in Delhi: Lets know the symptoms&nbsp;</strong></h2>
 <p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">The signs and symptoms of AVM do not appear until it ruptures, resulting in brain hemorrhage. Some people may also experience other symptoms like:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Seizures</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Headache</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Muscle weakness</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Weakness or paralysis</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Vision loss</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Difficulty in speaking</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unsteadiness</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Seizures</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Headache</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Muscle weakness</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Weakness or paralysis</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Vision loss</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Difficulty in speaking</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Unsteadiness</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Some important facts you should know about AVM</b></span></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Usually, the symptoms of AVM start appearing between ages 10 to 40. AVM damages brain tissues slowly, and symptoms appear in early adulthood.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">AVMs become stable in middle age.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The most severe AVM involves a vein of Galen. It causes major symptoms that appear after birth. The vessel causes an accumulation of fluid in the brain leading to swelling in the brain.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Usually, the symptoms of AVM start appearing between ages 10 to 40. AVM damages brain tissues slowly, and symptoms appear in early adulthood.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">AVMs become stable in middle age.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The most severe AVM involves a vein of Galen. It causes major symptoms that appear after birth. The vessel causes an accumulation of fluid in the brain leading to swelling in the brain.&nbsp;</span></li>
 </ul>
 <p><span style="color: #0048ad;"><b>AVM Surgery in India: Understanding the Causes</b></span></p>
 <p><span style="font-weight: 400;">AVMs have an unknown cause. The majority of brain AVMs form during fetal development. However, they can also develop after birth. People with <strong>Osler-Weber-Rendu syndrome</strong>, or <strong>hereditary hemorrhagic telangiectasia</strong> (HHT), may develop brain AVMs.</span></p>
 <p><span style="font-weight: 400;">In arteries, blood flows through increasingly smaller vessels, ending in capillaries, which slow blood flow. Capillaries deliver oxygen to surrounding brain tissue through their thin, porous walls. The oxygen-depleted blood passes through small blood vessels and into larger veins to replenish oxygen. In an AVM, the arteries and veins lack this network of smaller blood vessels. As a result, blood bypasses surrounding tissues by flowing directly from arteries to veins. To correct this defect, you need <strong>arteriovenous malformation surgery</strong>.&nbsp;</span></p>
 <p><span style="color: #0048ad;"><b>Why is it necessary to treat the brain AVM?</b></span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Since AVMs put extreme pressure on the walls of the arteries and veins, there are chances of life-threatening bleeding. Hence it is essential to have<strong> arteriovenous malformation surgery in India,</strong> to treat the issue.&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The blood does not flow through capillaries in people with brain AVM. Instead flows directly from arteries to veins. As a result, surrounding brain tissues cannot absorb oxygen due to the fast speed of the blood. Without sufficient oxygen, brain tissues die hence leading to a stroke.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Some AVMs are big, and they compress certain portions of the brain. This can even lead to brain damage.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Since AVMs put extreme pressure on the walls of the arteries and veins, there are chances of life-threatening bleeding. Hence it is essential to have<strong> arteriovenous malformation surgery in India,</strong> to treat the issue.&nbsp;&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The blood does not flow through capillaries in people with brain AVM. Instead flows directly from arteries to veins. As a result, surrounding brain tissues cannot absorb oxygen due to the fast speed of the blood. Without sufficient oxygen, brain tissues die hence leading to a stroke.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Some AVMs are big, and they compress certain portions of the brain. This can even lead to brain damage.&nbsp;</span></li>
 </ul>
 <p><span style="color: #0048ad;"><b>How are arteriovenous malformations (AVMs) diagnosed?</b></span></p>
 <p><span style="font-weight: 400;"><strong>&nbsp;Best doctors for AVN surgery in India</strong>, will order some imaging tests to detect AVM. These tests include:</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">MRA ( Cerebral magnetic resonance angiography)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">CTA ( Computed tomography angiography )</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Transcranial Doppler Ultrasound</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">MRA ( Cerebral magnetic resonance angiography)</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">CTA ( Computed tomography angiography )</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Transcranial Doppler Ultrasound</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Treatment Options available in India to treat AVM</b></span></h2>
 <p><span style="font-weight: 400;">Treatment choice depends on the location, type, and size of AVM. Treating this condition as soon as possible is the best way to avoid serious complications. The various treatment options available are:</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="color: #000000;"><b>Surgery: </b></span><span style="font-weight: 400;">Doctors make a small incision near the AVM, sealing the surrounding veins and arteries. This doesn’t let them bleed. Through <strong>AVM Surgery in India,</strong> the blood flow is directed to normal blood vessels.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Embolization: </b><span style="font-weight: 400;">During this procedure, a catheter gets inserted into an artery in your groin and moves to the AVM location. After that, a glue-like substance, coils, or another substance is injected into the AVM to slow or stop blood flow. Usually, this approach is used when the AVMs are big and have a lot of blood flowing through them.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Gamma Knife Surgery: </b><span style="font-weight: 400;">In this method, highly focused radiation beams dissolve AVM and make it easier to remove via surgery.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="color: black;"><b>Surgery: </b></span><span style="font-weight: 400;">Doctors make a small incision near the AVM, sealing the surrounding veins and arteries. This doesn’t let them bleed. Through <strong>AVM Surgery in India,</strong> the blood flow is directed to normal blood vessels.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Embolization: </b><span style="font-weight: 400;">During this procedure, a catheter gets inserted into an artery in your groin and moves to the AVM location. After that, a glue-like substance, coils, or another substance is injected into the AVM to slow or stop blood flow. Usually, this approach is used when the AVMs are big and have a lot of blood flowing through them.</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Gamma Knife Surgery: </b><span style="font-weight: 400;">In this method, highly focused radiation beams dissolve AVM and make it easier to remove via surgery.&nbsp;</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Embolization Surgery in India: Understanding the most popular treatment option in detail</b></span></h2>
 <p><span style="font-weight: 400;">Embolization is a minimally invasive procedure to <strong>treat AVM in India</strong>. It blocks or reduces the blood flow to the abnormal blood vessels. Let us understand everything about it in detail.</span></p>
 <h3><span style="color: #0048ad;"><b>Before the Surgery</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You may be asked to undergo a series of medical exams like an MRI, CT scan, and angiogram. This helps to determine the size and location of AVM.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will meet with an interventional radiologist to discuss the embolization procedure’s risks and benefits.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You must follow certain instructions before the surgery, like fasting before the procedure and avoiding smoking, alcohol, and blood thinning medications.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will also undergo certain tests like kidney function, heart function, liver function, and blood clotting time to determine whether you are a suitable candidate for the <strong>embolization surgery in India.&nbsp;</strong></span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If the procedure requires anesthesia, you will also have a detailed meeting with the anesthesiologist to determine anesthesia options.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You may be asked to undergo a series of medical exams like an MRI, CT scan, and angiogram. This helps to determine the size and location of AVM.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will meet with an interventional radiologist to discuss the embolization procedure’s risks and benefits.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You must follow certain instructions before the surgery, like fasting before the procedure and avoiding smoking, alcohol, and blood thinning medications.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will also undergo certain tests like kidney function, heart function, liver function, and blood clotting time to determine whether you are a suitable candidate for the <strong>embolization surgery in India.&nbsp;</strong></span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">If the procedure requires anesthesia, you will also have a detailed meeting with the anesthesiologist to determine anesthesia options.</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>During the Surgery</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><b>Anesthesia: </b><span style="font-weight: 400;">The <strong>AVM Surgery in Indraprastha Apollo Hopsital</strong> begins with giving a local anesthetic to the place where the catheter has to be inserted. In some cases, general anesthesia is given too.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Catheter Insertion: </b><span style="font-weight: 400;">The surgeon will insert a small flexible catheter into a blood vessel in the groin area. This is done using real-time X-Ray guidance. The catheter is taken to the location of the abnormality.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Angiography: </b><span style="font-weight: 400;">Once the catheter is in the right place, a dye is inserted, and X-Ray images are taken to visualize the area of abnormality.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Embolization Material Delivery: </b><span style="font-weight: 400;">Once the target area is identified, the embolic material is delivered through the catheter to block blood flow. The material can be tiny particles, glue-like substances, coils, or liquids. The choice depends on the area to be targeted.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Follow-Up Angiography: </b><span style="font-weight: 400;">Once the embolic material is in place, additional angiography is done to determine its effectiveness. It is done to ensure that AVM is shrinking.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Anesthesia: </b><span style="font-weight: 400;">The <strong>AVM Surgery in Indraprastha Apollo Hopsital</strong> begins with giving a local anesthetic to the place where the catheter has to be inserted. In some cases, general anesthesia is given too.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Catheter Insertion: </b><span style="font-weight: 400;">The surgeon will insert a small flexible catheter into a blood vessel in the groin area. This is done using real-time X-Ray guidance. The catheter is taken to the location of the abnormality.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Angiography: </b><span style="font-weight: 400;">Once the catheter is in the right place, a dye is inserted, and X-Ray images are taken to visualize the area of abnormality.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Embolization Material Delivery: </b><span style="font-weight: 400;">Once the target area is identified, the embolic material is delivered through the catheter to block blood flow. The material can be tiny particles, glue-like substances, coils, or liquids. The choice depends on the area to be targeted.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><b>Follow-Up Angiography: </b><span style="font-weight: 400;">Once the embolic material is in place, additional angiography is done to determine its effectiveness. It is done to ensure that AVM is shrinking.&nbsp;</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>After the Surgery</b></span></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Depending on your condition, you will be transferred to an intensive care unit (ICU).</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A physician will closely monitor your vital signs to detect immediate complications or changes in your condition after <strong>&nbsp;arteriovenous malformation surgery in India</strong>.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pain medications or other appropriate pain management techniques are prescribed during recovery to ensure your comfort.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will be observed for complications, such as bleeding, infection, or adverse reactions to medications.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Recovery time depends on the specific condition treated and the patient’s individual response.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">An angiography or CT scan may be performed to confirm that the embolization is effective and blood flow to the target area has reduced.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The length of the hospital stay depends on the procedure and your condition. Some people are discharged on the same day, while others need more recovery.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You and your caregivers will receive specific discharge instructions regarding wound care, medication management, physical activity limitations, and any required follow-up appointments. You must follow these instructions closely to promote healing.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Embolization</strong> is followed up by regular follow-up appointments to assess long-term effectiveness. Follow-up visits will depend on each case and how the healthcare team recommends t</span><b>hem.</b></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Depending on your condition, you will be transferred to an intensive care unit (ICU).</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">A physician will closely monitor your vital signs to detect immediate complications or changes in your condition after <strong>&nbsp;arteriovenous malformation surgery in India</strong>.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Pain medications or other appropriate pain management techniques are prescribed during recovery to ensure your comfort.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will be observed for complications, such as bleeding, infection, or adverse reactions to medications.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Recovery time depends on the specific condition treated and the patient’s individual response.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">An angiography or CT scan may be performed to confirm that the embolization is effective and blood flow to the target area has reduced.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The length of the hospital stay depends on the procedure and your condition. Some people are discharged on the same day, while others need more recovery.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You and your caregivers will receive specific discharge instructions regarding wound care, medication management, physical activity limitations, and any required follow-up appointments. You must follow these instructions closely to promote healing.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;"><strong>Embolization</strong> is followed up by regular follow-up appointments to assess long-term effectiveness. Follow-up visits will depend on each case and how the healthcare team recommends t</span><b>hem.</b></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>Knowing More About Coil Used During the Surgery</b></span></h3>
 <p><span style="font-weight: 400;">Bare platinum coils are made of biocompatible platinum alloy with no additional covering or coating. It is a non-reactive material that is well-suited for use in the human body. The coil’s size and shape primarily depend upon the location of the abnormality of the AVM. At the same time, its diameter ranges from 0.015 inches to 0.038 inches. These coils may last up to 20 years after the , <strong>arteriovenous malformation surgery in Delhi.</strong></span></p>
 <h3><span style="color: #0048ad;"><b>Advantages of Embolization</b></span></h3>
 <p><span style="font-weight: 400;"><strong>Embolization</strong> has several advantages. Let’s look at them:</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is a minimally invasive procedure requiring less extensive surgery than other surgical options. Hence it involves fewer scars and faster recovery time.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is used to treat AVM by targeting abnormal blood vessels. Hence the surrounding tissues are preserved.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Embolization can reduce the blood flow to abnormal blood vessels. It prevents complications caused by AVM by introducing embolic materials to block the blood vessels.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Embolization can be customized to meet individual needs. An interventional radiologist or surgeon can adjust the type and amount of embolic material used to target specific blood vessels.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Embolization may be used in conjunction with other treatments. It can be performed before surgery to reduce tumor size or AVM, making surgery easier and safer.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Embolization surgery in India</strong> can often be performed as an outpatient procedure or with a short stay in the hospital. Patients can return to their normal activities faster, and healthcare costs are reduced.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The risk of complications associated with embolization generally is lower than that of open surgery.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The embolization procedure can be repeated if necessary. When embolization does not completely resolve the condition in a single procedure, the procedure can be repeated to further control blood flow.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">It is a minimally invasive procedure requiring less extensive surgery than other surgical options. Hence it involves fewer scars and faster recovery time.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">It is used to treat AVM by targeting abnormal blood vessels. Hence the surrounding tissues are preserved.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Embolization can reduce the blood flow to abnormal blood vessels. It prevents complications caused by AVM by introducing embolic materials to block the blood vessels.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Embolization can be customized to meet individual needs. An interventional radiologist or surgeon can adjust the type and amount of embolic material used to target specific blood vessels.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Embolization may be used in conjunction with other treatments. It can be performed before surgery to reduce tumor size or AVM, making surgery easier and safer.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;"><strong>Embolization surgery in India</strong> can often be performed as an outpatient procedure or with a short stay in the hospital. Patients can return to their normal activities faster, and healthcare costs are reduced.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The risk of complications associated with embolization generally is lower than that of open surgery.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The embolization procedure can be repeated if necessary. When embolization does not completely resolve the condition in a single procedure, the procedure can be repeated to further control blood flow.</span></li>
 </ul>
-<h2><span style="color: #0048ad;"><b>Top Hospitals For AVM Surgery In India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><span style="color: #000000;"><b>Hospital</b></span></td>
-<td><span style="color: #000000;"><b>Best Doctor</b></span></td>
-<td><span style="color: #000000;"><b>Cost&nbsp;</b></span></td>
-</tr>
-<tr>
-<td><a href="#/hospital-network/max-super-speciality-hospital-saket"><span style="font-weight: 400;">Max Super Speciality Hospital, New Delhi</span></a><p></p>
-<p><span style="font-weight: 400;">(JCI Accreditation)</span></p></td>
-<td><a href="#/dr-himanshu-agarwal-senior-consultant-interventional-neurologist/"><span style="font-weight: 400;">Dr Himanshu Agarwal</span></a><p></p>
-<p><b>Exp: 15 Years&nbsp;</b></p>
-<p><span style="font-weight: 400;">(Senior Consultant: Interventional Neurology)</span></p></td>
-<td><span style="font-weight: 400;">9000$</span></td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/"><span style="font-weight: 400;">Indraprastha Apollo Hospital</span></a><p></p>
-<p><span style="font-weight: 400;">(JCI Accreditation)</span></p></td>
-<td><a href="#/dr-harsh-rastogi-consultant-clinical-co-ordinator-radiologist/"><span style="font-weight: 400;">Dr Harsh Rastogi</span></a><p></p>
-<p><b>Exp: 29 Years&nbsp;</b></p>
-<p><span style="font-weight: 400;">(Consultant &amp; Clinical Co-ordinator, Radiology Department)</span></p></td>
-<td><span style="font-weight: 400;">8500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</span><p></p>
-<p><span style="font-weight: 400;">(JCI Accreditation)</span></p></td>
-<td><a href="#/dr-vijay-kant-dixit-director-of-interventional-neuroradiologist/"><span style="font-weight: 400;">Dr Vijay Kant Dixit</span></a><p></p>
-<p><b>Exp: 20 Years&nbsp;</b></p>
-<p><span style="font-weight: 400;">(Director of Interventional Neurocardiolog)</span></p></td>
-<td><span style="font-weight: 400;">10000$</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>How can you avail the best AVM Surgery in India-Step By Step process?</b></span></h2>
-<p><span style="font-weight: 400;">Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong>AVM surgery in India</strong></span><b>, </b><span style="font-weight: 400;">fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</span></p>
-<p><span style="font-weight: 400;">We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</span></p>
+<h2><br /></h2>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Brain Arteriovenous Malformation (AVM) Surgery Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
 	</div>
 </div>`,
   },
+  //  brain-aneurysm-surgery
   {
     name: "brain-aneurysm-surgery",
     img: "/treatment/brain-aneurysm-surgery.webp",
@@ -2780,32 +2131,32 @@ We score over others because the ‘treatment consultants’ in our company are 
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><a name="_3tpsqzpfxc07"></a><span lang="EN" style="color: #0048ad;">Brain Aneurysm surgery in India: Hope and Healing</span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals and Doctors Performing Endovascular Coiling in India</span></h2><h2><span lang="EN" style="color: #0048ad;"><table widthh="576"><tbody><tr><td width="160"><span style="color: black;"><strong>&nbsp;</strong></span><span style="color: black;"><strong>Hospital</strong></span></td><td width="285"><span style="color: black;"><strong>&nbsp;</strong></span><span style="color: black;"><strong>Best Doctor</strong></span></td><td width="131"><span style="color: black;"><strong>&nbsp;</strong></span><span style="color: black;"><strong>Cost</strong></span></td></tr><tr><td width="160"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, New Delhi, (JCI Accreditation)</td><td width="285"><a href="#/dr-himanshu-agarwal-senior-consultant-interventional-neurologist/">Dr Himanshu Agarwal,&nbsp;</a><strong>Exp: 15 Years,&nbsp;</strong>(Senior Consultant: Interventional Neurology)</td><td width="131">10000$</td></tr><tr><td width="160"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital,&nbsp;</a>(JCI Accreditation)</td><td width="285"><a href="#/dr-harsh-rastogi-consultant-clinical-co-ordinator-radiologist/">Dr Harsh Rastogi,&nbsp;</a><strong>Exp: 29 Years,&nbsp;</strong>(Consultant &amp; Clinical Co-ordinator, Radiology Department)</td><td width="131">9000$</td></tr><tr><td width="160"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram,&nbsp;</a>(JCI Accreditation)</td><td width="285"><a href="#/dr-vijay-kant-dixit-director-of-interventional-neuroradiologist/">Dr Vijay Kant Dixit,&nbsp;</a><strong>Exp: 20 Years,&nbsp;</strong>(Director of Interventional Neuroradiology)</td><td width="131">9500$</td></tr></tbody></table></span></h2><h2><a name="_3tpsqzpfxc07"></a><span lang="EN" style="color: #0048ad;">Brain Aneurysm surgery in India: Hope and Healing</span></h2>
 <p>Brain aneurysm surgery is a complex procedure to treat a potentially life-threatening brain condition. An aneurysm is a bulge or balloon-like development that forms when a weak area in the wall of a blood artery in the brain grows.</p>
 <p>Untreated aneurysms can potentially burst, resulting in brain hemorrhage, a stroke, or even death. To treat or stop an aneurysm from rupturing, surgery is frequently advised. During this treatment, trained neurosurgeons carefully maneuver the complex network of blood vessels in the brain to fix the aneurysm and restore normal blood flow.</p>
 <p>The success rates of brain aneurysm surgeries have significantly increased thanks to developments in medical technology and surgical methods.</p>
 <h3><span style="color: #0048ad;"><strong>Types of Brain Aneurysm</strong></span></h3>
-<p>The various types of brain aneurysms are:<br>
-● <strong>Saccular Aneurysm:</strong> This type of aneurysm is a round sac-like structure filled with blood from a main artery or one of its branches. It is the most common type of aneurysm.<br>
-● <strong>Fusiform Aneurysm:</strong> This type causes bulging on all sides of the artery.<br>
+<p>The various types of brain aneurysms are:<br />
+● <strong>Saccular Aneurysm:</strong> This type of aneurysm is a round sac-like structure filled with blood from a main artery or one of its branches. It is the most common type of aneurysm.<br />
+● <strong>Fusiform Aneurysm:</strong> This type causes bulging on all sides of the artery.<br />
 ● <strong>Mycotic Aneurysm:</strong> Mycotic aneurysm is caused by an infection that affects arteries in the brain. The infection weakens the wall of the arteries, which causes the aneurysm to form.</p>
 <p><span style="color: #0048ad;"><strong>What happens if a brain aneurysm ruptures?</strong></span></p>
-<p>There are lots of health problems that can happen if a brain aneurysm ruptures, like:<br>
-● Bleeding in the thin tissues covering and protecting the brain (the arachnoid layer).<br>
+<p>There are lots of health problems that can happen if a brain aneurysm ruptures, like:<br />
+● Bleeding in the thin tissues covering and protecting the brain (the arachnoid layer).<br />
 ● Hemorrhagic stroke</p>
 <p><strong>It can result in permanent brain damage or other complications, like:</strong></p>
-<p>● <strong>Vasospasm:</strong> When blood vessels narrow or shut down, less oxygen gets to the brain.<br>
-● <strong>Hydrocephalus:</strong> In hydrocephalus, your brain is under a lot of pressure due to blood or cerebrospinal fluid buildup.<br>
-● Convulsions<br>
-● Coma<br>
+<p>● <strong>Vasospasm:</strong> When blood vessels narrow or shut down, less oxygen gets to the brain.<br />
+● <strong>Hydrocephalus:</strong> In hydrocephalus, your brain is under a lot of pressure due to blood or cerebrospinal fluid buildup.<br />
+● Convulsions<br />
+● Coma<br />
 ● Death</p>
 <h2><span style="color: #0048ad;"><strong>Knowing the symptoms in Detail</strong></span></h2>
 <table widthh="337">
 <tbody>
 <tr>
-<td width="117"><span style="color: #000000;"><strong>Ruptured Aneurysm</strong></span></td>
-<td width="109"><span style="color: #000000;"><strong>Unruptured Aneurysm</strong></span></td>
-<td width="111"><span style="color: #000000;"><strong>Leaking Aneurysm</strong></span></td>
+<td width="117"><span style="color: black;"><strong>Ruptured Aneurysm</strong></span></td>
+<td width="109"><span style="color: black;"><strong>Unruptured Aneurysm</strong></span></td>
+<td width="111"><span style="color: black;"><strong>Leaking Aneurysm</strong></span></td>
 </tr>
 <tr>
 <td width="117">headache</td>
@@ -2840,43 +2191,43 @@ We score over others because the ‘treatment consultants’ in our company are 
 </tbody>
 </table>
 <p><span style="color: #0048ad;"><strong>What are the causes of brain aneurysms?</strong></span></p>
-<p>Aneurysms develop on the walls of an artery when the brain becomes weak or thin. Sometimes people are born with aneurysms due to a congenital disability. Several other factors that cause aneurysms are:<br>
-● Marfan syndrome<br>
-● Fibromuscular dysplasia<br>
-● Arteriovenous malformation<br>
+<p>Aneurysms develop on the walls of an artery when the brain becomes weak or thin. Sometimes people are born with aneurysms due to a congenital disability. Several other factors that cause aneurysms are:<br />
+● Marfan syndrome<br />
+● Fibromuscular dysplasia<br />
+● Arteriovenous malformation<br />
 ● Polycystic kidney disease</p>
-<p><span style="color: #0048ad;"><strong>Diagnosis of Brain Aneurysm</strong></span><br>
-● MRI &amp; CT Scan brain<br>
-● Angiogram<br>
-● Transcranial Doppler<br>
+<p><span style="color: #0048ad;"><strong>Diagnosis of Brain Aneurysm</strong></span><br />
+● MRI &amp; CT Scan brain<br />
+● Angiogram<br />
+● Transcranial Doppler<br />
 ● Cerebral Angiography</p>
 <h2><span style="color: #0048ad;"><strong>Understanding Brain Aneurysm Surgery in Detail: The Endovascular Coiling Surgery</strong></span></h2>
 <h3><span style="color: #0048ad;"><strong>Before the Surgery</strong></span></h3>
-<p>● A comprehensive assessment by a neurosurgeon is required to assess the overall health condition, the nature of the aneurysm, and any potential risks or complications associated with the surgery.<br>
-● The medical team will examine your medical background, including any pre-existing diseases, allergies, or prior surgeries.<br>
-● You may undergo preoperative blood tests to assess the blood count, clotting capacity, and general health.<br>
-● Before surgery, it may be necessary to temporarily stop using or change the dosage of some medications, such as anticoagulants or antiplatelet agents. This lowers the possibility of significant bleeding occurring during the surgery.<br>
-● It is crucial to follow the instructions provided by the medical team regarding medication management.<br>
-● Before surgery, you may be told to fast for a specific time. This will ensure that you remain empty stomach throughout the procedure, lowering the risk of aspiration and anesthesia-related problems.<br>
+<p>● A comprehensive assessment by a neurosurgeon is required to assess the overall health condition, the nature of the aneurysm, and any potential risks or complications associated with the surgery.<br />
+● The medical team will examine your medical background, including any pre-existing diseases, allergies, or prior surgeries.<br />
+● You may undergo preoperative blood tests to assess the blood count, clotting capacity, and general health.<br />
+● Before surgery, it may be necessary to temporarily stop using or change the dosage of some medications, such as anticoagulants or antiplatelet agents. This lowers the possibility of significant bleeding occurring during the surgery.<br />
+● It is crucial to follow the instructions provided by the medical team regarding medication management.<br />
+● Before surgery, you may be told to fast for a specific time. This will ensure that you remain empty stomach throughout the procedure, lowering the risk of aspiration and anesthesia-related problems.<br />
 ● It is advised for patients who smoke to give up smoking before surgery. Smoking can reduce blood flow and raise the possibility of problems.</p>
 <h3><span style="color: #0048ad;"><strong>During the surgery</strong></span></h3>
-<p>● This procedure is carried out in the DSA lab under local anesthesia. An expert interventional Radiologist is needed for the aneurysm coiling procedure.<br>
-● You’ll be given a hospital gown and asked to remove any clothing, jewelry, or other items at the start of the treatment. Once done, the nurse will ask you to lie backward on the X-ray table.<br>
-● Then the intravenous line (IV) tube will be placed inside a vein of your hand or arm. Afterward, an electrocardiogram will be connected to monitor the heart’s electrical activity.<br>
-● After cleaning the injection site, mainly the groin, the nurse injects the local anesthesia.<br>
-● Then the surgeon will make a small incision to insert a catheter into the artery through the blood vessel. This catheter is guided by fluoroscopy to reach the affected artery in the brain.<br>
-● To measure the shape and size of the aneurysm, the surgeon will inject contrast dye in and around the surrounding blood vessels.<br>
-● Next, the surgeon inserts a smaller catheter into the central catheter. Once this small catheter reaches the aneurysm, the surgeon inserts the coil until it completely seals off it.<br>
-● To seal the aneurysm completely, the interventional Radiologist will insert as many coils as he needs. Within the aneurysm, the coils will form a mesh-like structure that will serve as a support.<br>
-● In order to ensure that the aneurysm has been sealed off completely, additional X-ray images will need to be taken following the packing of the aneurysm with coils. As long as the coil remains in place, it will act as a permanent fix for the aneurysm.<br>
+<p>● This procedure is carried out in the DSA lab under local anesthesia. An expert interventional Radiologist is needed for the aneurysm coiling procedure.<br />
+● You’ll be given a hospital gown and asked to remove any clothing, jewelry, or other items at the start of the treatment. Once done, the nurse will ask you to lie backward on the X-ray table.<br />
+● Then the intravenous line (IV) tube will be placed inside a vein of your hand or arm. Afterward, an electrocardiogram will be connected to monitor the heart’s electrical activity.<br />
+● After cleaning the injection site, mainly the groin, the nurse injects the local anesthesia.<br />
+● Then the surgeon will make a small incision to insert a catheter into the artery through the blood vessel. This catheter is guided by fluoroscopy to reach the affected artery in the brain.<br />
+● To measure the shape and size of the aneurysm, the surgeon will inject contrast dye in and around the surrounding blood vessels.<br />
+● Next, the surgeon inserts a smaller catheter into the central catheter. Once this small catheter reaches the aneurysm, the surgeon inserts the coil until it completely seals off it.<br />
+● To seal the aneurysm completely, the interventional Radiologist will insert as many coils as he needs. Within the aneurysm, the coils will form a mesh-like structure that will serve as a support.<br />
+● In order to ensure that the aneurysm has been sealed off completely, additional X-ray images will need to be taken following the packing of the aneurysm with coils. As long as the coil remains in place, it will act as a permanent fix for the aneurysm.<br />
 ● Lastly, after stitching the incision, he will remove the catheter and apply the bandage at the operation site.</p>
 <h3><span style="color: #0048ad;"><strong>After the Surgery</strong></span></h3>
-<p>It is crucial to follow specific postoperative guidelines to enhance healing, avoid problems, and assist in a quick recovery after brain aneurysm surgery. Here are some standard postoperative safety measures:<br>
-● After surgery, you will be moved to the ICU for intensive observation of vital signs, neurological conditions, and any complications.<br>
-● Following the surgery, you are advised to avoid physical work and refrain from intense exercise. This limitation reduces the chances of bleeding, prevents stress on the surgical site, and aids in the healing process.<br>
-● After brain aneurysm surgery, some level of pain or discomfort is average. The medical staff will administer a proper pain management plan, including medicines or other methods to lessen pain.<br>
-● Proper care is necessary for the incision site in the scalp. You must follow the surgeon’s wound care guidelines and keep the incision area clean and dry.<br>
-● The medical staff will provide guidelines for postoperative medications, including painkillers, antibiotics, and any required blood pressure medications.<br>
+<p>It is crucial to follow specific postoperative guidelines to enhance healing, avoid problems, and assist in a quick recovery after brain aneurysm surgery. Here are some standard postoperative safety measures:<br />
+● After surgery, you will be moved to the ICU for intensive observation of vital signs, neurological conditions, and any complications.<br />
+● Following the surgery, you are advised to avoid physical work and refrain from intense exercise. This limitation reduces the chances of bleeding, prevents stress on the surgical site, and aids in the healing process.<br />
+● After brain aneurysm surgery, some level of pain or discomfort is average. The medical staff will administer a proper pain management plan, including medicines or other methods to lessen pain.<br />
+● Proper care is necessary for the incision site in the scalp. You must follow the surgeon’s wound care guidelines and keep the incision area clean and dry.<br />
+● The medical staff will provide guidelines for postoperative medications, including painkillers, antibiotics, and any required blood pressure medications.<br />
 ● After brain aneurysm surgery, scheduling frequent follow-up meetings with the neurosurgeon is critical. During these visits, the medical staff will evaluate your neurological condition, track the healing process, and handle any issues that could come up.</p>
 <h3><span style="color: #0048ad;"><strong>Benefits of Brain Aneurysm Surgery</strong></span></h3>
 <p>For patients suffering from brain aneurysms, this surgery has several important advantages. These advantages consist of:</p>
@@ -2886,33 +2237,9 @@ We score over others because the ‘treatment consultants’ in our company are 
 <p>● Improved surgical methods and technology have reduced the risk of problems associated with brain aneurysm surgery.</p>
 <p>● Patients who have successfully undergone brain aneurysm surgery have long-term stability.</p>
 <p>● A complete recovery is possible depending on the location and size of the aneurysm.</p>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Performing Endovascular Coiling in India</strong></span></h2>
-<table widthh="576">
-<tbody>
-<tr>
-<td width="160"><span style="color: #000000;"><strong>&nbsp;</strong></span><span style="color: #000000;"><strong>Hospital</strong></span></td>
-<td width="285"><span style="color: #000000;"><strong>&nbsp;</strong></span><span style="color: #000000;"><strong>Best Doctor</strong></span></td>
-<td width="131"><span style="color: #000000;"><strong>&nbsp;</strong></span><span style="color: #000000;"><strong>Cost </strong></span></td>
-</tr>
-<tr>
-<td width="160"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, New Delhi, (JCI Accreditation)</td>
-<td width="285"><a href="#/dr-himanshu-agarwal-senior-consultant-interventional-neurologist/">Dr Himanshu Agarwal, </a><strong>Exp: 15 Years, </strong>(Senior Consultant: Interventional Neurology)</td>
-<td width="131">10000$</td>
-</tr>
-<tr>
-<td width="160"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital, </a>(JCI Accreditation)</td>
-<td width="285"><a href="#/dr-harsh-rastogi-consultant-clinical-co-ordinator-radiologist/">Dr Harsh Rastogi, </a><strong>Exp: 29 Years, </strong>(Consultant &amp; Clinical Co-ordinator, Radiology Department)</td>
-<td width="131">9000$</td>
-</tr>
-<tr>
-<td width="160"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram, </a>(JCI Accreditation)</td>
-<td width="285"><a href="#/dr-vijay-kant-dixit-director-of-interventional-neuroradiologist/">Dr Vijay Kant Dixit, </a><strong>Exp: 20 Years, </strong>(Director of Interventional Neuroradiology)</td>
-<td width="131">9500$</td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><strong>How can you avail the best Brain Aneurysm Surgery in India-Step By Step process?</strong></span></h2>
-<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Aneurysm surgery, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.<br>
+<h2><strong style="color: #0048ad;"><br />How can you avail the best Brain Aneurysm Surgery in India-Step By Step process?</strong></h2>
+
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Aneurysm surgery, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.<br />
 We score over others because our company’s ‘treatment consultants’ are medical professionals involved in each step of patient care. An experienced ‘treatment consultant’ is good if you plan any medical treatment in India.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Brain Aneurysm Surgery Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -2920,6 +2247,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  // brachial-plexus-injuries-surgery
   {
     name: "brachial-plexus-injuries-surgery",
     img: "/treatment/brachial-plexus-injuries-surgery.webp",
@@ -2930,7 +2258,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Consult the best Surgeon for Brachial Plexus Injuries in India</span></h2>
+			<h3><strong>Cost of Brachial Plexus Surgery in Top Hospitals of India</strong></h3><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Hospital</b></td><td><b>Cost</b></td></tr><tr><td>Max Healthcare</td><td>8000$</td></tr><tr><td>Indraprastha Apollo Hospital</td><td>7500$</td></tr><tr><td>Fortis Memorial Research Institute</td><td>5800$</td></tr><tr><td>Marengo Asia Hospital</td><td>5500$</td></tr><tr><td>Artemis Hospital</td><td>5000$</td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p></span></h2><h2><strong style="color: #0048ad;">Service Cost</strong></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Consult the best Surgeon for Brachial Plexus Injuries in India</span></h2>
 <p><span style="text-decoration: underline;"><strong>Brachial Plexus</strong></span> is the collection of the nerves in the arms, responsible for controlling the movement of the wrist, hands, shoulders, and elbow. In India, severe <span style="text-decoration: underline;"><strong>brachial plexus injuries</strong></span> are treated by performing <span style="text-decoration: underline;"><strong>Brachial Plexus surgery</strong> </span>in top-notch neurosurgery hospitals. The stereotactic procedure uses a three-dimensional coordination system to locate the target area precisely.</p>
 <p>Top neurosurgeons performing Stereotactic Procedures/<span style="text-decoration: underline;"><strong>Brachial Plexus Injuries in India</strong></span> are highly skilled and experienced in spinal surgery. India has many single-specialty spine hospitals offering affordable brachial plexus surgery compared to western hospitals.</p>
 <h2><span style="color: #0048ad;">Brachial Plexus Injury Surgery in India</span></h2>
@@ -2961,9 +2289,9 @@ We score over others because our company’s ‘treatment consultants’ are med
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals for Brachial Plexus Surgery</strong></span></h2>
 <ul>
-<li><a href="https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon">Fortis Memorial Research Institute</a></li>
-<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
+<li>Fortis Memorial Research Institute</li>
+<li>Indian Spinal Injuries Centre</li>
+<li>Max Super Speciality Hospital Saket</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Approximate Cost for Brachial Plexus Injuries</strong></span></h2>
 <p>The brachial plexus is a network of nerves that sends signals from the spinal cord to the shoulder, arms, and hand. Any damage to these nerves leads to brachial plexus injuries. A <strong><u>brachial plexus surgery</u></strong> is a surgical procedure done to repair and reconstruct the damaged nerve plexus to relieve pain, restore function, and improve quality of life.</p>
@@ -2988,72 +2316,14 @@ We score over others because our company’s ‘treatment consultants’ are med
 <li>Postoperative follow-up</li>
 <li>Medication charges</li>
 </ul>
-<h3><strong>Cost of Brachial Plexus Surgery in Top Hospitals of India</strong></h3>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><a href="#/max-hospital-patparganj/">Max Healthcare</a></td>
-<td>8000$</td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td>7500$</td>
-</tr>
-<tr>
-<td><a href="#/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
-<td>5800$</td>
-</tr>
-<tr>
-<td><a href="#/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
-<td>5500$</td>
-</tr>
-<tr>
-<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td>5000$</td>
-</tr>
-</tbody>
-</table>
-<p>India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p>
-<h2><strong style="color: #0048ad;">Service Cost</strong></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
-<p>● Arranging visa<br>
-● Finding the best hospital<br>
-● Surgical package negotiation on your behalf<br>
-● Finding the best doctors<br>
-● Medicines at reasonable rates<br>
-● Affordable options to stay in India<br>
+<h3><strong><br />Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></h3>
+
+<p>● Arranging visa<br />
+● Finding the best hospital<br />
+● Surgical package negotiation on your behalf<br />
+● Finding the best doctors<br />
+● Medicines at reasonable rates<br />
+● Affordable options to stay in India<br />
 ● Over saving of 15% treatment cost through us</p>
 <p>To learn more about our services, please write to us at&nbsp;<a href="mailto:info@Medihelp Globalglobal.com">info@Medihelp Globalglobal.com</a>. Based on your reports, We will inform you of the total&nbsp;<strong>cost of Brachial Plexus Injuries in Delhi.</strong></p>
 <p><strong>Let our team of healthcare experts help you to find the best Brachial Plexus Surgeon in India.&nbsp;</strong></p>
@@ -3062,6 +2332,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  //  microdiscectomy-surgery
   {
     name: "microdiscectomy-surgery",
     img: "/treatment/microdiscectomy-surgery.webp",
@@ -3073,16 +2344,16 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2 style="text-align: left;"><span style="color: #0048ad;">Microdiscectomy Surgery in India: Expert Spine Care</span></h2>
+			<h2><span style="color: #0048ad;">Cost of Microdiscectomy&nbsp; Surgery in the Top Hospitals of India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><span>Indraprastha Apollo Hospital&nbsp;</span></td><td><span>5500$</span></td></tr><tr><td><span>Max Healthcare&nbsp;</span></td><td><span>5000$&nbsp;</span></td></tr><tr><td><span>Fortis Memorial Research Institute&nbsp;</span></td><td><span>5000$&nbsp;</span></td></tr><tr><td><span>Artemis Hospital&nbsp;</span></td><td><span>4500$</span></td></tr><tr><td><span>Marengo Asia Hospital&nbsp;</span></td><td><span>4000$</span></td></tr><tr><td><span>PSRI Hospital&nbsp;</span></td><td><span>3000$</span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Your Package Will Cover</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 01 day&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay:&nbsp;</b>10 days maximum</p><p style="color: black; font-size: medium; font-weight: 400;"><b>Success rate of the surgery:&nbsp;</b><span>99 %</span></p></span></h2><h2 style="text-align: left;"><span style="color: #0048ad;">Microdiscectomy Surgery in India: Expert Spine Care</span></h2>
 <p>Spinal surgery was always complicated, with large incisions and more extended recovery periods. But thanks to advanced medical procedures like <span style="text-decoration: underline;"><strong>Microdiscectomy</strong></span>, the patients get relief from unbearable pain and have better mobility. <span style="text-decoration: underline;"><strong>Microdiscectomy surgery in India</strong></span>, popularly known as microdecompression, is a surgical procedure used to treat sciatica and lumbar herniated discs under high-end microscopes and robots.</p>
 <p>The human spinal column consists of several bones stacked over one another and a fibrocartilage disc is placed between two bones. This disc acts as a shock absorber during any accident or injury, the disc gets displaced or slipped towards a spinal nerve resulting in its compression and unbearable pain.</p>
 <p>With a low cost of treatment and zero waiting period for international patients, India has emerged as a hotspot of medical tourism.</p>
 <p><span style="color: #0048ad;"><b>Microdiscectomy Surgery Delhi: How is it performed?&nbsp;</b></span></p>
 <p>The surgery relieves the patient by removing the displaced disc from the body. Compared to the traditional methods, this surgery is performed with a minimal incision under a microscope. The patient is under the influence of general anesthesia and will be unconscious during the entire process as discussed below:</p>
-<p>● <span style="color: #0048ad;"><strong>Step 1:</strong> </span>1 to 1.5 inches incision will be made above the affected disc.<br>
-● <span style="color: #0048ad;"><strong>Step 2:</strong></span> The top surgeon f<span style="text-decoration: underline;"><strong>or microdiscectomy surgery in India </strong></span>may use a lighted microscope to examine the affected area.<br>
-● <span style="color: #0048ad;"><strong>Step 3:</strong> </span>With the help of scissors or other tools, the surgeon will gently remove the damaged herniated tissue. If required, he may also remove a small portion of the bone.<br>
-● <span style="color: #0048ad;"><strong>Step 4:</strong></span> The surgeon will close the incision with sutures.<br>
+<p>● <span style="color: #0048ad;"><strong>Step 1:</strong> </span>1 to 1.5 inches incision will be made above the affected disc.<br />
+● <span style="color: #0048ad;"><strong>Step 2:</strong></span> The top surgeon f<span style="text-decoration: underline;"><strong>or microdiscectomy surgery in India </strong></span>may use a lighted microscope to examine the affected area.<br />
+● <span style="color: #0048ad;"><strong>Step 3:</strong> </span>With the help of scissors or other tools, the surgeon will gently remove the damaged herniated tissue. If required, he may also remove a small portion of the bone.<br />
+● <span style="color: #0048ad;"><strong>Step 4:</strong></span> The surgeon will close the incision with sutures.<br />
 ●<span style="color: #0048ad;"><strong> Step 5:</strong></span> Depending upon your condition, you may be discharged on the same day or the next morning.</p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Robotic spine surgery In India</strong></span> is one of the unique techniques introduced in India’s field of spine surgery. It increases the accuracy and thereby improves the success rate. In robotic surgery, the process is carried out through a small incision by a robotic hand, which makes even the complex procedure easy and more flexible.</p>
@@ -3104,100 +2375,27 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p><b>The extent of the disc damage: </b><span style="font-weight: 400;">The cost also depends on the complexity of the procedure. If the damage to the spine is greater, the minimally invasive microdiscectomy will be more expensive.&nbsp;</span></p>
 <p><b>Technology Used: </b><span style="font-weight: 400;">The type of technology used also determines <span style="text-decoration: underline;"><strong>microdiscectomy surgery cost in India</strong></span>:&nbsp;&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cost of endoscopic spine surgery: 3500 USD&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cost of minimally invasive spine surgery: 4000 USD&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Cost of endoscopic spine surgery: 3500 USD&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Cost of minimally invasive spine surgery: 4000 USD&nbsp;</span></li>
 </ul>
 <p><b>Hospital Stay: </b><span style="font-weight: 400;">The length of the hospital stay influences the total cost of the surgery. If there are any complications in the procedure, you have to stay for a longer time in the hospital, and hence, the cost will increase. The total cost also depends on the type of room you choose to stay in.&nbsp;</span></p>
 <p><b>Pre-surgical costs for Microdiscectomy surgery: </b><span style="font-weight: 400;">It concludes:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation with doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Diagnostic tests</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hospital admission</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Consultation with doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Diagnostic tests</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Hospital admission</span></li>
 </ul>
 <p><b>During Surgery Costs</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Anesthesia charges</span></li>
-<li style="font-weight: 400;" aria-level="1">Operating room fees</li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Anesthesia charges</span></li>
+<li aria-level="1" style="font-weight: 400;">Operating room fees</li>
 </ul>
 <p><b>Post Surgery Cost</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow Up Visits</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rehabilitation</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medical supplies like braces or bandages</span></li>
-</ul>
-<h2><span style="color: #0048ad;"><b>Cost of Microdiscectomy&nbsp; Surgery in the Top Hospitals of India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">5500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Max Healthcare&nbsp;</span></td>
-<td><span style="font-weight: 400;">5000$&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Fortis Memorial Research Institute&nbsp;</span></td>
-<td><span style="font-weight: 400;">5000$&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Artemis Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">4500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Marengo Asia Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">4000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">PSRI Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">3000$</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 01 day&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: </b>10 days maximum</p>
-<p><b>Success rate of the surgery: </b><span style="font-weight: 400;">99 %&nbsp;</span></p>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medications</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Follow Up Visits</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Rehabilitation</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medical supplies like braces or bandages</span>&nbsp;</li></ul>
 <h2><span style="color: #0048ad;"><b>Spine Health on a Budget: Service Cost</b></span></h2>
 <table>
 <tbody>
@@ -3229,13 +2427,13 @@ We score over others because our company’s ‘treatment consultants’ are med
 </table>
 <p><span style="font-weight: 400;">The affordability of the treatment in India is one of the prime reasons why India is a preferred medical travel destination. A patient from a Western country can save more than 50 % on the overall cost of </span>microdiscectomy surgery in India<span style="font-weight: 400;">, even after travel, accommodation, and living costs in India.&nbsp;</span></p>
 <p><span style="font-weight: 400;">And the best part is there is no compromise in the quality. The</span><b> top spine hospitals in India</b><span style="font-weight: 400;"> offer state of art facilities at affordable prices.&nbsp;</span></p>
-<p><span style="font-weight: 400;">If you need the<span style="text-decoration: underline;"><strong> best medical consultant in India</strong></span> to help you choose the best hospital and the best doctor, contact <span style="text-decoration: underline;"><strong>Dr Nadeem Khan from Medihelp Global </strong></span> today!!!</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Microdiscectomy Surgery</strong><strong>&nbsp;Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
 	</div>
 </div>`,
   },
+  // scoliosis-surgery
   {
     name: "scoliosis-surgery",
     img: "/treatment/scoliosis-surgery.webp",
@@ -3245,7 +2443,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Scoliosis Surgery in India:&nbsp; A Comprehensive Guide</span></h2>
+			<h2><span style="color: #0048ad;">Cost of Scoliosis Surgery in Top Hospitals of India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Hospitals</b></td><td><b>Cost&nbsp;</b></td></tr><tr><td><span>Indian Spinal Injuries Centre&nbsp;</span></td><td><span>12000$&nbsp;</span></td></tr><tr><td><span>Indraprastha Apollo Hospital&nbsp;</span></td><td><span>14000$</span></td></tr><tr><td><span>Marengo Asia Hospital&nbsp;</span></td><td><span>11000$</span></td></tr><tr><td><span>Artemis Hospital&nbsp;</span></td><td><span>12000$&nbsp;</span></td></tr><tr><td><span>Max Healthcare&nbsp;</span></td><td><span>15000$</span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Your Package Will Cover</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Cost of Implants – Imported Titanium made&nbsp;</span></td><td></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 05 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay:&nbsp;</b><span>20 days&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Success rate of the surgery:&nbsp;</b><span>99%&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">Scoliosis Surgery in India:&nbsp; A Comprehensive Guide</span></h2>
 <p>Technically, Scoliosis is an abnormal lateral (side) curvature of the spine. This occurs more commonly in teenage females. However, it is difficult to notice this problem until one may have uneven shoulders or hips due to the spine’s curve. Sometimes, scoliosis can be due to birth deformity or neuromuscular disorders like cerebral palsy.</p>
 <p>If you want successful <span style="text-decoration: underline;"><strong>Scoliosis surgery in India</strong></span> at a low cost, then there is no better alternative than New Delhi. Get treated by world-renowned scoliosis surgeons to prevent any future complications.</p>
 <h2><span style="color: #0048ad;">Scoliosis Surgery in Delhi: The Diagnosis</span></h2>
@@ -3260,19 +2458,19 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>Surgery is also recommended for a patient if he/she has a curve greater than 45 to 50 degrees, as it may affect lung function. The best age group to perform <span style="text-decoration: underline;"><strong>Scoliosis surgery in India</strong></span> is between 3 and 10 years when the child is still in the growing phase, as the curve tends to increase during the growth period. Surgery can also be performed on adults suffering from severe pain.</p>
 <p>Many world-class doctors carry out <span style="text-decoration: underline;"><strong>spinal surgeries in Delhi.</strong></span> Today, with the help of the latest technological advancements, doctors can significantly improve the curve in these hospitals.</p>
 <h2><span style="color: #0048ad;"><strong>Common Types of Scoliosis Surgery in India</strong></span></h2>
-<h3><span style="text-decoration: underline; color: #0048ad;">Posterior lumbar interbody fusion (PLIF)&nbsp;</span></h3>
+<h3><span style="color: #0048ad; text-decoration: underline;">Posterior lumbar interbody fusion (PLIF)&nbsp;</span></h3>
 <p><span style="text-decoration: underline;"><strong>Spinal fusion</strong> </span>is a very popular and complex procedure performed by experienced surgeons to treat deformities of the spine. The spinal fusion permanently connects two or more vertebrae of the spine and improves stability.&nbsp; Posterior lumbar interbody fusion is a surgical procedure where two painful vertebrates are fused into a single solid bone. This approach requires a 4 to 6-inch incision in the centre of the back.&nbsp; During the<span style="text-decoration: underline;"><strong> PLIF surgery in Delhi,</strong></span> the doctor removes the disc between two vertebrae and inserts a bone or bone-like piece into the void space to provide stability. The benefit of this procedure is that it provides effective relief and requires minimal invasion.&nbsp; Consequently, the patient experiences less post-operative pain.</p>
-<h3><span style="text-decoration: underline; color: #0048ad;">Anterior lumbar interbody fusion (ALIF)&nbsp;</span></h3>
+<h3><span style="color: #0048ad; text-decoration: underline;">Anterior lumbar interbody fusion (ALIF)&nbsp;</span></h3>
 <p>The only difference between PLIF and ALIf is that PLIF is performed from the back while the latter is performed from the front. A 3 to 5-inch vertical incision is made in the lower abdomen to reach the peritoneum. The <span style="text-decoration: underline;"><strong>best doctors performing scoliosis surgery in India</strong></span> say that this procedure benefits patients who previously had undergone spinal surgery.</p>
-<h3><span style="text-decoration: underline; color: #0048ad;">Anterior/Posterior spinal fusion&nbsp;</span></h3>
+<h3><span style="color: #0048ad; text-decoration: underline;">Anterior/Posterior spinal fusion&nbsp;</span></h3>
 <p>This procedure is generally performed on patients with high spinal fractures. The procedure is done from both back and front, offering a large surface area for bone fusion.</p>
-<h3><span style="text-decoration: underline; color: #0048ad;">Extreme Lateral Interbody Fusion (XLIF)</span></h3>
+<h3><span style="color: #0048ad; text-decoration: underline;">Extreme Lateral Interbody Fusion (XLIF)</span></h3>
 <p>This procedure uses minimum incision to fuse two spine levels together. It can be performed on a single level or multiple levels. The benefit of <span style="text-decoration: underline;"><strong>XLIF Surgery in India</strong></span> is that it requires a small duration of surgery with minimum incision and has a low risk of infection.</p>
-<h3><span style="text-decoration: underline; color: #0048ad;">Osteotomy&nbsp;</span></h3>
+<h3><span style="color: #0048ad; text-decoration: underline;">Osteotomy&nbsp;</span></h3>
 <p>If you have a rigid scoliotic curve, your doctor may use this procedure to treat the deformity of your spinal cord. This procedure will improve the patient’s overall appearance and help him stand erect without help.</p>
-<p><strong><span style="color: #0048ad;"><span style="color: #000000;">Stay in Hospital:</span> </span></strong>5 days</p>
-<p><strong><span style="color: #0048ad;"><span style="color: #000000;">Stay in India:</span> </span></strong>20 days</p>
-<p><strong><span style="color: #0048ad;"><span style="color: #000000;">Success Rate:</span> </span></strong>98%</p>
+<p><strong><span style="color: #0048ad;"><span style="color: black;">Stay in Hospital:</span> </span></strong>5 days</p>
+<p><strong><span style="color: #0048ad;"><span style="color: black;">Stay in India:</span> </span></strong>20 days</p>
+<p><strong><span style="color: #0048ad;"><span style="color: black;">Success Rate:</span> </span></strong>98%</p>
 <h2><span style="color: #0048ad;"><strong>Scoliosis Surgery Cost in India</strong></span></h2>
 <p>The <span style="text-decoration: underline;"><strong>cost of scoliosis surgery in India</strong> </span>depends on the surgeon’s credentials, experience, hospital location, type and quality certifications, and technology used. However, One can expect <span style="text-decoration: underline;"><strong>low-cost scoliosis surgery in India</strong></span>. The cost ranges between $9,000 to $10,000 with excellent clinical results, rest assured.</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors Doing Scoliosis Surgery in India&nbsp;</strong></span></h2>
@@ -3288,11 +2486,11 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p><span style="font-weight: 400;">Scoliosis is a medical condition in which the spine is curved and often looks deformed. The <span style="text-decoration: underline;"><strong>cost of scoliosis treatment in India</strong></span> may vary depending on several factors, such as the severity of the condition, the type of treatment required, geographical location, the healthcare system and your specific healthcare provider.&nbsp;Let us delve into the details of the factors affecting the cost of the treatment:&nbsp;</span></p>
 <h2><span style="color: #0048ad;"><b>Factors Affecting the Cost of Scoliosis Surgery in Delhi</b></span></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">First and foremost, the</span><b> severity of the condition</b><span style="font-weight: 400;"> plays a significant role in determining the cost. If the case is mild, then the treatment requires less invasive surgery, and on the other hand, if the case is severe, then more complex surgeries are needed, and hence the cost is high too.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The </span><b>choice of surgery </b><span style="font-weight: 400;">also decides the cost. The estimate of the cost of various types of surgeries performed to treat scoliosis are:&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">First and foremost, the</span><b> severity of the condition</b><span style="font-weight: 400;"> plays a significant role in determining the cost. If the case is mild, then the treatment requires less invasive surgery, and on the other hand, if the case is severe, then more complex surgeries are needed, and hence the cost is high too.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The </span><b>choice of surgery </b><span style="font-weight: 400;">also decides the cost. The estimate of the cost of various types of surgeries performed to treat scoliosis are:&nbsp;</span></li>
 <li style="list-style-type: none;">
 <ul>
-<li style="font-weight: 400;" aria-level="2"><b>Traditional spine fusion</b><span style="font-weight: 400;">: The average cost is </span><span style="font-weight: 400;">$8000 to $100,00, depending on the surgeon’s experience, hospital fees, and location.</span></li>
+<li aria-level="2" style="font-weight: 400;"><b>Traditional spine fusion</b><span style="font-weight: 400;">: The average cost is </span><span style="font-weight: 400;">$8000 to $100,00, depending on the surgeon’s experience, hospital fees, and location.</span></li>
 </ul>
 </li>
 </ul>
@@ -3301,93 +2499,18 @@ We score over others because our company’s ‘treatment consultants’ are med
 <li aria-level="2"><b>Vertebral Body Tethering: </b><span style="font-weight: 400;">VBT’s cost may range from $10000 to $12000, and it is often a lucrative option for its potential to preserve spinal flexibility.</span></li>
 <li style="list-style-type: none;">
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The </span><b>geographical location</b><span style="font-weight: 400;"> of the hospital also plays an essential role in deciding the overall c<strong>ost of the scoliosis surgery</strong>. Costs in top-tier cities of India are high.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The </span><b>surgeon’s expertise a</b><span style="font-weight: 400;">lso plays a significant role in deciding the <span style="text-decoration: underline;"><strong>cost of scoliosis surgery in Delhi</strong></span>. Highly experienced surgeons with high success rates and those who are board-certified tend to charge more.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The </span><b>type of hospital</b><span style="font-weight: 400;"> you choose also plays a significant role in deciding the overall cost. Superspeciality and single-speciality hospitals with high brand value, like <span style="text-decoration: underline;"><strong>Indian Spinal Injuries Centre, Indraprastha Apollo Hospital or Medanta the Medicity,</strong></span> are generally expensive.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The </span><b>geographical location</b><span style="font-weight: 400;"> of the hospital also plays an essential role in deciding the overall c<strong>ost of the scoliosis surgery</strong>. Costs in top-tier cities of India are high.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The </span><b>surgeon’s expertise a</b><span style="font-weight: 400;">lso plays a significant role in deciding the <span style="text-decoration: underline;"><strong>cost of scoliosis surgery in Delhi</strong></span>. Highly experienced surgeons with high success rates and those who are board-certified tend to charge more.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The </span><b>type of hospital</b><span style="font-weight: 400;"> you choose also plays a significant role in deciding the overall cost. Superspeciality and single-speciality hospitals with high brand value, like <span style="text-decoration: underline;"><strong>Indian Spinal Injuries Centre, Indraprastha Apollo Hospital or Medanta the Medicity,</strong></span> are generally expensive.&nbsp;</span></li>
 </ul>
 </li>
 </ul>
 <ul>
 <li aria-level="1"><b>Certification of the hospital: </b><span style="font-weight: 400;"><span style="text-decoration: underline;"><strong>JCI-certified hospitals</strong></span> are more expensive than <span style="text-decoration: underline;"><strong>NABH-certified hospitals in India</strong></span> due to their robust clinical protocols and patient safety measures.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The </span><b>cost of imported implants and prosthetic devices</b><span style="font-weight: 400;"> like pedicle screws, rods, hooks, wires, and interbody fusion devices also play a significant role in deciding the overall cost of the surgery than Indian-made implants.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Furthermore, p</span><b>re-surgical evaluations, post-operative care, and physical therapy</b><span style="font-weight: 400;"> are essential aspects affecting the overall <span style="text-decoration: underline;"><strong>cost of scoliosis surgery in India</strong></span>. Complications during or after surgery can also lead to additional expenses.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The </span><b>cost of imported implants and prosthetic devices</b><span style="font-weight: 400;"> like pedicle screws, rods, hooks, wires, and interbody fusion devices also play a significant role in deciding the overall cost of the surgery than Indian-made implants.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Furthermore, p</span><b>re-surgical evaluations, post-operative care, and physical therapy</b><span style="font-weight: 400;"> are essential aspects affecting the overall <span style="text-decoration: underline;"><strong>cost of scoliosis surgery in India</strong></span>. Complications during or after surgery can also lead to additional expenses.</span></li>
 </ul>
-<h2><span style="color: #0048ad;"><b>Cost of Scoliosis Surgery in Top Hospitals of India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Hospitals</b></td>
-<td><b>Cost&nbsp;</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Indian Spinal Injuries Centre&nbsp;</span></td>
-<td><span style="font-weight: 400;">12000$&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">14000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Marengo Asia Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">11000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Artemis Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">12000$&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Max Healthcare&nbsp;</span></td>
-<td><span style="font-weight: 400;">15000$</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Cost of Implants – Imported Titanium made&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 05 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: </b><span style="font-weight: 400;">20 days&nbsp;</span></p>
-<p><b>Success rate of the surgery: </b><span style="font-weight: 400;">99%&nbsp;</span></p>
+<h2><br /></h2>
 <h2><span style="color: #0048ad;"><b>Spine Health on a Budget: Service Cost</b></span></h2>
 <table>
 <tbody>
@@ -3419,10 +2542,10 @@ We score over others because our company’s ‘treatment consultants’ are med
 </table>
 <p><span style="font-weight: 400;"><strong>Medihelp Global </strong> is one of the best <span style="text-decoration: underline;"><strong>treatment consultants in India for all international patients</strong></span>. We are here to guide you in choosing the best doctor and hospital for your scoliosis surgery based on your budget and the severity of the case. With us, you will get the following:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">100% transparency</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help to choose the best hospital and doctor</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help to select the best treatment option</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">High success rates of procedures with international standards.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">100% transparency</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Help to choose the best hospital and doctor</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Help to select the best treatment option</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">High success rates of procedures with international standards.&nbsp;</span></li>
 </ul>
 <p><span style="font-weight: 400;">Write to us today at </span><a href="mailto:info@medihelpglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Scoliosis Spine Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
@@ -3431,6 +2554,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  // kyphoplasty-surgery
   {
     name: "kyphoplasty-surgery",
     img: "/treatment/kyphoplasty-surgery.webp",
@@ -3440,7 +2564,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">What is Kyphosis? Its treatment with the best Hospitals in India</span></h2>
+			<h2><strong><span style="color: #3d85c6;">Cost Variations</span></strong></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">The cost of&nbsp;<strong>kyphoplasty surgery in India&nbsp;</strong>also depends on:</p><ul style="color: black; font-size: medium; font-weight: 400;"><li>Type of Hospital (Public vs. private hospitals)</li><li>Accreditation of the Hospital (JCI, NABH, etc.)</li><li>Location of the Hospital: Metropolitan hospitals are more expensive</li><li>Currency Exchange Rates For international patients.</li><li>Surgeon’s Experience and Expertise</li><li>Insurance Coverage:</li><li>Complications or Revisions During Surgery</li><li>Discounts Offered by the Medical Facility</li></ul><p style="color: black; font-size: medium; font-weight: 400;"><strong>Understanding these factors can help patients plan and budget for kyphoplasty surgery in India effectively.</strong></p></span></h2><h3><strong>Cost Of Kyphoplasty&nbsp; in Top Hospitals of India</strong></h3><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Hospital</b></td><td><b>Cost</b></td></tr><tr><td>Metro Hospital</td><td>5000$</td></tr><tr><td>Indraprastha Apollo Hospital</td><td>6500$</td></tr><tr><td>Fortis Memorial Research Institute</td><td>5800$</td></tr><tr><td>Marengo Asia Hospital</td><td>5500$</td></tr><tr><td>Artemis Hospital</td><td>7500$</td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p></span></h2><h2><strong style="color: #0048ad;">Service Cost</strong></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Medihelp Global is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p><p style="color: black; font-size: medium; font-weight: 400;">● Arranging visa<br />● Finding the best hospital<br />● Surgical package negotiation on your behalf<br />● Finding the best doctors<br />● Medicines at reasonable rates<br />● Affordable options to stay in India<br />● Over saving of 15% treatment cost through us</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in hospital</strong></p><p style="color: black; font-size: medium; font-weight: 400;">You will need to stay in the hospital for 3 days after your surgery.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in India</strong></p><p style="color: black; font-size: medium; font-weight: 400;">Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Success rate</strong></p><p style="color: black; font-size: medium; font-weight: 400;">India boasts a 99% success rate for kyphoplasty procedures.</p></span></h2><h2><span style="color: #0048ad;">What is Kyphosis? Its treatment with the best Hospitals in India</span></h2>
 <p><span style="text-decoration: underline;"><strong>Kyphosis</strong></span> is a medical condition that causes forward bending in the patient’s spine, giving the person a stooped or rounded back. Reasons like developmental problems, degenerative diseases, fractures, tumours, or lousy posture may contribute to this condition.</p>
 <p>This chronic condition is characterized by constant pain in the patient’s back, neck, and shoulders. It limits a person’s range of motion and restricts daily activities such as reaching overhead or twisting the back. In some instances, Kyphosis compresses the chest cavity, making breathing difficult and leading to shortness of breath.</p>
 <p>Kyphosis, if noticeable, can also affect a person’s self-esteem and body image.</p>
@@ -3459,22 +2583,22 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>The t<span style="text-decoration: underline;"><strong>op doctors for Kyphoplasty surgery in India use</strong></span> Fluoroscopy as a guide to ensure that the needle is inserted at the right place. Once everything is intact, it’s time to insert a balloon-like device into the vertebra through the trocar. This balloon inflates once it reaches its position. It helps restore the height and shape of the vertebral body by opening the space between the bones. Next, cement-like material is injected into the vertebral body to stabilize and prevent further fractures. Afterwards, the surgeon closes the incision and applies a bandage to prevent infection.</p>
 <h2><span style="color: #0048ad;"><strong>Best Kyphoplasty surgery doctors in Delhi </strong></span></h2>
 <ul>
-<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket, <strong>25 years of experience</strong>.</li>
-<li><a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>, Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi, has <strong>36 years of experience.</strong></li>
-<li><a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
-<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram, <strong>34 years of experience.</strong></li>
-<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a> – Head – Ortho Spine Surgery, Artemis Hospitals, <strong>15 years of experience. </strong></li>
-<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals, <strong>12 years of experience</strong></li>
-<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a> is the director of the spine division at the Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
+<li><strong>Dr Arun Saroha</strong> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket, <strong>25 years of experience</strong>.</li>
+<li><strong>Dr Rajendra Prasad</strong>, Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi, has <strong>36 years of experience.</strong></li>
+<li><strong>Dr HS Chabra</strong>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
+<li><strong>Dr Sandeep Vaishya</strong> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram, <strong>34 years of experience.</strong></li>
+<li><strong>Dr Hitesh Garg</strong> – Head – Ortho Spine Surgery, Artemis Hospitals, <strong>15 years of experience. </strong></li>
+<li><strong>Dr Saurabh Rawall</strong> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals, <strong>12 years of experience</strong></li>
+<li><strong>Dr Vineesh Mathur</strong> is the director of the spine division at the Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Best &nbsp;hospitals offering </strong>Kyphoplasty<strong> Surgery in India </strong></span></h2>
 <ul>
-<li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
+<li>Indraprastha Apollo Hospital</li>
+<li>Indian Spinal Injuries Center</li>
+<li>Max Super Speciality Hospital Saket</li>
+<li>Medanta the Medicity</li>
+<li>Artemis Hospital</li>
+<li>Max Blk Super Speciality Hospital</li>
 </ul>
 <h2><span style="color: #0048ad;">Kyphoplasty Treatment cost in India</span></h2>
 <p>Kyphoplasty is a minimally invasive procedure that is used to repair vertebral compression fractures of the spine. These fractures develop when the bone block ( vertebral body) in the spine collapses due to severe pressure or other factors like severe pain and deformities.</p>
@@ -3520,94 +2644,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <ul>
 <li>Patient Age as older patients may have higher risks and longer recovery times.</li>
 <li>Patient Overall Health like pre-existing conditions can affect surgery and recovery.</li>
-<li>Complications include any intraoperative or postoperative complications<strong>.</strong></li>
-</ul>
-<h2><strong>Cost Variations</strong></h2>
-<p>The cost of <strong>kyphoplasty surgery in India </strong>also depends on:</p>
-<ul>
-<li>Type of Hospital (Public vs. private hospitals)</li>
-<li>Accreditation of the Hospital (JCI, NABH, etc.)</li>
-<li>Location of the Hospital: Metropolitan hospitals are more expensive</li>
-<li>Currency Exchange Rates For international patients.</li>
-<li>Surgeon’s Experience and Expertise</li>
-<li>Insurance Coverage:</li>
-<li>Complications or Revisions During Surgery</li>
-<li>Discounts Offered by the Medical Facility</li>
-</ul>
-<p><strong>Understanding these factors can help patients plan and budget for kyphoplasty surgery in India effectively.</strong></p>
-<h3><strong>Cost Of Kyphoplasty&nbsp; in Top Hospitals of India</strong></h3>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><a href="#/metro-hospital-faridabad/">Metro Hospital</a></td>
-<td>5000$</td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td>6500$</td>
-</tr>
-<tr>
-<td><a href="#/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
-<td>5800$</td>
-</tr>
-<tr>
-<td><a href="#/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
-<td>5500$</td>
-</tr>
-<tr>
-<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td>7500$</td>
-</tr>
-</tbody>
-</table>
-<p>India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p>
-<h2><strong style="color: #0048ad;">Service Cost</strong></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
-<p>● Arranging visa<br>
-● Finding the best hospital<br>
-● Surgical package negotiation on your behalf<br>
-● Finding the best doctors<br>
-● Medicines at reasonable rates<br>
-● Affordable options to stay in India<br>
-● Over saving of 15% treatment cost through us</p>
-<p><strong>Stay in hospital </strong></p>
-<p>You will need to stay in the hospital for 3 days after your surgery.</p>
-<p><strong>Stay in India </strong></p>
-<p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
-<p><strong>Success rate </strong></p>
-<p>India boasts a 99% success rate for kyphoplasty procedures.</p>
+<li>Complications include any intraoperative or postoperative complications<strong>.</strong></li></ul>
 <h3><span style="color: #0048ad;">A tailored medical tourism package by Medihelp Global  assures the care you deserve.</span></h3>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Kyphoplasty Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -3615,6 +2652,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  // laminectomy-surgery
   {
     name: "laminectomy-surgery",
     img: "/treatment/laminectomy-surgery.webp",
@@ -3625,7 +2663,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Laminectomy Surgery in India: A Journey of Hope and Healing</strong></span></h2>
+			<h3><strong><span style="color: #3d85c6;">Cost Of Laminectomy in Top Hospitals of India</span></strong></h3><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Hospital</b></td><td><b>Cost</b></td></tr><tr><td>Metro Hospital</td><td>4000$</td></tr><tr><td>Indraprastha Apollo Hospital</td><td>6500$</td></tr><tr><td>Fortis Memorial Research Institute</td><td>5000$</td></tr><tr><td>Marengo Asia Hospital</td><td>4500$</td></tr><tr><td>Artemis Hospital</td><td>4500$</td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p></span></h2><h2><strong style="color: #0048ad;">Service Cost</strong></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Medihelp Global is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p><p style="color: black; font-size: medium; font-weight: 400;">● Arranging visa<br />● Finding the best hospital<br />● Surgical package negotiation on your behalf<br />● Finding the best doctors<br />● Medicines at reasonable rates<br />● Affordable options to stay in India<br />● Over saving of 15% treatment cost through us</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in hospital</strong></p><p style="color: black; font-size: medium; font-weight: 400;">You will need to stay in the hospital for 3 days after your surgery.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in India</strong></p><p style="color: black; font-size: medium; font-weight: 400;">Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Success rate</strong></p><p style="color: black; font-size: medium; font-weight: 400;">India boasts a 99% success rate for kyphoplasty procedures.</p></span></h2><h2><span style="color: #0048ad;"><strong>Laminectomy Surgery in India: A Journey of Hope and Healing</strong></span></h2>
 <p>Laminectomy is a surgical procedure used to treat patients suffering from spinal stenosis. A medical condition in which the space between the backbone becomes too small. This can happen due to bone spurs, which are frequent in a person suffering from arthritis. Bone spurs can be due to the person’s aging, or they can be inherited. Bony overgrowths exert pressure on the spinal cord and the nerves resulting in pain or muscle weakness.</p>
 <p>The process is usually performed when there is no relief from traditional therapies like physical therapy, medication, or chiropractic care. The procedure aims to improve life quality by reducing pain and other symptoms. That helps patients to live more comfortable and productive life.</p>
 <p><strong>Laminectomy surgery in India</strong> has a high success rate, and patients typically experience significant improvements in their symptoms. <strong>Laminectomy surgery in India</strong> <strong>is pocket-friendly</strong> compared to other developed countries. Also, India has a large pool of skilled and experienced surgeons specializing in laminectomy surgery.</p>
@@ -3641,22 +2679,22 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>The surgeon will then close the incision with the help of sutures or surgical staples. He may also apply a bandage to cover the wounds even though the patient will be discharged on the same day. He has to rest for at least one week for the incision to heal properly.</p>
 <h3><span style="color: #0048ad;"><strong>Best Laminectomy Surgeons in India</strong></span></h3>
 <ul>
-<li><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/"><strong>Dr Ashwani Maichand</strong></a> – Director Orthopedic &amp; Minimal Access Spine Surgery at CK Birla Hospital.</li>
-<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong> Arun Saroha</strong></a> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</li>
-<li><a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</li>
-<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong> Sandeep Vaishya</strong></a> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</li>
-<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong> </a>– Head – Ortho Spine Surgery, Artemis Hospitals</li>
-<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals</li>
-<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong> Vineesh Mathur</strong></a> – Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram</li>
+<li><strong>Dr Ashwani Maichand</strong> – Director Orthopedic &amp; Minimal Access Spine Surgery at CK Birla Hospital.</li>
+<li><strong> Arun Saroha</strong> – MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket</li>
+<li><strong>Dr HS Chabra</strong>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center</li>
+<li><strong> Sandeep Vaishya</strong> – Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram</li>
+<li><strong>Dr Hitesh Garg</strong> – Head – Ortho Spine Surgery, Artemis Hospitals</li>
+<li><strong>Dr Saurabh Rawall</strong> – Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals</li>
+<li><strong> Vineesh Mathur</strong> – Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram</li>
 </ul>
 <h3><span style="color: #0048ad;"><strong>Best Laminectomy Hospitals in India</strong></span></h3>
 <ul>
-<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="#/ck-birla-hospital/">CK Birla Hospital , Delhi</a></li>
-<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
+<li>Indraprastha Apollo Hospital</li>
+<li>CK Birla Hospital , Delhi</li>
+<li>Indian Spinal Injuries Center</li>
+<li>Max Super Speciality Hospital Saket</li>
+<li>Medanta the Medicity</li>
+<li>Artemis Hospital</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Cost of Laminectomy Treatment in India </strong></span></h2>
 <p>A laminectomy is a surgical procedure that removes a part of the spinal bone called lamina which is also known as the roof of the spinal cord. The surgery has evolved over the years in India due to minimally invasive techniques and technology.</p>
@@ -3686,82 +2724,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <li>Medications</li>
 <li>Post operative care and rehabilitation</li>
 <li>Currency exchange rates for international patients</li>
-<li>Complications if any</li>
-</ul>
-<p><strong>Understanding these factors can help patients plan and budget for laminectomy surgery in India effectively.</strong></p>
-<h3><strong>Cost Of Laminectomy in Top Hospitals of India</strong></h3>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><a href="#/metro-hospital-faridabad/">Metro Hospital</a></td>
-<td>4000$</td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td>6500$</td>
-</tr>
-<tr>
-<td><a href="#/fortis-hospital-vasant-kunj/">Fortis Memorial Research Institute</a></td>
-<td>5000$</td>
-</tr>
-<tr>
-<td><a href="#/qrg-hospital-faridabad/">Marengo Asia Hospital</a></td>
-<td>4500$</td>
-</tr>
-<tr>
-<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td>4500$</td>
-</tr>
-</tbody>
-</table>
-<p>India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p>
-<h2><strong style="color: #0048ad;">Service Cost</strong></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
-<p>● Arranging visa<br>
-● Finding the best hospital<br>
-● Surgical package negotiation on your behalf<br>
-● Finding the best doctors<br>
-● Medicines at reasonable rates<br>
-● Affordable options to stay in India<br>
-● Over saving of 15% treatment cost through us</p>
-<p><strong>Stay in hospital </strong></p>
-<p>You will need to stay in the hospital for 3 days after your surgery.</p>
-<p><strong>Stay in India </strong></p>
-<p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
-<p><strong>Success rate </strong></p>
-<p>India boasts a 99% success rate for kyphoplasty procedures.</p>
+<li>Complications if any</li></ul>
 <p><strong>Get back to living your best life with Medihelp Global  value-for-money Medical Tourism Packages.</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Laminectomy Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -3769,6 +2732,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  // tlif-surgery
   {
     name: "tlif-surgery",
     img: "/treatment/tlif-surgery.webp",
@@ -3779,7 +2743,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><strong>Improve your spine’s stability and alignment with Cost-Effective TLIF Surgery in India</strong></h2>
+			<h2><span style="color: #0048ad;">Approximate Cost for TLIF Surgery</span></h2><h2><p style="font-size: medium; font-weight: 400;">Although there are several factors like the surgeon’s experience, the type of hospital, and the type of implant that determine the&nbsp;<span style="text-decoration-line: underline;"><strong>cost of</strong></span><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong><span style="text-decoration-line: underline;">&nbsp;the Transforaminal</span></strong></span><strong><span style="text-decoration-line: underline;">&nbsp;Lumbar Interbody Fusion Surgery in India.&nbsp;</span></strong>The main factor that primarily determines the cost is the level of herniation. For level one, the average price range is around 4500$, while the average price for level two and level three is 5500 $ and 6000$, respectively.</p><p style="font-size: medium; font-weight: 400;"><strong>Robotic TLIF Surgery will cost you an additional 1000$.</strong></p><p style="font-size: medium; font-weight: 400;">It’s important to note that this cost is an approximation, and the actual price may vary depending on the specific case and the treatment plan.</p><p style="font-size: medium; font-weight: 400;"><strong>Stay in hospital</strong></p><p style="font-size: medium; font-weight: 400;">You will need to stay in the hospital for 2 days after your surgery.</p><p style="font-size: medium; font-weight: 400;"><strong>Stay in India</strong></p><p style="font-size: medium; font-weight: 400;">Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p><p style="font-size: medium; font-weight: 400;"><strong>Success rate</strong></p><p style="font-size: medium; font-weight: 400;">India boasts a 99% success rate for TLIF procedures, cementing its reputation as a leader in spinal surgery.</p><strong><span style="color: #3d85c6;">Improve your spine’s stability and alignment with Cost-Effective TLIF Surgery in India</span></strong></h2>
 <p><span style="text-decoration: underline;"><strong>Transforaminal Lumbar Interbody Fusion (TLIF) surgery i</strong></span>s a procedure used to treat patients suffering from spinal conditions like degenerative disc disease, spondylolisthesis, and spinal stenosis. The process is usually performed on the spine’s lower region. It helps patients relieve pain, lower back pain, and leg aches.</p>
 <p><span style="text-decoration: underline;"><strong>TLIF Surgery in India</strong></span>&nbsp;offers several benefits, including improved stability and alignment of the spine, relief of chronic back pain, and preservation of motion in the lumbar region. Additionally, the&nbsp;<span style="text-decoration: underline;"><strong>cost of TLIF in India</strong></span>&nbsp;is significantly lower compared to other countries, making it an affordable option for patients seeking quality and reliable treatment for their spine.</p>
 <p>&nbsp;</p>
@@ -3808,34 +2772,24 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>Hybrid constructs combine different implants, like interbody cages and pedicle screws. It provides more stability and support to the spine.</p>
 <h3><strong>3D printed implant</strong></h3>
 <p>3D-printed implants are more tailored solutions as they are custom-manufactured for the patient. They are made from biocompatible materials like titanium but are expensive. Some best 3D implant manufacturers are <span style="text-decoration: underline;"><strong>Nexxt Spine, Medtronic, and Spine Vision.</strong></span></p>
-<h2><span style="color: #0048ad;"><strong>Approximate Cost for TLIF Surgery</strong></span></h2>
-<p>Although there are several factors like the surgeon’s experience, the type of hospital, and the type of implant that determine the <span style="text-decoration: underline;"><strong>cost of</strong></span><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><strong><span style="text-decoration: underline;">&nbsp;the Transforaminal</span></strong></span><strong><span style="text-decoration: underline;"> Lumbar Interbody Fusion Surgery in India. </span></strong>The main factor that primarily determines the cost is the level of herniation. For level one, the average price range is around 4500$, while the average price for level two and level three is 5500 $ and 6000$, respectively.</p>
-<p><strong>Robotic TLIF Surgery will cost you an additional 1000$.</strong></p>
-<p>It’s important to note that this cost is an approximation, and the actual price may vary depending on the specific case and the treatment plan.</p>
-<p><strong>Stay in hospital</strong></p>
-<p>You will need to stay in the hospital for 2 days after your surgery.</p>
-<p><strong>Stay in India</strong></p>
-<p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
-<p><strong>Success rate</strong></p>
-<p>India boasts a 99% success rate for TLIF procedures, cementing its reputation as a leader in spinal surgery.</p>
 <h2><span style="color: #0048ad;"><strong>Top TLIF surgeons&nbsp; in India</strong></span></h2>
 <ul>
-<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong>&nbsp;</a>– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</li>
-<li><a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>&nbsp;,Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></li>
-<li><a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
-<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></li>
-<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></li>
-<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></li>
-<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
+<li><strong>Dr Arun Saroha</strong>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</li>
+<li><strong>Dr Rajendra Prasad</strong>&nbsp;,Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></li>
+<li><strong>Dr HS Chabra</strong>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
+<li><strong>Dr Sandeep Vaishya</strong>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></li>
+<li><strong>Dr Hitesh Garg</strong>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></li>
+<li><strong>Dr Saurabh Rawall</strong>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></li>
+<li><strong>Dr Vineesh Mathur</strong>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top hospitals offering the best TLIF Surgery in India</strong></span></h2>
 <ul>
-<li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
+<li>Indraprastha Apollo Hospital</li>
+<li>Indian Spinal Injuries Center</li>
+<li>Max Super Speciality Hospital Saket</li>
+<li>Medanta the Medicity</li>
+<li>Artemis Hospital</li>
+<li>Max Blk Super Speciality Hospital</li>
 </ul>
 <p><strong>Contact us today to learn more about the best TLIF Surgery Doctors in India</strong></p>
 
@@ -3843,6 +2797,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  // acdf-surgery
   {
     name: "acdf-surgery",
     img: "/treatment/acdf-surgery.webp",
@@ -3852,7 +2807,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Find the best care at Top Hospitals for Anterior Cervical Discectomy and Fusion Procedures.</strong></span></h2>
+			<h2><strong><span style="color: #0b5394;">Cost Of ACDF surgery in Top Hospitals of India</span></strong></h2><h2><span style="color: #0048ad;"><table class="m-table" style="font-size: 16px;"><thead class="m-table__head"><tr class="m-table__row"><th class="m-table__data" style="text-align: left;">Hospital</th><th class="m-table__data">Cost</th></tr></thead><tbody class="m-table__body"><tr class="m-table__row"><td class="m-table__data">Indraprastha Apollo Hospital</td><td class="m-table__data">$7500</td></tr><tr class="m-table__row"><td class="m-table__data">Max Super Speciality Hospital Saket</td><td class="m-table__data">$6500</td></tr><tr class="m-table__row"><td class="m-table__data">Artemis Hospital<br /></td><td class="m-table__data">$5500</td></tr><tr class="m-table__row"><td class="m-table__data">Amrita Hospital</td><td class="m-table__data">$5000</td></tr><tr class="m-table__row"><td class="m-table__data">Indian Spinal Injuries Centre</td><td class="m-table__data">$5500</td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in hospital</strong></p><p style="color: black; font-size: medium; font-weight: 400;">You will need to stay in the hospital for 2 days after your surgery.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in India</strong></p><p style="color: black; font-size: medium; font-weight: 400;">Due to the nature of the<span style="text-decoration-line: underline;"><strong>&nbsp;ACDF surgery</strong></span>, you will need to stay in India for a minimum of 15 days.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Success rate</strong></p><p style="color: black; font-size: medium; font-weight: 400;">India boasts a 99% success rate for ACDF procedures, cementing its reputation as a leader in spinal surgery.</p></span></h2><h2><span style="color: #0048ad;"><strong>Find the best care at Top Hospitals for Anterior Cervical Discectomy and Fusion Procedures.</strong></span></h2>
 <p><span style="text-decoration: underline;"><strong>Anterior Cervical Discectomy and Fusion (ACDF surgery)</strong></span> is a surgical procedure performed to relieve symptoms caused by a herniated disc or spinal stenosis in the cervical (neck) region of the spine. When a person suffers from a herniated disc, then the gel-like center of a spinal disc bulges out from a tear in the disc’s outer ring.</p>
 <p>On the other hand, spinal stenosis is a condition where the spinal canal narrows and starts exerting pressure on the spinal cord and nerve roots. Both conditions can lead to neck pain, numbness, tingling, and weakness in the arms and hands.</p>
 <p>India offers the best choice for Anterior Cervical Discectomy &amp; Fusion procedures due to its highly skilled and experienced surgeons, advanced medical facilities, and affordable cost. The process is performed with precision and care, ensuring positive outcomes for patients who undergo<span style="text-decoration: underline;"><strong> ACDF Surgery in India.&nbsp;</strong></span></p>
@@ -3903,61 +2858,25 @@ We score over others because our company’s ‘treatment consultants’ are med
 <li>Rehabilitation post-surgery</li>
 </ul>
 <p><strong>Understanding these factors can help patients plan and budget for ACDF surgery in India effectively.</strong></p>
-<h2><strong>Cost Of ACDF surgery in Top Hospitals of India</strong></h2>
-<table class="m-table" style="font-size: 16px;">
-<thead class="m-table__head">
-<tr class="m-table__row">
-<th class="m-table__data" style="text-align: left;">Hospital</th>
-<th class="m-table__data">Cost</th>
-</tr>
-</thead>
-<tbody class="m-table__body">
-<tr class="m-table__row">
-<td class="m-table__data"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td class="m-table__data">$7500</td>
-</tr>
-<tr class="m-table__row">
-<td class="m-table__data"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></td>
-<td class="m-table__data">$6500</td>
-</tr>
-<tr class="m-table__row">
-<td class="m-table__data"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td class="m-table__data">$5500</td>
-</tr>
-<tr class="m-table__row">
-<td class="m-table__data"><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
-<td class="m-table__data">$5000</td>
-</tr>
-<tr class="m-table__row">
-<td class="m-table__data"><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
-<td class="m-table__data">$5500</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Stay in hospital</strong></p>
-<p>You will need to stay in the hospital for 2 days after your surgery.</p>
-<p><strong>Stay in India</strong></p>
-<p>Due to the nature of the<span style="text-decoration: underline;"><strong> ACDF surgery</strong></span>, you will need to stay in India for a minimum of 15 days.</p>
-<p><strong>Success rate</strong></p>
-<p>India boasts a 99% success rate for ACDF procedures, cementing its reputation as a leader in spinal surgery.</p>
+<h2><br /></h2>
 <h2><span style="color: #0048ad;"><strong>Top ACDF surgery doctors in Delhi</strong></span></h2>
 <ul>
-<li><a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong>&nbsp;</a>– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</li>
-<li><a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a> , Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></li>
-<li><a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
-<li><a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></li>
-<li><a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></li>
-<li><a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong>&nbsp;</a>– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></li>
-<li><a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
+<li><strong>Dr Arun Saroha</strong>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</li>
+<li><strong>Dr Rajendra Prasad</strong> , Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></li>
+<li><strong>Dr HS Chabra</strong>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</li>
+<li><strong>Dr Sandeep Vaishya</strong>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></li>
+<li><strong>Dr Hitesh Garg</strong>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></li>
+<li><strong>Dr Saurabh Rawall</strong>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></li>
+<li><strong>Dr Vineesh Mathur</strong>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top hospitals offering the best ACDF Surgery in India</strong></span></h2>
 <ul>
-<li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></li>
+<li>Indraprastha Apollo Hospital</li>
+<li>Indian Spinal Injuries Center</li>
+<li>Max Super Speciality Hospital Saket</li>
+<li>Medanta the Medicity</li>
+<li>Artemis Hospital</li>
+<li>Max Blk Super Speciality Hospital</li>
 </ul>
 <p><strong>We help you find the Best Cervical Spine Doctors in India</strong></p>
 
@@ -3965,6 +2884,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  // plif-surgery
   {
     name: "plif-surgery",
     img: "/treatment/plif-surgery.webp",
@@ -3974,7 +2894,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Get Permanent relief from Chronic Pain through the best PLIF Surgery</strong></span></h2>
+			<h2><strong style="color: #0048ad;">Service Cost</strong></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Medihelp Global is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p><p style="color: black; font-size: medium; font-weight: 400;">● Arranging visa<br />● Finding the best hospital<br />● Surgical package negotiation on your behalf<br />● Finding the best doctors<br />● Medicines at reasonable rates<br />● Affordable options to stay in India<br />● Over saving of 15% treatment cost through us</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in hospital</strong></p><p style="color: black; font-size: medium; font-weight: 400;">You will need to stay in the hospital for 2 days after your surgery.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in India</strong></p><p style="color: black; font-size: medium; font-weight: 400;">Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Success rate</strong></p><p style="color: black; font-size: medium; font-weight: 400;">India boasts a 99% success rate for PLIF procedures.</p></span></h2><h2><span style="color: #0048ad;"><strong>Get Permanent relief from Chronic Pain through the best PLIF Surgery</strong></span></h2>
 <p>PLIF surgery&nbsp; is a type of<strong>&nbsp;Spinal Fusion Surgery</strong>&nbsp;that is performed to treat a patient suffering from degenerative disc disease, spondylolisthesis, and spinal stenosis. This procedure removes the damaged disc between the two vertebrates and replaces it with a bone graft. This helps to alleviate pain, improve stability and alignment, and reduce nerve compression.</p>
 <p><strong>PLIF surgery in India</strong>&nbsp;can cost up to 80% less than in other countries, which makes it an attractive option for many patients.</p>
 <p>Additionally, Indian hospitals are known for their highly experienced surgeons and state-of-the-art medical facilities. They have high standards of patient care and excellent post-operative support.</p>
@@ -4006,20 +2926,20 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>●&nbsp; Robotic Surgery is safer, accurate and more precise</p>
 <p>●&nbsp; Cosmetically compliant with almost no visible scars</p>
 <h3><span style="color: #0048ad;"><strong>Top PLIF doctors&nbsp;</strong></span></h3>
-<p>● &nbsp;<a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</p>
-<p>● &nbsp;<a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>&nbsp;,Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></p>
-<p>● &nbsp;<a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</p>
-<p>● &nbsp;<a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong></a>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></p>
-<p>● &nbsp;<a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></p>
-<p>● &nbsp;<a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></p>
-<p>● &nbsp;<a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</p>
+<p>● &nbsp;<strong>Dr Arun Saroha</strong>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</p>
+<p>● &nbsp;<strong>Dr Rajendra Prasad</strong>&nbsp;,Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi,&nbsp;<strong>36 years of experience.</strong></p>
+<p>● &nbsp;<strong>Dr HS Chabra</strong>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</p>
+<p>● &nbsp;<strong>Dr Sandeep Vaishya</strong>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></p>
+<p>● &nbsp;<strong>Dr Hitesh Garg</strong>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></p>
+<p>● &nbsp;<strong>Dr Saurabh Rawall</strong>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></p>
+<p>● &nbsp;<strong>Dr Vineesh Mathur</strong>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</p>
 <h3><span style="color: #0048ad;"><strong>Top hospitals&nbsp;</strong></span></h3>
-<p>● &nbsp;<a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></p>
-<p>● &nbsp;<a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Center</a></p>
-<p>● &nbsp;<a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></p>
-<p>● &nbsp;<a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
-<p>● &nbsp;<a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
-<p>● &nbsp;<a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></p>
+<p>● &nbsp;Indraprastha Apollo Hospital</p>
+<p>● &nbsp;Indian Spinal Injuries Center</p>
+<p>● &nbsp;Max Super Speciality Hospital Saket</p>
+<p>● &nbsp;Medanta the Medicity</p>
+<p>● &nbsp;Artemis Hospital</p>
+<p>● &nbsp;Max Blk Super Speciality Hospital</p>
 <h2><span style="color: #0048ad;"><strong>Approximate Cost of PLIF Surgery in India</strong></span></h2>
 <p>The cost of&nbsp; robotic PLIF surgery is less in India as compared to western countries and depends on the following factors:</p>
 <p><strong>Hospital and Location</strong></p>
@@ -4056,77 +2976,35 @@ We score over others because our company’s ‘treatment consultants’ are med
 <td><b>Cost</b></td>
 </tr>
 <tr>
-<td><a href="#/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
+<td>Max Super Speciality Hospital Saket</td>
 <td>6500$</td>
 </tr>
 <tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
+<td>Indraprastha Apollo Hospital</td>
 <td>9000$</td>
 </tr>
 <tr>
-<td><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
+<td>Amrita Hospital</td>
 <td>5000$</td>
 </tr>
 <tr>
-<td><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
+<td>Indian Spinal Injuries Centre</td>
 <td>5500$</td>
 </tr>
 <tr>
-<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
+<td>Artemis Hospital</td>
 <td>5500$</td>
 </tr>
 </tbody>
 </table>
 <p>India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p>
-<h2><strong style="color: #0048ad;">Service Cost</strong></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
-<p>● Arranging visa<br>
-● Finding the best hospital<br>
-● Surgical package negotiation on your behalf<br>
-● Finding the best doctors<br>
-● Medicines at reasonable rates<br>
-● Affordable options to stay in India<br>
-● Over saving of 15% treatment cost through us</p>
-<p><strong>Stay in hospital</strong></p>
-<p>You will need to stay in the hospital for 2 days after your surgery.</p>
-<p><strong>Stay in India</strong></p>
-<p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
-<p><strong>Success rate</strong></p>
-<p>India boasts a 99% success rate for PLIF procedures.</p>
 <p><strong>Let us find the best PLIF surgery doctors in India for you to get the highest quality medical care at an affordable price.</strong></p>
 
 		</div>
 	</div>
 </div>`,
   },
+  // spinal-decompression-surgery
   {
     name: "spinal-decompression-surgery",
     img: "/treatment/spinal-decompression-surgery.webp",
@@ -4138,7 +3016,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Spinal Decompression Surgery In India: Relieve Pressure, and Restore Life&nbsp;</span></h2>
+			<h3><strong><span style="color: #0b5394;">Cost of Spinal Decompression Surgery in Top Hospitals of India</span></strong></h3><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Hospital</b></td><td><b>Cost</b></td></tr><tr><td>Max Super Speciality Hospital Saket</td><td>5000$</td></tr><tr><td>Indraprastha Apollo Hospital</td><td>6000$</td></tr><tr><td>Amrita Hospital</td><td>4500$</td></tr><tr><td>Indian Spinal Injuries Centre</td><td>4500$</td></tr><tr><td>Artemis Hospital</td><td>4800$</td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p></span></h2><h2><strong style="color: #0048ad;">Service Cost</strong></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Medihelp Global is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p><p style="color: black; font-size: medium; font-weight: 400;">● Arranging visa<br />● Finding the best hospital<br />● Surgical package negotiation on your behalf<br />● Finding the best doctors<br />● Medicines at reasonable rates<br />● Affordable options to stay in India<br />● Over saving of 15% treatment cost through us</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in hospital</strong></p><p style="color: black; font-size: medium; font-weight: 400;">You will need to stay in the hospital for 3 days after your surgery.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in India</strong></p><p style="color: black; font-size: medium; font-weight: 400;">Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Success rate</strong></p><p style="color: black; font-size: medium; font-weight: 400;">India boasts a 99% success rate for Spinal Decompression Surgery.</p></span></h2><h2><span style="color: #0048ad;">Spinal Decompression Surgery In India: Relieve Pressure, and Restore Life&nbsp;</span></h2>
 <p><span style="text-decoration: underline;"><strong>Spinal decompression surgery in India</strong></span> is a surgical treatment that is used to alleviate pain and discomfort caused by conditions such as herniated or bulging discs, sciatica, and degenerative disc disease. These conditions can cause severe discomfort and pain in the back and legs, making it difficult to move around and perform simple tasks.</p>
 <p>Today India has emerged as the top destination for spinal decompression due to its highly skilled and experienced surgeons, state-of-the-art facilities, and affordable cost. The country also offers a variety of options for post-surgery rehabilitation and recovery.</p>
 <h2><span style="color: #0048ad;">Spinal Decompression Surgery India: The Diagnosis</span></h2>
@@ -4157,20 +3035,20 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>● Avoiding More Extensive Surgery</p>
 <p>● Long-term Relief</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors for Spinal Decompression Surgery in India</strong></span></h2>
-<p>● <a href="#/dr-arun-saroha-neurosurgeon-in-india/"><strong>Dr Arun Saroha</strong></a>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</p>
-<p>● <a href="#/dr-rajendra-prasad/"><strong>Dr Rajendra Prasad</strong></a>, Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi, has <strong>36 years of experience.</strong></p>
-<p>● <a href="#/dr-h-s-chabra-robotic-spine-surgeon/"><strong>Dr HS Chabra</strong></a>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</p>
-<p>● <a href="#/dr-sandeep-vaishya-neurosurgeon-in-gurgaon-india/"><strong>Dr Sandeep Vaishya</strong>&nbsp;</a>– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></p>
-<p>● <a href="#/dr-hitesh-garg-orthopedic-spine-surgeon-in-india/"><strong>Dr Hitesh Garg</strong></a>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></p>
-<p>● <a href="#/dr-saurabh-rawall-spine-surgeon-in-india/"><strong>Dr Saurabh Rawall</strong></a>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></p>
-<p>● <a href="#/dr-vineesh-mathur-spine-surgeon/"><strong>Dr Vineesh Mathur</strong></a>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</p>
+<p>● <strong>Dr Arun Saroha</strong>&nbsp;– MCh – Neuro Surgery, MBBS – Neurosurgeon, Spine Surgeon (Neuro) -Max Super Speciality Hospital Saket,&nbsp;<strong>25 years of experience</strong>.</p>
+<p>● <strong>Dr Rajendra Prasad</strong>, Senior Consultant, Department of Neurosurgery &amp; Spine Surgery, Indraprastha Apollo Hospital, New Delhi, has <strong>36 years of experience.</strong></p>
+<p>● <strong>Dr HS Chabra</strong>– Orthopaedic – Spine Surgeon – MBBS, MS – Indian Spinal Injuries Center<strong>, 35 years of experience</strong>,</p>
+<p>● <strong>Dr Sandeep Vaishya</strong>&nbsp;– Neurosurgery -HOD &amp; Executive Director -Fortis Memorial Research Institute, Gurugram,&nbsp;<strong>34 years of experience.</strong></p>
+<p>● <strong>Dr Hitesh Garg</strong>&nbsp;– Head – Ortho Spine Surgery, Artemis Hospitals,&nbsp;<strong>15 years of experience.</strong></p>
+<p>● <strong>Dr Saurabh Rawall</strong>&nbsp;– Senior Consultant Spine Surgeon – Indraprastha Apollo Hospitals,&nbsp;<strong>12 years of experience</strong></p>
+<p>● <strong>Dr Vineesh Mathur</strong>&nbsp;– Director, Division of Spine, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta the Medicity, Gurugram.</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals for Spinal Decompression Surgery in India</strong></span></h2>
 <p>● Indraprastha Apollo Hospital</p>
-<p>● <a href="https://www.isiconline.org/">Indian Spinal Injuries Center</a></p>
-<p>● <a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></p>
-<p>●&nbsp;<a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
-<p>● <a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
-<p>● <a href="#/bl-kapur-hospital/">Max Blk Super Speciality Hospital</a></p>
+<p>● Indian Spinal Injuries Center</p>
+<p>● Max Super Speciality Hospital Saket</p>
+<p>●&nbsp;Medanta the Medicity</p>
+<p>● Artemis Hospital</p>
+<p>● Max Blk Super Speciality Hospital</p>
 <h2><span style="color: #0048ad;">Cost of Spinal Decompression Surgery in India</span></h2>
 <p>Pain in the spine can be relieved in two ways, either by stabilizing the structure of the spine or by releasing the pressure on the nerves. Spine decompression surgery is a therapy that relieves the pressure on the neural components of your spine, thus providing you relief from back pain.</p>
 <h3><strong>Here we will discuss the factors affecting the cost of spinal decompression in India:&nbsp;</strong></h3>
@@ -4188,79 +3066,6 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>● Length of hospital stay</p>
 <p>● Type of room you choose to stay</p>
 <p>● Complications occurred during or after surgery</p>
-<h3><strong>Cost of Spinal Decompression Surgery in Top Hospitals of India</strong></h3>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><a href="#/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
-<td>5000$</td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td>6000$</td>
-</tr>
-<tr>
-<td><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
-<td>4500$</td>
-</tr>
-<tr>
-<td><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
-<td>4500$</td>
-</tr>
-<tr>
-<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td>4800$</td>
-</tr>
-</tbody>
-</table>
-<p>India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p>
-<h2><strong style="color: #0048ad;">Service Cost</strong></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
-<p>● Arranging visa<br>
-● Finding the best hospital<br>
-● Surgical package negotiation on your behalf<br>
-● Finding the best doctors<br>
-● Medicines at reasonable rates<br>
-● Affordable options to stay in India<br>
-● Over saving of 15% treatment cost through us</p>
-<p><strong>Stay in hospital </strong></p>
-<p>You will need to stay in the hospital for 3 days after your surgery.</p>
-<p><strong>Stay in India </strong></p>
-<p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
-<p><strong>Success rate </strong></p>
-<p>India boasts a 99% success rate for Spinal Decompression Surgery.</p>
 <h3><span style="color: #0048ad;">A tailored medical tourism package by Medihelp Global  assures the care you deserve.</span></h3>
 <p><strong>Let us find the best Spinal Decompression surgery doctors in India for you to get the highest quality medical care at an affordable price.</strong></p>
 
@@ -4268,14 +3073,15 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  // spinal-tumor-treatment
   {
     name: "spinal-tumor-treatment",
     img: "/treatment/spinal-tumor-treatment.webp",
     data: `<div class="wpb_wrapper">
-			<p>A <strong>spinal tumor </strong>is a growth that develops in the spinal column, cord, nerves, or bones. This type of tumor affects vertebrae in the spine and is hence also known as a vertebral tumor. Due to unnoticeable symptoms, this tumor is often diagnosed late.</p>
+			<h2><strong><span style="color: #0b5394;">Benefits of spinal tumor surgery</span></strong></h2><p>● Stabilize spinal cord</p><p>● Preserve neurological function</p><p>● Relieve symptoms</p><p>● Restore functions</p><p>● Prevent paralysis</p><h3><strong><span style="color: #0b5394;">What is the cost of spinal tumor surgery in India?</span></strong></h3><table><tbody><tr><td><b>Hospital</b></td><td><b>Cost</b></td></tr><tr><td>Max Healthcare</td><td>9000$</td></tr><tr><td>Indraprastha Apollo Hospital</td><td>12000$</td></tr><tr><td>Marengo Asia Hospital</td><td>9000$</td></tr><tr><td>Indian Spinal Injuries Centre</td><td>10000$</td></tr><tr><td>Artemis Hospital</td><td>8500$</td></tr></tbody></table><p><strong>Why is India the best destination for spinal tumor surgery?</strong></p><p>In developed countries, expensive spinal tumor surgery and long waiting times are a great matter of concern.</p><p>India is an emerging hub for spine health, offering high-quality care at affordable prices. With Medihelp Global Global, you can now get access to the<strong><u>&nbsp;best doctors and hospitals for spinal tumor surgery.</u></strong></p><h2><strong><span style="color: #0b5394;">What Is the Success Rate for Spinal Tumor Surgery in India?</span></strong></h2><p>The&nbsp;<strong><u>success rate for spinal tumor surgery in India</u></strong>&nbsp;is over 80%.</p><p>The survival rate varies significantly according to the type of tumor: the overall survival rate was estimated to be around 73%.</p><p>The local tumor control success rate is 81% after surgery, depending on the situation.</p><p>A <strong>spinal tumor </strong>is a growth that develops in the spinal column, cord, nerves, or bones. This type of tumor affects vertebrae in the spine and is hence also known as a vertebral tumor. Due to unnoticeable symptoms, this tumor is often diagnosed late.</p>
 <p>Malignant or benign spinal tumors are also possible. Your spinal cord tissues may get harmed if the tumor spreads further. Primary spinal tumors first appear in your spine or spinal cord. Metastatic or secondary tumors are the result of cancer migrating from your spine to another part of your body.</p>
 <p>If you are diagnosed with this type of cancer, you will have to have <strong><u>spinal tumor surgery in India.</u></strong>&nbsp;The cost of surgery in India is reasonable compared to other countries. Our country is known for providing cutting-edge treatments and reasonable prices. Here at Medihelp Global , the best <strong><u>medical consultants in India</u></strong>, let us see how you can get spinal tumor treatment in India.</p>
-<h2><strong>Understanding Spinal Tumor</strong></h2>
+<h2><strong><span style="color: #0b5394;">Understanding Spinal Tumor</span></strong></h2>
 <p>A spinal tumor is an abnormal mass of cell growth that develops inside or outside the spinal cord. A spinal cord can develop in:</p>
 <p>● Bones that form the spine</p>
 <p>● The cartilage that protects the joints in the vertebrae</p>
@@ -4284,7 +3090,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>● Peripheral nerves that exit the vertebrae</p>
 <p>● Dura mater, pia mater, and arachnoid mater, the three membrane layers</p>
 <p>● Spinal cord</p>
-<h3><strong>Types of Spinal Tumors</strong></h3>
+<h3><strong><span style="color: #0b5394;">Types of Spinal Tumors</span></strong></h3>
 <p>Any tumor growth, whether cancerous or not, can press the nerves and cause pain and other neurological defects. Loss of sensation or muscle weakness, especially in the legs, difficulty in walking are some of the significant symptoms of a spinal tumor. There are different types of spinal tumors:</p>
 <table>
 <tbody>
@@ -4311,7 +3117,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 </tbody>
 </table>
 <p><strong><u>Surgeons at Indraprastha Apollo Hospitals, New Delhi</u></strong>, treat spinal tumors even in the most inaccessible areas. High-powered microscopes used in surgery help remove even delicately placed intradural tumors. Total Spondylectomy—removal of the entire vertebra as a definitive cure—is also performed for some spinal tumors.</p>
-<p><strong>What are the signs and symptoms of spine cancer? </strong></p>
+<p><strong><span style="color: #0b5394;">What are the signs and symptoms of spine cancer? </span></strong></p>
 <p>Some <strong><u>symptoms of spine cancer</u></strong>&nbsp;develop gradually, while others appear out of nowhere and start advancing. The primary symptoms include:</p>
 <p>● Back and neck pain</p>
 <p>● Leg or arm pain</p>
@@ -4333,7 +3139,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>● Bone scan</p>
 <p>● Biopsy</p>
 <p>● PET CT scan</p>
-<h2><strong>Grades of Spinal Tumor</strong></h2>
+<h2><strong><span style="color: #0b5394;">Grades of Spinal Tumor</span></strong></h2>
 <p><strong>Grade 1: </strong></p>
 <p>● Benign or non-cancerous</p>
 <p>● The tumor slowly grows in this stage</p>
@@ -4354,7 +3160,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>● The cell loses its structure</p>
 <p><strong>What is spinal cord tumor staging?</strong></p>
 <p>Staging helps to determine how much the cancer has spread. If the spinal cord tumor is secondary, staging is required. It is not needed when the tumor is primary because primary tumors will not spread beyond the nervous system.</p>
-<h2><strong>Treatment of Spinal Tumor in India</strong></h2>
+<h2><strong><span style="color: #0b5394;">Treatment of Spinal Tumor in India</span></strong></h2>
 <p>The <strong><u>treatment of a spinal cord tumor in India</u></strong> depends on some factors, such as the patient’s age, general health, and the size and type of tumor. The results of the above tests will help you decide what is the best course of action before your spinal cord tumor treatment in India.</p>
 <p>Treatment can be given for different reasons, and the potential benefits will vary for each person. If you’ve been offered treatment that aims to cure your cancer, deciding whether to have the treatment may not be difficult. However, if a cure is not possible and the treatment is to control the cancer for some time.</p>
 <h3><strong>Non-Surgical Treatment Options for Spinal Tumor in India</strong><strong>&nbsp;</strong></h3>
@@ -4373,7 +3179,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>● After the Spine Tumor Surgery, the incisions are sewn together with sutures or staples to be removed 10-14 days after the procedure.</p>
 <p><strong>Hi-Tech Assisted Spinal Tumor Surgery – Neuronavigation Surgery </strong></p>
 <p>While surgery is the first option to treat benign and malignant tumors, most modern surgical tools use Brain Suit Intra Operative MRI-guided robotic and laser surgery to improve the outcomes.</p>
-<h2><strong>Spinal Decompression</strong></h2>
+<h2><strong><span style="color: #0b5394;">Spinal Decompression</span></strong></h2>
 <p>The surgery removes the entire tumor or part of it. In this surgery, the spinal tumor can be debunked, completely removed, or partially removed. This type of surgery can decompress or relieve the pressure on the spinal cord and nerve roots, thus helping to reduce pain and symptoms.</p>
 <p><strong>Vertebroplasty:</strong> A minimally invasive procedure where bone cement is injected into fractured vertebrae to stabilize and reduce pain caused by spinal fractures.</p>
 <p><strong>ACDF (Anterior Cervical Discectomy and Fusion): </strong>A surgery that removes a damaged disc in the neck, relieving pressure on the spinal cord or nerves, and fusing the vertebrae for stability.</p>
@@ -4384,53 +3190,12 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>Your typical hospital stay will range from 5 to 10 days. A period of physical rehabilitation is also needed after the removal of the spinal tumor. This will require you to be in touch with physical therapists and doctors who specialize in physical recovery after major operations.</p>
 <p><strong>Recovery after Spinal tumor surgery</strong></p>
 <p>The <strong><u>total recovery time after the spinal surgery</u></strong> often depends on the complexity of the surgery. The healing process will continue several months after the surgery and may last for a year or more.</p>
-<h2><strong>Benefits of spinal tumor surgery</strong></h2>
-<p>● Stabilize spinal cord</p>
-<p>● Preserve neurological function</p>
-<p>● Relieve symptoms</p>
-<p>● Restore functions</p>
-<p>● Prevent paralysis</p>
-<p><strong>What is the cost of spinal tumor surgery in India? </strong></p>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><a href="#/fortis-memorial-research-institute/">Max Healthcare</a></td>
-<td>9000$</td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td>12000$</td>
-</tr>
-<tr>
-<td><a href="#/marengo-asia-hospital-faridabad-india/">Marengo Asia Hospital</a></td>
-<td>9000$</td>
-</tr>
-<tr>
-<td><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
-<td>10000$</td>
-</tr>
-<tr>
-<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td>8500$</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Why is India the best destination for spinal tumor surgery? </strong></p>
-<p>In developed countries, expensive spinal tumor surgery and long waiting times are a great matter of concern.</p>
-<p>India is an emerging hub for spine health, offering high-quality care at affordable prices. With Medihelp Global Global, you can now get access to the<strong><u> best doctors and hospitals for spinal tumor surgery. </u></strong></p>
-<h2><strong>What Is the Success Rate for Spinal Tumor Surgery in India?</strong></h2>
-<p>The <strong><u>success rate for spinal tumor surgery in India</u></strong>&nbsp;is over 80%.</p>
-<p>The survival rate varies significantly according to the type of tumor: the overall survival rate was estimated to be around 73%.</p>
-<p>The local tumor control success rate is 81% after surgery, depending on the situation.</p>
 <p><strong>Book your Consultation today</strong></p>
 <p>To know more about <strong><u>spinal tumor surgery in India</u></strong>, associated costs, hospitals, and doctors, book your consultation with the <strong><u>best medical consultant in India,</u></strong> Dr Nadeem Khan today!!</p>
 
 		</div>`,
   },
+  // eps-rf-ablation-treatment
   {
     name: "eps-rf-ablation-treatment",
     img: "/treatment/eps-rf-ablation-treatment.webp",
@@ -4440,7 +3205,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">EPS &amp; RFA Treatment in India</span></h2>
+			<h2><span style="color: #0048ad;">Cost of EPS AND RFA in&nbsp; Top Hospitals of India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Hospital</b></td><td><b>2D RF Ablation&nbsp;</b></td><td><b>3D RF Ablation</b></td></tr><tr><td><span>Fortis Escorts Heart Institute&nbsp;</span></td><td><span>4000$</span></td><td><span>6300$</span></td></tr><tr><td><span>Metro Heart Institute&nbsp;&nbsp;</span></td><td><span>3600$</span></td><td><span>6000$</span></td></tr><tr><td><span>BLK – Max Hospital&nbsp;</span></td><td><span>4500$</span></td><td><span>6500$</span></td></tr><tr><td><span>Indraprastha Apollo Hospital&nbsp;</span></td><td><span>5000$</span></td><td><span>8000$</span></td></tr><tr><td><span>Artemis Hospital&nbsp;</span></td><td><span>3800$</span></td><td><span>5800$</span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Your Package Will Cover</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>3D Machine Cost&nbsp;</span></td><td></td></tr><tr><td><span>Training and speech therapy Post Implant&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 02 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay:</b><span>&nbsp;15 Days&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Success rate of the surgery:&nbsp;</b><span>99%&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">Heart Health on Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">EPS &amp; RFA Treatment in India</span></h2>
 <p>Electrophysiology studies and radiofrequency ablation are widely used procedures for treating palpitations. A condition where one can experience his heartbeat resulting in uncomfortable or unusual heart rate and rhythm. This is because the electrical conduction system takes different pathways.</p>
 <p><span>Several world-class and affordable <span style="text-decoration: underline;"><strong>EPS and RFA treatments are</strong></span> <strong>available in India f</strong></span>or treating Palpitations. The hospitals are equipped with the latest equipment for accurately diagnosing the symptoms.</p>
 <h2><span style="color: #0048ad;"><strong>What is an Electrophysiology Study?</strong></span></h2>
@@ -4472,9 +3237,9 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>On average, a 2<span style="text-decoration: underline;"><strong>D Electrophysiology Study &amp; Radio Frequency Ablation Cost in India</strong> </span>is around $2500, whereas a 3D Electrophysiology Study &amp; Radio Frequency Ablation Cost in India is around $ 4000.</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors for EPS &amp; RFA Treatment in India</strong></span></h2>
 <ul>
-<li><a href="#/dr-ashok-seth-cardiologist-at-fortis-escort-hospital/">Dr Ashok Seth</a> – CHAIRMAN CARDIAC SCIENCE -Fortis Escorts Heart Institute</li>
-<li><a href="#/dr-kuldeep-arora-interventional-cardiologist-in-india/">Dr Kuldeep Arora</a> – Senior Consultant Cardiologist -Artemis Hospital</li>
-<li><a href="#/dr-pradeep-jain-interventional-cardiologist-in-india/">Dr Pradeep Jain</a> – Senior Cardiologist at Indraprastha Apollo Hospital</li>
+<li>Dr Ashok Seth – CHAIRMAN CARDIAC SCIENCE -Fortis Escorts Heart Institute</li>
+<li>Dr Kuldeep Arora – Senior Consultant Cardiologist -Artemis Hospital</li>
+<li>Dr Pradeep Jain – Senior Cardiologist at Indraprastha Apollo Hospital</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>EPS AND RFA Treatment in India: Factors Affecting the Cost</b></span></h2>
 <p><span style="font-weight: 400;">Electrophysiology, or EPS, involves evaluating the heart’s electrical system to identify abnormal rhythms.&nbsp;</span></p>
@@ -4488,130 +3253,21 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p>&nbsp;</p>
 <p><b> Several other costs are</b><span style="font-weight: 400;">&nbsp;associated with the procedure, too. The costs are:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pre-anesthesia Investigations&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post operative follow-up&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Room category single room is always expensive&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Treatment of pre-existing diseases&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Treatment-related complications, if any&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Pre-anesthesia Investigations&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Post operative follow-up&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Room category single room is always expensive&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Treatment of pre-existing diseases&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Treatment-related complications, if any&nbsp;</span></li>
 </ul>
-<h2><span style="color: #0048ad;"><b>Cost of EPS AND RFA in&nbsp; Top Hospitals of India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital</b></td>
-<td><b>2D RF Ablation&nbsp;</b></td>
-<td><b>3D RF Ablation</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Fortis Escorts Heart Institute&nbsp;</span></td>
-<td><span style="font-weight: 400;">4000$</span></td>
-<td><span style="font-weight: 400;">6300$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Metro Heart Institute&nbsp;&nbsp;</span></td>
-<td><span style="font-weight: 400;">3600$</span></td>
-<td><span style="font-weight: 400;">6000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">BLK – Max Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">4500$</span></td>
-<td><span style="font-weight: 400;">6500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">5000$</span></td>
-<td><span style="font-weight: 400;">8000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Artemis Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">3800$</span></td>
-<td><span style="font-weight: 400;">5800$</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">3D Machine Cost&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Training and speech therapy Post Implant&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 02 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay:</b><span style="font-weight: 400;"> 15 Days&nbsp;</span></p>
-<p><b>Success rate of the surgery: </b><span style="font-weight: 400;">99%&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>Heart Health on Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><b>To know more about our services, please write to us at </b><a href="mailto:info@crtossborderscare.com"><b>info@Medihelp Globalglobal.com</b></a></p>
+<div style="text-align: left;"><b><br /></b><a href="mailto:info@crtossborderscare.com"><b>info@Medihelp Globalglobal.com</b></a></div>
+
 <p><span style="font-weight: 400;"><strong>We will help you to find the best EPS &amp; RFA Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
 	</div>
 </div>`,
   },
+  //  aicd-device-implantation
   {
     name: "aicd-device-implantation",
     img: "/treatment/aicd-device-implantation.webp",
@@ -4622,7 +3278,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<p>&nbsp;</p>
+			<p>&nbsp;</p><h2><span style="color: #0048ad;">Cost of AICD Implant in Top Hospitals of India</span></h2><table><tbody><tr><td><b>Hospital</b></td><td><b>Single Chamber&nbsp;</b></td><td><b>Dual Chamber&nbsp;</b></td></tr><tr><td><span>Fortis Escorts Heart Institute&nbsp;</span></td><td><span>12000$</span></td><td><span>16000$</span></td></tr><tr><td><span>Metro Heart Institute&nbsp;&nbsp;</span></td><td><span>11000$</span></td><td><span>14000$</span></td></tr><tr><td><span>Marengo Asia Hospital&nbsp;</span></td><td><span>11500$</span></td><td><span>14500$</span></td></tr><tr><td><span>Indraprastha Apollo Hospital&nbsp;</span></td><td><span>13000$</span></td><td><span>16000$</span></td></tr><tr><td><span>Artemis Hospital&nbsp;</span></td><td><span>12000$</span></td><td><span>14000$</span></td></tr></tbody></table><h2><span style="color: #0048ad;">Your Package Will Cover</span></h2><table style="height: 340px; width: 100%;"><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Cost of AICD – Imported Medtronics&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 03 days&nbsp;</span></td><td></td></tr></tbody></table><h2><span style="color: #0048ad;">Heart Health on Budget: Service Cost</span></h2><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table>
 <p><span style="font-weight: 400;"><strong>Heart arrhythmia treatment in India</strong>: <strong>Bringing Your Heart Back in Rhythm</strong></span></p>
 <p>Arrhythmia is a heart disorder when the heart starts beating either too fast or too slow, causing an irregular rhythm.&nbsp; An <span style="text-decoration: underline;"><strong>automatic Implantable Cardioverter Defibrillator&nbsp; (</strong></span>AICD) is a small device implanted into a patient’s chest who is suffering from Arrhythmia. This device consists of a pulse generator that generates and sends electrical impulses or shocks to the heart during life-threatening situations. The electrodes present in the device help the generator by regularly monitoring the heart rhythm.</p>
 <p>There are various options available for <span style="text-decoration: underline;"><strong>heart arrhythmia treatment in India.</strong></span> With advanced medical technology, the best surgeons, and world-class infrastructures, heart surgeries in India have excellent outcomes.</p>
@@ -4680,8 +3336,8 @@ We score over others because our company’s ‘treatment consultants’ are med
 <p><b>Type of Implant Used</b></p>
 <p><span style="font-weight: 400;">The<span style="text-decoration: underline;"><strong> cost of AICD surgery in India</strong></span> depends on the type of implant used. There are different types of implants used for the surgery.&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Single chamber: 8000 USD to 8500 USD</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Dual chamber: 12000 USD to 13000 USD</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Single chamber: 8000 USD to 8500 USD</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Dual chamber: 12000 USD to 13000 USD</span></li>
 </ul>
 <p><span style="font-weight: 400;">The type of implant to be used will depend on the recommendation of your doctor.&nbsp;</span></p>
 <p><b>Device Model</b></p>
@@ -4689,137 +3345,32 @@ We score over others because our company’s ‘treatment consultants’ are med
 <h3><span style="color: #0048ad;"><b>Type of cardiology facility</b></span></h3>
 <p><span style="font-weight: 400;">The type of surgical facility also decides the AICD surgery price in Delhi. The cost will be higher if :&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is a super specialty or single super specialty</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital has a dedicated heart care unit</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The surgical facility has experienced medical staff</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is located in top-tier cities in India</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hospital brand and reputation</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is a super specialty or single super specialty</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital has a dedicated heart care unit</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The surgical facility has experienced medical staff</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is located in top-tier cities in India</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Hospital brand and reputation</span></li>
 </ul>
 <h3><b>Cardiologists Fees</b></h3>
 <p><span style="font-weight: 400;">An important expense that is going to come your way in the implant surgery is the cardiologist fee. Skilled, experienced and board-certified surgeons will charge you more for the implant surgery.&nbsp;</span></p>
 <h3><b>Surgery Associated Costs</b></h3>
 <p><span style="font-weight: 400;">There are several other associated costs with<span style="text-decoration: underline;"><strong> AICD surgery in India</strong></span>. The costs are:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Preoperative tests</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post-operative care</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-ups</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of room chosen for the stay</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Other treatments required by the patient in conjunction</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rehabilitation and physical therapy costs</span></li>
-</ul>
-<h2><span style="color: #0048ad;"><b>Cost of AICD Implant in Top Hospitals of India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital</b></td>
-<td><b>Single Chamber&nbsp;</b></td>
-<td><b>Dual Chamber&nbsp;</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Fortis Escorts Heart Institute&nbsp;</span></td>
-<td><span style="font-weight: 400;">12000$</span></td>
-<td><span style="font-weight: 400;">16000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Metro Heart Institute&nbsp;&nbsp;</span></td>
-<td><span style="font-weight: 400;">11000$</span></td>
-<td><span style="font-weight: 400;">14000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Marengo Asia Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">11500$</span></td>
-<td><span style="font-weight: 400;">14500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">13000$</span></td>
-<td><span style="font-weight: 400;">16000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Artemis Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">12000$</span></td>
-<td><span style="font-weight: 400;">14000$</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></h2>
-<table style="height: 340px;" width="774">
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Cost of AICD – Imported Medtronics&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 03 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Heart Health on Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">To learn more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a><span style="font-weight: 400;">.</span></p>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Preoperative tests</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Post-operative care</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Follow-ups</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of room chosen for the stay</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Other treatments required by the patient in conjunction</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Rehabilitation and physical therapy costs</span></li></ul><h2><p style="text-align: left;"><span style="font-size: x-small;"><span style="font-weight: 400;">To learn more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a><span style="font-weight: 400;">.</span></span></p></h2>
+
 <p><span style="font-weight: 400;"><strong>We will help you to find the best AICD Implantation Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>
 	</div>
 </div>`,
   },
+  // ptca-angioplasty-surgery
   {
     name: "ptca-angioplasty-surgery",
     img: "/treatment/ptca-angioplasty-surgery.webp",
@@ -4830,7 +3381,7 @@ We score over others because our company’s ‘treatment consultants’ are med
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2>PTCA Surgery India: What is it?</h2>
+			<h2><span style="color: #0048ad;">Cost of PTCA Surgery In India</span></h2><h2><p style="font-size: medium; font-weight: 400;">Blood is continuously supplied to the heart for its healthy functioning through the arteries. A smooth supply of blood is restricted when the arteries harden due to the deposition of plaque on them. Coronary angioplasty is a medical procedure prescribed to patients who are suffering from this condition.</p><p style="font-size: medium; font-weight: 400;">● The average cost of&nbsp;<strong>Percutaneous Transluminal Coronary Angioplasty (PTCA)&nbsp;</strong>is very high in Western countries.</p><p style="font-size: medium; font-weight: 400;">● India is known worldwide for its advanced medical facilities and promising angioplasty surgery. Many of the&nbsp;<span style="text-decoration-line: underline;"><strong>best hospitals for PTCA surgery</strong></span>&nbsp;can be found in India.</p><p style="font-size: medium; font-weight: 400;">● PTCA surgery costs are much less in India than in other developed countries in the world.</p><p style="font-size: medium; font-weight: 400;">● The&nbsp;<span style="text-decoration-line: underline;"><strong>average cost of PTCA surgery in India</strong></span>&nbsp;is around $ 4000 to $ 4500.</p><p style="font-size: medium; font-weight: 400;"><strong>What are the various factors deciding the cost of PTCA surgery in India?&nbsp;</strong></p><p style="font-size: medium; font-weight: 400;">● Type of hospital ( Public or private)</p><p style="font-size: medium; font-weight: 400;">● Accreditation of the hospital</p><p style="font-size: medium; font-weight: 400;">● Reputation and brand value of the hospital</p><p style="font-size: medium; font-weight: 400;">● The cost will be high if the hospital has an extraordinary cardiac care facility.</p><p style="font-size: medium; font-weight: 400;"><strong>The cost of PTCA surgery in Delhi also depends on:&nbsp;</strong></p><p style="font-size: medium; font-weight: 400;">● Technology and approach used ( minimally invasive or robotic)</p><p style="font-size: medium; font-weight: 400;">● Type of surgery</p><ul style="font-size: medium; font-weight: 400;"><li style="list-style-type: none;"><ul><li><strong>Cost of Balloon Angioplasty</strong>: 4000$</li><li><strong>Cost of Stent Angioplasty in India:</strong>&nbsp;4500$</li></ul></li></ul><p style="font-size: medium; font-weight: 400;">● The&nbsp;<span style="text-decoration-line: underline;"><strong>cost of PTCA surgery in India</strong>&nbsp;</span>also depends on the number of stents required.</p><p style="font-size: medium; font-weight: 400;">● The cost also gets influenced by the type of stunts used.</p><p style="font-size: medium; font-weight: 400;"><strong>Other factors affecting the cost of PTCA surgery in India are:&nbsp;</strong></p><p style="font-size: medium; font-weight: 400;">● Pre-diagnostic tests</p><p style="font-size: medium; font-weight: 400;">● Post diagnostic tests</p><p style="font-size: medium; font-weight: 400;">● ICU stay</p><p style="font-size: medium; font-weight: 400;">● Medications</p><p style="font-size: medium; font-weight: 400;">● Follow-up consultations</p><p style="font-size: medium; font-weight: 400;">● Length of hospital stay</p><p style="font-size: medium; font-weight: 400;">● Type of room you choose</p><p style="font-size: medium; font-weight: 400;">● Any complications during the surgery</p><p style="font-size: medium; font-weight: 400;">● Any coexisting condition that the patient is suffering from</p><p style="font-size: medium; font-weight: 400;">● Cardiac rehabilitation services</p><p style="font-size: medium; font-weight: 400;"><strong>Cost of PTCA Surgery in Top Hospitals of India</strong></p><table><tbody><tr><td><b>Hospital</b></td><td><b>Cost</b></td></tr><tr><td>Max Super Speciality Hospital Saket</td><td>6500$</td></tr><tr><td>Indraprastha Apollo Hospital</td><td>9000$</td></tr><tr><td>Amrita Hospital</td><td>5000$</td></tr><tr><td>Indian Spinal Injuries Centre</td><td>5500$</td></tr><tr><td>Artemis Hospital</td><td>5500$</td></tr></tbody></table><p style="font-size: medium; font-weight: 400;">India is gaining fame as the best destination for any medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p></h2><h2><strong style="color: #0048ad;">Service Cost</strong></h2><h2><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="font-size: medium; font-weight: 400;"><strong>Stay in hospital</strong></p><p style="font-size: medium; font-weight: 400;">You will need to stay in the hospital for 2 days after your surgery.</p><p style="font-size: medium; font-weight: 400;"><strong>Stay in India</strong></p><p style="font-size: medium; font-weight: 400;">Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p><p style="font-size: medium; font-weight: 400;"><strong>Success rate</strong></p><p style="font-size: medium; font-weight: 400;">India boasts a 99% success rate for PTCA Surgery.</p><p style="font-size: medium; font-weight: 400;">&nbsp;</p>PTCA Surgery India: What is it?</h2>
 <p>An Angioplasty is a minimal surgical procedure used to widen the obstructed arteries or veins of the heart. The procedure is performed on patients who have suffered a heart attack.&nbsp; When a person suffers from atherosclerosis, fatty plaque builds up inside the heart’s arteries. Consequently, blocked and clogged arteries cause severe chest pain and shortness of breath.</p>
 <p>Heart surgeries often involve higher risks and complications. Therefore, it must be carried out by professionals who are knowledgeable and experienced. India has some of the best hospitals worldwide for <span style="font-weight: 400;"><span style="text-decoration: underline;"><strong>percutaneous transluminal angioplasty</strong> </span>or PTCA.&nbsp;</span> These hospitals have more than 98 percent success rates and have world-class infrastructure.</p>
 <p><span style="color: #0048ad;"><b>PTCA Surgery Delhi: Understanding the Types</b></span></p>
@@ -4853,125 +3404,24 @@ We score over others because our company’s ‘treatment consultants’ are med
 <h2><span style="color: #0048ad;">Procedure for PTCA surgery?</span></h2>
 <p>The<span style="text-decoration: underline;"><strong> PTCA surgery in Delhi</strong> </span>begins with the doctor providing local anesthesia into the groin area. Afterward, a guided wire with the introducer is placed inside the femoral artery. Next, the diagnostic catheter is advanced into the blood vessel with the help of an introducer. Once the catheter reaches the aorta, the guided wire is removed, and then the doctor injects dye and takes an X-ray.&nbsp; Depending upon the severity of the blockage, the doctor may use the balloon or stent placement procedure to widen the passage for blood flow. Before removing the catheter, the doctor may take the final x-ray to check for changes in the arteries.</p>
 <h3><span style="color: #0048ad;"><strong>Top Doctors for PTCA Surgery in India</strong></span></h3>
-<p>● <a href="#/dr-naresh-trehan-cardiac-surgeon-at-medanta-hospital/">Dr Naresh Trehan</a> – Chairman &amp; Managing Director, Medanta Hospital</p>
-<p>● <a href="#/dr-ashok-seth-cardiologist-at-fortis-escort-hospital/">Dr Ashok Seth</a> – Chairman Cardiac Science -Fortis Escorts Heart Institute</p>
-<p>● <a href="#/dr-kuldeep-arora-interventional-cardiologist-in-india/">Dr Kuldeep Arora</a> – Senior Consultant Cardiologist -Artemis Hospital</p>
-<p>● <a href="#/dr-t-s-kler-interventional-cardiologist/">Dr TS Kler</a> – Chairman Interventional Cardiology – Fortis Memorial Research Institute</p>
-<p>● <a href="#/dr-pradeep-jain-interventional-cardiologist-in-india/">Dr Pradeep Jain</a> – Senior Consultant Cardiology – Indraprastha Apollo Hospital</p>
+<p>● Dr Naresh Trehan – Chairman &amp; Managing Director, Medanta Hospital</p>
+<p>● Dr Ashok Seth – Chairman Cardiac Science -Fortis Escorts Heart Institute</p>
+<p>● Dr Kuldeep Arora – Senior Consultant Cardiologist -Artemis Hospital</p>
+<p>● Dr TS Kler – Chairman Interventional Cardiology – Fortis Memorial Research Institute</p>
+<p>● Dr Pradeep Jain – Senior Consultant Cardiology – Indraprastha Apollo Hospital</p>
 <h3><span style="color: #0048ad;"><strong>Top Hospitals for PTCA Surgery in India</strong></span></h3>
-<p>● <a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a></p>
-<p>● <a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></p>
-<p>● <a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></p>
-<p>● <a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></p>
-<p>● <a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></p>
-<h2><span style="color: #0048ad;"><strong>Cost of PTCA Surgery In India</strong></span></h2>
-<p>Blood is continuously supplied to the heart for its healthy functioning through the arteries. A smooth supply of blood is restricted when the arteries harden due to the deposition of plaque on them. Coronary angioplasty is a medical procedure prescribed to patients who are suffering from this condition.</p>
-<p>● The average cost of <strong>Percutaneous Transluminal Coronary Angioplasty (PTCA) </strong>is very high in Western countries.</p>
-<p>● India is known worldwide for its advanced medical facilities and promising angioplasty surgery. Many of the <span style="text-decoration: underline;"><strong>best hospitals for PTCA surgery</strong></span> can be found in India.</p>
-<p>● PTCA surgery costs are much less in India than in other developed countries in the world.</p>
-<p>● The <span style="text-decoration: underline;"><strong>average cost of PTCA surgery in India</strong></span> is around $ 4000 to $ 4500.</p>
-<p><strong>What are the various factors deciding the cost of PTCA surgery in India?&nbsp;</strong></p>
-<p>● Type of hospital ( Public or private)</p>
-<p>● Accreditation of the hospital</p>
-<p>● Reputation and brand value of the hospital</p>
-<p>● The cost will be high if the hospital has an extraordinary cardiac care facility.</p>
-<p><strong>The cost of PTCA surgery in Delhi also depends on:&nbsp;</strong></p>
-<p>● Technology and approach used ( minimally invasive or robotic)</p>
-<p>● Type of surgery</p>
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li><strong>Cost of Balloon Angioplasty</strong>: 4000$</li>
-<li><strong>Cost of Stent Angioplasty in India:</strong> 4500$</li>
-</ul>
-</li>
-</ul>
-<p>● The <span style="text-decoration: underline;"><strong>cost of PTCA surgery in India</strong> </span>also depends on the number of stents required.</p>
-<p>● The cost also gets influenced by the type of stunts used.</p>
-<p><strong>Other factors affecting the cost of PTCA surgery in India are:&nbsp;</strong></p>
-<p>● Pre-diagnostic tests</p>
-<p>● Post diagnostic tests</p>
-<p>● ICU stay</p>
-<p>● Medications</p>
-<p>● Follow-up consultations</p>
-<p>● Length of hospital stay</p>
-<p>● Type of room you choose</p>
-<p>● Any complications during the surgery</p>
-<p>● Any coexisting condition that the patient is suffering from</p>
-<p>● Cardiac rehabilitation services</p>
-<p><strong>Cost of PTCA Surgery in Top Hospitals of India</strong></p>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><a href="#/fortis-memorial-research-institute/">Max Super Speciality Hospital Saket</a></td>
-<td>6500$</td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td>9000$</td>
-</tr>
-<tr>
-<td><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
-<td>5000$</td>
-</tr>
-<tr>
-<td><a href="#/indian-spinal-injuries-centre/">Indian Spinal Injuries Centre</a></td>
-<td>5500$</td>
-</tr>
-<tr>
-<td><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></td>
-<td>5500$</td>
-</tr>
-</tbody>
-</table>
-<p>India is gaining fame as the best destination for any medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.</p>
-<h2><strong style="color: #0048ad;">Service Cost</strong></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Stay in hospital</strong></p>
-<p>You will need to stay in the hospital for 2 days after your surgery.</p>
-<p><strong>Stay in India</strong></p>
-<p>Due to the nature of the surgery, you will need to stay in India for a minimum of 15 days.</p>
-<p><strong>Success rate</strong></p>
-<p>India boasts a 99% success rate for PTCA Surgery.</p>
-<p>&nbsp;</p>
+<p>● Fortis Escorts Heart Institute</p>
+<p>● Medanta the Medicity</p>
+<p>● Indraprastha Apollo Hospital</p>
+<p>● Fortis Memorial Research Institute</p>
+<p>● Artemis Hospital</p>
 <p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with the following:</strong></p>
-<p>● Arranging visa<br>
-● Finding the best hospital<br>
-● Surgical package negotiation on your behalf<br>
-● Finding the best doctors<br>
-● Medicines at reasonable rates<br>
-● Affordable options to stay in India<br>
+<p>● Arranging visa<br />
+● Finding the best hospital<br />
+● Surgical package negotiation on your behalf<br />
+● Finding the best doctors<br />
+● Medicines at reasonable rates<br />
+● Affordable options to stay in India<br />
 ● Over saving of 15% treatment cost through us</p>
 <p><strong>We are here to help you out with Angioplasty and Other Heart Surgeries. Contact us today to know more on our services.&nbsp;</strong></p>
 
@@ -4979,309 +3429,122 @@ We score over others because our company’s ‘treatment consultants’ are med
 	</div>
 </div>`,
   },
+  // tavi-surgery
   {
     name: "tavi-surgery",
     img: "/treatment/tavi-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">TAVI/TAVR Surgery: Navigating the Future of Heart Valve Replacement Surgery in India</span></h2>
+			<h2><span style="color: #0048ad;">Best Hospitals, Doctors&nbsp; and TAVI/TAVR Surgery Cost in India</span></h2><h2><span style="color: #0048ad;"><table style="height: 292px; width: 100%;"><thead><tr><td width=""><strong>Hospital</strong></td><td width="164"><strong>Best Doctor</strong></td><td width="136"><strong>Cost&nbsp;</strong><strong>(American Implant)</strong></td></tr><tr><td width="">Max Super Speciality Hospital, New Delhi&nbsp;(JCI accredited )</td><td width="164">Dr Viveka Kumar&nbsp;– Director of Interventional Cardiology.</td><td width="136"><strong>31000$</strong></td></tr><tr><td width="">Fortis Escorts Research Institute&nbsp;(JCI accredited )</td><td width="164">Dr Atul Mathur-&nbsp;(Executive Director- Cardiology</td><td width="136"><strong>41000$</strong></td></tr><tr><td width="">Manipal Hospitals (NABH accredited )</td><td width="164">Dr YK Mishra&nbsp;– Director of Cardiac Sciences</td><td width="136"><strong>45000$</strong></td></tr></thead></table><p style="color: black; font-size: medium; font-weight: 400;"><b>How can you find the best doctor for TAVI/TAVR surgery in India? What is the step-by-step process?</b></p><p style="color: black; font-size: medium; font-weight: 400;"><span style="text-decoration-line: underline;"><strong>Medihelp Global is</strong></span>&nbsp;here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your&nbsp;<span style="text-decoration-line: underline;"><strong>TAVI surgery in India</strong></span>, fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>TAVI/TAVR Surgery: Navigating the Future of Heart Valve Replacement Surgery in India</span></h2>
 <p><span style="color: #0048ad;"><strong>TAVI </strong></span>is the medical abbreviation of transcatheter aortic valve implantation procedure. The TAVI/TAVR surgery is performed to improve the blood flow in the heart by replacing the aortic valve, which does not open properly.</p>
 <p>The aortic valve is situated between the left ventricle and the main artery of the body, known as the aorta. If the valve does not open properly, then the blood flow to the heart gets reduced. <strong><span style="text-decoration: underline;"><span style="color: #0048ad; text-decoration: underline;">TAVI/TAVR surgery in India</span></span></strong>&nbsp;differs from other valve replacement procedures because it is minimally invasive.</p>
 <p>Continue reading to know more about the procedure and see why India is the best country to get this procedure done.</p>
 <h3><strong>TAVI/TAVR Surgery India: When is it done? </strong></h3>
 <p>TAVI/TAVR is primarily done to treat aortic stenosis. It is a condition where the aortic valve becomes too narrow to allow the blood to flow from your heart to the rest of the body. You may also need the procedure if you experience the following symptoms:</p>
-<p>● Fatigue<br>
-● Light Headaches<br>
-● Chest pain<br>
+<p>● Fatigue<br />
+● Light Headaches<br />
+● Chest pain<br />
 ● Shortness of breath</p>
-<p>According to the <span style="text-decoration: underline;"><strong>American Heart Association</strong></span>, aortic stenosis affects more than 20% of older Americans. It’s more common in people over 65 years of age.<br>
+<p>According to the <span style="text-decoration: underline;"><strong>American Heart Association</strong></span>, aortic stenosis affects more than 20% of older Americans. It’s more common in people over 65 years of age.<br />
 Depending on your age and health condition, you might not be eligible for open heart valve surgery. The TAVI/<span style="text-decoration: underline;"><span style="color: #0048ad;"><strong>TAVR surgery</strong></span></span>&nbsp;might be a good option in these situations.</p>
 <h4><span style="color: #0048ad;"><strong>Who should not have TAVI?</strong></span></h4>
-<p><span style="text-decoration: underline;"><strong>TAVI surgery in India</strong> </span>is a revolutionary procedure for heart valve replacement. However, this procedure is only recommended for selected patients. You cannot have TAVI if:<br>
-● You have a congenital heart valve defect<br>
-● The heart valve has an infection<br>
-● A life expectancy of less than 1 year<br>
+<p><span style="text-decoration: underline;"><strong>TAVI surgery in India</strong> </span>is a revolutionary procedure for heart valve replacement. However, this procedure is only recommended for selected patients. You cannot have TAVI if:<br />
+● You have a congenital heart valve defect<br />
+● The heart valve has an infection<br />
+● A life expectancy of less than 1 year<br />
 ● Limited site for vascular access</p>
 <h5><span style="color: #0048ad;"><strong>Diagnosis</strong></span></h5>
 <p>To decide if <span style="text-decoration: underline;"><strong>TAVI/TAVR surgery in Delh</strong></span>i is the correct procedure for you, you will need to get the following tests done:</p>
-<p>● Blood tests<br>
-● ECG<br>
-● CT Scans<br>
-● Coronary angiogram<br>
-● TEE<br>
-● Chest X-Ray<br>
+<p>● Blood tests<br />
+● ECG<br />
+● CT Scans<br />
+● Coronary angiogram<br />
+● TEE<br />
+● Chest X-Ray<br />
 ● Breathing Tests</p>
 <h2><span style="color: #0048ad;"><strong><span style="font-weight: 400;"><strong>Best TAVI/ TAVR surgery in India</strong>: </span>Understanding TAVI in Detail</strong></span></h2>
 <p>TAVI was initially used to replace aortic valves for people who couldn’t have open heart surgery. Researchers have shown that TAVI is just as effective as <span style="text-decoration: underline;"><strong>heart valve surgery</strong></span> after one year for people at lower risk of complications. TAVI also works well over time in patients with severe aortic stenosis. Here is everything you need to know about the surgery</p>
 <h3><span style="color: #0048ad;"><strong>Before the Surgery</strong></span></h3>
-<p><em><span style="color: #000000;">The preparations before the <span style="text-decoration: underline;"><strong>TAVI Surgery in India</strong> </span>include the following:</span></em></p>
-<p>● You will have a consultation with your doctor to know if you are the perfect candidate for the surgery.<br>
-● A series of diagnostic tests are run to determine your overall health.<br>
-● Based on your history, age, and overall health, the heart team decides if TAVI is the best option for you.<br>
-● You will have to sign a consent form before the surgery.<br>
-● Discontinue medicines that interfere with recovery after the surgery.<br>
-● No liquid or solid food is allowed before the surgery. The fasting starts at midnight.<br>
-● Maintain cleanliness and hygiene to avoid any infection in the body.<br>
-● You will be informed about what to expect before, during, and after the procedure. You’ll learn about your hospital stay, discomfort, and recovery.<br>
-● Psychological support is essential for medical procedures. Talk with your healthcare provider about your concerns, fears, and anxieties. You may also receive emotional support and counselling.<br>
+<p><em><span style="color: black;">The preparations before the <span style="text-decoration: underline;"><strong>TAVI Surgery in India</strong> </span>include the following:</span></em></p>
+<p>● You will have a consultation with your doctor to know if you are the perfect candidate for the surgery.<br />
+● A series of diagnostic tests are run to determine your overall health.<br />
+● Based on your history, age, and overall health, the heart team decides if TAVI is the best option for you.<br />
+● You will have to sign a consent form before the surgery.<br />
+● Discontinue medicines that interfere with recovery after the surgery.<br />
+● No liquid or solid food is allowed before the surgery. The fasting starts at midnight.<br />
+● Maintain cleanliness and hygiene to avoid any infection in the body.<br />
+● You will be informed about what to expect before, during, and after the procedure. You’ll learn about your hospital stay, discomfort, and recovery.<br />
+● Psychological support is essential for medical procedures. Talk with your healthcare provider about your concerns, fears, and anxieties. You may also receive emotional support and counselling.<br />
 ● You must adhere strictly to the instructions leading up to the procedure. To proceed with TAVI, you should have all your questions answered.</p>
 <h3><span style="color: #0048ad;"><strong>During the TAVI Surgery</strong></span></h3>
-<p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">●&nbsp;<strong>Transcatheter aortic valve replacement (TAVR)</strong> replaces a damaged aortic valve with a tissue valve made from cow or pig heart tissues.</span><br>
-● With TAVI, you don’t need to make a big incision down your chest as you would with surgical valve replacement (open-heart surgery).<br>
-● At the start of the procedure, the doctor will make a small cut in one of three places:<br>
-○ the groin<br>
-○ the neck or<br>
+<p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">●&nbsp;<strong>Transcatheter aortic valve replacement (TAVR)</strong> replaces a damaged aortic valve with a tissue valve made from cow or pig heart tissues.</span><br />
+● With TAVI, you don’t need to make a big incision down your chest as you would with surgical valve replacement (open-heart surgery).<br />
+● At the start of the procedure, the doctor will make a small cut in one of three places:<br />
+○ the groin<br />
+○ the neck or<br />
 ○ a space between the ribs</p>
-<p>● The doctor will then insert a catheter into a blood vessel and guide it into the heart.<br>
-● The doctor places the catheter correctly using moving X-ray images or echocardiogram pictures.<br>
-● Using a hollow catheter, a replacement valve made of cow or pig tissue is placed in the aortic valve area.<br>
-● The catheter tip inflates to press in the new valve. Some valves don’t need balloons to expand.<br>
+<p>● The doctor will then insert a catheter into a blood vessel and guide it into the heart.<br />
+● The doctor places the catheter correctly using moving X-ray images or echocardiogram pictures.<br />
+● Using a hollow catheter, a replacement valve made of cow or pig tissue is placed in the aortic valve area.<br />
+● The catheter tip inflates to press in the new valve. Some valves don’t need balloons to expand.<br />
 ● Once the new valve is in, the doctor removes the catheter and closes the incision.</p>
 <p><span style="color: #0048ad;">TAVI</span> involves carefully monitoring your vital signs, including blood pressure, heart rate, and breathing.</p>
 <h3><span style="color: #0048ad;"><strong>After the procedure</strong></span></h3>
-<p>● After the <span style="text-decoration: underline;"><strong>TAVI surgery in Delhi</strong></span>, you will be taken to the recovery room.<br>
-● The hospital stay after the surgery is for 1 to 2 days.<br>
-● Follow the doctor’s instructions correctly for incision care.<br>
-● Take your pain medications on time.<br>
-● Make sure to attend follow-up visits to check the recovery and the working of the replacement valve.<br>
+<p>● After the <span style="text-decoration: underline;"><strong>TAVI surgery in Delhi</strong></span>, you will be taken to the recovery room.<br />
+● The hospital stay after the surgery is for 1 to 2 days.<br />
+● Follow the doctor’s instructions correctly for incision care.<br />
+● Take your pain medications on time.<br />
+● Make sure to attend follow-up visits to check the recovery and the working of the replacement valve.<br />
 ● You can also join cardiac rehab to retain your cardiac health.</p>
 <h3><span style="color: #0048ad;"><strong>Recovery after TAVI Surgery</strong></span></h3>
-<p>Keep a heart-healthy lifestyle as you recover and prevent further problems. When you’re done with <span style="color: #000000;">TAVR:</span><br>
-● Make sure you don’t smoke.<br>
-● Eat a healthy diet full of fruits and veggies and low in salt (sodium) and trans fats.<br>
-● Get regular exercise – talk to your doctor before starting something new.<br>
+<p>Keep a heart-healthy lifestyle as you recover and prevent further problems. When you’re done with <span style="color: black;">TAVR:</span><br />
+● Make sure you don’t smoke.<br />
+● Eat a healthy diet full of fruits and veggies and low in salt (sodium) and trans fats.<br />
+● Get regular exercise – talk to your doctor before starting something new.<br />
 ● Keep a healthy weight.</p>
 <h3><span style="color: #0048ad;"><strong>Benefits of TAVI Surgery in India</strong></span></h3>
 <p>There are several benefits of the procedure when compared with <span style="text-decoration: underline;"><strong>open heart surgery</strong></span>. The primary benefits include:</p>
-<p>● It can be easily performed on people who have high surgical risk<br>
-● Improve overall health and quality of life in people suffering from heart valve diseases.<br>
-● Minimally invasive and requires a minimal incision.<br>
-● Short hospital stay<br>
-● Faster recovery time<br>
-Risks associated with the procedure<br>
-Every surgery comes with some risks. The common risks associated with the procedure are as follows:<br>
-● Incision bruising, bleeding, or pain<br>
-● An infection<br>
-● Stroke or heart attack-causing blood clots<br>
-● Arrhythmias, which in some cases require a pacemaker<br>
-● Blood vessel damage caused by the catheter<br>
-● Damage to the heart and blood vessels<br>
+<p>● It can be easily performed on people who have high surgical risk<br />
+● Improve overall health and quality of life in people suffering from heart valve diseases.<br />
+● Minimally invasive and requires a minimal incision.<br />
+● Short hospital stay<br />
+● Faster recovery time<br />
+Risks associated with the procedure<br />
+Every surgery comes with some risks. The common risks associated with the procedure are as follows:<br />
+● Incision bruising, bleeding, or pain<br />
+● An infection<br />
+● Stroke or heart attack-causing blood clots<br />
+● Arrhythmias, which in some cases require a pacemaker<br />
+● Blood vessel damage caused by the catheter<br />
+● Damage to the heart and blood vessels<br />
 ● Leaking of the replaced valve.</p>
 <h3><span style="color: #0048ad;"><strong>Clinical Outcomes</strong></span></h3>
-<p>● According to the data from the <span style="text-decoration: underline;"><strong>National Health Library</strong></span>, the survival rate after TAVI is 89 %.<br>
-● Less risk of cardiac-related deaths<br>
+<p>● According to the data from the <span style="text-decoration: underline;"><strong>National Health Library</strong></span>, the survival rate after TAVI is 89 %.<br />
+● Less risk of cardiac-related deaths<br />
 ● Low risk of complications as compared to open heart surgery</p>
 <p><span style="color: #0048ad;"><strong>How long does a TAVI heart valve last?</strong></span></p>
 <p>There’s still a lot of research to be done before we can say precisely how long TAVI valves last. In most cases, a TAVI valve still works well six years after surgery. It’ll probably get better as technology and technique improves.</p>
 <p><span style="color: #0048ad;"><strong>Why is India a Hub for TAVI Surgery?</strong></span></p>
-<p><span style="color: #000000;"><em>India is now a <span style="text-decoration: underline;"><strong>global hub for medical tourism</strong> </span>because of the following:</em></span></p>
-<p>● Affordability<br>
-● Skilled surgeons and medical teams<br>
-● Cutting-edge medical infrastructure<br>
+<p><span style="color: black;"><em>India is now a <span style="text-decoration: underline;"><strong>global hub for medical tourism</strong> </span>because of the following:</em></span></p>
+<p>● Affordability<br />
+● Skilled surgeons and medical teams<br />
+● Cutting-edge medical infrastructure<br />
 ● Personalized care and hospitality</p>
-<h2><span style="color: #0048ad;"><strong>Best Hospitals, Doctors&nbsp; and TAVI/TAVR Surgery Cost in India</strong></span></h2>
-<table style="height: 292px;" width="671">
-<thead>
-<tr>
-<td width="239"><strong>Hospital</strong></td>
-<td width="164"><strong>Best Doctor</strong></td>
-<td width="136"><strong>Cost </strong><strong>(American Implant)</strong></td>
-</tr>
-<tr>
-<td width="239"><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi </a>(JCI accredited )</td>
-<td width="164"><a href="#/dr-viveka-kumar/">Dr Viveka Kumar</a> – Director of Interventional Cardiology.</td>
-<td width="136"><strong>31000$</strong></td>
-</tr>
-<tr>
-<td width="239"><a href="#/fortis-escorts-heart-institute/">Fortis Escorts Research Institute</a>&nbsp;(JCI accredited )</td>
-<td width="164"><a href="#/dr-atul-mathur-interventional-cardiac-surgeon-in-india/">Dr Atul Mathur- </a>(Executive Director- Cardiology</td>
-<td width="136"><strong>41000$ </strong></td>
-</tr>
-<tr>
-<td width="239"><a href="#/manipal-hospital/">Manipal Hospital</a>s (NABH accredited )</td>
-<td width="164"><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a> – Director of Cardiac Sciences</td>
-<td width="136"><strong>45000$ </strong></td>
-</tr>
-</thead>
-</table>
-<p><b>How can you find the best doctor for TAVI/TAVR surgery in India? What is the step-by-step process?</b></p>
-<p><span style="text-decoration: underline;"><strong>Medihelp Global  is</strong></span> here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="text-decoration: underline;"><strong>TAVI surgery in India</strong></span>, fill out the form below, and we will help you choose the best doctor and hospital that provides state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best TAVI Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
+  // pacemaker-implantation-surgery
   {
     name: "pacemaker-implantation-surgery",
     img: "/treatment/pacemaker-implantation-surgery.webp",
-    data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Pacemaker Surgery in India: Heart Rhythm Restored</strong></span></h2>
-<p>The human heart pulsates about 72 beats per minute. It generates electrical impulses from the sinoatrial node to perform constant and rhythmic pulsations and effectively pump blood. When this node stops creating electrical impulses, an artificial and electrically charged medical device is implanted in the chest wall to mimic the function of the SA node.</p>
-<p>This electrical device is called a pacemaker. Its primary role is to maintain the heartbeat rhythm and avoid arrhythmias.</p>
-<p>Medihelp Global , the best medical consultants in India, will help you get the finest<strong> pacemaker surgery in India.</strong> Keep reading to learn how!!!</p>
-<h2><strong><span style="color: #0048ad;">What is a pacemaker?</span> </strong></h2>
-<p>A pacemaker is a small implantable medical device that helps regulate heart rhythm. Its major function is to ensure that the heart neither beats too fast nor too slow. The pacemaker is placed under the skin below the collar bone and then connected to the heart chambers by lead wires running through a blood vessel. This <strong>pacemaker surgery </strong>usually takes 1 to 2 hours.</p>
-<p>It consists of the following parts:</p>
-<p><strong>A Pulse Generator </strong>is a small metal container containing a battery and electrical circuitry that regulates the amount of electrical impulses sent to your heart.</p>
-<p><strong>Leads: </strong>These are flexible insulated wires placed in the chambers of your heart and deliver electrical impulses to adjust your heart rate. New pacemakers do not have leads. They are called leadless pacemakers.</p>
-<h2><strong><span style="color: #0048ad;">What is pacemaker surgery in India?</span> </strong></h2>
-<p>During<strong> pacemaker implantation in India</strong>, the surgeons will place a pacemaker under the skin below the collarbone. It is connected with lead wires to the heart chambers. With the best cardiac team and state-of-the-art equipment, <strong>Fortis Escorts Heart Institute </strong>is India’s most reliable hospital for<strong> pacemaker surgery.</strong></p>
-<h2><span style="color: #0048ad;"><strong>Why do you need a pacemaker?</strong></span></h2>
-<p>A pacemaker controls the heartbeat. It makes the heart function normally so that it can keep beating regularly. The heart’s electrical system controls the heartbeat, and electrical signals tell the heart when to beat.</p>
-<p>Changes in the heart conduction system may happen if the heart muscles are damaged. Problems with the heart rhythm may cause difficulties because the heart cannot pump enough blood to our body.</p>
-<p>● If the heart rate is slow, the blood is pumped very slowly.<br>
-● If the heart rate is too fast or irregular, the heart chambers cannot fill enough blood to pump it out with each beat.</p>
-<p>When the body does not get enough blood, symptoms such as fatigue, dizziness, fainting, and chest pain may occur.</p>
-<h2><span style="color: #0048ad;"><strong>You will need an operation for&nbsp; Pacemaker implantation in Delhi if you have the following:</strong></span></h2>
-<ul>
-<li>Bradycardia ( Heart beats too slow)</li>
-<li>Tachycardia ( fast heartbeat)</li>
-<li>Tachy Brady syndrome ( alternating fast and slow heartbeats)</li>
-<li>Heart Block</li>
-<li>Cardiac arrest</li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Pacemaker Surgery in Delhi: Understanding the Types of Pacemaker</strong></span></h2>
-<p><strong>Medihelp Global </strong> will look at your medical reports, and after consulting the<strong> best pacemaker implantation doctors in India, </strong>we will suggest the best pacemaker for your condition. Different types of pacemakers are:</p>
-<p><strong>Single-chamber pacemaker: </strong>This device involves only one lead wire connecting the pulse generator to one heart chamber. It is mostly performed for patients who require pacing support for the right ventricle only.</p>
-<p><strong>Dual Chamber Pacemaker: </strong>In this type of <strong>pacemaker surgery in India</strong>, two lead wires connect the Pulse Generator to the right atrium and ventricle, which helps coordinate the contraction of both chambers.</p>
-<p><strong>Biventricular Pacemaker: </strong>This is recommended for people with heart failure whose electrical system demands repair. A biventricular pacemaker paces both ventricles simultaneously, increasing the blood pumped by the heart. This type of treatment is also known as cardiac resynchronization therapy.</p>
-<h2><strong><span style="color: #0048ad;">What is the difference between a pacemaker and an ICD?</span> </strong></h2>
-<p>A pacemaker generally sends electrical impulses to control the rhythm of your heart, but it cannot provide the shock to your heart to cure an <strong>arrhythmia. </strong></p>
-<p>Most new implantable cardioverter defibrillators (ICDs) can do the same job as a pacemaker and detect dangerous heart rhythms. Once these are detected, the ICD will deliver a shock to restore your heart to its normal rhythm.</p>
-<h2><strong><span style="color: #0048ad;">How does a pacemaker work?</span> </strong></h2>
-<p>A pacemaker continuously monitors your heart’s electrical activity. When it detects that the heart is beating abnormally, it sends electrical impulses via leads to stimulate the heart muscles, ensuring that the heart beats normally.</p>
-<h2><span style="color: #0048ad;"><strong>Preparing for Pacemaker Insertion Surgery</strong></span></h2>
-<p>Several tests are done to determine whether <strong>pacemaker implantation in India </strong>suits you.</p>
-<p>These tests include:</p>
-<p>● ECG<br>
-● Holter Monitor<br>
-● Echocardiogram<br>
-● Stress or Exercise Tests</p>
-<h2><span style="color: #0048ad;">What will happen before the procedure?</span></h2>
-<p>● We will give you a consent form asking the hospital authorities to perform the<strong> pacemaker surgery.</strong><br>
-● Please ensure you tell the doctors and us if you are allergic to any medication.<br>
-● You will have to go fast before the procedure.<br>
-● If you are pregnant, please notify us and the doctor too.<br>
-● Please inform us if you are on any blood thinner medications.<br>
-● Please notify us if you have a heart valve disease, bleeding disorder, or other disease for which you are taking antibiotics.</p>
-<h2><span style="color: #0048ad;">Pacemaker Implantation in India: What are the approaches?</span></h2>
-<p><strong>Pacemaker surgery in Fortis Escorts Research Institute</strong>, the pacemaker is implanted in two ways:</p>
-<h3><span style="color: #0048ad;"><strong>Endocardial Approach</strong></span></h3>
-<p>● It is the most common technique used and is performed in a <strong>pacemaker lab.</strong><br>
-● Local anesthesia is given, and after that, the surgeon will make an incision in the chest area where the pacemaker and the leads are inserted.<br>
-● The lead is inserted through an incision to the vein and the heart using a fluoroscopy machine.<br>
-● The lead tip will be attached to the heart muscles, and the other end of the lead will be placed in the pocket created in the skin in the upper part of the chest.</p>
-<h3><span style="color: #0048ad;"><strong>Epicardial Approach</strong></span></h3>
-<p>● The surgeon creates a small incision in your chest, inserts leads through that incision, and attaches them to your heart.<br>
-● The surgeon will connect the leads to the pacemaker.<br>
-● The pacemaker is inserted into a pocket under the skin of your abdomen.</p>
-<h2><span style="color: #0048ad;"><strong>Difference between the two approaches</strong></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Aspect</b></td>
-<td><b>Endocardial Approach</b></td>
-<td><b>Epicardial Approach</b></td>
-</tr>
-<tr>
-<td>Definition</td>
-<td>Involves placing the pacemaker leads inside the heart chambers</td>
-<td>Involves placing the pacemaker leads on the outer surface of the heart</td>
-</tr>
-<tr>
-<td>Surgical Technique</td>
-<td>leads are inserted through a vein (typically the subclavian vein) and positioned in the heart’s chambers</td>
-<td>Leads are placed directly on the heart’s surface through a small incision in the chest</td>
-</tr>
-<tr>
-<td>Common Usage</td>
-<td>Most commonly used for adults requiring pacemaker implantation</td>
-<td>Often used for pediatric patients or those who require cardiac surgery for other reasons</td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Recovery Time&nbsp;</span></td>
-<td>Shorter recovery time, usually a few days</td>
-<td>Longer recovery time, typically a week or more</td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Longevity and Durability&nbsp;</span></td>
-<td>Generally good, with fewer complications over time</td>
-<td>Can have higher rates of complications such as lead dislodgement and fibrosis</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Post Surgery Precautions</strong></p>
-<p>● You will have to stay in the hospital for a few days after the<strong> pacemaker surgery in India.</strong><br>
-● Doctors program pacemakers to fit individuals’ needs. It is important to stay in touch with us and the doctor to ensure the pacemaker functions properly.<br>
-● Vigorous exercise and heavy lifting should be avoided for a month.</p>
-<p><strong>Recovery Time</strong>: Recovery after <strong>pacemaker implantation in Delhi</strong> takes one to two weeks, and the recovery speed will depend on the patient’s immunity.</p>
-<p><strong>What are the advantages of pacemakers?</strong></p>
-<p>Pacemakers are meant to improve your quality of life and prevent the distress caused by heart-related problems. The benefits of <strong>pacemaker surgery in Delhi</strong> are:</p>
-<p>● Improvement in symptoms like heart rhythm problems, chest pain, confusion, palpitations, nausea, and confusion.<br>
-● Preventing symptoms like fainting caused by arrhythmias<br>
-● Prevent your heart from stopping</p>
-<p><strong>Possible Complications</strong></p>
-<p>Pacemakers have very few complications. The possible complications are:</p>
-<p>● Allergic reactions<br>
-● Blood clots<br>
-● A malfunction of a pacemaker or its leads</p>
-<h2><span style="color: #0048ad;">How long does a pacemaker battery last?</span></h2>
-<p>It will depend on the specific model of the pacemaker. Recent pacemakers can last up to 10 to 15 years. You must be in constant touch with us and the doctor to check your pacemaker’s battery level.</p>
-<h2><span style="color: #0048ad;">What is your life expectancy after pacemaker surgery?</span></h2>
-<p>It will depend on your age, overall health, and any co-morbidity you are dealing with. Patients with less severe health concerns are expected to live longer after the pacemaker implantation in India.</p>
-<h2><span style="color: #0048ad;">Precautions to take care of after pacemaker implantation in Delhi</span></h2>
-<p><strong>Medihelp Global  </strong>suggests the following precautions:</p>
-<p>● Always carry your ID card that states that you have a pacemaker.<br>
-● Let screeners know you have a pacemaker before going through airport security detectors.<br>
-● It would help if you avoid areas with large magnetic fields like junkyards.<br>
-● If you get any other surgery in the future, inform your doctor that you have had a <strong>pacemaker surgery</strong> before.<br>
-● Take care when you get involved in any physical activity. Your pacemaker should not face any trauma.<br>
-● Always consult your doctor if you have any issues with the battery or any other equipment comprising the pacemaker.</p>
-<h2><span style="color: #0048ad;">Best Pacemaker Implantation Hospitals in India</span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital Name&nbsp;</b></td>
-<td><b>Doctor Name&nbsp;</b></td>
-</tr>
-<tr>
-<td><a href="#/fortis-escorts-heart-institute/"><span style="font-weight: 400;">Fortis Escort Heart Institute&nbsp;</span></a></td>
-<td><a href="#/dr-aparna-jaswal-interventional-cardiologist-in-india/">Dr. Aparna Jaiswal</a></td>
-</tr>
-<tr>
-<td><a href="#/asian-hospital-faridabad-india/"><span style="font-weight: 400;">Asian Hospital</span></a></td>
-<td><a href="#/dr-prof-mohan-nair-cardiologist/">Dr. Prof Mohan Nair</a></td>
-</tr>
-<tr>
-<td><a href="#/medanta-hospital-gurgaon-india/">Medanta The Medicity</a></td>
-<td><a href="#/dr-naresh-trehan-cardiac-surgeon-at-medanta-hospital/">Dr. Naresh Trehan</a></td>
-</tr>
-<tr>
-<td><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></td>
-<td><a href="#/dr-vanita-arora/">Dr. Vanita Arora</a></td>
-</tr>
-<tr>
-<td><a href="#/amrita-hospitals-faridabad-india/">Amrita Hospital</a></td>
-<td><a href="#/dr-vivek-chaturvedi-cardiologist/">Dr. Vivek Chaturvedi</a></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:</strong></p>
-<p>○ Arranging visa<br>
-○ Finding the best hospital<br>
-○ Surgical package negotiation on your behalf<br>
-○ Finding the best doctors<br>
-○ Medicines at reasonable rates<br>
-○ Affordable options to stay in India<br>
-○ Over saving of 15% treatment cost through us</p>
-<p>To know more about our services, please write to us at info@Medihelp Globalglobal.com</p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Pacemaker Implantation Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
-
-		</div>`,
+    data: ``,
   },
+  // liver-transplant-treatment
   {
     name: "liver-transplant-treatment",
     img: "/treatment/liver-transplant-treatment.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Liver transplant program in India&nbsp;</strong></span></h2>
+			<h2><strong><span style="color: #0048ad;">What is the cost of ABO Compatible Liver Transplant Surgery in India?</span></strong></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">Cost of CIS (Uzbekistan, Tajikistan, Kyrgyzstan etc.) countries is less than the rest of the world due to its high volume of patients. Following is the cost of LTP in top hospitals.</p><table><tbody><tr><td width="72"><strong>S.No.</strong></td><td width="310"><strong>Hospital Name</strong></td><td width="194"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cost in USD</strong></td></tr><tr><td width="72">1</td><td width="310">Apollo Hospitals (JCI accredited)</td><td style="text-align: center;" width="194">28000</td></tr><tr><td width="72">2</td><td width="310">Max Hospital&nbsp;(JCI accredited)</td><td style="text-align: center;" width="194">24000</td></tr><tr><td width="72">3</td><td width="310">Fortis Hospital&nbsp;(NABH accredited)</td><td style="text-align: center;" width="194">23000</td></tr><tr><td width="72">4</td><td width="310">Jaypee Hospital&nbsp;(NABH accredited)</td><td style="text-align: center;" width="194">23000</td></tr><tr><td width="72">5</td><td width="310">Medanta, the Medicity&nbsp;(JCI accredited)</td><td style="text-align: center;" width="194">31500</td></tr><tr><td width="72">6</td><td width="310">Manipal Hospital</td><td style="text-align: center;" width="194">26000</td></tr></tbody></table></span></h2><h2><strong><span style="color: #0048ad;">Rest of the world</span></strong></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td width="72"><strong>S.No.</strong></td><td width="310"><strong>Hospital Name</strong></td><td width="194"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cost in USD</strong></td></tr><tr><td width="72">1</td><td width="310">Apollo Hospitals (JCI accredited)</td><td style="text-align: center;" width="194">28000</td></tr><tr><td width="72">2</td><td width="310">Max Hospital&nbsp;(JCI accredited)</td><td style="text-align: center;" width="194">28000</td></tr><tr><td width="72">3</td><td width="310">Fortis Hospital&nbsp;(NABH accredited)</td><td style="text-align: center;" width="194">26000</td></tr><tr><td width="72">4</td><td width="310">Jaypee Hospital&nbsp;(NABH accredited)</td><td style="text-align: center;" width="194">23000</td></tr><tr><td width="72">5</td><td width="310">Medanta, the Medicity&nbsp;(JCI accredited)</td><td style="text-align: center;" width="194">27000</td></tr><tr><td width="72">6</td><td width="310">Manipal Hospital</td><td style="text-align: center;" width="194">27000</td></tr></tbody></table></span></h2><h3><span style="color: #0048ad;">The above package will include the following:</span></h3><h2><span style="color: #0048ad;"><ol style="color: black; font-size: medium; font-weight: 400;"><li>21 days hospital Stay&nbsp; for recipient</li><li>07 to 10 days hospital stay for donor</li><li>Initial Workup and investigations (Only related to Liver Transplant)</li><li>Liver Transplant Cost</li><li>Surgery Team Fee (Only related to Liver Transplant)</li><li>Drugs, consumables and consultant visits</li></ol></span></h2><h3><span style="color: #0048ad;">The above package strictly covers only the Liver Transplant Procedure and will not include</span></h3><h2><span style="color: #0048ad;"><ol style="color: black; font-size: medium; font-weight: 400;"><li>Stay beyond the above-mentioned period.</li><li>Any other disease/ complications</li><li>Use of special drugs/ consumables if not part of Liver Transplant Package</li><li>DNA test if needed</li><li>Legal Documentation before transplantation</li></ol><p style="color: black; font-size: medium; font-weight: 400;">Unmatched blood group patients (ABO incompatible) will have to undergo plasma exchanges cycles (plasmapheresis). Generally it will cost around 10000 USD extra.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Cost of robotic liver transplant surgery to take out donor’s graft is USD 5000.</strong></p><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><strong>ABO incompatible LTP will additionally cost you around 10000$ as patients&nbsp;</strong><strong>needs to undergo plasmapheresis therapy that too depends of antibody titer.&nbsp;</strong></span></p><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><strong>What all documents needed prior to organ transplant in India ?</strong></span></p><p style="color: black; font-size: medium; font-weight: 400;">In India, solid organ transplantation is regulated by a law known as Transplantation of Human Organs Act, 1994. This Act is enacted to prevent medical ethics and commercialization of human organs. All major Indian hospitals like Fortis,&nbsp;<a href="#/apollo-hospital/"><strong>Apollo</strong></a>,&nbsp;<strong><a href="#/max-hospital-gurgaon/">Max</a>,<a href="#/medanta-the-medicity-eye-department/">&nbsp;Medanta</a>,</strong>&nbsp;<a href="#/artemis-hospital-gurgaon-india/"><strong>Artemis</strong></a>&nbsp;and BLK have statutory licenses to carry out human organs transplantation in accordance of the Act. This acts permits transplants only when donor and recipient meet certain criterion, monitored by transplant Authorisation committee set up by Govt. of India. The Patients are advised to go through the table below very carefully, properly compile all duly attested documents before traveling their home country /coming to India. The Authorization Committee may not grant permission to carry organ transplant surgery in case of any discrepancy observed by the Authorization Committee in your documents. Other set of documents are compiled by the hospital legal cell on your arrival.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Who is close relative donor?</strong></p><p style="color: black; font-size: medium; font-weight: 400;">It means grandparents, parents, spouse, sibling, children and grandchildren of donor only. In case of married donors, close relative donor would mean husband or wife.</p><p style="color: black; font-size: medium; font-weight: 400;"><strong><span style="color: #0048ad;">Who is 1st degree related donor?</span></strong></p><p style="color: black; font-size: medium; font-weight: 400;">1st Degree Related means grandparents, parents, children, siblings and grandchildren only.</p><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><strong>Who is distant relative or unrelated donor?</strong></span></p><p style="color: black; font-size: medium; font-weight: 400;">Distant Relative means cousin, In laws, Niece, nephew, brother/sister in law, All others fall in unrelated donor category.</p><p style="color: black; font-size: medium; font-weight: 400;">Suitability of Donor would be decided by transplant surgeon as per the Transplantation of Human Organs Act, 1994 (THOA), the donor should be above 18 years of age.</p><p style="color: black; font-size: medium; font-weight: 400;">If the donor is unmarried then one consent form is to be made in prescribed format from mother and father of donor duly attested by the concerned Embassy/High Commission (Annexure -1 ), In addition to their ID card and documentary link. If the Donor is married, the consent affidavit needs to be provided by both the spouse (husband/wife as applicable) AND parents (either father or mother) along with photograph attested by the concerned Embassy/High Commission (Annexure -1), In addition to their ID card and documentary link.</p></span></h2><h2><strong><span style="color: #0048ad;">Donor &amp; Recipient Identity Proof</span></strong></h2><h2><span style="color: #0048ad;"><table widthh="99%"><tbody><tr><td width="30%"><strong>Type of Donor</strong></td><td width="35%"><strong>Identity Proof</strong></td><td width="34%"><strong>Recipient</strong></td></tr><tr><td width="30%">1st Degree Related</td><td width="35%">Attested photocopy of passport</td><td width="34%">Attested photocopy of passport</td></tr><tr><td width="30%">Distant Related or Distant Relative</td><td width="35%">Attested photocopy of valid&nbsp; Medical Visa</td><td width="34%">Attested photocopy of valid&nbsp; Medical Visa</td></tr><tr><td width="30%">Spousal</td><td width="35%">National Identity card</td><td width="34%">National Identity card</td></tr><tr><td width="30%">Donor close relative</td><td width="35%">10 copies of passport size photographs</td><td width="34%">10 copies of passport size photographs</td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Donor &amp; Recipient Family Proof</span></h2><h2><span style="color: #0048ad;"><table widthh="99%"><tbody><tr><td width="22%"><strong>Type of Donor</strong></td><td width="39%"><strong>Family Proof</strong></td><td width="38%"><strong>Recipient</strong></td></tr><tr><td width="22%">1st Degree Related</td><td width="39%">Family photographs<p></p><p>Attested documents establishing family relation with recipient</p><p>HLA typing report singed by HLA/ DNA laboratory incharge.</p><p>This will be repeated again in India.</p></td><td width="38%">Family photographs<p></p><p>Attested documents establishing family relation with recipient</p><p>HLA typing report singed by HLA/ DNA laboratory incharge.</p><p>This will be repeated again in India.</p></td></tr><tr><td width="22%">Distant Related or Distant Relative</td><td width="39%">Family photographs<p></p><p>Attested documents establishing relation with recipient</p></td><td width="38%">Family photographs<p></p><p>Attested documents establishing relation with recipient</p></td></tr><tr><td width="22%">Spousal</td><td width="39%">Marriage albums<p></p><p>Attested Marriage certificate</p><p>Consent affidavit (Spouse and parents)</p></td><td width="38%">Marriage albums<p></p><p>Attested Marriage certificate</p></td></tr><tr><td width="22%">&nbsp;<p></p><p>Donor close relative</p><p>&nbsp;</p></td><td width="39%">Family photographs<p></p><p>Attested documents establishing family relation with donor</p></td><td width="38%">Family photographs<p></p><p>Attested documents establishing family relation with donor</p></td></tr></tbody></table></span></h2><h2><strong><span style="color: #0048ad;">Donor &amp; Recipient Income Proof</span></strong></h2><h2><span style="color: #0048ad;"><table style="height: 293px; width: 758px;"><tbody><tr><td width="30%"><strong>Type of Donor</strong></td><td width="35%"><strong>Income Proof</strong></td><td width="34%"><strong>Not required &nbsp;&nbsp;</strong></td></tr><tr><td width="30%">1st Degree Related</td><td width="35%">Not required</td><td width="34%">Not required</td></tr><tr><td width="30%">Distant Related or Distant Relative</td><td width="35%">Proof of income for last 3 years</td><td width="34%">Proof of income for last 3 years</td></tr><tr><td width="30%">Spousal</td><td width="35%">Not required</td><td width="34%">Not required</td></tr><tr><td width="30%">Donor close relative</td><td width="35%">Not required</td><td width="34%">Not required</td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Note:</strong></p><ul style="color: black; font-size: medium; font-weight: 400;"><li>Husband and wife fall in spousal category</li><li>It is compulsory that all the above documents are attested by your Ministry of External/Foreign Affairs before you leave your country. Upon arrival in India, these documents will again need to be attested by your country’s Embassy/High Commission in New Delhi, India. Please bring all the original documents along with you, which will be required to produce before the Authorization Committee in the hospital.</li><li>Other affidavits, psychiatric clearance and forms would have to be made in India.</li><li>Presence of donor, recipient and donor close relative is essential</li></ul><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><strong>*** Additional documents needed in case of UNRELATED DONOR</strong></span></p><p style="color: black; font-size: medium; font-weight: 400;">The other family members apart from the first degree members fall under the category of unrelated donors. They should carry the below mentioned additional documents in addition to the documents mentioned in the General Check List.</p><ol style="color: black; font-size: medium; font-weight: 400;"><li>Self-attested family tree, depicting all the first degree family members mentioning blood groups along with the supporting documents with reasons for their unsuitability to donate the organ.</li><li>Self-attested family tree showing the relationship between the patient and the donor.</li><li>An explanation of the link between the donor and the recipient and the circumstances which led to the offer being made.</li><li>Reasons why the donor wished to donate.</li><li>Documentary evidence of the link, e.g. proof that they have lived together etc.</li><li>Old photographs/albums showing the donor and recipient together.</li><li>Educational certificates of the Donor.</li><li>Job/employment details of the donor.</li></ol></span></h2><h2><span style="color: #0048ad;"><strong>Liver transplant program in India&nbsp;</strong></span></h2>
 <p>Indraprastha Apollo hospital in India successfully carried out India’s first liver transplant in 1998. Since then, India has emerged as a global leader in solid organ transplants and over 2000 liver transplants are performed here annually. Nearly 3,200 patients from over 50 countries got their liver transplant done from the Apollo Institute of Liver Transplant in New Delhi, India.</p>
 <p>Apollo’s Solid Organ Transplant Program is the world’s largest program and remains so for the last six consecutive years since 2014. The institute holds expertise in performing ABO incompatible and liver &amp; kidney transplant together.</p>
 <p><span style="color: #0048ad;"><strong>What is liver transplant?</strong></span></p>
@@ -5383,265 +3646,31 @@ Every surgery comes with some risks. The common risks associated with the proced
 </table>
 <h2><span style="color: #0048ad;"><strong>Top doctors in India offering liver transplant surgery in India&nbsp;</strong></span></h2>
 <ol>
-<li><a href="#/dr-arvinder-singh-soin-liver-transplant-surgeon/"><strong>Dr Arinder Singh Soin</strong></a>, working as Chairman Liver Transplant Unit at Medanta the Medicity, experience 28 years.</li>
-<li><a href="#/dr-subhash-gupta-liver-transplant-surgeon-at-max-healthcare/"><strong>Dr Prof Subhash Gupta</strong></a>, HOD Liver Transplant and Hepatobiliary unit at Max Super Speciality Hospital, Experience 22 years.</li>
-<li><a href="#/dr-vivek-vij-liver-transplant-surgeon-at-fortis-healthcare/"><strong>Dr Vivek Vij</strong></a>, Head Liver Transplant Department at Fortis Group of hospitals, experience 20 years.</li>
-<li><a href="#/dr-neerav-goyal-head-senior-consultant-apollo-liver-transplant/"><strong>Dr Neerav Goel</strong></a> working as senior consultant liver transplant and hepatobiliary unit at Indraprastha Apollo Hospital New Delhi, experience 15 years.</li>
-<li><strong><a href="#/dr-shailendra-lalwani-liver-transplant-surgeon-at-manipal-hospital/">Dr Shailendra Lalwani</a>,</strong> Director Liver Transplant at Manipal Hospital ,experience 15 years</li>
+<li><strong>Dr Arinder Singh Soin</strong>, working as Chairman Liver Transplant Unit at Medanta the Medicity, experience 28 years.</li>
+<li><strong>Dr Prof Subhash Gupta</strong>, HOD Liver Transplant and Hepatobiliary unit at Max Super Speciality Hospital, Experience 22 years.</li>
+<li><strong>Dr Vivek Vij</strong>, Head Liver Transplant Department at Fortis Group of hospitals, experience 20 years.</li>
+<li><strong>Dr Neerav Goel</strong> working as senior consultant liver transplant and hepatobiliary unit at Indraprastha Apollo Hospital New Delhi, experience 15 years.</li>
+<li><strong>Dr Shailendra Lalwani,</strong> Director Liver Transplant at Manipal Hospital ,experience 15 years</li>
 </ol>
 <h2><span style="color: #0048ad;"><strong>Top hospitals&nbsp; Offering liver transplant surgery in India&nbsp;</strong></span></h2>
 <ol>
-<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="#/manipal-hospital/">Manipal Hospital</a></li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a></li>
-<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-</ol>
-<h2><strong><span style="color: #0048ad;">What is the cost of ABO Compatible Liver Transplant Surgery in India?</span> </strong></h2>
-<p>Cost of CIS (Uzbekistan, Tajikistan, Kyrgyzstan etc.) countries is less than the rest of the world due to its high volume of patients. Following is the cost of LTP in top hospitals.</p>
-<table>
-<tbody>
-<tr>
-<td width="72"><strong>S.No.</strong></td>
-<td width="310"><strong>Hospital Name </strong></td>
-<td width="194"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cost in USD </strong></td>
-</tr>
-<tr>
-<td width="72">1</td>
-<td width="310"><a href="https://www.apollohospitals.com/">Apollo Hospitals (JCI accredited)</a></td>
-<td style="text-align: center;" width="194">28000</td>
-</tr>
-<tr>
-<td width="72">2</td>
-<td width="310"><a href="#/max-hospital-gurgaon/">Max Hospital</a> (JCI accredited)</td>
-<td style="text-align: center;" width="194">24000</td>
-</tr>
-<tr>
-<td width="72">3</td>
-<td width="310"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a> (NABH accredited)</td>
-<td style="text-align: center;" width="194">23000</td>
-</tr>
-<tr>
-<td width="72">4</td>
-<td width="310"><a href="#/jaypee-hospital-noida-india/">Jaypee Hospital</a> (NABH accredited)</td>
-<td style="text-align: center;" width="194">23000</td>
-</tr>
-<tr>
-<td width="72">5</td>
-<td width="310"><a href="#/medanta-the-medicity-eye-department/">Medanta, the Medicity</a> (JCI accredited)</td>
-<td style="text-align: center;" width="194">31500</td>
-</tr>
-<tr>
-<td width="72">6</td>
-<td width="310"><a href="#/manipal-hospital/">Manipal Hospital</a></td>
-<td style="text-align: center;" width="194">26000</td>
-</tr>
-</tbody>
-</table>
-<h2><strong><span style="color: #0048ad;">Rest of the world</span> </strong></h2>
-<table>
-<tbody>
-<tr>
-<td width="72"><strong>S.No.</strong></td>
-<td width="310"><strong>Hospital Name </strong></td>
-<td width="194"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cost in USD </strong></td>
-</tr>
-<tr>
-<td width="72">1</td>
-<td width="310"><a href="#/apollo-hospital/">Apollo Hospital</a>s (JCI accredited)</td>
-<td style="text-align: center;" width="194">28000</td>
-</tr>
-<tr>
-<td width="72">2</td>
-<td width="310"><a href="#/max-hospital-gurgaon/">Max Hospital</a> (JCI accredited)</td>
-<td style="text-align: center;" width="194">28000</td>
-</tr>
-<tr>
-<td width="72">3</td>
-<td width="310"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a> (NABH accredited)</td>
-<td style="text-align: center;" width="194">26000</td>
-</tr>
-<tr>
-<td width="72">4</td>
-<td width="310"><a href="#/jaypee-hospital-noida-india/">Jaypee Hospital</a> (NABH accredited)</td>
-<td style="text-align: center;" width="194">23000</td>
-</tr>
-<tr>
-<td width="72">5</td>
-<td width="310"><a href="#/medanta-the-medicity-eye-department/">Medanta, the Medicity</a> (JCI accredited)</td>
-<td style="text-align: center;" width="194">27000</td>
-</tr>
-<tr>
-<td width="72">6</td>
-<td width="310"><a href="#/manipal-hospital/">Manipal Hospital</a></td>
-<td style="text-align: center;" width="194">27000</td>
-</tr>
-</tbody>
-</table>
-<h3><span style="color: #0048ad;"><strong>The above package will include the following:</strong></span></h3>
-<ol>
-<li>21 days hospital Stay&nbsp; for recipient</li>
-<li>07 to 10 days hospital stay for donor</li>
-<li>Initial Workup and investigations (Only related to Liver Transplant)</li>
-<li>Liver Transplant Cost</li>
-<li>Surgery Team Fee (Only related to Liver Transplant)</li>
-<li>Drugs, consumables and consultant visits</li>
-</ol>
-<h3><span style="color: #0048ad;"><strong>The above package strictly covers only the Liver Transplant Procedure and will not include</strong></span></h3>
-<ol>
-<li>Stay beyond the above-mentioned period.</li>
-<li>Any other disease/ complications</li>
-<li>Use of special drugs/ consumables if not part of Liver Transplant Package</li>
-<li>DNA test if needed</li>
-<li>Legal Documentation before transplantation</li>
-</ol>
-<p>Unmatched blood group patients (ABO incompatible) will have to undergo plasma exchanges cycles (plasmapheresis). Generally it will cost around 10000 USD extra.</p>
-<p><strong>Cost of robotic liver transplant surgery to take out donor’s graft is USD 5000.</strong></p>
-<p><span style="color: #0048ad;"><strong>ABO incompatible LTP will additionally cost you around 10000$ as patients </strong><strong>needs to undergo plasmapheresis therapy that too depends of antibody titer.&nbsp;</strong></span></p>
-<p><span style="color: #0048ad;"><strong>What all documents needed prior to organ transplant in India ?</strong></span></p>
-<p>In India, solid organ transplantation is regulated by a law known as Transplantation of Human Organs Act, 1994. This Act is enacted to prevent medical ethics and commercialization of human organs. All major Indian hospitals like Fortis, <a href="#/apollo-hospital/"><strong>Apollo</strong></a>, <strong><a href="#/max-hospital-gurgaon/">Max</a>,<a href="#/medanta-the-medicity-eye-department/"> Medanta</a>,</strong> <a href="#/artemis-hospital-gurgaon-india/"><strong>Artemis</strong></a> and BLK have statutory licenses to carry out human organs transplantation in accordance of the Act. This acts permits transplants only when donor and recipient meet certain criterion, monitored by transplant Authorisation committee set up by Govt. of India. The Patients are advised to go through the table below very carefully, properly compile all duly attested documents before traveling their home country /coming to India. The Authorization Committee may not grant permission to carry organ transplant surgery in case of any discrepancy observed by the Authorization Committee in your documents. Other set of documents are compiled by the hospital legal cell on your arrival.</p>
-<p><strong>Who is close relative donor?</strong></p>
-<p>It means grandparents, parents, spouse, sibling, children and grandchildren of donor only. In case of married donors, close relative donor would mean husband or wife.</p>
-<p><strong><span style="color: #0048ad;">Who is 1st degree related donor?</span> </strong></p>
-<p>1st Degree Related means grandparents, parents, children, siblings and grandchildren only.</p>
-<p><span style="color: #0048ad;"><strong>Who is distant relative or unrelated donor?</strong></span></p>
-<p>Distant Relative means cousin, In laws, Niece, nephew, brother/sister in law, All others fall in unrelated donor category.</p>
-<p>Suitability of Donor would be decided by transplant surgeon as per the Transplantation of Human Organs Act, 1994 (THOA), the donor should be above 18 years of age.</p>
-<p>If the donor is unmarried then one consent form is to be made in prescribed format from mother and father of donor duly attested by the concerned Embassy/High Commission (Annexure -1 ), In addition to their ID card and documentary link. If the Donor is married, the consent affidavit needs to be provided by both the spouse (husband/wife as applicable) AND parents (either father or mother) along with photograph attested by the concerned Embassy/High Commission (Annexure -1), In addition to their ID card and documentary link.</p>
-<h2><strong><span style="color: #0048ad;">Donor &amp; Recipient Identity Proof</span> </strong></h2>
-<table widthh="99%">
-<tbody>
-<tr>
-<td width="30%"><strong>Type of Donor </strong></td>
-<td width="35%"><strong>Identity Proof </strong></td>
-<td width="34%"><strong>Recipient </strong></td>
-</tr>
-<tr>
-<td width="30%">1st Degree Related</td>
-<td width="35%">Attested photocopy of passport</td>
-<td width="34%">Attested photocopy of passport</td>
-</tr>
-<tr>
-<td width="30%">Distant Related or Distant Relative</td>
-<td width="35%">Attested photocopy of valid&nbsp; Medical Visa</td>
-<td width="34%">Attested photocopy of valid&nbsp; Medical Visa</td>
-</tr>
-<tr>
-<td width="30%">Spousal</td>
-<td width="35%">National Identity card</td>
-<td width="34%">National Identity card</td>
-</tr>
-<tr>
-<td width="30%">Donor close relative</td>
-<td width="35%">10 copies of passport size photographs</td>
-<td width="34%">10 copies of passport size photographs</td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><strong>Donor &amp; Recipient Family Proof</strong></span></h2>
-<table widthh="99%">
-<tbody>
-<tr>
-<td style="text-align: left;" width="22%"><strong>Type of Donor </strong></td>
-<td style="text-align: left;" width="39%"><strong>Family Proof </strong></td>
-<td style="text-align: left;" width="38%"><strong>Recipient </strong></td>
-</tr>
-<tr>
-<td width="22%">1st Degree Related</td>
-<td width="39%">Family photographs<p></p>
-<p>Attested documents establishing family relation with recipient</p>
-<p>HLA typing report singed by HLA/ DNA laboratory incharge.</p>
-<p>This will be repeated again in India.</p></td>
-<td width="38%">Family photographs<p></p>
-<p>Attested documents establishing family relation with recipient</p>
-<p>HLA typing report singed by HLA/ DNA laboratory incharge.</p>
-<p>This will be repeated again in India.</p></td>
-</tr>
-<tr>
-<td width="22%">Distant Related or Distant Relative</td>
-<td width="39%">Family photographs<p></p>
-<p>Attested documents establishing relation with recipient</p></td>
-<td width="38%">Family photographs<p></p>
-<p>Attested documents establishing relation with recipient</p></td>
-</tr>
-<tr>
-<td width="22%">Spousal</td>
-<td width="39%">Marriage albums<p></p>
-<p>Attested Marriage certificate</p>
-<p>Consent affidavit (Spouse and parents)</p></td>
-<td width="38%">Marriage albums<p></p>
-<p>Attested Marriage certificate</p></td>
-</tr>
-<tr>
-<td width="22%">&nbsp;<p></p>
-<p>Donor close relative</p>
-<p>&nbsp;</p></td>
-<td width="39%">Family photographs<p></p>
-<p>Attested documents establishing family relation with donor</p></td>
-<td width="38%">Family photographs<p></p>
-<p>Attested documents establishing family relation with donor</p></td>
-</tr>
-</tbody>
-</table>
-<h2><strong><span style="color: #0048ad;">Donor &amp; Recipient Income Proof</span> </strong></h2>
-<table style="height: 293px;" width="758">
-<tbody>
-<tr>
-<td width="30%"><strong>Type of Donor </strong></td>
-<td width="35%"><strong>Income Proof </strong></td>
-<td width="34%"><strong>Not required &nbsp;&nbsp;</strong></td>
-</tr>
-<tr>
-<td style="text-align: left;" width="30%">1st Degree Related</td>
-<td style="text-align: left;" width="35%">Not required</td>
-<td style="text-align: left;" width="34%">Not required</td>
-</tr>
-<tr>
-<td width="30%">Distant Related or Distant Relative</td>
-<td width="35%">Proof of income for last 3 years</td>
-<td width="34%">Proof of income for last 3 years</td>
-</tr>
-<tr>
-<td style="text-align: left;" width="30%">Spousal</td>
-<td style="text-align: left;" width="35%">Not required</td>
-<td style="text-align: left;" width="34%">Not required</td>
-</tr>
-<tr>
-<td width="30%">Donor close relative</td>
-<td width="35%">Not required</td>
-<td width="34%">Not required</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Note:</strong></p>
-<ul>
-<li>Husband and wife fall in spousal category</li>
-<li>It is compulsory that all the above documents are attested by your Ministry of External/Foreign Affairs before you leave your country. Upon arrival in India, these documents will again need to be attested by your country’s Embassy/High Commission in New Delhi, India. Please bring all the original documents along with you, which will be required to produce before the Authorization Committee in the hospital.</li>
-<li>Other affidavits, psychiatric clearance and forms would have to be made in India.</li>
-<li>Presence of donor, recipient and donor close relative is essential</li>
-</ul>
-<p><span style="color: #0048ad;"><strong>*** Additional documents needed in case of UNRELATED DONOR</strong></span></p>
-<p>The other family members apart from the first degree members fall under the category of unrelated donors. They should carry the below mentioned additional documents in addition to the documents mentioned in the General Check List.</p>
-<ol>
-<li>Self-attested family tree, depicting all the first degree family members mentioning blood groups along with the supporting documents with reasons for their unsuitability to donate the organ.</li>
-<li>Self-attested family tree showing the relationship between the patient and the donor.</li>
-<li>An explanation of the link between the donor and the recipient and the circumstances which led to the offer being made.</li>
-<li>Reasons why the donor wished to donate.</li>
-<li>Documentary evidence of the link, e.g. proof that they have lived together etc.</li>
-<li>Old photographs/albums showing the donor and recipient together.</li>
-<li>Educational certificates of the Donor.</li>
-<li>Job/employment details of the donor.</li>
+<li>Indraprastha Apollo Hospital</li>
+<li>Medanta The Medicity</li>
+<li>Manipal Hospital</li>
+<li>Max Super Speciality Hospital</li>
+<li>Fortis Memorial Research Institute, Gurugram</li></ol><ol>
 </ol>
 <p><span style="color: #0048ad;"><strong>Seeking “best liver transplant doctors in India “for evidence based treatment in Delhi, India then contact Medihelp Global .&nbsp; And save 15% treatment cost.</strong></span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Liver Transplant Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
   },
+  // bone-marrow-transplant
   {
     name: "bone-marrow-transplant",
     img: "/treatment/bone-marrow-transplant.webp",
     data: `<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">A <strong>bone marrow transplant</strong> is a procedure that infuses healthy blood-forming stem cells into your body to treat diseased bone marrow. It is also known as a stem cell transplant. You will need a bone marrow transplant if your bone marrow has stopped working and does not produce healthy blood cells.&nbsp;</span></p>
+			<h3><b><span style="color: #0b5394;">What is engraftment after a bone marrow transplant in India?&nbsp;</span></b></h3><p><span>Engraftment happens when the donated cells start making new cells in the body. Depending on the type of transplant and the type of disease being treated, the engraftment happens on the 15th or 30th day. Blood counts will be checked at regular intervals. Blood counts will be regularly checked post-transplant.&nbsp;</span></p><p><span>New bone marrow takes 30 days to start making new cells, and it can take years for the immune system to recover fully.&nbsp;</span></p><h4><b>Prognosis</b></h4><p><span>The prognosis of a bone marrow transplant depends on the following:&nbsp;</span></p><ul><li aria-level="1"><span>Type of transplant</span></li><li aria-level="1"><span>Type of disease being treated</span></li><li aria-level="1"><span>Response to the treatment</span></li><li aria-level="1"><span>Genetics</span></li><li aria-level="1"><span>Your age</span></li><li aria-level="1"><span>Your overall health</span></li><li aria-level="1"><span>Complications</span></li></ul><p><span>When it comes to any surgery, the outcome, as well as the survival rates in the future, also vary depending on the patient in bone marrow transplant. Aids that are now being carried out for the rise in several diseases have enhanced the facet of bone marrow transplants in children and adults. Another requirement for the patient is the continual follow-up care after a bone marrow transplant. Better ways of handling the transplant and, therefore, reducing the effects of the treatment and complications arising from it are being invented.</span></p><p>&nbsp;</p><p><strong><u>FAQs</u></strong></p><p><strong>How are Patients and Donors matched?&nbsp;</strong></p><ul><li>A simple blood test is needed to determine HLA typing of patient and donor.<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></li></ul><p><strong>What are the side effects?&nbsp;</strong></p><ul><li>Common side effects are Infections due to low immunity and bleeding due to diminish platelet count.</li></ul><p><strong>Will bone marrow transplant reduce the immunity of donors?</strong></p><ul><li>No, since because only 1%-5% bone marrow is required for donation hence immunity isn’t affected.</li></ul><p><strong>How long will donor recovery take place?</strong></p><ul><li>It varies from person to person and type of donation. Generally, it takes a week time to resume normal daily activities.</li></ul><p><strong>Does donor need follow up like patient?</strong></p><ul><li>Yes, until he or she resumes normal activities.</li></ul><p><strong>Reduced Intensity Transplantation?</strong></p><ul><li>This is often the only option for older and patients with multiple medical issues where small doses of chemotherapy or radiotherapy are used as this patient can’t tolerate full intensity Allogenic transplantation.</li></ul><p><strong>What is success rate?</strong></p><ul><li>Success rate depends on type of transplant, patient’s general condition and severity of the disease. Generally, it ranges from 90 – 95% in case of autologous transplant and 70 – 90% in case of allogenic transplantation. Success rate of half matched transplant is around 70%.</li></ul><p><strong>What is hospital stay in isolation room?</strong></p><ul><li>Autologous BMT (3 weeks )</li><li>Allogenic BMT (4-6 weeks)</li></ul><p><strong>What is average stay of the patient in India during such procedure?</strong></p><ul><li>Autologous BMT – One week post-transplant, the patient will be followed-up in OPD</li><li>Allogenic BMT – Patient needs Four weeks of follow up in OPD Post-transplant.</li></ul><p><strong>What is the cost of bone marrow transplant in India?</strong></p><p>Autologous BMT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 15000 USD</p><p>Allogenic BMT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 24000 USD (HLA Matched Donor)<br /><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>35000 USD (Half Matched Donor)</p><p>60000 USD Matched Unrelated donor)</p><p>Pediatric BMT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;25000USD</p><p>Chemo if needed&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10000 USD</p><h2><span style="color: #0048ad;">Top doctors in India offering Bone Marrow Transplant</span></h2><ol><li><strong><u>Dr Dharma Choudhary</u></strong>: Consultant &amp; HOD, Max BLK centre for bone marrow transplant, Delhi, India.</li><li><strong><u>Dr Shishir Seth</u></strong>: Sr. Consultant, bone marrow transplant unit at Indrapratha Apollo Hospital, New Delhi., India.</li><li><strong><u>Dr Ashok Kumar Vaid</u></strong>&nbsp;: Chairman, Medical and Haemato Oncology, Cancer Institute at Medanta, The Medicity Hospital, Gurugram, India.</li><li><strong><u>Prof&nbsp; Vinod Raina</u></strong>: Chairman Institute of Oncosciences at Fortis Memorial Research Institute, Gurugram, India.</li><li><strong><u>Dr Rahul Bhargava:</u></strong>&nbsp;Principal Director Hemato-Oncology at Fortis Memorial Research Institute</li><li><strong><u>Dr Satya Prakash Yadav</u></strong>: Director Paediatric Hematology &amp; Bone Marrow Transplant Institute at Medanta, The Medicity Hospital, Gurugram, India.</li><li><strong><u>Dr Rahul Naithani</u></strong>&nbsp;: Director , Cancer care , oncology, Bone Marrow Transplant , Hematology and medical oncology at Max Super Specialty Hospital Saket, India.</li><li><strong><u>Dr Nandini C Hazarika</u></strong>&nbsp;: Director, pediatric bone marrow transplant unit at Rainbow Children’s Hospital, India.</li><li><strong><u>Dr Vikas Duaa</u></strong>&nbsp;: Director Pediatric bone marrow transplant &amp; Hematology unit</li><li><strong><u>Dr. Rakesh Chopra</u></strong>&nbsp;: HOD, Medical &amp; Hematological Oncology at Artmemis Hospital, Gurgram, India.</li></ol><h2><span style="color: #0048ad;">Top hospitals in India Offering Bone Marrow Transplant</span></h2><ol><li>Indraprastha Apollo Hospital</li><li>Medanta The Medicity</li><li>Artemis Hospital</li><li>Max Super Speciality Hospital</li><li>Fortis Memorial Research Institute, Gurugram</li></ol><p><span style="font-weight: 400;">A <strong>bone marrow transplant</strong> is a procedure that infuses healthy blood-forming stem cells into your body to treat diseased bone marrow. It is also known as a stem cell transplant. You will need a bone marrow transplant if your bone marrow has stopped working and does not produce healthy blood cells.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Medihelp Global  is here with you to give you all the details of bone marrow transplants in India and tell you about the best hospitals and doctors offering this service in India.&nbsp;</span></p>
 <p><b>What is bone marrow?&nbsp;</b></p>
 <p><span style="font-weight: 400;">A&nbsp; bone marrow is a spongy tissue that is found inside bones. It is where most of the blood cells are made. The blood cells that make other blood cells are called </span><i><span style="font-weight: 400;">stem cells</span></i><span style="font-weight: 400;">. The most primitive of the stem cells is called the </span><i><span style="font-weight: 400;">pluripotent stem cell</span></i><span style="font-weight: 400;">. This is different from other blood cells with regard to the following properties:</span></p>
@@ -5650,49 +3679,49 @@ Every surgery comes with some risks. The common risks associated with the proced
 <h2><b>What is Bone Marrow Transplant?&nbsp;</b></h2>
 <p><span style="font-weight: 400;">Bone marrow contains stem cells. In healthy individuals, stem cells help in the creation of :&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Red blood cells that carry oxygen in our body</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">White blood cells that help our body fight infection</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Platelets that help to stop bleeding in our body</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Red blood cells that carry oxygen in our body</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">White blood cells that help our body fight infection</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Platelets that help to stop bleeding in our body</span></li>
 </ul>
 <p><span style="font-weight: 400;">If a bone marrow stops performing the above functions, then a person needs a bone marrow transplant.&nbsp;</span></p>
 <h3><b>What can a bone marrow transplant do?&nbsp;</b></h3>
 <p><span style="font-weight: 400;">The primary goal of bone marrow transplant is to cure different types of cancer. There are times when a person requires high doses of chemotherapy and radiation therapy. These doses are so high that the bone marrow stem cells get destroyed. You will need a bone marrow transplant in the following cases:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Replaced diseased and non-functioning bone marrow with a healthy one</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Regenerate a new immune system that will fight the cancer cells; chemotherapy can’t kill</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Replace bone marrow to restore its normal function after a high dose of chemo and radiation therapy</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Replaced diseased and non-functioning bone marrow with a healthy one</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Regenerate a new immune system that will fight the cancer cells; chemotherapy can’t kill</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Replace bone marrow to restore its normal function after a high dose of chemo and radiation therapy</span></li>
 </ul>
 <h3><b>What diseases can be treated by Bone Marrow Transplant?</b></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aplastic Anemia,</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sickle cell disorders</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Marrow failure syndromes</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Coagulative disorders</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Acute and chronic Leukemia</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Myelomas, lymphomas</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Multiple myeloma</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">And other pediatric disorders.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Aplastic Anemia,</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Sickle cell disorders</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Marrow failure syndromes</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Coagulative disorders</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Acute and chronic Leukemia</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Myelomas, lymphomas</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Multiple myeloma</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">And other pediatric disorders.</span></li>
 </ul>
 <h2><b>Understanding Types of Bone Marrow Transplant</b></h2>
 <h3><b>Type 1: Autologous Stem Cell Transplant</b></h3>
 <p><span style="font-weight: 400;">In this type of bone marrow transplant in India, your stem cells are harvested. They are removed from your bone marrow or your blood and then they are frozen. After you get high doses of chemo, your stem cells are given back to you. It is used in the treatment of:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Leukaemia</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lymphoma</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Multiple myeloma</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Multiple sclerosis</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Crohn’s disease</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lupus</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Leukaemia</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Lymphoma</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Multiple myeloma</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Multiple sclerosis</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Crohn’s disease</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Lupus</span></li>
 </ul>
 <p><b>Advantage</b><span style="font-weight: 400;">: In this type of transplant, since you get your stem cells back, there are no chances of reaction or rejection. This is also known as graft versus host disease.&nbsp;</span></p>
 <h3><b>Type 2: Allogenic Stem Cell Transplant</b></h3>
 <p><span style="font-weight: 400;">This type of bone marrow transplant uses donor stem cells. The best kind of donor is your close family member, your brother or sister. If you do not get a good match in your family, then you can find a donor in the general public via the national registry.&nbsp;</span></p>
 <p><span style="font-weight: 400;">It works the same way. The stem cells are collected from the donor, stored, and frozen. After you get high doses of chemo or radiation therapy, the donor stem cells are given to you. It is used to treat:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Leukaemia</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lymphoma</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Multiple Myeloma</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aplastic Anemia, a type of bone marrow disorder</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Leukaemia</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Lymphoma</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Multiple Myeloma</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Aplastic Anemia, a type of bone marrow disorder</span></li>
 </ul>
 <h3><b>Type 3: Umbilical Cord Transplant</b></h3>
 <p><span style="font-weight: 400;">It is a type of allogeneic bone marrow transplant. In this, stem cells are detached from a newborn baby’s umbilical cord just after the broth of the baby. The stem cells are frozen and stored until they are required for transplant. Umbilical cord blood cells have not matured enough, so blood count takes a long time to recover.</span><b>&nbsp;</b></p>
@@ -5710,15 +3739,15 @@ Every surgery comes with some risks. The common risks associated with the proced
 <h2><b>Understanding the Process of Bone Marrow Transplant in India</b></h2>
 <p><b>Preparation of Recipient:&nbsp;</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Before the transplant, an extensive evaluation is carried out by the BMT team.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A complete medical history and physical examination are performed to evaluate the working of the vital organs.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A patient has to come 10 days before the transplant for placement of the central venous line and other preparations as well.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Before the transplant, an extensive evaluation is carried out by the BMT team.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">A complete medical history and physical examination are performed to evaluate the working of the vital organs.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">A patient has to come 10 days before the transplant for placement of the central venous line and other preparations as well.&nbsp;</span></li>
 </ul>
 <p><b>Preparation for Donor</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Donor sources can be the self, a sibling, a parent, a relative, or anyone from the general public.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Once the donor is identified, they have to undergo specific tests to determine their overall health.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The stem cells are collected by bone marrow harvest.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Donor sources can be the self, a sibling, a parent, a relative, or anyone from the general public.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Once the donor is identified, they have to undergo specific tests to determine their overall health.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The stem cells are collected by bone marrow harvest.</span></li>
 </ul>
 <h3><b>How are stem cells collected?&nbsp;</b></h3>
 <p><b>The stem cells are collected in two ways:&nbsp;</b></p>
@@ -5727,106 +3756,25 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p><b>Note: </b><span style="font-weight: 400;">If the donor is the person, it is called an autologous bone marrow transplant. If an autologous transplant is planned, previously collected stem cells from either peripheral (apheresis) or harvest are counted, screened, and ready to infuse.</span></p>
 <h3><b>Bone Marrow Transplant Procedure</b></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The treatment starts with high doses of chemo or radiation therapy. The bone marrow makes blood cells in our body. Ablative therapy prevents the production of blood cells and makes bone marrow empty. Empty bone marrow makes room for new stem cells to grow.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">After chemo, a bone marrow transplant is given via a central venous catheter. The process is the same as blood transfusion. The stem cells will find their way to the bone marrow and begin producing new cells.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">After the transplant, supportive care is given, like frequent blood tests, monitoring vitals, and providing a rigorous and clean environment to avoid any infection.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The treatment starts with high doses of chemo or radiation therapy. The bone marrow makes blood cells in our body. Ablative therapy prevents the production of blood cells and makes bone marrow empty. Empty bone marrow makes room for new stem cells to grow.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">After chemo, a bone marrow transplant is given via a central venous catheter. The process is the same as blood transfusion. The stem cells will find their way to the bone marrow and begin producing new cells.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">After the transplant, supportive care is given, like frequent blood tests, monitoring vitals, and providing a rigorous and clean environment to avoid any infection.&nbsp;</span></li>
 </ul>
 <h3><b>What will happen after the transplant?&nbsp;</b></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will spend several weeks in the hospital.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You have to protect yourself from infection.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You can experience excessive bleeding.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will need blood transfusions.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You will have to take medicines to prevent graft vs host disease.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will spend several weeks in the hospital.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You have to protect yourself from infection.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You can experience excessive bleeding.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will need blood transfusions.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">You will have to take medicines to prevent graft vs host disease.&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">After leaving the hospital, the recovery process continues for several months. You must attend regular follow up visits with your doctor to track your process.&nbsp;</span></p>
-<h3><b>What is engraftment after a bone marrow transplant in India?&nbsp;</b></h3>
-<p><span style="font-weight: 400;">Engraftment happens when the donated cells start making new cells in the body. Depending on the type of transplant and the type of disease being treated, the engraftment happens on the 15th or 30th day. Blood counts will be checked at regular intervals. Blood counts will be regularly checked post-transplant.&nbsp;</span></p>
-<p><span style="font-weight: 400;">New bone marrow takes 30 days to start making new cells, and it can take years for the immune system to recover fully.&nbsp;</span></p>
-<h4><b>Prognosis</b></h4>
-<p><span style="font-weight: 400;">The prognosis of a bone marrow transplant depends on the following:&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of transplant</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of disease being treated</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Response to the treatment</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Genetics</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Your age</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Your overall health</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications</span></li>
-</ul>
-<p><span style="font-weight: 400;">When it comes to any surgery, the outcome, as well as the survival rates in the future, also vary depending on the patient in bone marrow transplant. Aids that are now being carried out for the rise in several diseases have enhanced the facet of bone marrow transplants in children and adults. Another requirement for the patient is the continual follow-up care after a bone marrow transplant. Better ways of handling the transplant and, therefore, reducing the effects of the treatment and complications arising from it are being invented.</span></p>
-<p>&nbsp;</p>
-<p><strong><u>FAQs </u></strong></p>
-<p><strong>How are Patients and Donors matched?&nbsp;</strong></p>
-<ul>
-<li>A simple blood test is needed to determine HLA typing of patient and donor.<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></li>
-</ul>
-<p><strong>What are the side effects?&nbsp;</strong></p>
-<ul>
-<li>Common side effects are Infections due to low immunity and bleeding due to diminish platelet count.</li>
-</ul>
-<p><strong>Will bone marrow transplant reduce the immunity of donors?</strong></p>
-<ul>
-<li>No, since because only 1%-5% bone marrow is required for donation hence immunity isn’t affected.</li>
-</ul>
-<p><strong>How long will donor recovery take place?</strong></p>
-<ul>
-<li>It varies from person to person and type of donation. Generally, it takes a week time to resume normal daily activities.</li>
-</ul>
-<p><strong>Does donor need follow up like patient?</strong></p>
-<ul>
-<li>Yes, until he or she resumes normal activities.</li>
-</ul>
-<p><strong>Reduced Intensity Transplantation?</strong></p>
-<ul>
-<li>This is often the only option for older and patients with multiple medical issues where small doses of chemotherapy or radiotherapy are used as this patient can’t tolerate full intensity Allogenic transplantation.</li>
-</ul>
-<p><strong>What is success rate?</strong></p>
-<ul>
-<li>Success rate depends on type of transplant, patient’s general condition and severity of the disease. Generally, it ranges from 90 – 95% in case of autologous transplant and 70 – 90% in case of allogenic transplantation. Success rate of half matched transplant is around 70%.</li>
-</ul>
-<p><strong>What is hospital stay in isolation room? </strong></p>
-<ul>
-<li>Autologous BMT (3 weeks )</li>
-<li>Allogenic BMT (4-6 weeks)</li>
-</ul>
-<p><strong>What is average stay of the patient in India during such procedure? </strong></p>
-<ul>
-<li>Autologous BMT – One week post-transplant, the patient will be followed-up in OPD</li>
-<li>Allogenic BMT – Patient needs Four weeks of follow up in OPD Post-transplant.</li>
-</ul>
-<p><strong>What is the cost of bone marrow transplant in India? </strong></p>
-<p>Autologous BMT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 15000 USD</p>
-<p>Allogenic BMT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 24000 USD (HLA Matched Donor)<br>
-<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong>35000 USD (Half Matched Donor)</p>
-<p>60000 USD Matched Unrelated donor)</p>
-<p>Pediatric BMT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;25000USD</p>
-<p>Chemo if needed&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10000 USD</p>
-<h2><span style="color: #0048ad;"><strong>Top doctors in India offering Bone Marrow Transplant</strong></span></h2>
-<ol>
-<li><a href="#/dr-dharma-choudhary-clinical-hematologist-in-india/"><strong><u>Dr Dharma Choudhary</u></strong></a>: Consultant &amp; HOD, Max BLK centre for bone marrow transplant, Delhi, India.</li>
-<li><a href="#/dr-shishir-seth-senior-consultant-haematology-and-bmt-expert/"><strong><u>Dr Shishir Seth</u></strong></a>: Sr. Consultant, bone marrow transplant unit at Indrapratha Apollo Hospital, New Delhi., India.</li>
-<li><a href="#/dr-ashok-kumar-vaid-medical-oncologist-at-medanta-the-medicity/"><strong><u>Dr Ashok Kumar Vaid</u></strong></a> : Chairman, Medical and Haemato Oncology, Cancer Institute at Medanta, The Medicity Hospital, Gurugram, India.</li>
-<li><a href="#/prof-vinod-raina-haematologist-in-india/"><strong><u>Prof&nbsp; Vinod Raina</u></strong></a>: Chairman Institute of Oncosciences at Fortis Memorial Research Institute, Gurugram, India.</li>
-<li><strong><u><a href="#/dr-rahul-bhargava-clinical-haematologist-and-bmt-expert/">Dr Rahul Bhargava</a>:</u></strong> Principal Director Hemato-Oncology at Fortis Memorial Research Institute</li>
-<li><a href="#/dr-satya-prakash-yadav-director-haematoncology-in-medanta-the-medicity-gurgaon/"><strong><u>Dr Satya Prakash Yadav</u></strong></a>: Director Paediatric Hematology &amp; Bone Marrow Transplant Institute at Medanta, The Medicity Hospital, Gurugram, India.</li>
-<li><a href="#/dr-rahul-naithani-heamotologist-senior-heamotologist-bmt-expert/"><strong><u>Dr Rahul Naithani</u></strong></a> : Director , Cancer care , oncology, Bone Marrow Transplant , Hematology and medical oncology at Max Super Specialty Hospital Saket, India.</li>
-<li><a href="#/dr-nandini-choudhury-hazarika/"><strong><u>Dr Nandini C Hazarika</u></strong></a> : Director, pediatric bone marrow transplant unit at Rainbow Children’s Hospital, India.</li>
-<li><a href="#/dr-vikas-dua-pediatric-oncologist-and-hematologist-in-india/"><strong><u>Dr Vikas Duaa</u></strong></a> : Director Pediatric bone marrow transplant &amp; Hematology unit</li>
-<li><a href="#/dr-rakesh-chugh/"><strong><u>Dr. Rakesh Chopra</u></strong></a> : HOD, Medical &amp; Hematological Oncology at Artmemis Hospital, Gurgram, India.</li>
-</ol>
-<h2><span style="color: #0048ad;"><strong>Top hospitals in India Offering Bone Marrow Transplant</strong></span></h2>
-<ol>
-<li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a></li>
-<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
+<p><span style="font-weight: 400;">After leaving the hospital, the recovery process continues for several months. You must attend regular follow up visits with your doctor to track your process.&nbsp;</span></p><ol>
 </ol>
 <p>Need assistance with advanced treatment for <strong>bone marrow transplant</strong> to be performed in India? <strong>Contact us today!</strong></p>
 
 		</div>`,
   },
+  // pediatric-liver-transplant-surgery
   {
     name: "pediatric-liver-transplant-surgery",
     img: "/treatment/pediatric-liver-transplant-surgery.webp",
@@ -6119,6 +4067,7 @@ Every surgery comes with some risks. The common risks associated with the proced
 
 		</div>`,
   },
+  //  kidney-transplant-surgery
   {
     name: "kidney-transplant-surgery",
     img: "/treatment/kidney-transplant-surgery.webp",
@@ -6330,6 +4279,7 @@ Every surgery comes with some risks. The common risks associated with the proced
 
 		</div>`,
   },
+  // corneal-transplant-surgery
   {
     name: "corneal-transplant-surgery",
     img: "/treatment/corneal-transplant-surgery.webp",
@@ -6452,6 +4402,7 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 
 		</div>`,
   },
+  // breast-cancer-treatment
   {
     name: "breast-cancer-treatment",
     img: "/treatment/breast-cancer-treatment.webp",
@@ -6629,6 +4580,7 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 
 		</div>`,
   },
+  //  osteosarcoma-surgery
   {
     name: "osteosarcoma-surgery",
     img: "/treatment/osteosarcoma-surgery.webp",
@@ -6778,6 +4730,7 @@ In addition to osteosarcoma surgery, chemotherapy may also be included in a comp
 
 		</div>`,
   },
+  //  ewings-sarcoma-treatment
   {
     name: "ewings-sarcoma-treatment",
     img: "/treatment/ewings-sarcoma-treatment.webp",
@@ -6998,6 +4951,7 @@ Let us first learn a bit more about Ewings Sarcoma:</p>
 	</div>
 </div>`,
   },
+  // chondrosarcoma-treatment
   {
     name: "chondrosarcoma-treatment",
     img: "/treatment/chondrosarcoma-treatment.webp",
@@ -7201,6 +5155,7 @@ Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma look
 	</div>
 </div>`,
   },
+  // bone-cancer-treatment
   {
     name: "bone-cancer-treatment",
     img: "/treatment/bone-cancer-treatment.webp",
@@ -7368,6 +5323,7 @@ Complementary therapy can help relieve symptoms and improve your quality of life
 	</div>
 </div>`,
   },
+  // lung-cancer-treatment
   {
     name: "lung-cancer-treatment",
     img: "/treatment/lung-cancer-treatment.webp",
@@ -7569,6 +5525,7 @@ The possible side effects are:</p>
 	</div>
 </div>`,
   },
+  // prostate-cancer-treatment
   {
     name: "prostate-cancer-treatment",
     img: "/treatment/prostate-cancer-treatment.webp",
@@ -7735,6 +5692,7 @@ In Immunotherapy, your immune system is used to fight cancer. Your body’s dise
 	</div>
 </div>`,
   },
+  // cervical-cancer-treatment
   {
     name: "cervical-cancer-treatment",
     img: "/treatment/cervical-cancer-treatment.webp",
@@ -7893,6 +5851,7 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 	</div>
 </div>`,
   },
+  // liver-cancer-treatment
   {
     name: "liver-cancer-treatment",
     img: "/treatment/liver-cancer-treatment.webp",

@@ -42,14 +42,16 @@ export async function POST(req: NextRequest) {
       filePaths.push(filePath);
     }
 
-    // Set up Nodemailer
-    const transporter = nodemailer.createTransport({
-      service: "Gmail",
-      auth: {
-        user: "tharabhainarendra7@gmail.com",
-        pass: "rloeduhdtwapycbj",
-      },
-    });
+     // Set up Nodemailer
+        const transporter = nodemailer.createTransport({
+          host: "smtpout.secureserver.net", // GoDaddy's SMTP server
+          port: 465, // Use 465 for SSL
+          secure: true,
+          auth: {
+            user: process.env.NEXT_PUBLIC_SENDER_EMAIL,
+            pass: process.env.NEXT_PUBLIC_SENDER_EMAIL_PASSWORD,
+          },
+        });
 
     // Render the email template
     const emailHtml = await render(

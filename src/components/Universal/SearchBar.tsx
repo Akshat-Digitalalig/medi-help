@@ -57,9 +57,10 @@ export default function SearchBar() {
 		).slice(0, 10);
 
 		// Filter doctors
-		const filteredDoctors = doctors.filter((doctor) =>
-			doctor.name.toLowerCase().includes(query.toLowerCase())
-		).slice(0, 10);
+		const filteredDoctors = doctors
+			.filter((doctor) =>
+				doctor?.tags?.some((tag) => tag.toLowerCase().includes(query.toLowerCase()))
+			);
 
 		// Filter treatments
 		const filteredTreatments = treatmentLinks.filter((treatment) =>
@@ -117,7 +118,7 @@ export default function SearchBar() {
 											</CommandItem>
 										))}
 									</CommandGroup>
-									
+
 									<CommandSeparator />
 									<CommandGroup heading="Treatments">
 										{searchResults.treatment.map((treatment, index) => (
@@ -125,7 +126,7 @@ export default function SearchBar() {
 												<div className="flex gap-x-2" onClick={() => {
 													router.push(`${treatment.link}`);
 													setOpen(false);
-												}}>	
+												}}>
 													<div>
 														{/* <Image src={img} alt="img" className="rounded-lg" height={70} width={70} /> */}
 													</div>
@@ -159,27 +160,27 @@ interface ListItemsProps {
 
 const ListItems: React.FC<ListItemsProps> = ({ img, name, location, onClick }) => {
 	return (
-	  <div
-		className="flex gap-x-4   rounded-lg  transition-all duration-300 cursor-pointer items-center"
-		onClick={onClick}
-	  >
-		{/* Image Section */}
-		<div className="flex-shrink-0">
-		  <Image
-			src={img}
-			alt="img"
-			className="rounded-lg object-cover"
-			height={80}
-			width={80}
-		  />
+		<div
+			className="flex gap-x-4   rounded-lg  transition-all duration-300 cursor-pointer items-center"
+			onClick={onClick}
+		>
+			{/* Image Section */}
+			<div className="flex-shrink-0">
+				<Image
+					src={img}
+					alt="img"
+					className="rounded-lg object-cover"
+					height={80}
+					width={80}
+				/>
+			</div>
+
+			{/* Text Section */}
+			<div className="flex flex-col justify-center">
+				<p className="font-semibold text-sm truncate">{name}</p>
+				<p className="text-blue-500 text-sm truncate">{location}</p>
+			</div>
 		</div>
-  
-		{/* Text Section */}
-		<div className="flex flex-col justify-center">
-		  <p className="font-semibold text-sm truncate">{name}</p>
-		  <p className="text-blue-500 text-sm truncate">{location}</p>
-		</div>
-	  </div>
 	);
-  };
+};
 
