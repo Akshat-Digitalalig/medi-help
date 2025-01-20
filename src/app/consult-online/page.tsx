@@ -242,7 +242,7 @@ const PatientForm: React.FC = () => {
                     </div>
                     <div>
                         <label htmlFor="file" className="block py-1 text-sm font-medium">
-                           Documents <span className='text-red-500'>*</span>
+                           Documents (Medical Reports And Other Releted to Health) <span className='text-red-500'>*</span>
                         </label>
                         <input
                             type="file"

@@ -3537,7 +3537,86 @@ Every surgery comes with some risks. The common risks associated with the proced
   {
     name: "pacemaker-implantation-surgery",
     img: "/treatment/pacemaker-implantation-surgery.webp",
-    data: ``,
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Pacemaker Implantation Surgery in India: Advancing Heart Health</strong></span></h2>
+    <p>Pacemaker implantation surgery is a life-saving procedure to regulate irregular heartbeats. A pacemaker is a small electronic device implanted under the skin to monitor and control the heart’s rhythm, ensuring it beats properly.</p>
+    <p>India has emerged as a preferred destination for <strong>pacemaker implantation surgery</strong>, offering world-class facilities, experienced cardiologists, and cost-effective treatments. Let us guide you through the causes of heart rhythm disorders, the types of pacemakers, and the comprehensive treatment options available in India.</p>
+    <p><strong><span style="color: #0048ad;">Understanding the Importance of a Healthy Heart Rhythm</span></strong></p>
+    <p><strong><span style="color: #0048ad;">A healthy heart rhythm ensures:</span></strong></p>
+    <p>● Efficient blood circulation throughout the body<br />
+        ● Proper oxygen delivery to vital organs<br />
+        ● Prevention of complications like stroke and heart failure<br />
+        ● Enhanced overall well-being</p>
+    <p><strong><span style="color: #0048ad;">What is a Pacemaker?</span></strong></p>
+    <p>A pacemaker is a small, battery-operated device that helps manage abnormal heart rhythms (arrhythmias). It is connected to the heart through wires (leads) and sends electrical impulses to stimulate the heart to beat at a normal rate.</p>
+    <p><strong><span style="color: #0048ad;">Types of Pacemakers</span></strong></p>
+    <p>Pacemakers are tailored to specific heart conditions and come in different types:</p>
+    <p><strong><span style="color: #0048ad;">Single-Chamber Pacemaker:</span></strong> Stimulates one chamber of the heart, usually the right ventricle.</p>
+    <p><strong><span style="color: #0048ad;">Dual-Chamber Pacemaker:</span></strong> Stimulates both the right atrium and right ventricle to regulate the timing between them.</p>
+    <p><strong><span style="color: #0048ad;">Biventricular Pacemaker (CRT-P):</span></strong> Used for patients with heart failure; it stimulates both ventricles for synchronized pumping action.</p>
+    <p><strong><span style="color: #0048ad;">Leadless Pacemaker:</span></strong> A newer, minimally invasive device implanted directly into the heart without wires.</p>
+    <p><strong><span style="color: #0048ad;">Symptoms of Arrhythmias</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Symptoms that may indicate the need for a pacemaker include:</span></strong></p>
+    <p>● Fatigue or weakness<br />
+        ● Dizziness or lightheadedness<br />
+        ● Fainting (syncope)<br />
+        ● Shortness of breath<br />
+        ● Palpitations or irregular heartbeats<br />
+        ● Chest pain<br />
+        ● Reduced ability to exercise</p>
+    <p><strong><span style="color: #0048ad;">Diagnosis of Arrhythmias</span></strong></p>
+    <p>Accurate diagnosis is essential to determine the need for pacemaker implantation. Diagnostic methods include:</p>
+    <p>● Electrocardiogram (ECG)<br />
+        ● Holter monitoring<br />
+        ● Echocardiogram<br />
+        ● Stress test<br />
+        ● Electrophysiology study<br />
+        ● Implantable loop recorder</p>
+    <p><strong><span style="color: #0048ad;">Pacemaker Implantation Surgery in India</span></strong></p>
+    <p><strong><span style="color: #0048ad;">India offers advanced pacemaker implantation procedures, including:</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Traditional Pacemaker Implantation:</span></strong> A small incision is made to place the device under the skin near the collarbone, and wires are guided to the heart through veins.</p>
+    <p><strong><span style="color: #0048ad;">Leadless Pacemaker Implantation:</span></strong> A minimally invasive procedure where the pacemaker is implanted directly into the heart using a catheter.</p>
+    <p><strong><span style="color: #0048ad;">Cardiac Resynchronization Therapy (CRT):</span></strong> This procedure is used for patients with heart failure to synchronize the heart's ventricles.</p>
+    <p><strong><span style="color: #0048ad;">Post-Surgery Care:</span></strong> Regular follow-ups are essential to monitor the pacemaker’s performance and ensure optimal heart health.</p>
+    <p><strong><span style="color: #0048ad;">Benefits of Pacemaker Implantation Surgery</span></strong></p>
+    <p>● Restores normal heart rhythm<br />
+        ● Prevents symptoms like dizziness and fainting<br />
+        ● Reduces the risk of stroke and heart failure<br />
+        ● Improves quality of life and exercise capacity</p>
+    <p><strong><span style="color: #0048ad;">Top Hospitals and Specialists for Pacemaker Implantation in India</span></strong></p>
+    <table widthh="624">
+        <tbody>
+            <tr>
+                <td width="312">Apollo Hospitals</td>
+                <td width="312">Dr. Naresh Trehan</td>
+            </tr>
+            <tr>
+                <td width="312"><span style="color: black;">Fortis Healthcare</span></td>
+                <td width="312">Dr. Ashok Seth</td>
+            </tr>
+            <tr>
+                <td width="312">Max Healthcare</td>
+                <td width="312">Dr. Balbir Singh</td>
+            </tr>
+            <tr>
+                <td width="312">Manipal Hospitals</td>
+                <td width="312">Dr. Devi Shetty</td>
+            </tr>
+            <tr>
+                <td width="312">BLK-Max Hospital</td>
+                <td width="312">Dr. Sandeep Attawar</td>
+            </tr>
+            <tr>
+                <td width="312">Narayana Health</td>
+                <td width="312">Dr. Vivek Jawali</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><strong>How can you get effective pacemaker implantation surgery in India?</strong></p>
+    <p>Medihelp Global is here for you if you are looking for trustworthy consultants for pacemaker implantation surgery in India. We will help you find the best cardiologists and get your treatment done at JCI-accredited hospitals at affordable rates. Our experienced team will guide you through every step of the process. So, if you are planning your <strong>pacemaker implantation surgery in India</strong>, fill out the form below, and we will help you choose the best doctor and hospital with advanced technology.</p>
+    <p><span style="font-weight: 400;"><strong>We will help you to find the best Pacemaker Implantation Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
+</div>
+`,
   },
   // liver-transplant-treatment
   {
@@ -3779,7 +3858,7 @@ Every surgery comes with some risks. The common risks associated with the proced
     name: "pediatric-liver-transplant-surgery",
     img: "/treatment/pediatric-liver-transplant-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<p>Parents always want the best for their children – especially when it comes to medical assistance. In unfortunate circumstances if you get to know that your child’s liver is weak and needs to be transplanted, as parents, it is not a good news. In such situations, it is normal to feel chaotic and confused. We are there to help all such parents and kids who are seeking pediatric liver transplant&nbsp; assistance in India.</p>
+			<h2><strong>What is the cost of the liver transplant in India?</strong></h2><table><tbody><tr><td width="72"><strong>S.No.</strong></td><td width="310"><strong>Hospital Name</strong></td><td width="194"><strong>Cost</strong></td></tr><tr><td width="72">1</td><td width="310"><a href="https://www.apollohospitals.com/noida/">Apollo Hospitals</a>&nbsp;(JCI accredited)</td><td width="194">US $30,000</td></tr><tr><td width="72">2</td><td width="310"><a href="#/max-hospital-gurgaon/">Max Hospital</a>&nbsp;(JCI accredited)</td><td width="194">US $30,000</td></tr><tr><td width="72">3</td><td width="310"><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a>&nbsp;(NABH accredited)</td><td width="194">US $30,500</td></tr><tr><td width="72">4</td><td width="310"><a href="#/jaypee-hospital-noida-india/">Jaypee Hospital</a>&nbsp;(NABH accredited)</td><td width="194">US $28,000</td></tr><tr><td width="72">5</td><td width="310"><a href="#/medanta-the-medicity-eye-department/">Medanta, the Medicity</a>&nbsp;(JCI accredited)</td><td width="194">US $31,500</td></tr><tr><td width="72">6</td><td width="310"><a href="#/manipal-hospital/">Manipal Hospital</a></td><td width="194">US $27,000</td></tr></tbody></table><p>Parents always want the best for their children – especially when it comes to medical assistance. In unfortunate circumstances if you get to know that your child’s liver is weak and needs to be transplanted, as parents, it is not a good news. In such situations, it is normal to feel chaotic and confused. We are there to help all such parents and kids who are seeking pediatric liver transplant&nbsp; assistance in India.</p>
 <p>With 302 successful liver transplants in children till date, India-based Apollo hospital is leading from the front in pediatric liver transplant. The hospital has proven skills to carry out liver transplant surgery on babies weighing up to 4 kgs. With specialist doctors and world-class medical facilities that are also relatively cost effective, hospitals in India are fast becoming the chosen destinations for parents across the world if their kids require a liver transplant. Please read the following FAQs related to carrying out a liver transplant in India for children.</p>
 <p><strong>What is a pediatric liver transplant?</strong></p>
 <p>This is a surgical procedure that replaces the unhealthy liver of a child with that of the healthy donor liver.</p>
@@ -4072,7 +4151,7 @@ Every surgery comes with some risks. The common risks associated with the proced
     name: "kidney-transplant-surgery",
     img: "/treatment/kidney-transplant-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<p><strong>Kidney Transplant Surgery</strong> is a procedure in which a healthy kidney from a living or deceased donor is surgically implanted into a patient’s body. The success of kidney transplant surgery mainly depends on donor and recipient (patient) compatibility.</p>
+			<h2><span style="color: #0048ad;">Kidney Health on a Budget: Service Cost</span></h2><table class="m-table"><tbody><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><h2><span style="color: #0048ad;">Cost of ABO Compatible Kidney Transplant in India</span></h2><h3 style="overflow-x: auto;"><strong>Hospital Name</strong><strong>Cost in USD&nbsp;</strong><strong>Package Includes&nbsp;</strong><strong>Package Excludes</strong></h3><div style="overflow-x: auto;"><table class="m-table" style="width: 727px;"><thead><tr><td width="170"><strong>Indraprastha Apollo Hospital</strong><p></p><p>(JCI Accredited )</p></td><td width="76">16500</td><td width="241">Hospital &amp; Liver ICU stay,<p></p><p>Surgery of donor and recipient,</p><p>OPD &amp; IPD based investigations</p><p>&nbsp;</p></td><td width="240">Complications<p></p><p>Stay more than limit,</p><p>Visit of any other Speciality doctor</p><p>Any other service not specified in the inclusion</p><p>DNA test</p><p>DJ stent removal after transplant</p></td></tr><tr><td width="170"><strong>Max Hospital</strong><p></p><p>(JCI Accredited )</p></td><td width="76">13500</td><td width="241">Hospital &amp; Liver ICU stay,<p></p><p>Surgery of donor and recipient,</p><p>OPD &amp; IPD based investigations</p><p>Dialysis till transplant occurs or maximum 10 in numbers</p><p>All donor and recipient investigations,</p><p>One Anti Rejection injection.</p></td><td width="240">Do<p></p><p>&nbsp;</p></td></tr><tr><td width="170"><strong>BLK Hospital</strong><p></p><p>(JCI Accredited )</p></td><td width="76">13500</td><td width="241">Do</td><td width="240">Do</td></tr><tr><td width="170"><strong>Fortis Hospital</strong><p></p><p>(JCI Accredited )</p></td><td width="76">13500</td><td width="241">Do</td><td width="240">Do</td></tr><tr><td width="170"><strong>Max Hospital,&nbsp;</strong>Patpatganj (NABH Accrediated )</td><td width="76">12000</td><td width="241">Hospital &amp; Liver ICU stay,<p></p><p>Surgery of donor and recipient,</p><p>OPD &amp; IPD based investigations</p><p>Dialysis till transplant occurs or maximum 11 in numbers</p><p>All donor and recipient investigations,</p><p>Two Anti Rejection injection.</p><p>DJ Stent removal post transplant</p></td><td width="240">Complications<p></p><p>Stay more than limit,</p><p>Visit of any other Speciality doctor</p><p>Any other service not specified in the inclusion</p><p>DNA test</p></td></tr></thead></table></div><p><strong>ABO – INCOMPATIBLE</strong>&nbsp;(unmatched blood groups )&nbsp;<strong>Kidney Transplant in India</strong>&nbsp;will cost you additional 5000-1000 USD depending upon hospital policy, number of plasma exchanges needed which depends on your antibody titer level.</p><p>DJ stent is to be removed after a month post-kidney transplantation, and it may cost another 300$.</p><p><em><span style="color: #0048ad;"><strong>Robotic kidney transplant costs around 17000 USD in India at Max Healthcare.</strong></span></em></p><p><strong>&nbsp;</strong><span style="color: #0048ad;"><strong>Stay in hospital</strong></span></p><ul><li>Patient will need to stay in the hospital for 10 days after surgery.</li><li>Donor stay will be 5 days</li></ul><p><span style="color: #0048ad;"><strong>Stay in India</strong></span></p><ul><li>Due to the nature of the surgery, you will need to stay in India for a minimum of 2 months.</li></ul><p><span style="color: #0048ad;"><strong>Success rate</strong></span></p><ul><li>India boasts a 94% success rate for this procedure.</li></ul><h2><span style="color: #0048ad;">Best Kidney Transplant Doctors in India</span></h2><p><a href="#/dr-anant-kumar-best-robotic-kidney-transplant-surgeon-in-india/"><strong>Dr. Anant Kumar</strong></a>, Chairman of Uro-Oncology, Robotic and Kidney Transplantation at Max Hospital Saket New Delhi.</p><p><strong><a href="#/padma-shri-dr-sandeep-guleria/">Dr Sandeep Guleria</a>,</strong>&nbsp;Senior Consultant at Indraprastha Apollo Hospital, New Delhi</p><p><strong><a href="#/dr-sunil-prakash/">Dr. Sunil Prakash</a>,</strong>&nbsp;Senior Director &amp; HOD – Nephrology, Kidney Transplant, BLK-Max Hospital, Gurgaon</p><p><strong><a href="#/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/">Dr. Rajesh Ahlawat</a>,</strong>&nbsp;Chairman Urology &amp; Kidney Transplant Unit at Medanta the Medicity , Gurugram</p><p><strong><a href="#/dr-sanjay-gogoi-robotic-uro-ocnlogist-at-manipal-hospital/">Dr. Sanjay Gogoi</a>,&nbsp;</strong>Head of Department – Urology at Manipal Hospitals (New Delhi),</p><p><strong><a href="#/dr-pradeep-bansal-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Pradeep Bansal</a>,&nbsp;</strong>Head of Urology &amp; Renal Transplant in Fortis Hospital</p><p><strong><a href="#/dr-aditya-pradhan-urologist/">Dr. Aditya Pradhan</a>,</strong>&nbsp;Director &amp; HOD of Urology, Uro-Oncology &amp; Renal transplant department at Venkateshwar Hospital</p><p><strong>Kidney Transplant Surgery</strong> is a procedure in which a healthy kidney from a living or deceased donor is surgically implanted into a patient’s body. The success of kidney transplant surgery mainly depends on donor and recipient (patient) compatibility.</p>
 <p>India has many world-class JCI-accredited hospitals carrying out <strong>cost-effective kidney transplant programs,</strong> including robotics which increases the chances of successful kidney transplants. Furthermore, the Indian Government has implemented regulations and laws for ethical <strong>Kidney Transplants in India</strong>, providing a sense of safety to the patient and donor.</p>
 <h2><span style="color: #0048ad;"><strong>Legal Documentation required before Kidney Transplantation </strong></span></h2>
 <p><strong>Kidney Transplant in India </strong>is governed by The Transplantation of Human Organs Act of 1994. It aims to promote the humanitarian benefits of organ transplantation while preventing exploitation and abuse. Therefore a patient has to submit several documents to the authorization committee set up by Govt of India as a part of the eligibility criteria. These include medical and diagnostic tests of the patient as well as for the donor.</p>
@@ -4130,149 +4209,34 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p><b>ABO Incompatible Transplant : </b><span style="font-weight: 400;">The availability of ABO incompatible kidney transplants has resulted in shorter waiting times for many patients due to medical advancements. Plasma exchange prevents the body from attacking the transplanted kidney by removing harmful antibodies and other chemicals from the blood plasma. Due to plasma exchanges, the transplant procedure becomes costly.&nbsp;</span></p>
 <p><b>Type of Hospital you choose: </b><b>Hospital: </b><span style="font-weight: 400;">The cost of kidney transplant&nbsp; in India increases if:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital has advanced super speciality kidney transplant facilities</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand image of the hospital (Indraprastha Apollo, Fortis Hospital, etc.)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital has advanced super speciality kidney transplant facilities</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The brand image of the hospital (Indraprastha Apollo, Fortis Hospital, etc.)&nbsp;</span></li>
 </ul>
 <p><b>Hospital Stay Period and Room Category: </b><span style="font-weight: 400;">Patients requiring longer or a higher room category must pay more for the treatment. ICU charges also add to the cost.&nbsp;</span></p>
 <p><b>Age of the patient: </b><span style="font-weight: 400;">Older patients require more medical care and additional tests before and after the surgery. Thus, their treatment cost is high.&nbsp;</span></p>
 <p><b>Organ Transportation: </b><span style="font-weight: 400;">It includes retrieval and transportation of the kidney ( if Applicable)&nbsp;</span></p>
 <p><b>Surgeon Fee</b><span style="font-weight: 400;">: The cost of a kidney transplant in India greatly depends on the surgeon’s fees, too. The surgeon’s fee depends on the following:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reputation and skill of the surgeon</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The surgeon is affiliated with reputable hospitals and medical institutions known for their expertise in kidney transplant</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">No. of successful procedures performed&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">International education and training&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Reputation and skill of the surgeon</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The surgeon is affiliated with reputable hospitals and medical institutions known for their expertise in kidney transplant</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">No. of successful procedures performed&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">International education and training&nbsp;</span></li>
 </ul>
 <p><b>Medical Evaluation: </b><span style="font-weight: 400;">Before the transplant surgery, the donor and the recipient must undergo a series of medical tests, evaluations and consultations. This adds to the overall cost of the surgery. Lab Tests like X-Ray, ECG, and other tests add to the cost.&nbsp;</span></p>
 <p><b>Donor Investigations: </b><span style="font-weight: 400;">The cost of a kidney transplant in India also includes the donor’s medical care donors, medical testing, hospital stay, travel expenses, etc.&nbsp;</span></p>
 <p><b>Immunotherapy and Anti-Rejection Medicines: </b><span style="font-weight: 400;">After the transplant, you have to take immunosuppressant medicines for the rest of your life. The cost of these medicines will depend on the treatment’s type, dosage and duration.&nbsp;</span></p>
 <p><b>Complications During the Treatment: </b><span style="font-weight: 400;">In some cases of kidney transplant, additional complications may arise, which may need further surgeries. This will increase the overall cost of the surgery.&nbsp;</span></p>
 <p><b>Other Expenses: </b><span style="font-weight: 400;">Additional costs due to the presence of any other health condition</span></p>
-<h2><span style="color: #0048ad;"><b>Kidney Health on a Budget: Service Cost</b></span></h2>
-<table class="m-table">
-<tbody>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><strong>Cost of ABO Compatible Kidney Transplant in India </strong></span></h2>
-<h3 style="overflow-x: auto;"><strong>Hospital Name</strong><strong>Cost in USD </strong><strong>Package Includes </strong><strong>Package Excludes</strong></h3>
-<div style="overflow-x: auto;">
-<table class="m-table" width="727">
-<thead>
-<tr>
-<td width="170"><strong>Indraprastha Apollo Hospital</strong><p></p>
-<p>(JCI Accredited )</p></td>
-<td width="76">16500</td>
-<td width="241">Hospital &amp; Liver ICU stay,<p></p>
-<p>Surgery of donor and recipient,</p>
-<p>OPD &amp; IPD based investigations</p>
-<p>&nbsp;</p></td>
-<td width="240">Complications<p></p>
-<p>Stay more than limit,</p>
-<p>Visit of any other Speciality doctor</p>
-<p>Any other service not specified in the inclusion</p>
-<p>DNA test</p>
-<p>DJ stent removal after transplant</p></td>
-</tr>
-<tr>
-<td width="170"><strong>Max Hospital</strong><p></p>
-<p>(JCI Accredited )</p></td>
-<td width="76">13500</td>
-<td width="241">Hospital &amp; Liver ICU stay,<p></p>
-<p>Surgery of donor and recipient,</p>
-<p>OPD &amp; IPD based investigations</p>
-<p>Dialysis till transplant occurs or maximum 10 in numbers</p>
-<p>All donor and recipient investigations,</p>
-<p>One Anti Rejection injection.</p></td>
-<td width="240">Do<p></p>
-<p>&nbsp;</p></td>
-</tr>
-<tr>
-<td width="170"><strong>BLK Hospital</strong><p></p>
-<p>(JCI Accredited )</p></td>
-<td width="76">13500</td>
-<td width="241">Do</td>
-<td width="240">Do</td>
-</tr>
-<tr>
-<td width="170"><strong>Fortis Hospital </strong><p></p>
-<p>(JCI Accredited )</p></td>
-<td width="76">13500</td>
-<td width="241">Do</td>
-<td width="240">Do</td>
-</tr>
-<tr>
-<td width="170"><strong>Max Hospital, </strong>Patpatganj (NABH Accrediated )</td>
-<td width="76">12000</td>
-<td width="241">Hospital &amp; Liver ICU stay,<p></p>
-<p>Surgery of donor and recipient,</p>
-<p>OPD &amp; IPD based investigations</p>
-<p>Dialysis till transplant occurs or maximum 11 in numbers</p>
-<p>All donor and recipient investigations,</p>
-<p>Two Anti Rejection injection.</p>
-<p>DJ Stent removal post transplant</p></td>
-<td width="240">Complications<p></p>
-<p>Stay more than limit,</p>
-<p>Visit of any other Speciality doctor</p>
-<p>Any other service not specified in the inclusion</p>
-<p>DNA test</p></td>
-</tr>
-</thead>
-</table>
-</div>
-<p><strong>ABO – INCOMPATIBLE</strong> (unmatched blood groups ) <strong>Kidney Transplant in India</strong> will cost you additional 5000-1000 USD depending upon hospital policy, number of plasma exchanges needed which depends on your antibody titer level.</p>
-<p>DJ stent is to be removed after a month post-kidney transplantation, and it may cost another 300$.</p>
-<p><em><span style="color: #0048ad;"><strong>Robotic kidney transplant costs around 17000 USD in India at Max Healthcare. </strong></span></em></p>
-<p><strong>&nbsp;</strong><span style="color: #0048ad;"><strong>Stay in hospital </strong></span></p>
-<ul>
-<li>Patient will need to stay in the hospital for 10 days after surgery.</li>
-<li>Donor stay will be 5 days</li>
-</ul>
-<p><span style="color: #0048ad;"><strong>Stay in India </strong></span></p>
-<ul>
-<li>Due to the nature of the surgery, you will need to stay in India for a minimum of 2 months.</li>
-</ul>
-<p><span style="color: #0048ad;"><strong>Success rate </strong></span></p>
-<ul>
-<li>India boasts a 94% success rate for this procedure.</li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Best Kidney Transplant Doctors in India</strong></span></h2>
-<p><a href="#/dr-anant-kumar-best-robotic-kidney-transplant-surgeon-in-india/"><strong>Dr. Anant Kumar</strong></a>, Chairman of Uro-Oncology, Robotic and Kidney Transplantation at Max Hospital Saket New Delhi.</p>
-<p><strong><a href="#/padma-shri-dr-sandeep-guleria/">Dr Sandeep Guleria</a>,</strong> Senior Consultant at Indraprastha Apollo Hospital, New Delhi</p>
-<p><strong><a href="#/dr-sunil-prakash/">Dr. Sunil Prakash</a>,</strong> Senior Director &amp; HOD – Nephrology, Kidney Transplant, BLK-Max Hospital, Gurgaon</p>
-<p><strong><a href="#/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/">Dr. Rajesh Ahlawat</a>,</strong> Chairman Urology &amp; Kidney Transplant Unit at Medanta the Medicity , Gurugram</p>
-<p><strong><a href="#/dr-sanjay-gogoi-robotic-uro-ocnlogist-at-manipal-hospital/">Dr. Sanjay Gogoi</a>, </strong>Head of Department – Urology at Manipal Hospitals (New Delhi),</p>
-<p><strong><a href="#/dr-pradeep-bansal-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Pradeep Bansal</a>, </strong>Head of Urology &amp; Renal Transplant in Fortis Hospital</p>
-<p><strong><a href="#/dr-aditya-pradhan-urologist/">Dr. Aditya Pradhan</a>,</strong> Director &amp; HOD of Urology, Uro-Oncology &amp; Renal transplant department at Venkateshwar Hospital</p>
 <h2><strong><span style="color: #0048ad;">Best Kidney Transplant Hospitals in India</span> </strong></h2>
 <ul>
-<li><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Specialty Hospital Saket New Delhi</a>.</li>
-<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="#/bl-kapur-hospital/">BLK-Max Hospital</a>, Gurgaon</li>
+<li>Max Super Specialty Hospital Saket New Delhi.</li>
+<li>Indraprastha Apollo Hospital, New Delhi</li>
+<li>BLK-Max Hospital, Gurgaon</li>
 <li>Medanta the Medicity , Gurugram</li>
-<li><a href="#/manipal-hospital/">Manipal Hospital</a>s (New Delhi),</li>
-<li><a href="#/fortis-hospital-vasant-kunj/">Fortis Hospital</a></li>
-<li><a href="#/venkateshwar-hospital-delhi/">Venkateshwar Hospital</a></li>
+<li>Manipal Hospitals (New Delhi),</li>
+<li>Fortis Hospital</li>
+<li>Venkateshwar Hospital</li>
 </ul>
 <p><strong>Transform your health and well-being with our medical tourism packages.</strong></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Kidney Transplant Surgery&nbsp;</strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
@@ -4284,120 +4248,95 @@ Every surgery comes with some risks. The common risks associated with the proced
     name: "corneal-transplant-surgery",
     img: "/treatment/corneal-transplant-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Corneal Transplant Surgery in India: Restoring Vision</span></h2>
-<p>A corneal transplant surgery is an operation that is performed to replace the cornea with the corneal tissue from a donor. It is also called keratoplasty. The cornea is a transparent dome-like structure letting light enter the eye. It plays a major role in the eye’s ability to see.<br>
+			<h2><span style="color: #0048ad;">Top Hospitals and Doctors Doing Corneal Transplant Surgery in India</span></h2><h2><span style="color: #0048ad;"><table widthh="541"><tbody><tr><td width="216"><strong>Hospital</strong></td><td width="227"><strong>Best Doctor</strong></td><td width="98"><strong>USD Cost</strong></td></tr><tr><td width="216">Center for Sight<p></p><p>&nbsp;</p><p>&nbsp;</p></td><td width="227">Maj Gen (Dr) JKS Parihar&nbsp;– Senior Consultant Corneal Transplant –<p></p><p>Experience – 35 Years</p></td><td width="98">&nbsp;<p></p><p>2000$</p></td></tr><tr><td width="216">Chaudhary Eye Centre</td><td width="227">Dr. Sanjay Chaudhary– Cataract and refractive eye surgeon (Founder and Director)<p></p><p>Experience – 35 Years</p></td><td width="98">&nbsp;<p></p><p>2000$</p></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Corneal Transplant Surgery in India: Restoring Vision</span></h2>
+<p>A corneal transplant surgery is an operation that is performed to replace the cornea with the corneal tissue from a donor. It is also called keratoplasty. The cornea is a transparent dome-like structure letting light enter the eye. It plays a major role in the eye’s ability to see.<br />
 A person must undergo corneal transplant surgery if they have a damaged cornea. Corneal damage may lead to blurred vision and eye pain. Here, we will learn about corneal transplant surgery and how it is carried out in India.</p>
 <p><span style="color: #0048ad;"><strong>How does the cornea become diseased?</strong></span></p>
-<p>Many problems cause damage to the cornea. Some of the major reasons include:<br>
-● Keratoconus is a condition in which the cornea becomes cone-shaped and leads to blurred vision.<br>
-● Endothelial Decompensation: In this condition, the cornea becomes swollen.<br>
+<p>Many problems cause damage to the cornea. Some of the major reasons include:<br />
+● Keratoconus is a condition in which the cornea becomes cone-shaped and leads to blurred vision.<br />
+● Endothelial Decompensation: In this condition, the cornea becomes swollen.<br />
 ● Scarring: the cornea becomes scarred due to inflammation in the eye.</p>
 <h2><span style="color: #0048ad;"><strong>Other conditions that can be treated with cornea transplant surgery include:</strong></span></h2>
-<p>● Thinning or tearing of cornea<br>
-● Fuchs Dystrophy, a genetic condition<br>
-● Complications caused by previous eye surgery<br>
+<p>● Thinning or tearing of cornea<br />
+● Fuchs Dystrophy, a genetic condition<br />
+● Complications caused by previous eye surgery<br />
 ● Corneal ulcers</p>
 <h2><span style="color: #0048ad;"><strong>Types of Corneal Transplant Surgeries Performed in India</strong></span></h2>
 <p>With the advancement in medical technology, the entire cornea or only part of it can be replaced depending on the damage. The different types of cornea transplant surgeries include:</p>
-<p>● Endothelial Keratoplasty: In this type of surgery, the inner layer of the cornea is replaced with the healthy cornea of the donor. This is mainly used to treat patients suffering from Fuchs dystrophy.<br>
-● Anterior Lamellar Keratoplasty: In this surgery, the outer layer of the damaged cornea is replaced with a healthy outer layer of the donor cornea. It is used to treat people suffering from keratoconus.<br>
-● Penetrating Keratoplasty: The entire cornea is replaced with a healthy donor cornea in this surgery. It is done when all the layers of the cornea have gone opaque.<br>
+<p>● Endothelial Keratoplasty: In this type of surgery, the inner layer of the cornea is replaced with the healthy cornea of the donor. This is mainly used to treat patients suffering from Fuchs dystrophy.<br />
+● Anterior Lamellar Keratoplasty: In this surgery, the outer layer of the damaged cornea is replaced with a healthy outer layer of the donor cornea. It is used to treat people suffering from keratoconus.<br />
+● Penetrating Keratoplasty: The entire cornea is replaced with a healthy donor cornea in this surgery. It is done when all the layers of the cornea have gone opaque.<br />
 ● Keratoprosthesis: It involves replacing the entire cornea with an artificial cornea. This procedure is used when a cornea is so severely damaged that it cannot be repaired with a natural donor or when a previous donor cornea transplant has failed.</p>
 <h2><span style="color: #0048ad;"><strong>Preparation</strong></span></h2>
-<p>You’ll have to do these things before your cornea transplant:<br>
-● An eye exam: During surgery, the eye doctor will look for conditions that might cause complications.<br>
-● Eye measurements.: Eye measurements are done to get a donor cornea that fits your eye.<br>
-● A review of all your medications and supplements: Some medicines or supplements might need to be stopped before or after the transplant.<br>
+<p>You’ll have to do these things before your cornea transplant:<br />
+● An eye exam: During surgery, the eye doctor will look for conditions that might cause complications.<br />
+● Eye measurements.: Eye measurements are done to get a donor cornea that fits your eye.<br />
+● A review of all your medications and supplements: Some medicines or supplements might need to be stopped before or after the transplant.<br />
 ● Other eye problems: You might not be able to get a cornea transplant if you have unrelated eye problems. Those problems will be treated before surgery by your eye doctor.</p>
 <h2><span style="color: #0048ad;"><strong>Finding a cornea donor</strong></span></h2>
-<p>Corneas used in transplants come from deceased people. Using corneas from people who died from unknown causes is not allowed. The corneas of people with previous eye surgery, eye disease, or certain conditions, like diseases passed from one person to another, aren’t used either.<br>
+<p>Corneas used in transplants come from deceased people. Using corneas from people who died from unknown causes is not allowed. The corneas of people with previous eye surgery, eye disease, or certain conditions, like diseases passed from one person to another, aren’t used either.<br />
 In contrast to liver and kidney transplants, cornea transplants don’t require tissue matching. India has many donor corneas, so there is a short waiting list.</p>
 <p>Knowing Cornea Transplant Surgery in Detail</p>
 <h3><span style="color: #0048ad;"><strong>Before the Surgery</strong></span></h3>
-<p>Before undergoing cornea transplant surgery, it is important to be prepared physically and mentally. Here are some key steps that are taken before the surgery:<br>
-● Make sure to provide a detailed medical history to your doctor so that he may know about any of your pre-existing health conditions.<br>
-● It would be best to undergo a series of tests to determine eye shape, size, and thickness. This will help the surgeon determine the appropriate donor cornea.<br>
-● Talk to your doctor about the risks and benefits of the surgery.<br>
-● Follow your doctor’s instructions if you need to continue or stop any medicines.<br>
-● Maintaining good health before the surgery by eating a balanced diet and staying hydrated.<br>
-● Quit smoking and drinking before the surgery.<br>
+<p>Before undergoing cornea transplant surgery, it is important to be prepared physically and mentally. Here are some key steps that are taken before the surgery:<br />
+● Make sure to provide a detailed medical history to your doctor so that he may know about any of your pre-existing health conditions.<br />
+● It would be best to undergo a series of tests to determine eye shape, size, and thickness. This will help the surgeon determine the appropriate donor cornea.<br />
+● Talk to your doctor about the risks and benefits of the surgery.<br />
+● Follow your doctor’s instructions if you need to continue or stop any medicines.<br />
+● Maintaining good health before the surgery by eating a balanced diet and staying hydrated.<br />
+● Quit smoking and drinking before the surgery.<br />
 ● You will need someone to take you back home after the surgery as you cannot drive.</p>
 <h3><span style="color: #0048ad;"><strong>During the Surgery</strong></span></h3>
-<p>● The corneal transplant surgery is performed as an outpatient procedure.<br>
-● You will be positioned carefully on the operating table.<br>
-● Local anesthesia is given through eye drops or injections to numb the eye. In some cases, general anesthesia is also used, especially for children with specific medical conditions.<br>
-● The eye surgeon will choose how to transplant the healthy donor cornea based on your specific needs:<br>
-● In some cases, the surgeon removes the circular part of the cornea and replaces it with a matching donor cornea.<br>
-● Occasionally, surgeons remove only a thin layer from the front of the cornea and replace it with donor tissue.<br>
-● In other cases, only the damaged inner layer of the cornea is removed, and healthy donor tissue is placed on the back surface of the cornea. An air bubble is then put in the eye to push this new layer of cells into its palace so the cornea can heal properly.<br>
-● The surgeon uses sutures to place the cornea in place.<br>
-● These sutures are tiny and heal in some months.<br>
+<p>● The corneal transplant surgery is performed as an outpatient procedure.<br />
+● You will be positioned carefully on the operating table.<br />
+● Local anesthesia is given through eye drops or injections to numb the eye. In some cases, general anesthesia is also used, especially for children with specific medical conditions.<br />
+● The eye surgeon will choose how to transplant the healthy donor cornea based on your specific needs:<br />
+● In some cases, the surgeon removes the circular part of the cornea and replaces it with a matching donor cornea.<br />
+● Occasionally, surgeons remove only a thin layer from the front of the cornea and replace it with donor tissue.<br />
+● In other cases, only the damaged inner layer of the cornea is removed, and healthy donor tissue is placed on the back surface of the cornea. An air bubble is then put in the eye to push this new layer of cells into its palace so the cornea can heal properly.<br />
+● The surgeon uses sutures to place the cornea in place.<br />
+● These sutures are tiny and heal in some months.<br />
 ● After the surgery, your eye will be bandaged to prevent injury and promote healing.</p>
 <h3><span style="color: #0048ad;"><strong>After the surgery</strong></span></h3>
-<p>● You will be taken to the recovery area, and you will be closely examined to make sure that there are no further complications.<br>
-● You’ll get medicines. Medications can help with swelling, pain, and infection. You can prevent cornea rejection using eye drops that suppress your immune system.<br>
-● Make sure you wear eye protection. Protect your eye while it heals with an eye shield or glasses.<br>
-● Lay on your back. You might have to do this after surgery, depending on the type. It keeps the new tissue in place.<br>
-● Keep yourself safe. Take it easy after your cornea transplant. Work your way up to your usual activities, including exercise, when your eye doctor approves. Make sure you don’t rub or press on your eye.<br>
-● You’ll have to take extra precautions to keep your eyes healthy for the rest of your life.<br>
+<p>● You will be taken to the recovery area, and you will be closely examined to make sure that there are no further complications.<br />
+● You’ll get medicines. Medications can help with swelling, pain, and infection. You can prevent cornea rejection using eye drops that suppress your immune system.<br />
+● Make sure you wear eye protection. Protect your eye while it heals with an eye shield or glasses.<br />
+● Lay on your back. You might have to do this after surgery, depending on the type. It keeps the new tissue in place.<br />
+● Keep yourself safe. Take it easy after your cornea transplant. Work your way up to your usual activities, including exercise, when your eye doctor approves. Make sure you don’t rub or press on your eye.<br />
+● You’ll have to take extra precautions to keep your eyes healthy for the rest of your life.<br />
 ● Keep coming back for follow-ups. You’ll have to see your eye doctor regularly for a year after surgery. Your progress will be monitored, and complications will be looked for.</p>
 <h2><span style="color: #0048ad;"><strong>Benefits of the surgery</strong></span></h2>
 <h3><span style="color: #0048ad;"><strong>The benefits of cornea transplant surgery include: </strong></span></h3>
-<p>● Clear Vision<br>
-● Pain relief<br>
-● Restoration of overall eye health<br>
-● Correction of astigmatism<br>
-● Enhanced quality of life<br>
-● Safe procedure with a low completion rate<br>
+<p>● Clear Vision<br />
+● Pain relief<br />
+● Restoration of overall eye health<br />
+● Correction of astigmatism<br />
+● Enhanced quality of life<br />
+● Safe procedure with a low completion rate<br />
 ● It can be performed on any age group, from older people to children</p>
 <h3><span style="color: #0048ad;"><strong>Risks with the Surgery</strong></span></h3>
 <p>The biggest concern with cornea transplants is rejection. Rejection means your immune system identifies the donated cornea as foreign and rejects it. The risk of rejection varies depending on the surgical technique used and the condition of your eye.</p>
 <p>Your eye can reject a transplanted cornea, so your surgeon may recommend against surgery. Eye infections and severe dry eyes increase rejection chances.</p>
 <p>You’ll need to use eye drops for at least a year to reduce the risk of rejection after a cornea transplant.</p>
 <h3><span style="color: #0048ad;"><strong>A cornea transplant can also cause these complications:</strong></span></h3>
-<p>● An infection inside or on the cornea.<br>
-● Bleeding.<br>
-● Increased pressure inside your eye (glaucoma).<br>
-● Corneal fluid leakage.<br>
-● Retinal detachment.<br>
-● Problems with your vision because of an irregular corneal curve.<br>
-● An endothelial transplant held in place by an air bubble can detach.<br>
+<p>● An infection inside or on the cornea.<br />
+● Bleeding.<br />
+● Increased pressure inside your eye (glaucoma).<br />
+● Corneal fluid leakage.<br />
+● Retinal detachment.<br />
+● Problems with your vision because of an irregular corneal curve.<br />
+● An endothelial transplant held in place by an air bubble can detach.<br />
 ● Cataract</p>
 <h3><span style="color: #0048ad;"><strong>Results of the surgery</strong></span></h3>
 <p>Most people who get corneal transplant surgery get their vision back after the surgery. The results of the surgery also depend on your health. The risk of cornea rejection continues for years after the surgery. Therefore, please make sure to continue the follow-up appointments with your surgeon. The cornea rejection can be managed by medicines easily.</p>
 <h3><span style="color: #0048ad;"><strong>Correction of vision after surgery</strong></span></h3>
 <p>The first few days after surgery, your vision might be worse. The new cornea needs time to adjust. It can take a while for your vision to improve.</p>
 <p>You’ll have to wait a few weeks or months for the outer layer of your cornea to heal. Your eye doctor will make adjustments to improve your vision after it heals, like:</p>
-<p>● Getting rid of uneven corneas. Your cornea might look weird because of the stitches that hold the donor cornea in place. It can cause astigmatism. Astigmatism can blur your vision. Astigmatism might be treated by releasing some stitches.<br>
+<p>● Getting rid of uneven corneas. Your cornea might look weird because of the stitches that hold the donor cornea in place. It can cause astigmatism. Astigmatism can blur your vision. Astigmatism might be treated by releasing some stitches.<br />
 ● Fixing vision problems. Refractive errors, like nearsightedness and farsightedness, can be corrected. Your eye doctor may recommend glasses, contact lenses, or laser surgery.</p>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Corneal Transplant Surgery in India</strong></span></h2>
-<table widthh="541">
-<tbody>
-<tr>
-<td width="216"><strong>Hospital</strong></td>
-<td width="227"><strong>Best Doctor</strong></td>
-<td width="98"><strong>USD Cost </strong></td>
-</tr>
-<tr>
-<td width="216"><a href="https://www.centreforsight.net/">Center for Sight</a><p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p></td>
-<td width="227"><a href="#/maj-gen-dr-jks-parihar/">Maj Gen (Dr) JKS Parihar</a> – Senior Consultant Corneal Transplant –<p></p>
-<p>Experience – 35 Years</p></td>
-<td width="98">&nbsp;<p></p>
-<p>2000$</p></td>
-</tr>
-<tr>
-<td width="216"><a href="#/eye-7-eye-hospital-lajpat-nagar/">Chaudhary Eye Centre</a></td>
-<td width="227"><a href="#/dr-sanjay-chaudhary/">Dr. Sanjay Chaudhary</a>– Cataract and refractive eye surgeon (Founder and Director)<p></p>
-<p>Experience – 35 Years</p></td>
-<td width="98">&nbsp;<p></p>
-<p>2000$</p></td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><strong>How can you avail the best Corneal Transplant surgery in India By Step process?</strong></span></p>
-<p><a href="#/">Medihelp Global </a> is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your corneal transplant surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
+<h2><strong style="color: #0048ad;"><br />How can you avail the best Corneal Transplant surgery in India By Step process?</strong></h2>
+
+<p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your corneal transplant surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Corneal Transplant Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
 		</div>`,
@@ -4407,7 +4346,7 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
     name: "breast-cancer-treatment",
     img: "/treatment/breast-cancer-treatment.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">BREAST CANCER TREATMENT PROGRAM IN INDIA</span></h2>
+			<h2><span style="color: #0048ad;">Factors that Affect Breast Cancer Treatment Costs in India</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;"><span>Breast cancer occurs when the healthy cells of breast tissue change and may begin to grow out of control which can appear as a lump or mass within the breast tissue.</span></p><p style="color: black; font-size: medium; font-weight: 400;"><span>If you want to get the treatment of Breast Cancer in India, here are some of the factors affecting the cost of the treatment:&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Type of Hospital:&nbsp;</b><span>The cost of breast cancer treatment in India increases if:&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>The hospital is JCI-accredited</span></li><li aria-level="1"><span>The hospital has advanced oncological facilities</span></li><li aria-level="1"><span>The brand image of the hospital (Indraprastha Apollo, Fortis Hospital, etc.)</span></li><li aria-level="1"><span>Hospital is private or government</span></li></ul><p style="color: black; font-size: medium; font-weight: 400;"><b>Location of the Hospital:&nbsp;</b><span>Location of the hospital plays a crucial role in deciding overall cost of the breast cancer treatment in India. The cost will be more in the metro cities of India like Mumbai or Delhi.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Type and Stage of Cancer:&nbsp;</b><span>The type and the stage of the cancer significantly impacts the overall cost of the surgery. Early stage cancer requires less aggressive treatment as compared to advanced stage cancer. The more advanced the stage of the cancer is, the more are the costs.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Experience of the surgeon:&nbsp;</b><span>The surgeon’s expertise and skill performing the surgery also affect the overall cost of breast cancer treatment in India. Surgeons who are board-certified and have a high success rate in the same field charge more.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Diagnostic Tests:&nbsp;</b><span>Breast cancer evaluation requires several diagnostic tests like biopsy, FISH analysis, mammograms, ultrasounds, and genetic testing. The cost of these tests vary on their complexity and the labs in which they are performed.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Type of Treatment:&nbsp;</b><span>Many times, the best option for breast cancer treatment involves more than one type of treatment. The average cost of these treatments vary from hospital to hospital.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;">&nbsp;</p><table><tbody><tr><td><span style="color: #0048ad;"><b>Treatment Type</b></span></td><td><span style="color: #0048ad;"><b>Cost</b></span></td></tr><tr><td>Lumpectomy</td><td>3500$</td></tr><tr><td>Mastectomy</td><td>4000$</td></tr><tr><td>Partial Mastectomy with LD with Flap Reconstruction</td><td>5500$</td></tr><tr><td>Partial Mastectomy with TRAM Flap</td><td>7500$</td></tr><tr><td>Bilateral Breast Conservative Surgery without implant using patients own tissues.</td><td>9000$</td></tr><tr><td>Bilateral Breast Conservative Surgery with silicone implants</td><td>8500$</td></tr></tbody></table><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Radiotherapy will cost a patient USD 4500</span></li><li aria-level="1"><span>Cost of chemotherapy depends on the FISH analysis report (ER,PR and HER2Neu status.</span></li><li aria-level="1"><span>Adjuvant chemotherapy if ER , PR positive (6 cycles @ every 21 days ) one cycle will cost 450 USD.</span></li><li aria-level="1"><span>Targeted therapy if HER2Neu positive ( 17 cycles in one year ).One cycle will cost 1200 USD</span></li><li aria-level="1"><span>Hormonal therapy will cost 50 USD on monthly basis to be continued for 5 – 10 years</span></li></ul><p style="color: black; font-size: medium; font-weight: 400;"><b>Hospital Stay and Room Selected:&nbsp;</b><span>The cost of breast cancer treatment in India will also depend on the number of days you stay in the hospital and the type of room you choose to stay in.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Post treatment Expenses</b></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Medications prescribed according to the stage of the cancer</span></li><li aria-level="1"><span>Complications if any</span></li><li aria-level="1"><span>Follow up check ups with the doctor</span></li></ul><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><strong>Your Package Will Cover</strong></span></p><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital Stay&nbsp;</span><p></p><p><span>Chemotherapy &amp; Radiotherapy – Day Care&nbsp;</span></p><p><span>Surgery&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;– 05 Days&nbsp;</span></p></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay:</b><span>&nbsp;Depends on treatment.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Success rate of the surgery:&nbsp;</b><span>99%&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">BREAST CANCER TREATMENT PROGRAM IN INDIA</span></h2>
 <p>Breast cancer has become the number one cancer amongst women in the world. If diagnosed early and treated right, the outcomes of breast cancer are excellent. Indian Healthcare has all the facilities to offer world class treatment for breast cancer at affordable cost. Multidisciplinary treatment approach is discussed in Tumor Board lies at the core of our services and clinical outcomes include both treatment outcomes and also long term quality of life.</p>
 <p><strong><u>Breast Cancer Department in Indian Hospitals – An overview </u></strong></p>
 <p>It is our constant endeavor to offer the best possible treatment to patients diagnosed with breast cancer. We have a comprehensive multidisciplinary set up which caters to all the medical and rehabilitation needs of the patient. Then we have, medical oncologist services we have excellent team of day care services, then we have state – of the art radiation technology as far as treatment goes we have a immunotherapy , targeted therapy you name it and we have it here in India. We have the expertise to take care of all the needs of breast cancer from diagnosis to treatment to rehabilitation, in a multidisciplinary manner!</p>
@@ -4419,126 +4358,18 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 <p>The other advancement in surgery of breast cancer that has benefited a large number of patients is Sentinel Lymph Node Biopsy (SLNB). Earlier, all lymph nodes in the armpit were removed as part of surgery, even in those who were clinically node negative. This procedure leads to the problem of arm swelling (lymphedema) in 20-25% patients. This can be quite distressing in about 10% of patients who develop this problem. With the advent of SLNB, which involves removing only those lymph nodes to which the disease is likely to spread first, in women with uninvolved nodes clinically, the incidence of arm swelling is less than 6%.</p>
 <h3><span style="color: #0048ad;"><strong>Top doctors in India offering breast cancer treatment in India</strong></span></h3>
 <ol>
-<li><a href="#/dr-ramesh-sarin-surgical-oncologist-in-new-delhi-india/"><strong>Dr Ramesh Sarin</strong></a> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 40 years.</li>
-<li><a href="#/dr-kanchan-kaur-breast-cancer-specialist-in-gurugram-india/">Dr Kanchan Kaur</a>, working as Head breast Oncoplastic surgery unit at Medanta the Medicity, experience 15 years.</li>
-<li><a href="#/dr-mandeep-singh-malhotra-breast-cancer-surgeon-in-india/"><strong>Dr Mandeep Singh Malhotra</strong></a>, Director Breast and Head &amp; Neck Cancer Surgery at CK Birla Hospital, experience 20 years</li>
-<li><a href="#/dr-geeta-kadayaprath-breast-cancer-surgeon-in-delhi-india/"><strong>Dr Geeta Kedayaprath</strong></a>, HOD Breast Oncoplastic surgery unit at Max Super Speciality Hospital, Experience 22 years.</li>
+<li><strong>Dr Ramesh Sarin</strong> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 40 years.</li>
+<li>Dr Kanchan Kaur, working as Head breast Oncoplastic surgery unit at Medanta the Medicity, experience 15 years.</li>
+<li><strong>Dr Mandeep Singh Malhotra</strong>, Director Breast and Head &amp; Neck Cancer Surgery at CK Birla Hospital, experience 20 years</li>
+<li><strong>Dr Geeta Kedayaprath</strong>, HOD Breast Oncoplastic surgery unit at Max Super Speciality Hospital, Experience 22 years.</li>
 </ol>
 <p><strong>&nbsp;</strong><strong>Top hospitals in India Offering Breast Cancer Treatment</strong></p>
 <ol>
-<li><a href="https://www.apollohospitals.com/delhi/">Indraprastha Apollo Hospital</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a></li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a></li>
-<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-</ol>
-<h2><span style="color: #0048ad;"><b>Factors that Affect Breast Cancer Treatment Costs in India</b></span></h2>
-<p><span style="font-weight: 400;">Breast cancer occurs when the healthy cells of breast tissue change and may begin to grow out of control which can appear as a lump or mass within the breast tissue.</span></p>
-<p><span style="font-weight: 400;">If you want to get the treatment of Breast Cancer in India, here are some of the factors affecting the cost of the treatment:&nbsp;</span></p>
-<p><b>Type of Hospital: </b><span style="font-weight: 400;">The cost of breast cancer treatment in India increases if:&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is JCI-accredited</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital has advanced oncological facilities</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand image of the hospital (Indraprastha Apollo, Fortis Hospital, etc.)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hospital is private or government</span></li>
-</ul>
-<p><b>Location of the Hospital: </b><span style="font-weight: 400;">Location of the hospital plays a crucial role in deciding overall cost of the breast cancer treatment in India. The cost will be more in the metro cities of India like Mumbai or Delhi.&nbsp;</span></p>
-<p><b>Type and Stage of Cancer: </b><span style="font-weight: 400;">The type and the stage of the cancer significantly impacts the overall cost of the surgery. Early stage cancer requires less aggressive treatment as compared to advanced stage cancer. The more advanced the stage of the cancer is, the more are the costs.&nbsp;</span></p>
-<p><b>Experience of the surgeon: </b><span style="font-weight: 400;">The surgeon’s expertise and skill performing the surgery also affect the overall cost of breast cancer treatment in India. Surgeons who are board-certified and have a high success rate in the same field charge more.&nbsp;</span></p>
-<p><b>Diagnostic Tests: </b><span style="font-weight: 400;">Breast cancer evaluation requires several diagnostic tests like biopsy, FISH analysis, mammograms, ultrasounds, and genetic testing. The cost of these tests vary on their complexity and the labs in which they are performed.&nbsp;</span></p>
-<p><b>Type of Treatment: </b><span style="font-weight: 400;">Many times, the best option for breast cancer treatment involves more than one type of treatment. The average cost of these treatments vary from hospital to hospital.&nbsp;</span></p>
-<p>&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td><span style="color: #0048ad;"><b>Treatment Type</b></span></td>
-<td><span style="color: #0048ad;"><b>Cost</b></span></td>
-</tr>
-<tr>
-<td>Lumpectomy</td>
-<td>3500$</td>
-</tr>
-<tr>
-<td>Mastectomy</td>
-<td>4000$</td>
-</tr>
-<tr>
-<td>Partial Mastectomy with LD with Flap Reconstruction</td>
-<td>5500$</td>
-</tr>
-<tr>
-<td>Partial Mastectomy with TRAM Flap</td>
-<td>7500$</td>
-</tr>
-<tr>
-<td>Bilateral Breast Conservative Surgery without implant using patients own tissues.</td>
-<td>9000$</td>
-</tr>
-<tr>
-<td>Bilateral Breast Conservative Surgery with silicone implants</td>
-<td>8500$</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Radiotherapy will cost a patient USD 4500</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cost of chemotherapy depends on the FISH analysis report (ER,PR and HER2Neu status.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Adjuvant chemotherapy if ER , PR positive (6 cycles @ every 21 days ) one cycle will cost 450 USD.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Targeted therapy if HER2Neu positive ( 17 cycles in one year ).One cycle will cost 1200 USD</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hormonal therapy will cost 50 USD on monthly basis to be continued for 5 – 10 years</span></li>
-</ul>
-<p><b>Hospital Stay and Room Selected: </b><span style="font-weight: 400;">The cost of breast cancer treatment in India will also depend on the number of days you stay in the hospital and the type of room you choose to stay in.&nbsp;</span></p>
-<p><b>Post treatment Expenses</b></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications prescribed according to the stage of the cancer</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications if any</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow up check ups with the doctor</span></li>
-</ul>
-<p><span style="color: #0048ad;"><strong>Your Package Will Cover</strong></span></p>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital Stay&nbsp;</span><p></p>
-<p><span style="font-weight: 400;">Chemotherapy &amp; Radiotherapy – Day Care&nbsp;</span></p>
-<p><span style="font-weight: 400;">Surgery&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;– 05 Days&nbsp;</span></p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay:</b><span style="font-weight: 400;"> Depends on treatment.&nbsp;</span></p>
-<p><b>Success rate of the surgery: </b><span style="font-weight: 400;">99%&nbsp;</span></p>
+<li>Indraprastha Apollo Hospital</li>
+<li>Medanta The Medicity</li>
+<li>Artemis Hospital</li>
+<li>Max Super Speciality Hospital</li>
+<li>Fortis Memorial Research Institute, Gurugram</li></ol>
 <h2><span style="color: #0048ad;"><b>Breast Cancer Treatment: Service Cost</b></span></h2>
 <table>
 <tbody>
@@ -4570,12 +4401,10 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 </table>
 <p><span style="font-weight: 400;">Medihelp Global  is one of the best treatment consultants in India for all international patients. We are here to guide you in choosing the best doctor and hospital for your breast cancer treatment in India. With us, you will get</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">100% transparency</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help to choose the best hospital and doctor</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help to select the best treatment option</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">High success rates of procedures with international standards.&nbsp;</span></li>
-</ul>
-<p><span style="font-weight: 400;">Write to us today at </span><a href="mailto:info@medihelpglobal.com"><span style="font-weight: 400;">info@medihelpglobal.com</span></a></p>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">100% transparency</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Help to choose the best hospital and doctor</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Help to select the best treatment option</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">High success rates of procedures with international standards.&nbsp;</span></li></ul>
 <p><strong>Need assistance with advanced treatment for breast cancer to be performed in India? Contact us today!</strong></p>
 
 		</div>`,
@@ -4585,52 +4414,52 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
     name: "osteosarcoma-surgery",
     img: "/treatment/osteosarcoma-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Osteosarcoma Surgery in India: A Battle Against Bone Cancer</span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals and Doctors Doing Osteosarcoma Treatment in India and Osteosarcoma Surgery Cost</span></h2><h2><span style="color: #0048ad;"><table widthh="474"><thead><tr><td width="163"><strong>Hospital</strong></td><td width="211"><strong>Best Doctor</strong></td><td width="100"><strong>USD Cost</strong></td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="211">Dr Akshay Tiwari&nbsp;–<p></p><p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td><td width="100">10000$</td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="211">Dr Vivek Verma&nbsp;– Director – Musculoskeletal Oncology At Max Healthcare PPG<p></p><p>&nbsp;</p></td><td width="100">9000$</td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="211">Dr Hitesh Dawar, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td><td width="100">9500$</td></tr></thead></table></span></h2><h2><span style="color: #0048ad;">Osteosarcoma Surgery in India: A Battle Against Bone Cancer</span></h2>
 <p>Osteosarcoma is a type of cancer that starts in your bones. Initially, the cancer cells appear to be regular bone cells, but afterward, they create tumours and tumours create diseased bones. The cancer most often affects long bones like those in arms and legs. It primarily occurs near the end of your bones and near the knee, where the growth of the cancer occurs the fastest.</p>
 <p><span style="color: #0048ad;"><strong>The most commonly affected areas by osteosarcoma are:</strong></span></p>
-<p>● Thigh Bone<br>
-● Shin Bone<br>
-● Upper Arm Bone<br>
+<p>● Thigh Bone<br />
+● Shin Bone<br />
+● Upper Arm Bone<br />
 ● Organs in your abdomen or chest</p>
-<p><span style="color: #0048ad;"><strong>Other less common areas where osteosarcoma can&nbsp;</strong><span style="color: #008000;"><b>occur:</b></span></span></p>
-<p>● Pelvis<br>
-● Skull<br>
+<p><span style="color: #0048ad;"><strong>Other less common areas where osteosarcoma can&nbsp;</strong><span style="color: green;"><b>occur:</b></span></span></p>
+<p>● Pelvis<br />
+● Skull<br />
 ● Jaw</p>
 <p>Here, we will discuss in detail osteosarcoma, the treatment options available for treating it, and why India is the best country to get the surgery done.</p>
 <p><span style="color: #0048ad;"><strong>Types of Osteosarcoma</strong></span></p>
-<p><span style="color: #000000;"><strong>Osteosarcoma tumours can be categorized into three types:</strong></span></p>
-<p>● Low grade<br>
-● Intermediate<br>
+<p><span style="color: black;"><strong>Osteosarcoma tumours can be categorized into three types:</strong></span></p>
+<p>● Low grade<br />
+● Intermediate<br />
 ● High Grade</p>
 <p>Low grade means that the cancer will grow slowly and will remain where it began. On the other hand, a high-grade osteosarcoma indicates it will grow quickly and metastasize. Mostly, osteosarcoma that is found in children and teenagers is high grade.</p>
 <p><span style="color: #0048ad;"><strong>Who is at risk of getting Osteosarcoma?</strong></span></p>
-<p><span style="color: #000000;"><strong>You are at a high risk of getting osteosarcoma if:</strong></span></p>
-<p>● You have gone through a radiation treatment<br>
-● You have a certain change in your RB1 gene<br>
-● You are a teenager<br>
-● You suffer from any of the following conditions like Bloom syndrome, Paget disease, Werner Syndrome<br>
+<p><span style="color: black;"><strong>You are at a high risk of getting osteosarcoma if:</strong></span></p>
+<p>● You have gone through a radiation treatment<br />
+● You have a certain change in your RB1 gene<br />
+● You are a teenager<br />
+● You suffer from any of the following conditions like Bloom syndrome, Paget disease, Werner Syndrome<br />
 ● You suffer from Bone Infarct</p>
 <p><span style="color: #0048ad;"><strong>Symptoms</strong></span></p>
-<p><span style="color: #000000;"><strong>The most common symptoms of osteosarcoma include:</strong></span></p>
-<p>● Pain is the most common symptom. The pain initially comes and goes but then it becomes constant.<br>
-● Swelling or big lump in the affected area<br>
-● If the tumour is in the leg, the person may start limping<br>
+<p><span style="color: black;"><strong>The most common symptoms of osteosarcoma include:</strong></span></p>
+<p>● Pain is the most common symptom. The pain initially comes and goes but then it becomes constant.<br />
+● Swelling or big lump in the affected area<br />
+● If the tumour is in the leg, the person may start limping<br />
 ● Osteosarcoma weakens the bone and makes it fragile</p>
 <p><strong><span style="color: #0048ad;">Diagnosis</span></strong></p>
-<p><span style="color: #000000;"><strong>To diagnose osteosarcoma, the doctors carry out two types of tests:</strong></span></p>
+<p><span style="color: black;"><strong>To diagnose osteosarcoma, the doctors carry out two types of tests:</strong></span></p>
 <p>Imaging Tests</p>
 <p>Imaging Tests include:</p>
-<p>● X-Ray<br>
-● CT Scan<br>
-● MRI Scan<br>
-● PET Scan<br>
+<p>● X-Ray<br />
+● CT Scan<br />
+● MRI Scan<br />
+● PET Scan<br />
 ● Bone Scan</p>
 <p><span style="color: #0048ad;"><strong>Biopsy</strong></span></p>
 <p>A biopsy is a procedure that is used to collect a sample of suspicious cells for lab testing. Tests show if the cells are cancerous or not. Types of biopsy done in osteosarcoma are:</p>
-<p>● <strong><span style="color: #008000;">Needle Biopsy:</span></strong> in this doctor uses a thin needle to remove the small pieces of tissue from the tumor<br>
-● <strong><span style="color: #008000;">Surgical Biopsy:</span></strong> In this, the doctor makes an incision through the skin to remove an entire or a portion of the tumor.</p>
+<p>● <strong><span style="color: green;">Needle Biopsy:</span></strong> in this doctor uses a thin needle to remove the small pieces of tissue from the tumor<br />
+● <strong><span style="color: green;">Surgical Biopsy:</span></strong> In this, the doctor makes an incision through the skin to remove an entire or a portion of the tumor.</p>
 <h2><span style="color: #0048ad;"><strong>Osteosarcoma Treatment Options Available in India</strong></span></h2>
-<p><span style="color: #000000;"><strong>Osteosarcoma Surgery</strong></span></p>
+<p><span style="color: black;"><strong>Osteosarcoma Surgery</strong></span></p>
 <p>The goal of the surgery is to remove all the cancer cells. The different operations used to treat osteosarcoma include:</p>
 <p><span style="color: #0048ad;"><strong>Limb Salvation / Sparing Surgery</strong></span></p>
 <p>In this surgery, the operation removes cancer, but the limb is pared so that its function can be maintained. The choice of this procedure depends on the extent of the cancer and how much muscle and tissue needs to be removed. If a section of bone is removed, then the surgeon will reconstruct the bone.</p>
@@ -4647,84 +4476,55 @@ In contrast to liver and kidney transplants, cornea transplants don’t require 
 <p>This therapy uses drugs to blog certain proteins that are necessary for cancer cells to grow. These drugs do not harm the normal cells.</p>
 <p>Understanding Osteosarcoma Surgery in Detail</p>
 <p><span style="color: #0048ad;"><strong>Before the Surgery</strong></span></p>
-<p>● The process begins with a thorough medical evaluation, which includes imaging tests such as X-rays, CT scans, and MRIs.<br>
-● You will meet with multidisciplinary medical specialists such as orthopedic surgeons, medical oncologists, radiation oncologists, and pathologists to discuss a treatment plan.<br>
-● You have to undergo physical examination, blood tests, and possibly additional imaging to assess the extent of the tumor and its proximity to critical structures like nerves and blood vessels.<br>
-● Neoadjuvant chemotherapy is often given to osteosarcoma patients before surgery. Using this treatment, the tumor is shrunk, making it easier to remove surgically.<br>
-● The surgical team will plan the procedure carefully, taking into account the tumor’s location, size, and proximity to surrounding structures.<br>
-● Your surgeon will discuss the risks and benefits of the surgical procedure with you in detail.<br>
-● Your medical fitness for general anesthesia will be evaluated before surgery if general anesthesia is required.<br>
-● The day before osteosarcoma surgery, you will receive instructions on fasting, medications to take or avoid, and preparations for surgery.<br>
-● Emotional support can be helpful after a cancer diagnosis and surgery. For patients and their families, many medical centers offer counseling or support groups.<br>
+<p>● The process begins with a thorough medical evaluation, which includes imaging tests such as X-rays, CT scans, and MRIs.<br />
+● You will meet with multidisciplinary medical specialists such as orthopedic surgeons, medical oncologists, radiation oncologists, and pathologists to discuss a treatment plan.<br />
+● You have to undergo physical examination, blood tests, and possibly additional imaging to assess the extent of the tumor and its proximity to critical structures like nerves and blood vessels.<br />
+● Neoadjuvant chemotherapy is often given to osteosarcoma patients before surgery. Using this treatment, the tumor is shrunk, making it easier to remove surgically.<br />
+● The surgical team will plan the procedure carefully, taking into account the tumor’s location, size, and proximity to surrounding structures.<br />
+● Your surgeon will discuss the risks and benefits of the surgical procedure with you in detail.<br />
+● Your medical fitness for general anesthesia will be evaluated before surgery if general anesthesia is required.<br />
+● The day before osteosarcoma surgery, you will receive instructions on fasting, medications to take or avoid, and preparations for surgery.<br />
+● Emotional support can be helpful after a cancer diagnosis and surgery. For patients and their families, many medical centers offer counseling or support groups.<br />
 ● Transportation to and from the hospital, home care after surgery, and any necessary adaptations to your living space may be necessary.</p>
 <p><span style="color: #0048ad;"><strong>During the Surgery</strong></span></p>
-<p>● You have to undergo a thorough assessment before surgery, including imaging tests (such as X-rays, CT scans, and MRI scans) to determine the size and location of the tumor.<br>
-● In addition to blood tests, other diagnostic tests are conducted in order to assess the patient’s overall health.<br>
-● General anesthesia is administered during the procedure to ensure unconsciousness and painlessness.<br>
-● A surgical incision is made over the site of the tumor by the surgeon. An incision’s size and location will vary depending on the circumstances.<br>
-● During tumor resection, the surgeon carefully removes the cancerous tissue, leaving a margin of healthy tissue behind. Some cases may require the removal of part of a bone or an entire limb, especially if the tumor is large or has spread to nearby structures.<br>
-● In order to confirm the diagnosis and determine the characteristics of the tumor, a sample of the removed tumor tissue is sent to the pathology lab for examination.<br>
-● A surgeon may perform bone reconstruction following the removal of a tumor. Several techniques can be used to accomplish this:<br>
-○ A bone graft may be used to replace the bone that has been removed from the body or a donor.<br>
-○ In order to preserve limb function, the surgeon may use a prosthesis or implant to reconstruct the affected bone.<br>
-● A surgical incision is carefully closed with sutures or staples.<br>
-● A drain may be placed near the surgical site in order to remove excess fluids and prevent swelling.<br>
-● During the postoperative period, the patient is closely monitored in the recovery area. The patient receives pain management, antibiotics, and other supportive care measures.<br>
-● Physical therapy is a crucial component of the recovery process. They assist patients in regaining mobility and function in their affected limbs.<br>
+<p>● You have to undergo a thorough assessment before surgery, including imaging tests (such as X-rays, CT scans, and MRI scans) to determine the size and location of the tumor.<br />
+● In addition to blood tests, other diagnostic tests are conducted in order to assess the patient’s overall health.<br />
+● General anesthesia is administered during the procedure to ensure unconsciousness and painlessness.<br />
+● A surgical incision is made over the site of the tumor by the surgeon. An incision’s size and location will vary depending on the circumstances.<br />
+● During tumor resection, the surgeon carefully removes the cancerous tissue, leaving a margin of healthy tissue behind. Some cases may require the removal of part of a bone or an entire limb, especially if the tumor is large or has spread to nearby structures.<br />
+● In order to confirm the diagnosis and determine the characteristics of the tumor, a sample of the removed tumor tissue is sent to the pathology lab for examination.<br />
+● A surgeon may perform bone reconstruction following the removal of a tumor. Several techniques can be used to accomplish this:<br />
+○ A bone graft may be used to replace the bone that has been removed from the body or a donor.<br />
+○ In order to preserve limb function, the surgeon may use a prosthesis or implant to reconstruct the affected bone.<br />
+● A surgical incision is carefully closed with sutures or staples.<br />
+● A drain may be placed near the surgical site in order to remove excess fluids and prevent swelling.<br />
+● During the postoperative period, the patient is closely monitored in the recovery area. The patient receives pain management, antibiotics, and other supportive care measures.<br />
+● Physical therapy is a crucial component of the recovery process. They assist patients in regaining mobility and function in their affected limbs.<br />
 In addition to osteosarcoma surgery, chemotherapy may also be included in a comprehensive treatment plan before and after surgery. It is the goal of surgery to remove as much of the tumor as possible as well as to achieve negative surgical margins in order to reduce the likelihood of recurrence. Specific details of the surgery may differ depending on the individual case, so patients should discuss their treatment plan and surgical options with their physician.</p>
-<p><span style="color: #0048ad;"><strong>Osteosarcoma surgery Afterwards</strong></span><br>
-● You will have to stay in the hospital under close medical observation. The extent of the stay will depend on the type of the surgery.<br>
-● Manage pain using the pain medications prescribed by the doctor after the surgery.<br>
-● Follow proper instructions to take care of the wound after the surgery.<br>
-● You will have to undergo physical therapy to regain mobility after the surgery.<br>
-● Keep a close monitor on wound and pain management. This will help you to recover better.<br>
-● Proper diet and nutrition are essential for effective recovery.<br>
+<p><span style="color: #0048ad;"><strong>Osteosarcoma surgery Afterwards</strong></span><br />
+● You will have to stay in the hospital under close medical observation. The extent of the stay will depend on the type of the surgery.<br />
+● Manage pain using the pain medications prescribed by the doctor after the surgery.<br />
+● Follow proper instructions to take care of the wound after the surgery.<br />
+● You will have to undergo physical therapy to regain mobility after the surgery.<br />
+● Keep a close monitor on wound and pain management. This will help you to recover better.<br />
+● Proper diet and nutrition are essential for effective recovery.<br />
 ● Attend regular follow-ups with your doctor to keep track of the recovery.</p>
-<p><span style="color: #0048ad;"><strong>Advantages of the Surgery</strong></span><br>
-● The primary goal of the surgery is to remove the cancerous tumour.<br>
-● It prevents tumour from spreading to other parts of the body.<br>
-● The surgery helps to reduce pain and discomfort caused by the tumour.<br>
-● The limb sparing technique aims to preserve as much limb function as possible.<br>
+<p><span style="color: #0048ad;"><strong>Advantages of the Surgery</strong></span><br />
+● The primary goal of the surgery is to remove the cancerous tumour.<br />
+● It prevents tumour from spreading to other parts of the body.<br />
+● The surgery helps to reduce pain and discomfort caused by the tumour.<br />
+● The limb sparing technique aims to preserve as much limb function as possible.<br />
 ● Since osteosarcoma can weaken the bones, it makes us susceptible to fractures. The surgery can reduce the risk of fractures.</p>
 <p><span style="color: #0048ad;"><strong>Risks Associated with the Osteosarcoma Treatment</strong></span></p>
-<p><strong><span style="color: #000000;"><em>The risks associated with the surgery are: </em></span></strong><br>
-● Bleeding<br>
-● Blood clots<br>
-● Infection<br>
-● Pain<br>
-● Skin breakdown<br>
+<p><strong><span style="color: black;"><em>The risks associated with the surgery are: </em></span></strong><br />
+● Bleeding<br />
+● Blood clots<br />
+● Infection<br />
+● Pain<br />
+● Skin breakdown<br />
 ● Long-term physical problems</p>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Osteosarcoma Treatment in India and Osteosarcoma Surgery Cost</strong></span></h2>
-<table widthh="474">
-<thead>
-<tr>
-<td width="163"><strong>Hospital</strong></td>
-<td width="211"><strong>Best Doctor</strong></td>
-<td width="100"><strong>USD Cost </strong></td>
-</tr>
-<tr>
-<td width="163"><a href="#/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="211"><a href="#/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
-<p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td>
-<td width="100">10000$</td>
-</tr>
-<tr>
-<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="211"><a href="#/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG<p></p>
-<p>&nbsp;</p></td>
-<td width="100">9000$</td>
-</tr>
-<tr>
-<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="211"><a href="#/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
-<td width="100">9500$</td>
-</tr>
-</thead>
-</table>
-<h2><span style="color: #0048ad;"><strong>How can you avail the best Osteosarcoma Treatment in India Step By Step process?</strong></span></h2>
+<h2><strong style="color: #0048ad;"><br />How can you avail the best Osteosarcoma Treatment in India Step By Step process?</strong></h2>
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your osteosarcoma surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Osteosarcoma Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -4742,59 +4542,59 @@ In addition to osteosarcoma surgery, chemotherapy may also be included in a comp
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Ewings Sarcoma Treatment in India: Bridging Hope and Healing Through Treatment</span></h2>
-<p>Ewings Sarcoma is a scarce type of tumor that grows in the bones. It usually affects patients aged between 10 to 20 years. The good news is that it can be cured. This cancerous tumor often develops during puberty and typically appears in the arms, legs, and pelvis.<br>
+			<h2><span style="color: #0048ad;">Top Hospitals and Doctors Doing Ewings Sarcoma Surgery in India and Ewings Sarcoma</span></h2><h2><span style="color: #0048ad;"><table widthh="605"><tbody><tr><td width="163"><strong>Hospital</strong></td><td width="306"><strong>Best Doctor</strong></td><td width="136">&nbsp;<p></p><p><strong>Cost</strong></p><p><strong>&nbsp;</strong></p></td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr Akshay Tiwari&nbsp;–<p></p><p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td><td width="136">10000$</td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr Vivek Verma&nbsp;– Director – Musculoskeletal Oncology At Max Healthcare PPG</td><td width="136">9000$</td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr Hitesh Dawar, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td><td width="136">9500$</td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Ewings Sarcoma Treatment in India: Bridging Hope and Healing Through Treatment</span></h2>
+<p>Ewings Sarcoma is a scarce type of tumor that grows in the bones. It usually affects patients aged between 10 to 20 years. The good news is that it can be cured. This cancerous tumor often develops during puberty and typically appears in the arms, legs, and pelvis.<br />
 Thanks to ongoing research and new ewings sarcoma treatment&nbsp; treatment options available in India, people suffering from Ewings Sarcoma can now live cancer-free.</p>
-<p>Here, we will provide you with every detail about Ewings Sarcoma and how you can get its&nbsp; treatment from India to avoid sky-rising medical bills.<br>
+<p>Here, we will provide you with every detail about Ewings Sarcoma and how you can get its&nbsp; treatment from India to avoid sky-rising medical bills.<br />
 Let us first learn a bit more about Ewings Sarcoma:</p>
 <p><span style="color: #0048ad;"><strong>Types of Ewings Sarcoma:</strong></span></p>
 <p><span style="color: #0048ad;"><strong>There are three different types of Ewings Sarcoma:</strong></span></p>
-<p>● Ewing Sarcoma of bone is the most common type. It usually appears in thigh bones, ribs, or shoulder blades. It can appear in any bone.<br>
-● Soft Tissue Tumor affects the soft tissues of the bones. It can be found in the arms, legs, neck, chest, and abdomen.<br>
+<p>● Ewing Sarcoma of bone is the most common type. It usually appears in thigh bones, ribs, or shoulder blades. It can appear in any bone.<br />
+● Soft Tissue Tumor affects the soft tissues of the bones. It can be found in the arms, legs, neck, chest, and abdomen.<br />
 ● Peripheral primitive neuroectodermal tumor is found in nerves and other parts of the body.</p>
 <p><span style="color: #0048ad;"><strong>Stages of Ewings Sarcoma</strong></span></p>
-<p>● Localised Ewing Sarcoma<br>
-● Metastatic Ewings sarcoma<br>
+<p>● Localised Ewing Sarcoma<br />
+● Metastatic Ewings sarcoma<br />
 ● Recurrent Ewing Sarcoma</p>
 <p><span style="color: #0048ad;"><strong>Symptoms</strong></span></p>
 <p><span style="color: #0048ad;"><strong>The primary signs and symptoms of Ewings Sarcoma include:</strong></span></p>
-<p>● Pain or swelling in the area where it is growing<br>
-● Bone pain<br>
-● Tiredness<br>
-● Fever without any cause<br>
-● Weight Loss<br>
+<p>● Pain or swelling in the area where it is growing<br />
+● Bone pain<br />
+● Tiredness<br />
+● Fever without any cause<br />
+● Weight Loss<br />
 ● Broken bones without any injury</p>
 <p><span style="color: #0048ad;"><strong>Causes</strong></span></p>
 <p>According to doctors, genetic mutation or change in the normal cells to Ewings Sarcoma cells is the primary cause of this disease. These cells, hence, multiply and create cancerous tumors in the bones.</p>
 <p>There is no significant reason behind mutation. Doctors also think that it is the second cancer that develops in patients who have been treated with radiation for another type of cancer.</p>
 <p><span style="color: #0048ad;"><strong>Who is at risk?</strong></span></p>
-<p>● You can develop Ewings Sarcoma at any age. But people who are between 10 and 20 years of age are at more risk.<br>
-● It is more common in boys than in girls.<br>
+<p>● You can develop Ewings Sarcoma at any age. But people who are between 10 and 20 years of age are at more risk.<br />
+● It is more common in boys than in girls.<br />
 ● White people develop it more often than Blacks.</p>
 <p><span style="color: #0048ad;"><strong>Complications</strong></span></p>
-<p>● Ewings Sarcoma can lead to metastatic cancer. It spreads from the original tumor to other areas that are extremely difficult to treat.<br>
-● Ewings Sarcoma can return after initial treatment. It can come back within 5 years of the treatment.<br>
+<p>● Ewings Sarcoma can lead to metastatic cancer. It spreads from the original tumor to other areas that are extremely difficult to treat.<br />
+● Ewings Sarcoma can return after initial treatment. It can come back within 5 years of the treatment.<br />
 ● Some people can develop side effects after its treatment.</p>
 <p><span style="color: #0048ad;"><strong>Diagnosis</strong></span></p>
 <p>The following tests are done to diagnose Ewings Sarcoma:</p>
 <p>Imaging</p>
-<p>● X-Ray<br>
-● MRI<br>
-● CT Scan<br>
-● PET Scan<br>
+<p>● X-Ray<br />
+● MRI<br />
+● CT Scan<br />
+● PET Scan<br />
 ● Bone Scan</p>
 <p><span style="color: #0048ad;"><strong>Biopsies</strong></span></p>
-<p>● Needle Biopsy is done using a hollow needle to obtain cells, fluids, and tissues from the cancerous lumps.<br>
+<p>● Needle Biopsy is done using a hollow needle to obtain cells, fluids, and tissues from the cancerous lumps.<br />
 ● Bone marrow aspiration is done to look out for cancerous cells in the liquid found inside the bone marrow.</p>
 <p><span style="color: #0048ad;"><strong>Blood Tests</strong></span></p>
-<p>● CBC<br>
-● Comprehensive Metabolic panel<br>
+<p>● CBC<br />
+● Comprehensive Metabolic panel<br />
 ● LDH</p>
 <p><span style="color: #0048ad;"><strong>What are the treatment options available?</strong></span></p>
 <p><span style="color: #0048ad;"><strong>The treatment will depend on several factors:</strong></span></p>
-<p>● The size of the tumor<br>
-● Where it has spread<br>
-● Your overall health<br>
+<p>● The size of the tumor<br />
+● Where it has spread<br />
+● Your overall health<br />
 ● Your preferences.</p>
 <p>You have to talk to your healthcare provider in India about what treatment option you are comfortable with.</p>
 <p><span style="color: #0048ad;"><strong>The treatment options include</strong></span></p>
@@ -4807,67 +4607,67 @@ Let us first learn a bit more about Ewings Sarcoma:</p>
 <p>It is essential to see a doctor if you notice any of the symptoms mentioned above.</p>
 <p>Understanding Surgery in Detail</p>
 <p><span style="color: #0048ad;"><strong>Before the Surgery</strong></span></p>
-<p>● The process begins with a thorough medical evaluation, which includes imaging tests such as X-rays, CT scans, and MRIs.<br>
-● You will meet with multidisciplinary medical specialists such as orthopedic surgeons, medical oncologists, radiation oncologists, and pathologists to discuss a treatment plan.<br>
-● You have to undergo a physical examination, blood tests, and possibly additional imaging to assess the extent of the tumor and its proximity to critical structures like nerves and blood vessels.<br>
-● The surgical team will plan the procedure carefully, taking into account the tumor’s location, size, and proximity to surrounding structures.<br>
-● Your surgeon will discuss the risks and benefits of the surgical procedure with you in detail.<br>
-● Your medical fitness for general anesthesia will be evaluated before surgery if general anesthesia is required.<br>
-● The day before Ewings Sarcoma surgery, you will receive instructions on fasting, medications to take or avoid, and preparations for surgery.<br>
-● Emotional support can be helpful after a cancer diagnosis and surgery. For patients and their families, many medical centers offer counseling or support groups.<br>
+<p>● The process begins with a thorough medical evaluation, which includes imaging tests such as X-rays, CT scans, and MRIs.<br />
+● You will meet with multidisciplinary medical specialists such as orthopedic surgeons, medical oncologists, radiation oncologists, and pathologists to discuss a treatment plan.<br />
+● You have to undergo a physical examination, blood tests, and possibly additional imaging to assess the extent of the tumor and its proximity to critical structures like nerves and blood vessels.<br />
+● The surgical team will plan the procedure carefully, taking into account the tumor’s location, size, and proximity to surrounding structures.<br />
+● Your surgeon will discuss the risks and benefits of the surgical procedure with you in detail.<br />
+● Your medical fitness for general anesthesia will be evaluated before surgery if general anesthesia is required.<br />
+● The day before Ewings Sarcoma surgery, you will receive instructions on fasting, medications to take or avoid, and preparations for surgery.<br />
+● Emotional support can be helpful after a cancer diagnosis and surgery. For patients and their families, many medical centers offer counseling or support groups.<br />
 ● Transportation to and from the hospital, home care after surgery, and any necessary adaptations to your living space may be required.</p>
 <p><span style="color: #0048ad;"><strong>During the Surgery</strong></span></p>
 <p>The first stage in the treatment of Ewings Sarcoma is chemotherapy. Chemotherapy is used to treat its spread to the lungs. Surgery is the next treatment option after chemotherapy</p>
-<p>● Surgery is performed under general anesthesia. You will remain unconscious during the surgery.<br>
-<span style="color: #0048ad;"><strong>● The surgery may involve the following things: </strong></span><br>
-● <span style="color: #0048ad;"><strong>Limb Sparing Surgery:</strong> </span>It is performed when the tumor is in the arm or leg. The doctors will remove the cancer and will spare the limb function. In some cases, artificial bone can be used to reconstruct the limb.<br>
-●<span style="color: #339966;"><strong><span style="color: #0048ad;"> Amputation</span>:</strong></span> if the tumor is too large and has severely damaged the bone, amputation becomes necessary to remove all the cancer cells.<br>
-●<span style="color: #0048ad;"><strong> Chest Wall Resection:</strong></span> When Ewings Sarcoma is in the chest, a small portion of the rib is removed along with the tumor. Reconstruction surgery follows then.<br>
-● Surgeons also examine the surrounding lymph nodes. If cancer has spread to surrounding lymph nodes, then they are also removed.<br>
+<p>● Surgery is performed under general anesthesia. You will remain unconscious during the surgery.<br />
+<span style="color: #0048ad;"><strong>● The surgery may involve the following things: </strong></span><br />
+● <span style="color: #0048ad;"><strong>Limb Sparing Surgery:</strong> </span>It is performed when the tumor is in the arm or leg. The doctors will remove the cancer and will spare the limb function. In some cases, artificial bone can be used to reconstruct the limb.<br />
+●<span style="color: #339966;"><strong><span style="color: #0048ad;"> Amputation</span>:</strong></span> if the tumor is too large and has severely damaged the bone, amputation becomes necessary to remove all the cancer cells.<br />
+●<span style="color: #0048ad;"><strong> Chest Wall Resection:</strong></span> When Ewings Sarcoma is in the chest, a small portion of the rib is removed along with the tumor. Reconstruction surgery follows then.<br />
+● Surgeons also examine the surrounding lymph nodes. If cancer has spread to surrounding lymph nodes, then they are also removed.<br />
 ● If the surgery involves the removal of tissue, reconstruction surgery is performed to restore the form and function of the tissue.</p>
 <p><span style="color: #0048ad;"><strong>After the Surgery</strong></span></p>
-<p>● You will have to stay in the hospital after the surgery. The length of the stay will depend on the type of surgery.<br>
-● Limb amputation surgery has more extended hospital stays as compared to limb-sparing surgery.<br>
-● You will receive some pain medications. Take them on time to control pain and discomfort.<br>
-● Keep your surgical wound clean to avoid any infection.<br>
-● Rehabilitation is an essential part of the recovery process. You have to undergo physical therapy to restore limb function.<br>
-● In some cases, chemotherapy is performed to kill the remaining cancer cells after the surgery.<br>
-● Radiation therapy can also be a part of a treatment plan. It can help to destroy the remaining cancer cells.<br>
-● After the surgery, you will have to undergo regular X-rays every six months.<br>
-● You will have to take regular CT Scans of the lungs and periodic bone scans to detect recurrence.<br>
+<p>● You will have to stay in the hospital after the surgery. The length of the stay will depend on the type of surgery.<br />
+● Limb amputation surgery has more extended hospital stays as compared to limb-sparing surgery.<br />
+● You will receive some pain medications. Take them on time to control pain and discomfort.<br />
+● Keep your surgical wound clean to avoid any infection.<br />
+● Rehabilitation is an essential part of the recovery process. You have to undergo physical therapy to restore limb function.<br />
+● In some cases, chemotherapy is performed to kill the remaining cancer cells after the surgery.<br />
+● Radiation therapy can also be a part of a treatment plan. It can help to destroy the remaining cancer cells.<br />
+● After the surgery, you will have to undergo regular X-rays every six months.<br />
+● You will have to take regular CT Scans of the lungs and periodic bone scans to detect recurrence.<br />
 ● You have to attend regular follow-up visits with your doctor to avoid Ewings Sarcoma cancer from returning.</p>
 <p><span style="color: #0048ad;"><strong>Ewing’s Sarcoma Prognosis</strong></span></p>
 <p>The factors that affect prognosis are different before and after treatment.</p>
 <p><span style="color: #0048ad;"><strong>Before any treatment is given, the prognosis depends on the following:</strong></span></p>
-<p>● The location of the tumor.<br>
-● How far the cancer has spread.<br>
-● Size of the tumor when it’s diagnosed.<br>
-● LDH level in blood.<br>
-● If the cancer has specific gene changes.<br>
-● Whether tumor DNA has been found in the blood.<br>
-● Patient’s age.<br>
-● Patient’s gender.<br>
-● Whether the patient has had treatment for another cancer.<br>
+<p>● The location of the tumor.<br />
+● How far the cancer has spread.<br />
+● Size of the tumor when it’s diagnosed.<br />
+● LDH level in blood.<br />
+● If the cancer has specific gene changes.<br />
+● Whether tumor DNA has been found in the blood.<br />
+● Patient’s age.<br />
+● Patient’s gender.<br />
+● Whether the patient has had treatment for another cancer.<br />
 ● Whether the tumor has just been diagnosed or has recurred (come back).</p>
 <p><span style="color: #0048ad;"><strong>After treatment is given, the prognosis is affected by the following:</strong></span></p>
-<p>● Whether the tumor was entirely removed by surgery.<br>
+<p>● Whether the tumor was entirely removed by surgery.<br />
 ● The tumor’s response to chemotherapy or radiation.</p>
 <p><span style="color: #0048ad;"><strong>When cancer recurs after initial treatment, the prognosis depends on:</strong></span></p>
-<p>● Whether the cancer came back more than two years after the initial treatment.<br>
+<p>● Whether the cancer came back more than two years after the initial treatment.<br />
 ● Whether the cancer came back where it first formed and in other parts of the body or whether the cancer came back in only one site.</p>
 <p><span style="color: #0048ad;"><strong>Complications</strong></span></p>
-<p>● Ewings sarcoma can spread to other areas, which makes treatment and recovery difficult.<br>
+<p>● Ewings sarcoma can spread to other areas, which makes treatment and recovery difficult.<br />
 ● The treatment is aggressive. It can have both long-term and short-term side effects.</p>
-<p><span style="color: #0048ad;"><strong>Other potential complications include: </strong></span><br>
-● Problems with organs and tissues<br>
-● Mood swings and effect on mental health<br>
-● Ability to think and learn<br>
+<p><span style="color: #0048ad;"><strong>Other potential complications include: </strong></span><br />
+● Problems with organs and tissues<br />
+● Mood swings and effect on mental health<br />
+● Ability to think and learn<br />
 ● Ability to have children</p>
 <p><span style="color: #0048ad;"><strong>Advantages of the Surgery</strong></span></p>
-<p>● Surgery will help to remove the tumor<br>
-● Surgery will prevent the spread of cancer to nearby areas<br>
-● Surgery may prevent limb amputation<br>
-● Chemotherapy and Radiation therapy become more effective after the surgery<br>
+<p>● Surgery will help to remove the tumor<br />
+● Surgery will prevent the spread of cancer to nearby areas<br />
+● Surgery may prevent limb amputation<br />
+● Chemotherapy and Radiation therapy become more effective after the surgery<br />
 ● Surgery may alleviate pain and help to improve the overall quality of life</p>
 <p><span style="color: #0048ad;"><b>Ewings Sarcoma </b><b>Survival</b><b> Rate and Recurrence</b></span></p>
 <p>The recurrence happens a few years after the treatment. In most patients, it returns five years after the surgery.</p>
@@ -4912,38 +4712,8 @@ Let us first learn a bit more about Ewings Sarcoma:</p>
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Ewings Sarcoma Surgery in India and Ewings Sarcoma </strong></span></h2>
-<table widthh="605">
-<tbody>
-<tr>
-<td width="163"><strong>Hospital</strong></td>
-<td width="306"><strong>Best Doctor</strong></td>
-<td width="136">&nbsp;<p></p>
-<p><strong>Cost </strong></p>
-<p><strong>&nbsp;</strong></p></td>
-</tr>
-<tr>
-<td width="163"><a href="#/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
-<p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td>
-<td width="136">10000$</td>
-</tr>
-<tr>
-<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
-<td width="136">9000$</td>
-</tr>
-<tr>
-<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
-<td width="136">9500$</td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Ewings sarcoma surgery in India through a step-by-step process?</strong></span></p>
+<h2><strong style="color: #0048ad;"><br />How can you avail yourself of the best Ewings sarcoma surgery in India through a step-by-step process?</strong></h2>
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your ewings sarcoma surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Ewing’s Sarcoma Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -4963,28 +4733,28 @@ Let us first learn a bit more about Ewings Sarcoma:</p>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Chondrosarcoma Treatment in India: Hope Shines Bright</strong></span></h2>
-<p>Chondrosarcoma is a rare cancer that starts in the bones. It can also occur in soft tissues near bones. This cancer mostly occurs in the pelvis, hip, and shoulder.<br>
+			<h2><span style="color: #0048ad;">Top Hospitals and Doctors doing Chondrosarcoma Treatment in India and Cost of Chondrosarcoma</span></h2><h2><span style="color: #0048ad;"><table widthh="605"><tbody><tr><td width="163"><span style="color: #0048ad;"><strong>Hospital</strong></span></td><td width="306"><span style="color: #0048ad;"><strong>Best Doctor</strong></span></td><td width="136"><strong><span style="color: #0048ad;">USD Cost</span></strong><p></p><p><strong>&nbsp;</strong></p></td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr. Akshay Tiwari&nbsp;–<p></p><p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td><td width="136">10000$</td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr. Vivek Verma&nbsp;– Director – Musculoskeletal Oncology At Max Healthcare PPG</td><td width="136">9000$</td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr. Hitesh Dawar, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td><td width="136">9500$</td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;"><strong>Chondrosarcoma Treatment in India: Hope Shines Bright</strong></span></h2>
+<p>Chondrosarcoma is a rare cancer that starts in the bones. It can also occur in soft tissues near bones. This cancer mostly occurs in the pelvis, hip, and shoulder.<br />
 Initially, Chondrosarcoma grows slowly and may not cause any signs and symptoms first. Some types grow very fast and pose a high risk of spreading to other body parts. There are numerous options available for Chondrosarcoma Treatment , which involve surgery, radiation therapy, and chemotherapy.</p>
 <p>In this detailed article, we will tell you everything about this form of bone cancer, its treatment options available in India, and how you can avail quality treatment at the most affordable prices in India.</p>
 <p><span style="color: #0048ad;"><strong>Different Types of Chondrosarcoma</strong></span></p>
 <p><span style="color: #0048ad;"><strong>There are several types of Chondrosarcoma.</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Clear Cell Chondrosarcoma:</strong> </span>It is primarily found in men aged between 30 to 50. They grow slowly and have rare chances of spreading to other body parts.</p>
 <p><span style="color: #0048ad;"><strong>Dedifferentiated Chondrosarcoma:</strong></span> This type starts as a typical chondrosarcoma, and then some parts change into high-grade sarcoma like Osteosarcoma or fibrosarcoma. It develops in older adults and grows faster than other types of Chondrosarcoma.</p>
-<p><span style="color: #0048ad;"><strong>Mesenchymal Chondrosarcoma:</strong></span> It develops in younger adults. It also grows very quickly and has a high chance of coming back after the treatment.<br>
+<p><span style="color: #0048ad;"><strong>Mesenchymal Chondrosarcoma:</strong></span> It develops in younger adults. It also grows very quickly and has a high chance of coming back after the treatment.<br />
 Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma looks gelatinous and grows slowly.</p>
-<p>To prevent local recurrence and distant metastases, it’s important to diagnose early and remove it completely.<br>
+<p>To prevent local recurrence and distant metastases, it’s important to diagnose early and remove it completely.<br />
 <span style="color: #0048ad;"><strong>Chondrosarcoma in the shoulder:</strong></span> Chondrosarcoma of the shoulder is a rare but potentially aggressive bone cancer that requires surgical resection and, sometimes, shoulder joint reconstruction. To manage this tough condition, you need a quick diagnosis and a multidisciplinary approach.</p>
 <p><strong><span style="color: #0048ad;">Chondrosarcoma Grades</span></strong></p>
 <p>Chondrosarcoma are given grades 1 to 3. The lower the grade, the less likely it is to spread.</p>
-<p><span style="color: #0048ad;"><strong>Grade 1:</strong> </span>When the Chondrosarcoma is in stage 1, it grows slowest and is very unlikely to spread.<br>
-<span style="color: #0048ad;"><strong>Grade 2:</strong></span> These intermediate chondrosarcomas are slightly more likely to spread to other body parts.<br>
+<p><span style="color: #0048ad;"><strong>Grade 1:</strong> </span>When the Chondrosarcoma is in stage 1, it grows slowest and is very unlikely to spread.<br />
+<span style="color: #0048ad;"><strong>Grade 2:</strong></span> These intermediate chondrosarcomas are slightly more likely to spread to other body parts.<br />
 <span style="color: #0048ad;"><strong>Grade 3:</strong> </span>These are high-grade chondrosarcomas and are likely to spread.</p>
 <p><span style="color: #0048ad;"><strong>Symptoms</strong></span></p>
-<p>Chondrosarcoma grows slowly, so it does not show symptoms initially. When it grows, you may experience:<br>
-● Increasing pain<br>
-● A growing lump or swelling<br>
-● Weakness and bladder control problems if the cancer passes to the spinal cord<br>
+<p>Chondrosarcoma grows slowly, so it does not show symptoms initially. When it grows, you may experience:<br />
+● Increasing pain<br />
+● A growing lump or swelling<br />
+● Weakness and bladder control problems if the cancer passes to the spinal cord<br />
 ● Feeling pressure around the growing mass.</p>
 <p><span style="color: #0048ad;"><strong>What causes Chondrosarcoma</strong></span></p>
 <p>People having certain medical conditions have a high risk of developing Chondrosarcoma. These medical conditions include</p>
@@ -4995,28 +4765,28 @@ Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma look
 <p><span style="color: #0048ad;"><strong>Physical Exam</strong></span></p>
 <p>Your healthcare provider will check your body and ask questions about your symptoms and any illnesses in your family.</p>
 <p><span style="color: #0048ad;"><strong>Imaging</strong></span></p>
-<p><span style="color: #0048ad;"><strong>To diagnose Chondrosarcoma, you will need the following tests: </strong></span><br>
-● X rays<br>
-● MRI<br>
-● CT Scan<br>
-● Bone Scans<br>
+<p><span style="color: #0048ad;"><strong>To diagnose Chondrosarcoma, you will need the following tests: </strong></span><br />
+● X rays<br />
+● MRI<br />
+● CT Scan<br />
+● Bone Scans<br />
 ● PET Scans.</p>
 <p><span style="color: #0048ad;"><strong>Biopsy:</strong></span></p>
 <p>A biopsy is a procedure used to collect a sample of suspicious cells for lab testing. Tests show if the cells are cancerous or not. Types of biopsy done in Osteosarcoma are:</p>
-<p>●<span style="color: #0048ad;"><strong> Needle Biopsy:</strong></span> In this, the doctor uses a thin needle to remove the small pieces of tissue from the tumor.<br>
+<p>●<span style="color: #0048ad;"><strong> Needle Biopsy:</strong></span> In this, the doctor uses a thin needle to remove the small pieces of tissue from the tumor.<br />
 ●<span style="color: #0048ad;"><strong> Surgical Biopsy:</strong> </span>In this, the doctor makes an incision through the skin to remove an entire or a portion of the cancer.</p>
 <p><span style="color: #0048ad;"><strong>How is Chondrosarcoma treated in India?</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Your Chondrosarcoma Treatment in India will depend on the following factors:</strong></span></p>
-<p>● Your age, overall health, and medical history<br>
-● Type of cancer and its stage<br>
-● Location of cancer<br>
-● Your tolerance to specific procedures and therapies<br>
+<p>● Your age, overall health, and medical history<br />
+● Type of cancer and its stage<br />
+● Location of cancer<br />
+● Your tolerance to specific procedures and therapies<br />
 ● Your preference</p>
 <p>The primary goal of treatment is to remove the lump or the mass and reduce its chances of returning.</p>
 <p><span style="color: #0048ad;"><strong>Chondrosarcoma Treatment Options</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Surgery</strong></span></p>
 <p>The surgery aims to remove cancer and some healthy tissue around it. The type of surgery will depend on the location of the cancer. Types of surgery include:</p>
-<p>● <span style="color: #0048ad;"><strong>Scraping the cancer away:</strong> </span>Small chondrosarcomas that grow in arms and legs are treated via scraping. The surgeon uses a cold gas or chemical to kill the remaining cancer cells. It is also known as cryosurgery. The bone can be repaired using bone graft or bone cement if needed.<br>
+<p>● <span style="color: #0048ad;"><strong>Scraping the cancer away:</strong> </span>Small chondrosarcomas that grow in arms and legs are treated via scraping. The surgeon uses a cold gas or chemical to kill the remaining cancer cells. It is also known as cryosurgery. The bone can be repaired using bone graft or bone cement if needed.<br />
 ● <span style="color: #0048ad;"><strong>Cutting the cancer:</strong> </span>Sometimes, chondrosarcomas require cutting away more bone to remove all the cancer. When Chondrosarcoma spreads in an arm or leg, it may be necessary to remove the entire limb. However, surgeons in India always try to save the limp whenever possible. For example, they might remove the affected bone, replace it, and reconstruct it. This is also known as limb salvage surgery.</p>
 <p><span style="color: #0048ad;"><strong>Chemotherapy</strong></span></p>
 <p>In chemotherapy, drugs are used to kill cancer cells. It is often not used in Chondrosarcoma because this type of cancer does not respond to chemo. However, some types of chondrosarcomas respond to chemotherapy. So, it can be taken as a treatment option.</p>
@@ -5026,52 +4796,52 @@ Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma look
 <p>The surgeon uses real or artificial bones to repair and rebuild the affected bones.</p>
 <p>Understanding Chondrosarcoma Surgery in Detail</p>
 <p><span style="color: #0048ad;"><strong>BEFORE THE SURGERY</strong></span></p>
-<p>● The process begins with a thorough medical evaluation, which includes imaging tests such as X-rays, CT scans, and MRIs.<br>
-● You will meet with multidisciplinary medical specialists such as orthopedic surgeons, medical oncologists, radiation oncologists, and pathologists to discuss a treatment plan.<br>
-● You must undergo a physical examination, blood tests, and possibly additional imaging to assess the extent of the tumor and its proximity to critical structures like nerves and blood vessels.<br>
-● The surgical team will plan the procedure carefully, considering the tumor’s location, size, and proximity to surrounding structures.<br>
-● Your surgeon will discuss the risks and benefits of the surgical procedure with you in detail.<br>
-● Your medical fitness for general anesthesia will be evaluated before surgery if general anesthesia is required.<br>
-● The day before surgery, you will receive instructions on fasting, medications to avoid, and surgery preparations.<br>
-● Emotional support can be helpful after a cancer diagnosis and surgery. Many medical centers offer counseling or support groups for patients and their families.<br>
+<p>● The process begins with a thorough medical evaluation, which includes imaging tests such as X-rays, CT scans, and MRIs.<br />
+● You will meet with multidisciplinary medical specialists such as orthopedic surgeons, medical oncologists, radiation oncologists, and pathologists to discuss a treatment plan.<br />
+● You must undergo a physical examination, blood tests, and possibly additional imaging to assess the extent of the tumor and its proximity to critical structures like nerves and blood vessels.<br />
+● The surgical team will plan the procedure carefully, considering the tumor’s location, size, and proximity to surrounding structures.<br />
+● Your surgeon will discuss the risks and benefits of the surgical procedure with you in detail.<br />
+● Your medical fitness for general anesthesia will be evaluated before surgery if general anesthesia is required.<br />
+● The day before surgery, you will receive instructions on fasting, medications to avoid, and surgery preparations.<br />
+● Emotional support can be helpful after a cancer diagnosis and surgery. Many medical centers offer counseling or support groups for patients and their families.<br />
 ● Transportation to and from the hospital, home care after surgery, and any necessary adaptations to your living space may be required.</p>
 <p><span style="color: #0048ad;"><strong>DURING THE SURGERY</strong></span></p>
-<p>● Firstly, on the day of the surgery, you will be given anesthesia to make sure that you remain unconscious during the surgery.<br>
-● The surgeon will start by making an incision at the site of the tumor. The goal is to access the tumor by minimizing the damage to the healthy tissues.<br>
-● The next step involves tumor resection. The surgeon will remove the tumor, which may involve excising the portion of bone, cartilage, or surrounding soft tissue.<br>
-● After the removal, the area is reconstructed. It involves the use of bone grafts or prosthetics.<br>
-● After reconstruction, the surgeon will close the incision with sutures and staples.<br>
+<p>● Firstly, on the day of the surgery, you will be given anesthesia to make sure that you remain unconscious during the surgery.<br />
+● The surgeon will start by making an incision at the site of the tumor. The goal is to access the tumor by minimizing the damage to the healthy tissues.<br />
+● The next step involves tumor resection. The surgeon will remove the tumor, which may involve excising the portion of bone, cartilage, or surrounding soft tissue.<br />
+● After the removal, the area is reconstructed. It involves the use of bone grafts or prosthetics.<br />
+● After reconstruction, the surgeon will close the incision with sutures and staples.<br />
 ● The removed tumor is then sent to a laboratory for further examination.</p>
 <p><span style="color: #0048ad;"><strong>After The Surgery</strong></span></p>
-<p>● After the surgery, you will be moved to the recovery room or ICU for close monitoring.<br>
-● You will be closely monitored for pain. Pain medications will be provided to control pain after the surgery.<br>
-● The surgical wound will be inspected regularly for infections.<br>
-● As soon as you become stable, you will be started with physical therapy to regain mobility.<br>
-● Proper nutrition is extremely important for healing.<br>
-● You will be closely monitored for blood pressure, heart rate, respiratory function, etc.<br>
-● You will be prescribed antibiotics to prevent further infection.<br>
-● Further treatment will depend on the results of pathology.<br>
+<p>● After the surgery, you will be moved to the recovery room or ICU for close monitoring.<br />
+● You will be closely monitored for pain. Pain medications will be provided to control pain after the surgery.<br />
+● The surgical wound will be inspected regularly for infections.<br />
+● As soon as you become stable, you will be started with physical therapy to regain mobility.<br />
+● Proper nutrition is extremely important for healing.<br />
+● You will be closely monitored for blood pressure, heart rate, respiratory function, etc.<br />
+● You will be prescribed antibiotics to prevent further infection.<br />
+● Further treatment will depend on the results of pathology.<br />
 ● You need to attend follow-up appointments with your surgeon. It is crucial to monitor recovery and plan additional treatments.</p>
 <p><span style="color: #0048ad;"><strong>Side effects of surgery</strong></span></p>
 <p>The common side effects of Chondrosarcoma treatment that is surgery are:</p>
-<p>● Pain<br>
-● Bleeding,<br>
-● Infection<br>
-● Skin sores<br>
+<p>● Pain<br />
+● Bleeding,<br />
+● Infection<br />
+● Skin sores<br />
 ● Vomiting.</p>
 <p>There are ways to manage the side effects caused by chemotherapy and surgery. Please talk to your surgeon if you suffer from any side effects.</p>
 <p><span style="color: #0048ad;"><strong>Advantages of the Surgery</strong></span></p>
-<p><span style="color: #0048ad;"><strong>The benefits of chondrosarcoma surgery are: </strong></span><br>
-● Tumor removal<br>
-● Reduce the risk of further spread<br>
-● Lowers chance of cancer recurrence<br>
-● Surgery tries to preserve as much healthy tissue and bone as possible<br>
-● Reduction in pain and symptoms<br>
+<p><span style="color: #0048ad;"><strong>The benefits of chondrosarcoma surgery are: </strong></span><br />
+● Tumor removal<br />
+● Reduce the risk of further spread<br />
+● Lowers chance of cancer recurrence<br />
+● Surgery tries to preserve as much healthy tissue and bone as possible<br />
+● Reduction in pain and symptoms<br />
 ● Long-term survival</p>
 <p><span style="color: #0048ad;"><strong>Prognosis</strong></span></p>
-<p>Prognosis is how a disease will affect you long-term. Many things determine a person’s prognosis, such as:<br>
-● The location of the tumor<br>
-● You have cancer that has spread to other parts of your body<br>
+<p>Prognosis is how a disease will affect you long-term. Many things determine a person’s prognosis, such as:<br />
+● The location of the tumor<br />
+● You have cancer that has spread to other parts of your body<br />
 ● During surgery, how much tumor was removed.</p>
 <p><span style="color: #0048ad;"><strong>It’s important to talk to your doctor about your prognosis.</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Chondrosarcoma Survival Rate and Recurrence</strong></span></p>
@@ -5117,37 +4887,8 @@ Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma look
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors doing Chondrosarcoma Treatment in India and Cost of Chondrosarcoma</strong></span></h2>
-<table widthh="605">
-<tbody>
-<tr>
-<td width="163"><span style="color: #0048ad;"><strong>Hospital</strong></span></td>
-<td width="306"><span style="color: #0048ad;"><strong>Best Doctor</strong></span></td>
-<td width="136"><strong><span style="color: #0048ad;">USD Cost</span> </strong><p></p>
-<p><strong>&nbsp;</strong></p></td>
-</tr>
-<tr>
-<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-akshay-tiwari/">Dr. Akshay Tiwari</a> –<p></p>
-<p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td>
-<td width="136">10000$</td>
-</tr>
-<tr>
-<td width="163"><a href="#/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-vivek-verma/">Dr. Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
-<td width="136">9000$</td>
-</tr>
-<tr>
-<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-hitesh-dawar/">Dr. Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
-<td width="136">9500$</td>
-</tr>
-</tbody>
-</table>
-<h3><span style="color: #0048ad;"><strong>How can you avail yourself of the best Chondrosarcoma surgery in India through a step-by-step process?</strong></span></h3>
+<h2><strong style="color: #0048ad;"><br />How can you avail yourself of the best Chondrosarcoma surgery in India through a step-by-step process?</strong></h2>
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>Chondrosarcoma</strong></span> surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Chondrosarcoma Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -5165,8 +4906,8 @@ Extraskeletal myxoid chondrosarcoma: An extraskeletal myxoid chondrosarcoma look
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Revolutionizing Care: Cutting-Edge Bone Cancer Treatments in India</span></h2>
-<p>Bone cancer develops in bones. When cancer cells start growing in bones, they start harming normal bone tissue. The type of bone cancer will depend on the place from where it originates.<br>
+			<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Bone Cancer Treatment in India&nbsp;</strong>&nbsp;&nbsp;</span></h2><h2><span style="color: #0048ad;"><table widthh="605"><tbody><tr><td width="163"><strong>Hospital</strong></td><td width="306"><strong>Best Doctor</strong></td><td width="136"><strong>USD Cost</strong><p></p><p><strong>&nbsp;</strong></p></td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr Akshay Tiwari&nbsp;–<p></p><p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td><td width="136">10000$</td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr Vivek Verma&nbsp;– Director – Musculoskeletal Oncology At Max Healthcare PPG</td><td width="136">9000$</td></tr><tr><td width="163">Max Healthcare<p></p><p>(JCI Accredited)</p></td><td width="306">Dr Hitesh Dawar, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td><td width="136">9500$</td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Revolutionizing Care: Cutting-Edge Bone Cancer Treatments in India</span></h2>
+<p>Bone cancer develops in bones. When cancer cells start growing in bones, they start harming normal bone tissue. The type of bone cancer will depend on the place from where it originates.<br />
 Bone cancer is extremely rare and have a 1 percent chance of developing. Non-cancerous bone cancers are more common than cancerous ones.</p>
 <p>Some types of bone cancers occur primarily in children, whereas some occur in adults. In this detailed post, we will delve into different types of bone cancers and how they are treated in India. We will also look into the cost of the treatment and the best doctors in India to get the cancer treated.</p>
 <p><span style="color: #0048ad;"><strong>Types of Bone Cancer</strong></span></p>
@@ -5176,101 +4917,101 @@ Bone cancer is extremely rare and have a 1 percent chance of developing. Non-can
 <p><span style="color: #0048ad;"><strong>Ewings Sarcoma</strong></span></p>
 <p>Ewings Sarcoma is a scarce type of tumor that grows in the bones. It usually affects patients aged between 10 to 20 years. The good news is that it can be cured. This cancerous tumor often develops during puberty and typically appears in the arms, legs, and pelvis.</p>
 <p><span style="color: #0048ad;"><strong>Chondrosarcoma</strong></span></p>
-<p>Chondrosarcoma is a rare bone cancer that starts in the bones. It can also occur in soft tissues near bones. This cancer mostly occurs in the pelvis, hip, and shoulder.<br>
+<p>Chondrosarcoma is a rare bone cancer that starts in the bones. It can also occur in soft tissues near bones. This cancer mostly occurs in the pelvis, hip, and shoulder.<br />
 Initially, Chondrosarcoma grows slowly and may not cause any signs and symptoms first. Some types grow very fast and pose a high risk of spreading to other body parts.</p>
 <p><span style="color: #0048ad;"><strong>Secondary Bone Cancer</strong></span></p>
 <p>In secondary bone cancer, the cancer in your bone starts somewhere else. For example, if lung cancer spreads to your bones, then that cancer is known as secondary bone cancer. These cancers are known as metastatic cancers. Cancers that commonly spread to bones are:</p>
-<p>● Breast cancer<br>
-● Prostate cancer,<br>
+<p>● Breast cancer<br />
+● Prostate cancer,<br />
 ● Lung cancer</p>
 <p><span style="color: #0048ad;"><strong>Stages of Bone Cancer</strong></span></p>
 <p>The stage of bone cancer is determined by its size and location. It also depends on whether cancer has spread to other areas in the body. There are four stages of bone cancer:</p>
-<p><span style="color: #0048ad;"><strong>Stage 1</strong> </span>In this stage, the tumor is low-grade grade, and the cancer cells are localized.<br>
-<span style="color: #0048ad;"><strong>Stage 2</strong></span> In this stage, the cancer cells are localized, but the tumor becomes high-grade.<br>
-<span style="color: #0048ad;"><strong>Stage 3:</strong></span> The tumor is high-grade, and the cancer has spread to other areas in the same bone.<br>
+<p><span style="color: #0048ad;"><strong>Stage 1</strong> </span>In this stage, the tumor is low-grade grade, and the cancer cells are localized.<br />
+<span style="color: #0048ad;"><strong>Stage 2</strong></span> In this stage, the cancer cells are localized, but the tumor becomes high-grade.<br />
+<span style="color: #0048ad;"><strong>Stage 3:</strong></span> The tumor is high-grade, and the cancer has spread to other areas in the same bone.<br />
 <span style="color: #0048ad;"><strong>Stage 4:</strong></span> Cancer has spread from the bone to other body parts like the lungs or liver. This is the final stage of bone cancer.</p>
 <p><span style="color: #0048ad;"><strong>Symptoms of Bone Cancer</strong></span></p>
-<p><span style="color: #0048ad;"><strong>The most common bone cancer symptoms are: </strong></span><br>
-● Pain<br>
-● Swelling in the area where the lump is formed<br>
-● Difficulty in moving<br>
-● Fatigue<br>
-● Fever<br>
+<p><span style="color: #0048ad;"><strong>The most common bone cancer symptoms are: </strong></span><br />
+● Pain<br />
+● Swelling in the area where the lump is formed<br />
+● Difficulty in moving<br />
+● Fatigue<br />
+● Fever<br />
 ● Limping</p>
 <p><span style="color: #0048ad;"><strong>Less common signs of bone cancer</strong></span></p>
-<p>● Easily broken bones<br>
+<p>● Easily broken bones<br />
 ● Weight loss</p>
 <p><span style="color: #0048ad;"><strong>If you experience any of the symptoms above, you should contact a doctor for bone cancer treatment</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Bone cancer Symptoms in the leg</strong></span></p>
-<p>● Dull, aching, and persistent pain in the leg<br>
-● Swelling in the affected area of the leg<br>
-● Bone cancer in the leg leads to fractures<br>
-● Limited mobility in the leg<br>
+<p>● Dull, aching, and persistent pain in the leg<br />
+● Swelling in the affected area of the leg<br />
+● Bone cancer in the leg leads to fractures<br />
+● Limited mobility in the leg<br />
 ● Weakness in leg</p>
 <p><span style="color: #0048ad;"><strong>What causes bone cancer?</strong></span></p>
 <p>The exact cause of bone cancer is unknown, but a few factors that increase the chance of bone cancer in an individual are:</p>
-<p><span style="color: #0048ad;"><strong>Atypical Cellular Growth</strong></span><br>
+<p><span style="color: #0048ad;"><strong>Atypical Cellular Growth</strong></span><br />
 It is already known that healthy cells continuously divide to replace old cells. After this process, they die. However, atypical cells continue living. They will start to form masses, and that mass will one day turn into tumors.</p>
 <p><span style="color: #0048ad;"><strong>Radiation Therapy</strong></span></p>
 <p>Radiation therapy kills dangerous cancer cells in the body. However, osteosarcoma is found in people who undergo radiation therapy. High radiation may contribute to its recurrence.</p>
-<p><span style="color: #0048ad;"><strong>Chromosome mutations</strong></span><br>
+<p><span style="color: #0048ad;"><strong>Chromosome mutations</strong></span><br />
 Genetic mutations can also raise the risk of developing bone cancer. However, it is rare.</p>
 <p><span style="color: #0048ad;"><strong>Who is at risk?</strong></span></p>
 <p>The following people may be at risk of developing bone cancer:</p>
-<p>● If you have a family history of cancer, especially bone cancer<br>
-● If you have received radiation therapy in the past<br>
-● If you have Paget’s disease, the bones break down and grow back atypically.<br>
-● If you have multiple tumors in the cartilage,<br>
+<p>● If you have a family history of cancer, especially bone cancer<br />
+● If you have received radiation therapy in the past<br />
+● If you have Paget’s disease, the bones break down and grow back atypically.<br />
+● If you have multiple tumors in the cartilage,<br />
 ● If you have any one of the following syndrome-Bloom Syndrome, Rothmund Thomson Syndrome</p>
 <p><span style="color: #0048ad;"><strong>Diagnosis</strong></span></p>
 <p><span style="color: #0048ad;"><strong>You may have to undergo the following diagnostic tests to determine bone cancer:</strong></span></p>
-<p>● Radionuclide Bone Scan<br>
-● CT Scans<br>
-● MRI Scans<br>
-● PET Scans<br>
+<p>● Radionuclide Bone Scan<br />
+● CT Scans<br />
+● MRI Scans<br />
+● PET Scans<br />
 ● X Rays</p>
 <p><span style="color: #0048ad;"><strong>Biopsy</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Several different types of biopsies are performed:</strong></span></p>
-<p><span style="color: #0048ad;"><strong>Fine Needle Aspiration:</strong> </span>In this, the doctor will extract a small amount of fluid from the bone tumor and send it to the laboratory for further investigation.<br>
-<span style="color: #0048ad;"><strong>Core Needle Biopsy:</strong></span> In this, a large needle is used to extract more fluid.<br>
-<span style="color: #0048ad;"><strong>Incisional Biopsy:</strong></span> The doctor will cut through the skin under general anesthesia to remove a small amount of tissue that is sent for further analysis.<br>
+<p><span style="color: #0048ad;"><strong>Fine Needle Aspiration:</strong> </span>In this, the doctor will extract a small amount of fluid from the bone tumor and send it to the laboratory for further investigation.<br />
+<span style="color: #0048ad;"><strong>Core Needle Biopsy:</strong></span> In this, a large needle is used to extract more fluid.<br />
+<span style="color: #0048ad;"><strong>Incisional Biopsy:</strong></span> The doctor will cut through the skin under general anesthesia to remove a small amount of tissue that is sent for further analysis.<br />
 <span style="color: #0048ad;"><strong>Excisional Biopsy:</strong></span> The doctor will remove the entire tumor for further analysis.</p>
 <p><span style="color: #0048ad;"><strong>Grading</strong></span></p>
-<p>● After the biopsy, medical professionals determine the grade of the tumor.<br>
-● A high grade means the cells look more atypical under a microscope and may spread faster.<br>
-● A low grade means cells appear similar to typical cells and will spread slowly.<br>
+<p>● After the biopsy, medical professionals determine the grade of the tumor.<br />
+● A high grade means the cells look more atypical under a microscope and may spread faster.<br />
+● A low grade means cells appear similar to typical cells and will spread slowly.<br />
 ● Determining the grade helps doctors decide the best course of treatment.</p>
 <p><span style="color: #0048ad;"><strong>Treatment</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Bone cancer treatment depends on:</strong></span></p>
-<p>● The stage and grade of cancer as explained above<br>
-● Your age<br>
-● Your overall health<br>
+<p>● The stage and grade of cancer as explained above<br />
+● Your age<br />
+● Your overall health<br />
 ● The size and the location of the tumor</p>
 <p><span style="color: #0048ad;"><strong>Treatment 1:</strong></span> Medications</p>
-<p><span style="color: #0048ad;"><strong>Medications for bone cancer treatment include: </strong></span><br>
-● Chemotherapy drugs<br>
-● Pain medications to stop inflammation<br>
-● Bisphosphonates to prevent bone loss and prevent its structure<br>
-● Cytotoxic drugs to stop the growth of cancer cells<br>
+<p><span style="color: #0048ad;"><strong>Medications for bone cancer treatment include: </strong></span><br />
+● Chemotherapy drugs<br />
+● Pain medications to stop inflammation<br />
+● Bisphosphonates to prevent bone loss and prevent its structure<br />
+● Cytotoxic drugs to stop the growth of cancer cells<br />
 ● Immunotherapy drugs to encourage the immune system to kill cancer cells</p>
 <p><span style="color: #0048ad;"><strong>Treatment 2:</strong></span> Limb Salvage surgery.</p>
-<p>The primary goal of the surgery is to remove the cancerous tumor. In most cases, the entire tumor is removed, along with some healthy tissue around it. The surgeon will then replace the lost bone with some other bone from your body with material from a bone bank or a replacement made of hard plastic. This is known as limb salvage surgery<br>
-.<br>
+<p>The primary goal of the surgery is to remove the cancerous tumor. In most cases, the entire tumor is removed, along with some healthy tissue around it. The surgeon will then replace the lost bone with some other bone from your body with material from a bone bank or a replacement made of hard plastic. This is known as limb salvage surgery<br />
+.<br />
 However, when the tumor is large and reaches your blood vessels and nerves, amputation becomes necessary.</p>
 <p><span style="color: #0048ad;"><strong>Treatment 3:</strong> </span>Radiation Therapy</p>
 <p>Radiation Therapy uses high-beam X-rays and protons to kill cancer cells. It is an option when surgery is impossible or the entire cancer cannot be removed during the operation. The beams are carefully directed to the cancerous area to reduce damage to healthy cells.</p>
 <p><span style="color: #0048ad;"><strong>Treatment 4:</strong></span> Chemotherapy</p>
 <p>Chemotherapy uses strong anti-cancer drugs delivered through a vein to kill cancer cells. This treatment works well in osteosarcoma and Ewing Sarcoma but is not an effective treatment option for Chondrosarcoma.</p>
 <p><span style="color: #0048ad;"><strong>Treatment 5:</strong> </span>Complementary therapy</p>
-<p>Your doctor might add herbal treatments to your care plan. Alternative treatments must be carefully considered since some may interfere with chemotherapy and radiation.<br>
-Complementary therapy can help relieve symptoms and improve your quality of life. Here are some other options:<br>
-● Meditating<br>
-● Exercise<br>
+<p>Your doctor might add herbal treatments to your care plan. Alternative treatments must be carefully considered since some may interfere with chemotherapy and radiation.<br />
+Complementary therapy can help relieve symptoms and improve your quality of life. Here are some other options:<br />
+● Meditating<br />
+● Exercise<br />
 ● Aromatherapy</p>
 <p><span style="color: #0048ad;"><strong>Is bone cancer painful?</strong></span></p>
-<p><span style="color: #0048ad;"><strong>Bone cancer can be painful, and the level of pain experienced by an individual will depend on several factors. These factors are: </strong></span><br>
-● Type of bone cancer<br>
-● Stage of cancer<br>
+<p><span style="color: #0048ad;"><strong>Bone cancer can be painful, and the level of pain experienced by an individual will depend on several factors. These factors are: </strong></span><br />
+● Type of bone cancer<br />
+● Stage of cancer<br />
 ● Location of tumor</p>
 <p>Bone cancer pain varies from individual to individual. It is extremely important to identify the symptoms as soon as possible to manage bone cancer, including pain.</p>
 <p><span style="color: #0048ad;"><strong>Prognosis</strong></span></p>
@@ -5285,37 +5026,8 @@ Complementary therapy can help relieve symptoms and improve your quality of life
 <p>These are just general stats. Depending on your age and health, your outlook might look different. Keeping up with your treatment plan is the best thing you can do to increase your chances of recovery.</p>
 <p><span style="color: #0048ad;"><strong>How long can you have bone cancer without knowing?</strong></span></p>
 <p>People can have bone cancer for a long time without knowing it. It depends on the type, where it is, the rate of growth, and their overall health. Some people notice symptoms early, but others may not see any symptoms until it’s too late.</p>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Bone Cancer Treatment in India </strong>&nbsp;&nbsp;</span></h2>
-<table widthh="605">
-<tbody>
-<tr>
-<td width="163"><strong>Hospital</strong></td>
-<td width="306"><strong>Best Doctor</strong></td>
-<td width="136"><strong>USD Cost </strong><p></p>
-<p><strong>&nbsp;</strong></p></td>
-</tr>
-<tr>
-<td width="163"><a href="#/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-akshay-tiwari/">Dr Akshay Tiwari</a> –<p></p>
-<p>Director &amp; Head – Musculoskeletal Oncology At Max Healthcare Saket</p></td>
-<td width="136">10000$</td>
-</tr>
-<tr>
-<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-vivek-verma/">Dr Vivek Verma</a> – Director – Musculoskeletal Oncology At Max Healthcare PPG</td>
-<td width="136">9000$</td>
-</tr>
-<tr>
-<td width="163"><a href="#/max-hospital-as-eye-centre/">Max Healthcare</a><p></p>
-<p>(JCI Accredited)</p></td>
-<td width="306"><a href="#/dr-hitesh-dawar/">Dr Hitesh Dawar</a>, Consultant, Department of Orthopedic Onco Surgery at Max Super Specialty Hospital, Shalimar Bagh, New Delhi.</td>
-<td width="136">9500$</td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Bone Cancer Treatment in India through a step-by-step process?</strong></span></p>
+<h2><strong style="color: #0048ad;"><br />How can you avail yourself of the best Bone Cancer Treatment in India through a step-by-step process?</strong></h2>
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your<span style="color: #0048ad;"><strong> bone cancer treatment</strong></span>&nbsp;in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Bone Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -5344,79 +5056,79 @@ Complementary therapy can help relieve symptoms and improve your quality of life
 <h2><span style="color: #0048ad;">Types of Lung cancer</span></h2>
 <p><span style="color: #0048ad;"><strong>Type 1</strong></span>: Non-Small Cell Lung Cancer</p>
 <p>It is the most common type of lung cancer, also known as NSCLC. Its subtypes are:</p>
-<p>● Adenocarcinoma<br>
-● Squamous cell carcinoma<br>
+<p>● Adenocarcinoma<br />
+● Squamous cell carcinoma<br />
 ● Large Cell Carcinoma</p>
 <p><span style="color: #0048ad;"><strong>Type 2:</strong> </span>Small Cell Lung Cancer</p>
 <p>This cancer is most often referred to as oat cell cancer. It grows and spreads faster than NSCLC. In most people, this type of lung cancer is diagnosed when it has spread beyond the lungs. Since cancer proliferates, it responds well to chemo and radiation therapy. It occurs mainly in heavy smokers and is less common than non-small cell lung cancer.</p>
 <p><span style="color: #0048ad;"><strong>Staging in Lung Cancer</strong></span></p>
 <p>The lung cancer staging determines how far the cancer has spread and how severe it is. The most basic form of staging is:</p>
-<p>●<span style="color: #0048ad;"><strong> Localised:</strong> </span>When cancer is within a limited lung area<br>
-● <span style="color: #0048ad;"><strong>Regional:</strong></span> When cancer has spread to nearby tissues or lymph nodes.<br>
+<p>●<span style="color: #0048ad;"><strong> Localised:</strong> </span>When cancer is within a limited lung area<br />
+● <span style="color: #0048ad;"><strong>Regional:</strong></span> When cancer has spread to nearby tissues or lymph nodes.<br />
 ●<span style="color: #0048ad;"><strong> Distant:</strong></span> When cancer has spread to other parts of the body</p>
 <p><span style="color: #0048ad;"><strong>Specific ways of staging NSCLC</strong></span></p>
-<p>● Occult or Hidden: In this stage, the cancer does not appear in the scans, but cancerous cells appear in mucus.<br>
-● <span style="color: #0048ad;"><strong>Stage 0:</strong></span> The abnormal cells are only in the top layers of the airway lining<br>
-● <span style="color: #0048ad;"><strong>Stage 1:</strong></span> A tumor is present in the lungs, is 4 cm or under, and has not spread to other body parts.<br>
-● <span style="color: #0048ad;"><strong>Stage 2:</strong></span> A cancer is 7 cm or under and has spread to nearby tissues and lymph nodes<br>
-● <span style="color: #0048ad;"><strong>Stage 3:</strong></span> The cancer has spread to the lymph nodes and has reached other parts of the lungs<br>
+<p>● Occult or Hidden: In this stage, the cancer does not appear in the scans, but cancerous cells appear in mucus.<br />
+● <span style="color: #0048ad;"><strong>Stage 0:</strong></span> The abnormal cells are only in the top layers of the airway lining<br />
+● <span style="color: #0048ad;"><strong>Stage 1:</strong></span> A tumor is present in the lungs, is 4 cm or under, and has not spread to other body parts.<br />
+● <span style="color: #0048ad;"><strong>Stage 2:</strong></span> A cancer is 7 cm or under and has spread to nearby tissues and lymph nodes<br />
+● <span style="color: #0048ad;"><strong>Stage 3:</strong></span> The cancer has spread to the lymph nodes and has reached other parts of the lungs<br />
 ● <span style="color: #0048ad;"><strong>Stage 4:</strong> </span>The cancer has spread to bones and brain</p>
 <p>Stages of SCLC</p>
 <p><span style="color: #0048ad;"><strong>This type of lung cancer has its stages. The stages are:</strong></span></p>
-<p>● <span style="color: #0048ad;"><strong>Limited stage SCLC:</strong></span> It is confined to one lung and can sometimes be in the lymph nodes in the middle of the chest or above the collarbone on the same side.<br>
+<p>● <span style="color: #0048ad;"><strong>Limited stage SCLC:</strong></span> It is confined to one lung and can sometimes be in the lymph nodes in the middle of the chest or above the collarbone on the same side.<br />
 ● <span style="color: #0048ad;"><strong>Extensive stage SCLC:</strong></span> It is widespread throughout one lung or has spread to the other lung, lymph nodes on the opposite side, or other body parts.</p>
 <p>Symptoms of lung cancer</p>
 <p><span style="color: #0048ad;"><strong>The primary symptoms of lung cancer are:</strong></span></p>
-<p>● A cough that doesn’t go away and gets worse with time<br>
-● Shortness of breath<br>
-● Chest pain<br>
-● Wheezing<br>
-● Coughing up blood<br>
-● Loss of appetite<br>
-● Unexplained weight loss<br>
-● Fatigue<br>
-● Shoulder pain<br>
+<p>● A cough that doesn’t go away and gets worse with time<br />
+● Shortness of breath<br />
+● Chest pain<br />
+● Wheezing<br />
+● Coughing up blood<br />
+● Loss of appetite<br />
+● Unexplained weight loss<br />
+● Fatigue<br />
+● Shoulder pain<br />
 ● Swelling in face, neck, and arms</p>
 <p><span style="color: #0048ad;"><strong>Complications of Lung Cancer</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Lung cancer can lead to several complications. They are:</strong></span></p>
-<p>● High risk of infection<br>
-● Loss of lung function<br>
-● Spitting up blood<br>
-● Spinal compression<br>
-● Heart blockage<br>
-● Nerve pain<br>
-● Trouble swallowing<br>
-● Kidney dysfunction<br>
+<p>● High risk of infection<br />
+● Loss of lung function<br />
+● Spitting up blood<br />
+● Spinal compression<br />
+● Heart blockage<br />
+● Nerve pain<br />
+● Trouble swallowing<br />
+● Kidney dysfunction<br />
 ● Neutropenia ( when your body does not have enough neutrophils to protect you from infection)</p>
 <p><span style="color: #0048ad;"><strong>Who is at risk?</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Lung cancer can affect anyone, but certain factors raise the risk of getting it:</strong></span></p>
-<p>● If you smoke a lot<br>
-● When you inhale the smoke released by cigarettes, you get exposed to the same cancer-causing agents<br>
-● Family history of lung cancer<br>
-● Being exposed to asbestos, arsenic, chromium, beryllium, nickel, soot<br>
-● HIV Infection<br>
+<p>● If you smoke a lot<br />
+● When you inhale the smoke released by cigarettes, you get exposed to the same cancer-causing agents<br />
+● Family history of lung cancer<br />
+● Being exposed to asbestos, arsenic, chromium, beryllium, nickel, soot<br />
+● HIV Infection<br />
 ● Air pollution</p>
 <p>How to detect lung cancer : Diagnosis and Tests</p>
 <p><span style="color: #0048ad;"><strong>Your healthcare provider may use many tools to make a diagnosis:</strong></span></p>
-<p>● A medical history, which includes asking about your symptoms<br>
-● A family history<br>
-● A physical exam<br>
-● Imaging tests, such as a chest X-ray or chest CT scan<br>
-● Lab tests, including tests of your blood and sputum<br>
+<p>● A medical history, which includes asking about your symptoms<br />
+● A family history<br />
+● A physical exam<br />
+● Imaging tests, such as a chest X-ray or chest CT scan<br />
+● Lab tests, including tests of your blood and sputum<br />
 ● A biopsy of the lung</p>
 <p>If you do have lung cancer, your provider will do other tests to find out how far it has spread through the lungs, lymph nodes, and the rest of the body. This is called staging. Knowing the type and stage of lung cancer you have helps your provider decide what kind of treatment you need.</p>
 <p><span style="color: #0048ad;"><strong>Lung Cancer Treatment options</strong></span></p>
 <p>The primary treatment of lung cancer is surgery, where the tumor is removed, and chemotherapy and radiation are used to kill the cancer cells.</p>
 <p><span style="color: #0048ad;"><strong>Treatment options for NSCLC Include:</strong></span></p>
-<p>● <span style="color: #0048ad;"><strong>Stage 1:</strong></span> This surgery removes the portion of the lung which is all you need. The doctor may also recommend chemotherapy if there is a risk for the cancer to return. Lung cancer is most treatable at this stage.<br>
-●<span style="color: #0048ad;"><strong> Stage 2:</strong> </span>In this stage, you will need surgery to remove a part or all of your lung. You will also be recommended chemotherapy.<br>
-● <span style="color: #0048ad;"><strong>Stage 3:</strong></span> You will require a combination of chemotherapy, surgery ( effective in specific situations), and radiation to treat cancer.<br>
+<p>● <span style="color: #0048ad;"><strong>Stage 1:</strong></span> This surgery removes the portion of the lung which is all you need. The doctor may also recommend chemotherapy if there is a risk for the cancer to return. Lung cancer is most treatable at this stage.<br />
+●<span style="color: #0048ad;"><strong> Stage 2:</strong> </span>In this stage, you will need surgery to remove a part or all of your lung. You will also be recommended chemotherapy.<br />
+● <span style="color: #0048ad;"><strong>Stage 3:</strong></span> You will require a combination of chemotherapy, surgery ( effective in specific situations), and radiation to treat cancer.<br />
 ● <span style="color: #0048ad;"><strong>Stage 4:</strong> </span>Options include surgery (effective in specific situations), radiation chemotherapy, targeted therapy, and immunotherapy.</p>
 <p>The options for SCLC also include surgery, chemotherapy, and radiation therapy. In most cases, the cancer will be too advanced for surgery.</p>
-<p><span style="color: #0048ad;"><strong>If you’re diagnosed with lung cancer, a team of tumor board will likely manage your care, including:</strong></span><br>
-● a surgeon who specializes in the chest and lungs (thoracic surgeon)<br>
-● a lung specialist (pulmonologist)<br>
-● a medical oncologist<br>
+<p><span style="color: #0048ad;"><strong>If you’re diagnosed with lung cancer, a team of tumor board will likely manage your care, including:</strong></span><br />
+● a surgeon who specializes in the chest and lungs (thoracic surgeon)<br />
+● a lung specialist (pulmonologist)<br />
+● a medical oncologist<br />
 ● a radiation oncologist</p>
 <p>Discuss all your treatment options before making a decision. Your doctors will coordinate care and keep each other informed. Consider discussing clinical trials with your doctor.</p>
 <p>Understanding treatment options in detail</p>
@@ -5436,42 +5148,42 @@ Complementary therapy can help relieve symptoms and improve your quality of life
 <p>Robotic lung cancer surgery means removing part of a lung using minimally invasive techniques, including Video-Assisted Thoracic Surgery (VATS) and Robotic Assisted Thoracic Surgery (RATS).</p>
 <p>Robotic lung cancer treatment in India is one of the most advanced surgeries in the world. This is a minimally invasive surgery used to treat lung cancer by removing diseased tissue using the latest Da Vinci Xi Surgical Robot.</p>
 <p>The Minimal Invasive with complete automation: Surgery for lung cancer, if carried out through high-end surgical robots, provides a magnified 3D view, and wristed instruments of robots allow surgeons to make precise, controlled movements without making larger incisions in the ribs. This allows the surgeon to remove the entire tumor mass present in the thoracic cavity (chest). Other advantages include:</p>
-<p>● Faster recovery<br>
-● Less chance of infection post-surgery<br>
-● Early discharge<br>
-● The surgical outcome is unmatched<br>
+<p>● Faster recovery<br />
+● Less chance of infection post-surgery<br />
+● Early discharge<br />
+● The surgical outcome is unmatched<br />
 ● Less bleeding as compared to open surgery</p>
 <p>Understanding the risks and side effects</p>
-<p>The side effects depend on the treatment you are given for lung cancer.<br>
+<p>The side effects depend on the treatment you are given for lung cancer.<br />
 The possible side effects are:</p>
 <p><span style="color: #0048ad;"><strong>Chemotherapy:</strong></span></p>
-<p>● Hair loss<br>
-● Nausea and vomiting<br>
+<p>● Hair loss<br />
+● Nausea and vomiting<br />
 ● Fatigue</p>
 <p><span style="color: #0048ad;"><strong>Immunotherapy</strong></span></p>
-<p>● Fatigue<br>
-● Nausea, vomiting<br>
+<p>● Fatigue<br />
+● Nausea, vomiting<br />
 ● Joint pain</p>
 <p><span style="color: #0048ad;"><strong>Radiation Therapy</strong></span></p>
-<p>● Shortness of breath<br>
-● Cough and pain<br>
+<p>● Shortness of breath<br />
+● Cough and pain<br />
 ● Fatigue</p>
 <p><span style="color: #0048ad;"><strong>Surgery</strong></span></p>
-<p>● Cough<br>
-● Fatigue<br>
+<p>● Cough<br />
+● Fatigue<br />
 ● Chest pain</p>
 <p>Prevention of Lung Cancer</p>
 <p><span style="color: #0048ad;"><strong>There are some ways that you can adopt in life to reduce the risk of lung cancer:</strong></span></p>
-<p>● Quit smoking if you do it.<br>
-● Avoid the use of any such substances that damage your lungs<br>
-● Eat a well-balanced diet<br>
+<p>● Quit smoking if you do it.<br />
+● Avoid the use of any such substances that damage your lungs<br />
+● Eat a well-balanced diet<br />
 ● Get screened for lung cancer if you are at high risk.</p>
 <p><span style="color: #0048ad;"><strong>Outlook/Prognosis of Lung Cancer</strong></span></p>
 <p>Lung cancer can be fatal, but emerging treatments in India mean that many people now survive and recover from lung cancer, especially if they receive an early diagnosis.</p>
 <p>Some factors affecting the likelihood of a positive outcome include:</p>
-<p>● a person’s overall health<br>
-● their age<br>
-● the stage of cancer at diagnosis<br>
+<p>● a person’s overall health<br />
+● their age<br />
+● the stage of cancer at diagnosis<br />
 ● the type of cancer they have</p>
 <p>It is not possible to predict precisely how cancer will affect an individual. Still, a healthcare professional in India can help you understand what you can expect by looking at the results of tests and other factors.</p>
 <p><span style="color: #0048ad;"><strong>Lung Cancer Survival Rate</strong></span></p>
@@ -5500,22 +5212,22 @@ The possible side effects are:</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Lung Cancer Surgery in India</strong></span></h2>
 <h3><span style="color: #0048ad;"><strong>Best Surgical Oncologists</strong></span></h3>
 <ul>
-<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="#/dr-harit-chaturvedi-surgical-oncology/"><strong>Dr. Harit Chaturvedi</strong></a></span><strong>–</strong> Max Institute of Cancer Care, Delhi NCR</li>
-<li><a href="#/dr-sameer-kaul-surgical-oncologist-in-delhi/"><span style="color: #0048ad;"><strong>Dr Sameer Kaul</strong></span></a>– Indraprastha Apolo Hospital, Delhi</li>
-<li><a href="#/dr-b-niranjan-naik-best-breast-oncoplastic-surgeon/"><span style="color: #0048ad;"><strong>Dr Niranjan Malik</strong></span></a>– Fortis, Delhi</li>
-<li><a href="#/dr-tapan-singh-chauhan-surgical-oncologist-in-delhi/"><span style="color: #0048ad;"><strong>Dr Tapan Singh</strong></span></a>-Artemis Hospital, Gurgaon</li>
+<li><span style="color: #0048ad;"><strong>Dr. Harit Chaturvedi</strong></span><strong>–</strong> Max Institute of Cancer Care, Delhi NCR</li>
+<li><span style="color: #0048ad;"><strong>Dr Sameer Kaul</strong></span>– Indraprastha Apolo Hospital, Delhi</li>
+<li><span style="color: #0048ad;"><strong>Dr Niranjan Malik</strong></span>– Fortis, Delhi</li>
+<li><span style="color: #0048ad;"><strong>Dr Tapan Singh</strong></span>-Artemis Hospital, Gurgaon</li>
 </ul>
 <h3><span style="color: #0048ad;"><strong>Best Medical Oncologists</strong></span></h3>
 <ul>
-<li><a href="#/dr-manish-singhal/"><span style="color: #0048ad;"><strong>Dr Manish Singhal</strong></span></a>– Indraprastha Apollo Hospital</li>
-<li><a href="#/dr-nitin-sood/"><span style="color: #0048ad;"><strong>Dr Nitin Sood</strong></span></a>– Medanta Hospital, Delhi</li>
-<li><a href="#/dr-sunny-garg/"><span style="color: #0048ad;"><strong>Dr Sunny Garg</strong></span></a>– Sanar Hospital, Delhi</li>
+<li><span style="color: #0048ad;"><strong>Dr Manish Singhal</strong></span>– Indraprastha Apollo Hospital</li>
+<li><span style="color: #0048ad;"><strong>Dr Nitin Sood</strong></span>– Medanta Hospital, Delhi</li>
+<li><span style="color: #0048ad;"><strong>Dr Sunny Garg</strong></span>– Sanar Hospital, Delhi</li>
 </ul>
 <h3><span style="color: #0048ad;"><strong>Best Radiation Oncologists</strong></span></h3>
 <ul>
-<li><a href="#/dr-g-k-jadhav/"><span style="color: #0048ad;"><strong>Dr. GK Jadhav</strong></span></a>-Indraprastha Hospital Delhi</li>
-<li><a href="#/dr-sapna-manocha-verma/"><span style="color: #0048ad;"><strong>Dr Sapna Manocha Verma</strong></span></a>– Indraprastha Hospital Delhi</li>
-<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="#/dr-shyam-singh-bisht/"><strong>Dr Shyam Singh Bisht</strong></a></span>– Medanta Hospital, Delhi</li>
+<li><span style="color: #0048ad;"><strong>Dr. GK Jadhav</strong></span>-Indraprastha Hospital Delhi</li>
+<li><span style="color: #0048ad;"><strong>Dr Sapna Manocha Verma</strong></span>– Indraprastha Hospital Delhi</li>
+<li><span style="color: #0048ad;"><strong>Dr Shyam Singh Bisht</strong></span>– Medanta Hospital, Delhi</li>
 </ul>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Lung Cancer Treatment in India?</strong></span></p>
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>lung cancer </strong></span>treatment in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
@@ -5703,7 +5415,7 @@ In Immunotherapy, your immune system is used to fight cancer. Your body’s dise
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Revolutionizing Cervical Cancer Treatment: India’s Bold Approach</span></h2>
+			<h2><span style="color: #0048ad;">Cost Of Cervical Cancer Surgery in India</span></h2><h2><span style="color: #0048ad;"><table widthh="624"><tbody><tr><td width="312"><strong>Procedure</strong></td><td width="312"><strong>Cost</strong></td></tr><tr><td width="312">Radiation Therapy</td><td width="312">4000 usd</td></tr><tr><td width="312">Chemotherapy</td><td width="312">500 – 800 / Cycle</td></tr><tr><td width="312">Targeted Therapy</td><td width="312">1000 – 1200 / Cycle</td></tr><tr><td width="312">Immunotherapy</td><td width="312">1000 – 1200 / Cycle</td></tr><tr><td width="312">Ablation Surgery</td><td width="312">4000 usd</td></tr><tr><td width="312">CryoSurgery</td><td width="312">4000 usd</td></tr><tr><td width="312">Lap Radical Hysterectomy</td><td width="312">4500 usd</td></tr><tr><td width="312">Robotic Radical Hysterectomy</td><td width="312">6500 usd</td></tr><tr><td width="312">CytoReductive Surgery</td><td width="312">6500 usd</td></tr><tr><td width="312">Cone Biopsy</td><td width="312">1500 usd</td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Revolutionizing Cervical Cancer Treatment: India’s Bold Approach</span></h2>
 <p>Cervical cancer is the cancer of the cervix when abnormal cells grow out of control. The cervix is the organ that joins the uterus to the vagina. This cancer affects the deep tissues of the cervix and can also spread to other parts of the body.</p>
 <p>Multiple strains of human papillomavirus, or HPV, cause cervical cancer.</p>
 <p>Here, we will see how you can reduce the risk of developing cervical cancer and, if you have cervical cancer, what treatment options you get in India. Let’s first delve into the details of what cervical cancer is.</p>
@@ -5714,40 +5426,40 @@ In Immunotherapy, your immune system is used to fight cancer. Your body’s dise
 <p>In most cases, cervical cancer is caused due to infection by HPV. Different types of HPV can cause skin &amp; genital warts and other skin disorders.</p>
 <p>Most people who are sexually active get affected by HPV at some point. Most of the time, the infection will clear on its own. But if the infection does not go away, then it can lead to cervical cancer.</p>
 <p><span style="color: #0048ad;"><strong>Who is at risk?</strong></span></p>
-<p>● Having sex before 18 years of age or within a year of starting your period<br>
-● Multiple sexual partners, which increases exposure to HPV<br>
-● Taking birth control pills, especially for longer than five years<br>
-● A weakened immune system<br>
-● Having a sexually transmitted disease (STD)<br>
-● Haven’t been vaccinated against HPV<br>
-● Multiple pregnancies<br>
+<p>● Having sex before 18 years of age or within a year of starting your period<br />
+● Multiple sexual partners, which increases exposure to HPV<br />
+● Taking birth control pills, especially for longer than five years<br />
+● A weakened immune system<br />
+● Having a sexually transmitted disease (STD)<br />
+● Haven’t been vaccinated against HPV<br />
+● Multiple pregnancies<br />
 ● Low socio-economic strata</p>
 <p>Understanding the symptoms</p>
 <p><span style="color: #0048ad;"><strong>Early symptoms of cervical cancer are:</strong></span></p>
-<p>● Pain while having sex<br>
-● Unusual vaginal bleeding<br>
+<p>● Pain while having sex<br />
+● Unusual vaginal bleeding<br />
 ● Watery or bloody vaginal discharge</p>
 <p><span style="color: #0048ad;"><strong>Symptoms after cancer has spread:</strong></span></p>
-<p>● Pelvic pain<br>
-● Trouble peeing<br>
-● Swollen legs<br>
-● Kidney failure<br>
-● Bone pain<br>
+<p>● Pelvic pain<br />
+● Trouble peeing<br />
+● Swollen legs<br />
+● Kidney failure<br />
+● Bone pain<br />
 ● Fatigue</p>
 <p><span style="color: #0048ad;"><strong>Cervical Cancer Screening</strong></span></p>
-<p>● PAP Smear<br>
+<p>● PAP Smear<br />
 ● HPV DNA test</p>
 <p><strong><span style="color: #0048ad;">If the PAP Smear tests show signs of cancer, further tests include:</span></strong></p>
-<p>● Chest X-ray<br>
-● CT, MRI, and PET Scan<br>
-● A colposcopy to check the vagina<br>
+<p>● Chest X-ray<br />
+● CT, MRI, and PET Scan<br />
+● A colposcopy to check the vagina<br />
 ● A rectal exam</p>
 <p><span style="color: #0048ad;"><strong>Cervical cancer stages</strong></span></p>
-<p>Cervical cancer staging can be done as”<br>
-Stage 0 is known as the pre-cancer stage, and it means that cancer is only on the surface of the cervix.<br>
-<span style="color: #0048ad;"><strong>Stage 1</strong></span>: It is the early stage of the cancer and is confined to the cervix only.<br>
-<span style="color: #0048ad;"><strong>Stage 2:</strong> </span>In this stage, the cancer has spread beyond the cervix but is still in the pelvic area.<br>
-<span style="color: #0048ad;"><strong>Stage 3:</strong> </span>Cancer has spread to the vaginal area and possibly to the kidney too.<br>
+<p>Cervical cancer staging can be done as”<br />
+Stage 0 is known as the pre-cancer stage, and it means that cancer is only on the surface of the cervix.<br />
+<span style="color: #0048ad;"><strong>Stage 1</strong></span>: It is the early stage of the cancer and is confined to the cervix only.<br />
+<span style="color: #0048ad;"><strong>Stage 2:</strong> </span>In this stage, the cancer has spread beyond the cervix but is still in the pelvic area.<br />
+<span style="color: #0048ad;"><strong>Stage 3:</strong> </span>Cancer has spread to the vaginal area and possibly to the kidney too.<br />
 <span style="color: #0048ad;"><strong>Stage 4:</strong></span> In this stage, the cancer has spread to distant organs like the lungs, liver, bones, and other parts beyond the pelvis.</p>
 <p><span style="color: #0048ad;"><strong>Treatment for Cancer in India</strong></span></p>
 <p>Radiation Therapy</p>
@@ -5773,14 +5485,14 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <p>Immunotherapy for cervical cancer in India uses the body’s immune system to target and fight cervical cancer cells. Your immune system can fight off disease by attacking germs and other cells that should not be in your body. Immunotherapy helps the immune system to find and kill the cancer cells.</p>
 <p>Possible Complications</p>
 <p><span style="color: #0048ad;"><strong>Complications include:</strong></span></p>
-<p>● Risk of cervical cancer coming back or relapse<br>
+<p>● Risk of cervical cancer coming back or relapse<br />
 ● Problems with sexual, bowel, and bladder function</p>
 <p><span style="color: #0048ad;"><strong>Preventing cervical Cancer</strong></span></p>
 <p>To reduce the risk of cervical cancer, follow these tips:</p>
-<p>● Receive a vaccination to prevent HPV infection.<br>
-● Make sure to have a routine PAP smear test.<br>
-● Practice safe sex.<br>
-● Do not smoke.<br>
+<p>● Receive a vaccination to prevent HPV infection.<br />
+● Make sure to have a routine PAP smear test.<br />
+● Practice safe sex.<br />
+● Do not smoke.<br />
 ● Limit your sexual partners.</p>
 <p><span style="color: #0048ad;"><strong>Prognosis</strong></span></p>
 <p>It is estimated that over 90% of people who are diagnosed with cervical cancer at the earliest stage will survive five years after diagnosis. Cervical cancer is usually diagnosed early in almost half of cases. If cancer has spread to other organs or tissues, the five-year survival rate is 58%.</p>
@@ -5789,61 +5501,13 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <p><span style="color: #0048ad;"><strong>Does cervical cancer affect sex life?</strong></span></p>
 <p>Yes, cervical cancer can affect your sex life. Specific changes like uterus removal or ovaries removal, or vaginal dryness can affect sex. It’s normal to feel nervous about having sex after cervical cancer.</p>
 <p><span style="color: #0048ad;"><strong>Best doctors for cervical cancer in India</strong></span></p>
-<p>●<a href="#/dr-neelam-suri-obstetrics-and-robotic-gynaecologyist/"> <span style="color: #0048ad;"><strong>Dr Neelam Suri:</strong></span></a> Indraprastha Apollo Hospital, New Delhi, 33 years of experience in Robotic Gynaecology and Obstetrics<br>
-● <a href="#/dr-rama-joshi/"><span style="color: #0048ad;"><strong>Dr Rama Joshi:</strong></span></a> FMRI Gurgaon, 32 years experience in Gynae Oncology and Robotic Surgery<br>
-● <a href="#/dr-vivek-marwah/"><span style="color: #0048ad;"><strong>Dr Vivek Marwah:</strong></span></a> MAX Hospital Saket, 34 years experience in Minimally Invasive Gynaecology<br>
-● <a href="#/dr-smita-vats/"><span style="color: #0048ad;"><strong>Dr Smita Vyas:</strong></span></a> Artemis Hospital, 20 years experience in Obstetrics and Gynaecology<br>
+<p>●<a href="#/dr-neelam-suri-obstetrics-and-robotic-gynaecologyist/"> <span style="color: #0048ad;"><strong>Dr Neelam Suri:</strong></span></a> Indraprastha Apollo Hospital, New Delhi, 33 years of experience in Robotic Gynaecology and Obstetrics<br />
+● <a href="#/dr-rama-joshi/"><span style="color: #0048ad;"><strong>Dr Rama Joshi:</strong></span></a> FMRI Gurgaon, 32 years experience in Gynae Oncology and Robotic Surgery<br />
+● <a href="#/dr-vivek-marwah/"><span style="color: #0048ad;"><strong>Dr Vivek Marwah:</strong></span></a> MAX Hospital Saket, 34 years experience in Minimally Invasive Gynaecology<br />
+● <a href="#/dr-smita-vats/"><span style="color: #0048ad;"><strong>Dr Smita Vyas:</strong></span></a> Artemis Hospital, 20 years experience in Obstetrics and Gynaecology<br />
 ● <span style="color: #0048ad;"><strong><a href="#/dr-preeti-rastogi/">Dr Preeti Rastogi</a>:</strong></span> Medanta Hospital, Experience 20 years in Obstetrics and Robotic Gynaecology</p>
-<h2><span style="color: #0048ad;"><strong>Cost Of Cervical Cancer Surgery in India</strong></span></h2>
-<table widthh="624">
-<tbody>
-<tr>
-<td width="312"><strong>Procedure</strong></td>
-<td width="312"><strong>Cost</strong></td>
-</tr>
-<tr>
-<td width="312">Radiation Therapy</td>
-<td width="312">4000 usd</td>
-</tr>
-<tr>
-<td width="312">Chemotherapy</td>
-<td width="312">500 – 800 / Cycle</td>
-</tr>
-<tr>
-<td width="312">Targeted Therapy</td>
-<td width="312">1000 – 1200 / Cycle</td>
-</tr>
-<tr>
-<td width="312">Immunotherapy</td>
-<td width="312">1000 – 1200 / Cycle</td>
-</tr>
-<tr>
-<td width="312">Ablation Surgery</td>
-<td width="312">4000 usd</td>
-</tr>
-<tr>
-<td width="312">CryoSurgery</td>
-<td width="312">4000 usd</td>
-</tr>
-<tr>
-<td width="312">Lap Radical Hysterectomy</td>
-<td width="312">4500 usd</td>
-</tr>
-<tr>
-<td width="312">Robotic Radical Hysterectomy</td>
-<td width="312">6500 usd</td>
-</tr>
-<tr>
-<td width="312">CytoReductive Surgery</td>
-<td width="312">6500 usd</td>
-</tr>
-<tr>
-<td width="312">Cone Biopsy</td>
-<td width="312">1500 usd</td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Cervical Cancer Treatment in India?</strong></span></p>
+<h2><strong style="color: #0048ad;"><br />How can you avail yourself of the best Cervical Cancer Treatment in India?</strong></h2>
+
 <p><strong>&nbsp;</strong>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <strong><span style="color: #0048ad;">affordable cervical cancer treatment in India</span>, </strong>fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Cervical Cancer Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -5862,8 +5526,8 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <p>Let us take you on a journey where we will let you know what causes liver cancer, its types, risk factors, and treatment options available in all top-tier hospitals in India.</p>
 <p><strong><span style="color: #0048ad;">Understanding the importance of liver</span></strong></p>
 <p><strong><span style="color: #0048ad;">The liver is located on the upper right side of the body, behind the lower ribs. It performs the following functions:</span></strong></p>
-<p>● Store nutrients<br>
-● Remove waste products and worn-out cells from the blood<br>
+<p>● Store nutrients<br />
+● Remove waste products and worn-out cells from the blood<br />
 ● Produce bile that helps to store fats</p>
 <p><strong><span style="color: #0048ad;">What is liver cancer?</span></strong></p>
 <p>Liver cancer is a serious medical condition that is characterized by abnormal growth of cells in the liver tissue. Liver cancer is of two types:</p>
@@ -5876,12 +5540,12 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <p>In India, <strong>liver cancer treatment</strong> options are available that include surgery, chemotherapy, and targeted therapy, making it one of the leading destinations for <strong>liver cancer treatment</strong>.</p>
 <p><strong><span style="color: #0048ad;">Symptoms of Liver cancer</span></strong></p>
 <p><strong><span style="color: #0048ad;">The major symptoms of liver cancer are:</span></strong></p>
-<p>● Losing weight without trying<br>
-● Loss of appetite<br>
-● Upper abdominal pain<br>
-● Nausea and vomiting<br>
-● General weakness and fatigue<br>
-● The yellow color of your skin and the whites of your eye<br>
+<p>● Losing weight without trying<br />
+● Loss of appetite<br />
+● Upper abdominal pain<br />
+● Nausea and vomiting<br />
+● General weakness and fatigue<br />
+● The yellow color of your skin and the whites of your eye<br />
 ● White and chalky stools</p>
 <p><strong><span style="color: #0048ad;">Liver Cancer Stages</span></strong></p>
 <p>The stage determines to what extent the cancer has spread into the body. The different stages of the cancer are:</p>
@@ -5891,31 +5555,31 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <p><strong><span style="color: #0048ad;">Stage 4:</span> </strong>Metastasis. Liver cancer has spread to other parts of the body as well.</p>
 <p><strong><span style="color: #0048ad;">Causes of Liver Cancer</span></strong></p>
 <p><strong><span style="color: #0048ad;">Primary liver cancer occurs in the livers damaged by</span></strong></p>
-<p>● Alcoholic misuse<br>
-● Chronic infections by hepatitis B and C<br>
-● hemochromatosis( a condition with too much iron in the liver)<br>
-● Cirrhosis ( scarring in the liver due to alcohol misuse)<br>
+<p>● Alcoholic misuse<br />
+● Chronic infections by hepatitis B and C<br />
+● hemochromatosis( a condition with too much iron in the liver)<br />
+● Cirrhosis ( scarring in the liver due to alcohol misuse)<br />
 ● Obesity and fatty liver disease</p>
 <p><strong><span style="color: #0048ad;">Other risk factors include:</span></strong></p>
-<p>● Your sex- Men are more likely to be affected than women<br>
-● Your weight- obesity increases the risk of liver cancer<br>
-● Anabolic steroid use<br>
-● History of diabetes<br>
-● Inherited metabolic disease<br>
-● Rare diseases like alpha-1-antitrypsin deficiency, tyrosinemia, and Wilson’s disease.<br>
+<p>● Your sex- Men are more likely to be affected than women<br />
+● Your weight- obesity increases the risk of liver cancer<br />
+● Anabolic steroid use<br />
+● History of diabetes<br />
+● Inherited metabolic disease<br />
+● Rare diseases like alpha-1-antitrypsin deficiency, tyrosinemia, and Wilson’s disease.<br />
 ● Smoking</p>
 <p>Diagnosis of Liver Cancer</p>
 <p><strong><span style="color: #0048ad;">Diagnostic tests for liver cancer include:</span></strong></p>
-<p>● Liver function tests<br>
-● Alpha Fetoprotien Test ( AFP)<br>
-● Imaging Tests like ultrasounds, CT scans, and MRI scans<br>
+<p>● Liver function tests<br />
+● Alpha Fetoprotien Test ( AFP)<br />
+● Imaging Tests like ultrasounds, CT scans, and MRI scans<br />
 ● Liver Biopsy</p>
 <p>Perfect diagnosis is essential to determine the <strong>best liver cancer treatment in India</strong>.</p>
 <p><strong><span style="color: #0048ad;">Best liver cancer treatment :</span></strong> Options Available in India</p>
 <p><strong><span style="color: #0048ad;">In India, your treatment plan depends on several factors:</span></strong></p>
-<p>● The number, size, and location of tumors in your liver<br>
-● How well your liver is functioning<br>
-● Whether cirrhosis is present or not<br>
+<p>● The number, size, and location of tumors in your liver<br />
+● How well your liver is functioning<br />
+● Whether cirrhosis is present or not<br />
 ● Whether the cancer has spread to other organs</p>
 <p><strong><span style="color: #0048ad;">Treatments for Liver cancer include:</span></strong></p>
 <p><strong><span style="color: #0048ad;">The various liver cancer treatment options in India are:</span></strong></p>
@@ -5933,48 +5597,48 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 <p>Palliative care is specialized medical care that focuses on providing relief from pain and other symptoms of a serious illness. Palliative care specialists work with you, your family, and your other doctors to provide an extra layer of support that complements your ongoing care. Palliative care can be used while undergoing other aggressive <strong>liver cancer treatment in India</strong>, such as surgery, chemotherapy, or radiation therapy.</p>
 <p><span style="color: #0048ad;"><strong>How can you prevent liver cancer?</strong></span></p>
 <p>You can’t always prevent liver cancer. However, you can reduce the risk of liver cancer by taking the following steps as suggested by the <strong>best liver cancer treatment doctors in India:</strong></p>
-<p>● Get the Hepatitis B vaccine<br>
-● Take measures to prevent hepatitis C. There is no vaccine for it, but you can take the following steps to reduce the risk:<br>
-● Use condoms<br>
-● Avoid drug abuse<br>
-● Be cautious about tattoos and piercings<br>
-● Reduce the risk of cirrhosis by drinking alcohol in moderation. It would be best if you completely stop alcohol and smoking.<br>
-● Take steps to treat obesity.<br>
-● Follow an active and healthy lifestyle.<br>
+<p>● Get the Hepatitis B vaccine<br />
+● Take measures to prevent hepatitis C. There is no vaccine for it, but you can take the following steps to reduce the risk:<br />
+● Use condoms<br />
+● Avoid drug abuse<br />
+● Be cautious about tattoos and piercings<br />
+● Reduce the risk of cirrhosis by drinking alcohol in moderation. It would be best if you completely stop alcohol and smoking.<br />
+● Take steps to treat obesity.<br />
+● Follow an active and healthy lifestyle.<br />
 ● Eat balanced diet</p>
 <p><strong><span style="color: #0048ad;">Prognosis</span></strong></p>
 <p><strong><span style="color: #0048ad;">The prognosis of liver cancer surgery or any other treatment depends on several factors:</span></strong></p>
-<p>● The stage at which cancer is diagnosed<br>
-● The overall health of the patient<br>
-● Extent of liver damage<br>
+<p>● The stage at which cancer is diagnosed<br />
+● The overall health of the patient<br />
+● Extent of liver damage<br />
 ● Treatment effectiveness</p>
 <p>For HCC, the five-year survival rate is 10 to 30 %. In cases where liver cancer is detected at an early stage, the prognosis becomes better, and there are chances of long-term survival. But if the cancer has spread to other parts of the body, the chances of survival become very low.</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Liver Cancer Treatment in India</strong></span></h2>
 <table widthh="624">
 <tbody>
 <tr>
-<td width="312"><a href="#/medanta-hospital-gurgaon-india/">Medanta the Medicity</a></td>
-<td width="312"><a href="#/dr-arvinder-singh-soin-liver-transplant-surgeon/">Dr Arvinder Singh Soin</a></td>
+<td width="312">Medanta the Medicity</td>
+<td width="312">Dr Arvinder Singh Soin</td>
 </tr>
 <tr>
-<td width="312"><a href="#/indraprastha-apollo-hospital-new-delhi/"><span style="color: #000000;">Indraprastha Apollo Hospital</span></a></td>
-<td width="312"><a href="#/dr-neerav-goyal-head-senior-consultant-apollo-liver-transplant/">Dr Neerav Gupta</a></td>
+<td width="312"><span style="color: black;">Indraprastha Apollo Hospital</span></td>
+<td width="312">Dr Neerav Gupta</td>
 </tr>
 <tr>
-<td width="312"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Healthcare</a> – Saket</td>
-<td width="312"><a href="#/dr-subhash-gupta-liver-transplant-surgeon-at-max-healthcare/">Dr Subhash Gupta</a></td>
+<td width="312">Max Healthcare – Saket</td>
+<td width="312">Dr Subhash Gupta</td>
 </tr>
 <tr>
-<td width="312"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a></td>
-<td width="312"><a href="#/dr-vivek-vij-liver-transplant-surgeon-at-fortis-healthcare/">Dr Vivek Vij</a></td>
+<td width="312">Fortis Memorial Research Institute</td>
+<td width="312">Dr Vivek Vij</td>
 </tr>
 <tr>
-<td width="312"><a href="#/manipal-hospital/">Manipal Hospital</a></td>
-<td width="312"><a href="#/dr-shailendra-lalwani-liver-transplant-surgeon-at-manipal-hospital/">Dr Shailendra Lalwani</a></td>
+<td width="312">Manipal Hospital</td>
+<td width="312">Dr Shailendra Lalwani</td>
 </tr>
 <tr>
-<td width="312"><a href="#/bl-kapur-hospital/">BLK – Max Hospital</a></td>
-<td width="312"><a href="#/dr-abhideep-chaudhary-liver-transplant-surgeon-at-max-blk-hospital/">Dr Abhideep Chaudhary</a></td>
+<td width="312">BLK – Max Hospital</td>
+<td width="312">Dr Abhideep Chaudhary</td>
 </tr>
 </tbody>
 </table>
@@ -5984,6 +5648,7 @@ Stage 0 is known as the pre-cancer stage, and it means that cancer is only on th
 
 		</div>`,
   },
+  // ovarian-cancer-treatment
   {
     name: "ovarian-cancer-treatment",
     img: "/treatment/ovarian-cancer-treatment.webp",
@@ -6191,6 +5856,7 @@ Debulking surgery can also involve the removal of the urinary bladder if the can
 
 		</div>`,
   },
+  // colon-cancer-treatment
   {
     name: "colon-cancer-treatment",
     img: "/treatment/colon-cancer-treatment.webp",
@@ -6388,6 +6054,7 @@ cancer treatment in India, fill out the form below, and we will help you choose 
 
 		</div>`,
   },
+  // stomach-cancer-treatment
   {
     name: "stomach-cancer-treatment",
     img: "/treatment/stomach-cancer-treatment.webp",
@@ -6563,6 +6230,7 @@ Tips for our readers to prevent stomach cancer<br>
 
 		</div>`,
   },
+  // HIPEC-treatment
   {
     name: "HIPEC-treatment",
     img: "/treatment/HIPEC-treatment.webp",
@@ -6736,6 +6404,7 @@ Your doctor can help you weigh the benefits and risks of all your treatment opti
 
 		</div>`,
   },
+  // pancreatic-cancer-treatment
   {
     name: "pancreatic-cancer-treatment",
     img: "/treatment/pancreatic-cancer-treatment.webp",
@@ -6938,6 +6607,7 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 
 		</div>`,
   },
+  // radio-active-iodine-therapy
   {
     name: "radio-active-iodine-therapy",
     img: "/treatment/radio-active-iodine-therapy.webp",
@@ -7077,6 +6747,7 @@ Immunotherapy is another pancreatic cancer treatment in which the immune system 
 
 		</div>`,
   },
+  // latest-radiation-therapy
   {
     name: "latest-radiation-therapy",
     img: "/treatment/latest-radiation-therapy.webp",
@@ -7248,6 +6919,7 @@ You can also follow the given safety measures after the first few days of the <s
 
 		</div>`,
   },
+  // general-surgery
   {
     name: "general-surgery",
     img: "/treatment/general-surgery.webp",
@@ -7357,6 +7029,7 @@ You can also follow the given safety measures after the first few days of the <s
 
 		</div>`,
   },
+  // vascular-surgery
   {
     name: "vascular-surgery",
     img: "/treatment/vascular-surgery.webp",
@@ -7466,11 +7139,100 @@ You can also follow the given safety measures after the first few days of the <s
 
 		</div>`,
   },
+  // dental-surgery
   {
     name: "dental-surgery",
     img: "/treatment/dental-surgery.webp",
-    data: ``,
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Dental Treatment in India: Leading the way to healthy smiles</strong></span></h2>
+    <p>Dental treatment involves the diagnosis, prevention, and treatment of conditions and diseases affecting the teeth, gums, and oral cavity. A healthy set of teeth is crucial for overall health and well-being.</p>
+    <p>India is emerging as one of the leading destinations for <strong>dental treatment</strong>, offering a combination of advanced facilities, experienced dentists, and affordable care. Let us guide you through common dental problems, treatments, and the options available in top-tier hospitals and clinics in India.</p>
+    <p><strong><span style="color: #0048ad;">Understanding the importance of dental health</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Good dental health is essential for:</span></strong></p>
+    <p>● Maintaining overall health<br />
+        ● Chewing and digestion<br />
+        ● Clear speech<br />
+        ● A confident smile</p>
+    <p><strong><span style="color: #0048ad;">Common Dental Problems</span></strong></p>
+    <p>Many dental problems can affect individuals at different stages of life. Some common issues include:</p>
+    <p><strong><span style="color: #0048ad;">Tooth Decay:</span></strong> A common problem caused by plaque buildup leading to cavities.</p>
+    <p><strong><span style="color: #0048ad;">Gum Disease:</span></strong> Inflammation or infection of the gums, which can lead to tooth loss if untreated.</p>
+    <p><strong><span style="color: #0048ad;">Tooth Sensitivity:</span></strong> Pain or discomfort when consuming hot, cold, or sweet foods and beverages.</p>
+    <p><strong><span style="color: #0048ad;">Oral Cancer:</span></strong> A serious condition affecting the lips, tongue, or other parts of the mouth.</p>
+    <p><strong><span style="color: #0048ad;">Malocclusion:</span></strong> Misalignment of teeth or jaws, often requiring orthodontic treatment.</p>
+    <p><strong><span style="color: #0048ad;">Dental trauma:</span></strong> Injury to teeth, gums, or jaw due to accidents or sports.</p>
+    <p><strong><span style="color: #0048ad;">Symptoms of Dental Problems</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Common symptoms include:</span></strong></p>
+    <p>● Toothache or pain<br />
+        ● Bleeding gums<br />
+        ● Swelling in the gums or face<br />
+        ● Bad breath<br />
+        ● Loose or missing teeth<br />
+        ● Difficulty chewing or speaking<br />
+        ● Discoloration or spots on teeth</p>
+    <p><strong><span style="color: #0048ad;">Causes of Dental Problems</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Dental issues can arise from various factors, such as:</span></strong></p>
+    <p>● Poor oral hygiene<br />
+        ● High-sugar diet<br />
+        ● Smoking or tobacco use<br />
+        ● Alcohol consumption<br />
+        ● Lack of regular dental check-ups<br />
+        ● Genetic predisposition<br />
+        ● Teeth grinding or clenching</p>
+    <p><strong><span style="color: #0048ad;">Diagnosis of Dental Conditions</span></strong></p>
+    <p>Accurate diagnosis is essential for effective treatment. Diagnostic methods include:</p>
+    <p>● Dental X-rays<br />
+        ● Oral examinations<br />
+        ● CT scans<br />
+        ● Digital impressions<br />
+        ● Biopsy for oral lesions</p>
+    <p><strong><span style="color: #0048ad;">Best Dental Treatments in India</span></strong></p>
+    <p><strong><span style="color: #0048ad;">India offers a wide range of advanced dental treatments, such as:</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Fillings:</span></strong> Repair cavities with materials like composite resin, amalgam, or gold.</p>
+    <p><strong><span style="color: #0048ad;">Root Canal Treatment:</span></strong> Treat infected or damaged tooth pulp to save the natural tooth.</p>
+    <p><strong><span style="color: #0048ad;">Dental Implants:</span></strong> Replace missing teeth with artificial teeth anchored to the jawbone.</p>
+    <p><strong><span style="color: #0048ad;">Crowns and Bridges:</span></strong> Protect or restore damaged teeth and replace missing ones.</p>
+    <p><strong><span style="color: #0048ad;">Orthodontic Treatment:</span></strong> Correct misaligned teeth or jaws using braces, aligners, or retainers.</p>
+    <p><strong><span style="color: #0048ad;">Teeth Whitening:</span></strong> Brighten discolored teeth through professional cleaning or bleaching.</p>
+    <p><strong><span style="color: #0048ad;">Periodontal Surgery:</span></strong> Treat advanced gum disease by reshaping or removing infected tissues.</p>
+    <p><strong><span style="color: #0048ad;">Oral Surgery:</span></strong> Procedures such as wisdom tooth extraction, jaw realignment, or treatment of oral cancer.</p>
+    <p><strong><span style="color: #0048ad;">Preventive Care:</span></strong> Regular check-ups, cleanings, and fluoride treatments to maintain oral health.</p>
+    <p><strong><span style="color: #0048ad;">Top Dental Hospitals and Clinics in India</span></strong></p>
+    <table widthh="624">
+        <tbody>
+            <tr>
+                <td width="312">Apollo White Dental</td>
+                <td width="312">Dr. Nandita Narayanan</td>
+            </tr>
+            <tr>
+                <td width="312"><span style="color: black;">Clove Dental</span></td>
+                <td width="312">Dr. Ashish Chadha</td>
+            </tr>
+            <tr>
+                <td width="312">Fortis Healthcare</td>
+                <td width="312">Dr. Rajesh Chhabra</td>
+            </tr>
+            <tr>
+                <td width="312">Max Healthcare</td>
+                <td width="312">Dr. Reema Gupta</td>
+            </tr>
+            <tr>
+                <td width="312">Manipal Hospitals</td>
+                <td width="312">Dr. Ankit Srivastava</td>
+            </tr>
+            <tr>
+                <td width="312">Smile Design Dental Clinic</td>
+                <td width="312">Dr. Meenakshi Sinha</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><strong>How can you get effective dental treatment in India?</strong></p>
+    <p>Medihelp Global is here for you if you are looking for trustworthy dental treatment consultants in India. We will help you find the best dentist in India and get your treatment done at JCI-accredited hospitals or clinics at the most affordable rates. Our team includes experienced medical professionals to assist you at every step. So, if you are planning your <strong>dental treatment in India</strong>, fill out the form below, and we will help you choose the best dentist and clinic providing state-of-the-art technology.</p>
+    <p><span style="font-weight: 400;"><strong>We will help you to find the best Dental Treatment </strong><strong>Dentists in India.</strong>&nbsp;&nbsp;</span></p>
+</div>
+`,
   },
+  // hip-replacement-surgery
   {
     name: "hip-replacement-surgery",
     img: "/treatment/hip-replacement-surgery.webp",
@@ -7612,6 +7374,7 @@ You can also follow the given safety measures after the first few days of the <s
 
 		</div>`,
   },
+  // knee-replacement-surgery
   {
     name: "knee-replacement-surgery",
     img: "/treatment/knee-replacement-surgery.webp",
@@ -7885,6 +7648,7 @@ You can also follow the given safety measures after the first few days of the <s
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Knee Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 </div>`,
   },
+  // shoulder-replacement-surgery
   {
     name: "shoulder-replacement-surgery",
     img: "/treatment/shoulder-replacement-surgery.webp",
@@ -8026,6 +7790,7 @@ Glenoid Component: It replaces the worn-out socket of the shoulder joint. It is 
 
 		</div>`,
   },
+  // arthroscopy-surgery
   {
     name: "arthroscopy-surgery",
     img: "/treatment/arthroscopy-surgery.webp",
@@ -8155,6 +7920,7 @@ o swollen synovium (the lining in the joint)</p>
 
 		</div>`,
   },
+  //  male-to-female-sex-change-surgery
   {
     name: "male-to-female-sex-change-surgery",
     img: "/treatment/male-to-female-sex-change-surgery.webp",
@@ -8283,6 +8049,7 @@ Surgery is just one possible way to transition.</p>
 </div></div></div></div>
 </div>`,
   },
+  //  tetralogy-of-fallot-repair
   {
     name: "tetralogy-of-fallot-repair",
     img: "/treatment/tetralogy-of-fallot-repair.webp",
@@ -8481,6 +8248,7 @@ Surgery is just one possible way to transition.</p>
 <p><strong>Planning to travel to India for medical treatment. Book a free consultation with us!</strong></p>
 </div>`,
   },
+  //  asd-closure
   {
     name: "asd-closure",
     img: "/treatment/asd-closure.webp",
@@ -8731,6 +8499,7 @@ Surgery is just one possible way to transition.</p>
 <p><strong>All you have to do is send us your query and medical reports at <a href="mailto:info@medihelpglobal.com">info@medihelpglobal.com</a>, and we will then give you a cost estimate. </strong></p>
 </div>`,
   },
+  // arterial-switch-surgery
   {
     name: "arterial-switch-surgery",
     img: "/treatment/arterial-switch-surgery.webp",
@@ -8935,6 +8704,7 @@ Surgery is just one possible way to transition.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Arterial Switch Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
+  // bd-glenn-on-bypass
   {
     name: "bd-glenn-on-bypass",
     img: "/treatment/bd-glenn-on-bypass.webp",
@@ -9136,6 +8906,7 @@ Surgery is just one possible way to transition.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Bidirectional (BD) Glenn On Bypass surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
+  // bentall-surgery
   {
     name: "bentall-surgery",
     img: "/treatment/bentall-surgery.webp",
@@ -9349,6 +9120,7 @@ Surgery is just one possible way to transition.</p>
 <p><strong>Choose Medihelp Global Global Today. We are the best medical tourism company in India, and we will help you with Bentall Surgery at the most affordable prices in India.</strong></p>
 </div>`,
   },
+  // bt-shunt-with-bypass
   {
     name: "bt-shunt-with-bypass",
     img: "/treatment/bt-shunt-with-bypass.webp",
@@ -9558,6 +9330,7 @@ Surgery is just one possible way to transition.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best BT Shunt with Bypass Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
+  // fontan-procedure
   {
     name: "fontan-procedure",
     img: "/treatment/fontan-procedure.webp",
@@ -9781,6 +9554,7 @@ Surgery is just one possible way to transition.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Fontan Procedure </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
+  // pda-closure
   {
     name: "pda-closure",
     img: "/treatment/pda-closure.webp",
@@ -9962,6 +9736,7 @@ Surgery is just one possible way to transition.</p>
 </div></div></div></div>
 </div>`,
   },
+  // vsd-closure
   {
     name: "vsd-closure",
     img: "/treatment/vsd-closure.webp",
@@ -10209,6 +9984,7 @@ Surgery is just one possible way to transition.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best VSD Surgery&nbsp;</strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
+  // contoura-super-vision-surgery
   {
     name: "contoura-super-vision-surgery",
     img: "/treatment/contoura-super-vision-surgery.webp",
@@ -10352,6 +10128,7 @@ Surgery is just one possible way to transition.</p>
 </div></div></div></div>
 </div>`,
   },
+  // robotic-femtosecond-laser-cataract-surgery
   {
     name: "robotic-femtosecond-laser-cataract-surgery",
     img: "/treatment/robotic-femtosecond-laser-cataract-surgery.webp",
@@ -10466,6 +10243,7 @@ We score over others because the ‘treatment consultants’ in our company are 
 </div></div></div></div>
 </div>`,
   },
+  // retinal-detachment-surgery
   {
     name: "retinal-detachment-surgery",
     img: "/treatment/retinal-detachment-surgery.webp",
@@ -10617,6 +10395,7 @@ After the Surgery</p>
 </div></div></div></div>
 </div>`,
   },
+  // squint-surgery
   {
     name: "squint-surgery",
     img: "/treatment/squint-surgery.webp",
@@ -10804,6 +10583,7 @@ Speak to your doctor about the risks associated with the squint surgery.</p>
 </div></div></div></div>
 </div>`,
   },
+  // ptosis-surgery
   {
     name: "ptosis-surgery",
     img: "/treatment/ptosis-surgery.webp",
@@ -10959,6 +10739,7 @@ Here are some treatment options available for ptosis in India:</p>
 </div></div></div></div>
 </div>`,
   },
+  // vitrectomy-surgery
   {
     name: "vitrectomy-surgery",
     img: "/treatment/vitrectomy-surgery.webp",
@@ -11179,6 +10960,7 @@ Here are some treatment options available for ptosis in India:</p>
 </div></div></div></div>
 </div>`,
   },
+  // coronary-artery-bypass-graft
   {
     name: "coronary-artery-bypass-graft",
     img: "/treatment/coronary-artery-bypass-graft.webp",
@@ -11363,6 +11145,7 @@ Here are some treatment options available for ptosis in India:</p>
 <p><span style="color: #0048ad;"><b>Contact Dr. Nadeem Khan today, if you are planning your CABG surgery in India.&nbsp;</b></span></p>
 </div>`,
   },
+  // minimally-invasive-cardiac-surgery
   {
     name: "minimally-invasive-cardiac-surgery",
     img: "/treatment/minimally-invasive-cardiac-surgery.webp",
@@ -11521,6 +11304,7 @@ Here are some treatment options available for ptosis in India:</p>
 </div></div></div></div>
 </div>`,
   },
+  // mics-valve-replacement-surgery
   {
     name: "mics-valve-replacement-surgery",
     img: "/treatment/mics-valve-replacement-surgery.webp",
@@ -11669,6 +11453,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </div></div></div></div>
 </div>`,
   },
+  // double-valve-replacement
   {
     name: "double-valve-replacement",
     img: "/treatment/double-valve-replacement.webp",
@@ -11885,6 +11670,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </div></div></div></div>
 </div>`,
   },
+  // valve-replacement
   {
     name: "valve-replacement",
     img: "/treatment/valve-replacement.webp",
@@ -12096,6 +11882,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </div></div></div></div>
 </div>`,
   },
+  // bentall-surgery
   {
     name: "bentall-surgery",
     img: "/treatment/bentall-surgery.webp",
@@ -12231,6 +12018,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </div></div></div></div>
 </div>`,
   },
+  // erectile-dysfunction-treatments
   {
     name: "erectile-dysfunction-treatments",
     img: "/treatment/erectile-dysfunction-treatments.webp",
@@ -12503,6 +12291,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Erectile Dysfunction Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
+  // penile-implant
   {
     name: "penile-implant",
     img: "/treatment/penile-implant.webp",
@@ -12667,11 +12456,95 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 </div></div></div></div>
 </div>`,
   },
+  // gynecology-treatments
   {
     name: "gynecology-treatments",
     img: "/treatment/gynecology-treatments.webp",
-    data: ``,
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Gynecology Treatments in India: Empowering Women’s Health</strong></span></h2>
+    <p>Gynecology is a medical specialty focused on the health and well-being of the female reproductive system. It includes the diagnosis, treatment, and prevention of various conditions and diseases affecting women of all ages.</p>
+    <p>India has become a leading destination for <strong>gynecology treatments</strong>, offering advanced medical care, experienced specialists, and state-of-the-art facilities at affordable costs. Let us guide you through common gynecological conditions and the comprehensive treatments available in India.</p>
+    <p><strong><span style="color: #0048ad;">Understanding the importance of gynecological health</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Gynecological health is essential for:</span></strong></p>
+    <p>● Reproductive health and fertility<br />
+        ● Early detection and treatment of gynecological cancers<br />
+        ● Managing hormonal balance<br />
+        ● Addressing menstrual irregularities<br />
+        ● Ensuring overall well-being</p>
+    <p><strong><span style="color: #0048ad;">Common Gynecological Conditions</span></strong></p>
+    <p>Gynecological issues can arise due to various factors and affect women at different stages of life. Common conditions include:</p>
+    <p><strong><span style="color: #0048ad;">Menstrual Disorders:</span></strong> Issues like heavy bleeding, irregular periods, or painful cramps.</p>
+    <p><strong><span style="color: #0048ad;">Polycystic Ovary Syndrome (PCOS):</span></strong> A hormonal disorder affecting ovulation and fertility.</p>
+    <p><strong><span style="color: #0048ad;">Fibroids:</span></strong> Noncancerous growths in the uterus causing pain or heavy periods.</p>
+    <p><strong><span style="color: #0048ad;">Endometriosis:</span></strong> A condition where uterine tissue grows outside the uterus, causing pain and fertility issues.</p>
+    <p><strong><span style="color: #0048ad;">Gynecological Cancers:</span></strong> Cancers affecting the cervix, ovaries, uterus, or vagina.</p>
+    <p><strong><span style="color: #0048ad;">Pelvic Inflammatory Disease (PID):</span></strong> An infection of the reproductive organs causing pain and infertility.</p>
+    <p><strong><span style="color: #0048ad;">Urinary Incontinence:</span></strong> Loss of bladder control, often after childbirth or menopause.</p>
+    <p><strong><span style="color: #0048ad;">Infertility:</span></strong> Difficulty in conceiving due to various underlying conditions.</p>
+    <p><strong><span style="color: #0048ad;">Symptoms of Gynecological Conditions</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Common symptoms include:</span></strong></p>
+    <p>● Abnormal vaginal bleeding or discharge<br />
+        ● Pelvic pain<br />
+        ● Painful intercourse<br />
+        ● Difficulty in conceiving<br />
+        ● Frequent urination or urinary discomfort<br />
+        ● Irregular menstrual cycles<br />
+        ● Lower back pain</p>
+    <p><strong><span style="color: #0048ad;">Diagnosis of Gynecological Conditions</span></strong></p>
+    <p>Accurate diagnosis is key to effective treatment. Diagnostic methods include:</p>
+    <p>● Pelvic examinations<br />
+        ● Pap smears<br />
+        ● Ultrasound scans<br />
+        ● Hysteroscopy<br />
+        ● Laparoscopy<br />
+        ● Blood and hormone tests<br />
+        ● Biopsy for cancer detection</p>
+    <p><strong><span style="color: #0048ad;">Best Gynecology Treatments in India</span></strong></p>
+    <p><strong><span style="color: #0048ad;">India offers advanced gynecological treatments, including:</span></strong></p>
+    <p><strong><span style="color: #0048ad;">Hormonal Therapy:</span></strong> Used to manage menstrual disorders, PCOS, and menopause symptoms.</p>
+    <p><strong><span style="color: #0048ad;">Minimally Invasive Surgery:</span></strong> Laparoscopy and hysteroscopy for conditions like fibroids, cysts, and endometriosis.</p>
+    <p><strong><span style="color: #0048ad;">Fertility Treatments:</span></strong> IVF, IUI, egg freezing, and other assisted reproductive techniques.</p>
+    <p><strong><span style="color: #0048ad;">Gynecological Cancer Treatment:</span></strong> Surgery, chemotherapy, radiation, and targeted therapy for cervical, ovarian, and uterine cancers.</p>
+    <p><strong><span style="color: #0048ad;">Urogynecology Treatments:</span></strong> Procedures for urinary incontinence and pelvic organ prolapse.</p>
+    <p><strong><span style="color: #0048ad;">Hysterectomy:</span></strong> Removal of the uterus in cases of cancer, severe fibroids, or endometriosis.</p>
+    <p><strong><span style="color: #0048ad;">Cosmetic Gynecology:</span></strong> Treatments like vaginal rejuvenation and labiaplasty for aesthetic and functional concerns.</p>
+    <p><strong><span style="color: #0048ad;">Menopause Management:</span></strong> Hormone replacement therapy and lifestyle changes to manage menopause symptoms.</p>
+    <p><strong><span style="color: #0048ad;">Top Gynecology Hospitals and Specialists in India</span></strong></p>
+    <table widthh="624">
+        <tbody>
+            <tr>
+                <td width="312">Apollo Hospitals</td>
+                <td width="312">Dr. Anita Kaul</td>
+            </tr>
+            <tr>
+                <td width="312"><span style="color: black;">Fortis Healthcare</span></td>
+                <td width="312">Dr. Manju Kalra</td>
+            </tr>
+            <tr>
+                <td width="312">Max Healthcare</td>
+                <td width="312">Dr. Aradhana Singh</td>
+            </tr>
+            <tr>
+                <td width="312">Manipal Hospitals</td>
+                <td width="312">Dr. Neelima Gupta</td>
+            </tr>
+            <tr>
+                <td width="312">BLK-Max Hospital</td>
+                <td width="312">Dr. Meera Bhatia</td>
+            </tr>
+            <tr>
+                <td width="312">Cloudnine Hospital</td>
+                <td width="312">Dr. Ritu Khanna</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><strong>How can you get effective gynecology treatment in India?</strong></p>
+    <p>Medihelp Global is here for you if you are looking for trustworthy gynecology treatment consultants in India. We will help you find the best gynecologist in India and get your treatment done at JCI-accredited hospitals and clinics at affordable rates. Our team includes experienced medical professionals to assist you at every step. So, if you are planning your <strong>gynecology treatment in India</strong>, fill out the form below, and we will help you choose the best doctor and hospital providing state-of-the-art technology.</p>
+    <p><span style="font-weight: 400;"><strong>We will help you to find the best Gynecology Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
+</div>
+`,
   },
+  // ivf-procedure
   {
     name: "ivf-procedure",
     img: "/treatment/ivf-procedure.webp",
@@ -12785,6 +12658,7 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 </div></div></div></div>
 </div>`,
   },
+  // male-infertility-treatment
   {
     name: "male-infertility-treatment",
     img: "/treatment/male-infertility-treatment.webp",
@@ -12939,6 +12813,7 @@ Surgery: It involves various procedures like TESA and Micro TESE.<br>
 	</div>
 </div>`,
   },
+  // female-infertility-treatment
   {
     name: "female-infertility-treatment",
     img: "/treatment/female-infertility-treatment.webp",
