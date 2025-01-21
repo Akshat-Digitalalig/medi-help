@@ -7237,7 +7237,7 @@ You can also follow the given safety measures after the first few days of the <s
     name: "hip-replacement-surgery",
     img: "/treatment/hip-replacement-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<p style="text-align: left;"><strong>A hip replacement surgery</strong> is recommended when the hip joint becomes severely damaged due to a disease resulting in chronic pain, decreased quality of life and limited mobility.</p>
+			<h2><span style="color: #0048ad;">Top Hospitals Robotic Hip Replacement Surgery Cost Comparison</span></h2><ul><li><span style="color: black;"><a href="https://www.ckbhospital.com/" style="color: black;"><strong>CK Birla Hospital</strong></a></span><ul><li>Unilateral Robotic Hip Replacement Surgery: USD 5400</li><li>Bilateral Robotic Hip Replacement Surgery: USD 9500</li></ul></li><li><span style="color: black;"><a href="#/w-pratiksha-hospital/" style="color: black;"><strong>W Partiksha Hospital</strong></a></span><ul><li>Unilateral Robotic Hip Replacement Surgery USD 6200</li><li>Bilateral Robotic Hip Replacement Surgery USD 10400</li></ul></li><li><span style="color: black;"><strong><a href="#/bl-kapur-hospital/" style="color: black;">Max Super Speciality Hospital</a>&nbsp;PPG</strong></span><ul><li>Unilateral Robotic Hip Replacement Surgery USD 6500</li><li>Bilateral Robotic Hip Replacement Surgery USD 10300</li></ul></li></ul><p><span style="color: #0048ad;"><strong>Included in the package are the following:</strong></span></p><ul><li>Rent for a room</li><li>Fees charged by consultants and surgeons</li><li>O.T. charges and Anaesthesia charges</li><li>Medicines, tests, and routine medical care</li><li>Pickup and drop off at the airport</li><li>Attendant Stay with the patient during treatment</li><li>Access to the International Patient Care Lounge</li><li>Handhold care by an executive</li><li>Patient and attendant 3 meals</li></ul><p><span style="color: #0048ad;"><strong>Exclusions from the package</strong></span></p><ul><li>Stay beyond package days</li><li>Added drugs and consumables to the list</li><li>Consultation with specialists from other fields of medicine</li><li>The complications involved</li></ul><p><span style="color: #0048ad;"><strong>Stay in hospital:&nbsp;</strong></span>After your surgery, you will have to stay in the hospital for four days to recover from it.</p><p><span style="color: #0048ad;"><strong>Stay in India:&nbsp;</strong></span>You must stay in India for at least 15 days after your surgery to complete the process.</p><p><span style="color: #0048ad;"><strong>Percentage of success:&nbsp;</strong></span>There is no doubt that India is one of the world’s top countries when it comes to robotic hip replacement procedures, enjoying a success rate of 99.9%.</p><p style="text-align: left;"><strong>A hip replacement surgery</strong> is recommended when the hip joint becomes severely damaged due to a disease resulting in chronic pain, decreased quality of life and limited mobility.</p>
 <p style="text-align: left;"><strong>A</strong> <strong>robotic hip replacement surgery</strong> is a procedure in which the surgeon removes damaged tissue/femur bone head in a patient’s hip and replaces it with an artificial joint. It is done with the help of a robotic arm hence also called robotic-assisted hip replacement surgery. The robotic procedure allows the surgery to be performed with great precision and also gives miraculous clinical results.</p>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Complex Cases: When is hip replacement surgery needed?</strong></span></h2>
 <p style="text-align: left;"><strong>&nbsp;</strong>Here are some common conditions when hip replacement surgery is recommended to patients :</p>
@@ -7305,68 +7305,26 @@ You can also follow the given safety measures after the first few days of the <s
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Advantages of Robotic Hip Replacement : The Life Transforming Hip Surgery</strong></span></h2>
 <ul style="text-align: left;">
-<li><span style="color: #993300;"><strong><span style="color: #000000;">Creating a patient-specific 3D model of the hip joint:</span> </strong></span>The robotic surgery planning system makes a 3D model of the hip joint based on the patient’s anatomy. A surgeon can visualize the surgery and plan it based on the patient’s unique anatomy.</li>
-<li><span style="color: #000000;"><strong>Better Control: </strong></span>The robotic arm adds accuracy and consistency to the surgeon’s hand. By doing this, the femur can be cut, the acetabulum can be reammed, and the implant components can be placed with more accuracy. As a result of robotics, inaccuracies can be reduced by up to 94%, reducing risks of leg length shortening, dislocations, and other complications.</li>
-<li><span style="color: #000000;"><strong>Safe Zone: </strong></span>All surgical cutting and reaming tools remain within the safe zone thanks to the specifications of the 3D model of the hip. As a result, you can make sure the implant components are angled and positioned as planned.</li>
-<li><span style="color: #000000;"><strong>Robotic Surgery: </strong></span>With its highly precise movements, the robotic arm can operate in tight spaces and through smaller incisions. As a result, surrounding tissues get minimal damage. <strong>Robotic hip replacement surgery in India</strong> is minimally invasive and doesn’t cut any muscles around the hip.</li>
-<li><span style="color: #000000;"><strong>Enhanced Outcomes: </strong></span>A study published by the American Hip Institute followed 162 patients who underwent robot-assisted hip replacement surgery for 2 years. It’s true! These patients experienced it and confirmed it.</li>
+<li><span style="color: #993300;"><strong><span style="color: black;">Creating a patient-specific 3D model of the hip joint:</span> </strong></span>The robotic surgery planning system makes a 3D model of the hip joint based on the patient’s anatomy. A surgeon can visualize the surgery and plan it based on the patient’s unique anatomy.</li>
+<li><span style="color: black;"><strong>Better Control: </strong></span>The robotic arm adds accuracy and consistency to the surgeon’s hand. By doing this, the femur can be cut, the acetabulum can be reammed, and the implant components can be placed with more accuracy. As a result of robotics, inaccuracies can be reduced by up to 94%, reducing risks of leg length shortening, dislocations, and other complications.</li>
+<li><span style="color: black;"><strong>Safe Zone: </strong></span>All surgical cutting and reaming tools remain within the safe zone thanks to the specifications of the 3D model of the hip. As a result, you can make sure the implant components are angled and positioned as planned.</li>
+<li><span style="color: black;"><strong>Robotic Surgery: </strong></span>With its highly precise movements, the robotic arm can operate in tight spaces and through smaller incisions. As a result, surrounding tissues get minimal damage. <strong>Robotic hip replacement surgery in India</strong> is minimally invasive and doesn’t cut any muscles around the hip.</li>
+<li><span style="color: black;"><strong>Enhanced Outcomes: </strong></span>A study published by the American Hip Institute followed 162 patients who underwent robot-assisted hip replacement surgery for 2 years. It’s true! These patients experienced it and confirmed it.</li>
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;">&nbsp;<strong>Top Hospitals for Robotic Hip Replacement in India</strong></span></h2>
 <ul style="text-align: left;">
-<li><span style="color: #000000;"><strong><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><span style="color: #0048ad;">Max Super speciality Hospital</span></a>: </strong></span>It is India’s largest private sector <strong>JCI accredited</strong> hospital located in New Delhi and one of the <strong>best hospitals for Robotic hip surgery</strong>. The Max Cancer Center is equipped with state-of-the-art equipment, facilities &amp; experienced doctors. <strong><a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><span style="color: #0048ad;">Dr Anil Arora</span> </a>is</strong> one of the best robotic doctors in India with 35 years of experience. Over the past five years, he has performed numerous surgeries and has helped many people suffering from damaged hip joints.</li>
-<li><span style="color: #0048ad;"><a style="color: #0048ad;" href="#/ck-birla-hospital/"><strong>CK Birla Hospital:</strong> </a></span>CK Birla Hospital in Delhi is a <strong>NABH-accredited,</strong> cutting-edge multidisciplinary centre. They have an international team of top-notch medical specialists who provide the best possible care. Their healthcare technology allows them to provide the best possible patient experience and accurate, collaborative treatment. <span style="color: #0048ad;"><strong><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr Aswami Maichand</a>, </strong></span>the Director of the Robotic Orthopedic division, is the best doctor for a robotic hip replacement here. He has an experience of over 35 years and has performed numerous hip replacement surgeries in his vast and successful career.</li>
-<li><span style="color: #000000;"><strong><a href="#/w-pratiksha-hospital/">W Partiksha Hospital</a>: </strong></span>W Pratiksha Hospital in Gurgaon is a multi-speciality hospital that provides the highest level of healthcare through cutting-edge technology, skilled and experienced physicians, and super-specialized treatments, particularly orthopaedics and <strong>robotic joint replacement surgery</strong>. Thousands of patients have been served by W Pratiksha Hospital over the last 25 years. <a href="#/dr-hemant-sharma-robotic-joint-replacement-surgeon/"><strong><span style="color: #0048ad;">Dr Hemant Sharma </span></strong></a>is the best robotic hip replacement surgeon here.</li>
+<li><span style="color: black;"><strong><a href="#/max-super-speciality-hospital-in-saket-new-delhi/"><span style="color: #0048ad;">Max Super speciality Hospital</span></a>: </strong></span>It is India’s largest private sector <strong>JCI accredited</strong> hospital located in New Delhi and one of the <strong>best hospitals for Robotic hip surgery</strong>. The Max Cancer Center is equipped with state-of-the-art equipment, facilities &amp; experienced doctors. <strong><a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><span style="color: #0048ad;">Dr Anil Arora</span> </a>is</strong> one of the best robotic doctors in India with 35 years of experience. Over the past five years, he has performed numerous surgeries and has helped many people suffering from damaged hip joints.</li>
+<li><span style="color: #0048ad;"><a href="#/ck-birla-hospital/" style="color: #0048ad;"><strong>CK Birla Hospital:</strong> </a></span>CK Birla Hospital in Delhi is a <strong>NABH-accredited,</strong> cutting-edge multidisciplinary centre. They have an international team of top-notch medical specialists who provide the best possible care. Their healthcare technology allows them to provide the best possible patient experience and accurate, collaborative treatment. <span style="color: #0048ad;"><strong><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr Aswami Maichand</a>, </strong></span>the Director of the Robotic Orthopedic division, is the best doctor for a robotic hip replacement here. He has an experience of over 35 years and has performed numerous hip replacement surgeries in his vast and successful career.</li>
+<li><span style="color: black;"><strong><a href="#/w-pratiksha-hospital/">W Partiksha Hospital</a>: </strong></span>W Pratiksha Hospital in Gurgaon is a multi-speciality hospital that provides the highest level of healthcare through cutting-edge technology, skilled and experienced physicians, and super-specialized treatments, particularly orthopaedics and <strong>robotic joint replacement surgery</strong>. Thousands of patients have been served by W Pratiksha Hospital over the last 25 years. <a href="#/dr-hemant-sharma-robotic-joint-replacement-surgeon/"><strong><span style="color: #0048ad;">Dr Hemant Sharma </span></strong></a>is the best robotic hip replacement surgeon here.</li>
 </ul>
 <h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Cost of robotic hip replacement in India</strong></span></h2>
 <p style="text-align: left;">In India, there are many factors which determine the<strong> cost of hip replacement surgery</strong> such as:</p>
 <ul style="text-align: left;">
-<li><span style="color: #000000;"><strong>Technology Used</strong>: </span>Othopedicians in India are using three techniques to replace damaged or diseased hip joints. These techniques are open, minimal access and robotics. The latest and most accurate technique is robotic hence more expensive than conventional surgery.</li>
-<li><span style="color: #000000;"><strong>Quality of implant</strong>:</span> There are two types of implants available in India, imported and local Indian implants are cheap but long-lasting. Imported implants such as Stryker, Johnson &amp; Johnson and Zimmer are the best in the industry hence expensive but long-lasting. These implants may last for 25 -30 years if replaced through robots due to better alignment and less trauma after surgery. Type of implant used determines <span style="font-weight: 400;"><strong>hip replacement surgery cost in India</strong>“</span></li>
-<li><span style="color: #000000;"><strong>Other factors: </strong></span>The cost also depends on credentialing, privileges and experience of an orthopaedic surgeon. Hospital brand, type, size, its quality certificate whether it is following JCI protocols or NABH protocols plays a vital role in costing. Big brands such as Apollo, Max, Fortis and Medanta follow American clinical protocols, hence they are expensive. <strong>R</strong><span style="font-weight: 400;"><strong>obotic hip replacement surgery cost in Delhi</strong> is high </span>since they follow good quality standards concerning second or third tier cities.</li>
+<li><span style="color: black;"><strong>Technology Used</strong>: </span>Othopedicians in India are using three techniques to replace damaged or diseased hip joints. These techniques are open, minimal access and robotics. The latest and most accurate technique is robotic hence more expensive than conventional surgery.</li>
+<li><span style="color: black;"><strong>Quality of implant</strong>:</span> There are two types of implants available in India, imported and local Indian implants are cheap but long-lasting. Imported implants such as Stryker, Johnson &amp; Johnson and Zimmer are the best in the industry hence expensive but long-lasting. These implants may last for 25 -30 years if replaced through robots due to better alignment and less trauma after surgery. Type of implant used determines <span style="font-weight: 400;"><strong>hip replacement surgery cost in India</strong>“</span></li>
+<li><span style="color: black;"><strong>Other factors: </strong></span>The cost also depends on credentialing, privileges and experience of an orthopaedic surgeon. Hospital brand, type, size, its quality certificate whether it is following JCI protocols or NABH protocols plays a vital role in costing. Big brands such as Apollo, Max, Fortis and Medanta follow American clinical protocols, hence they are expensive. <strong>R</strong><span style="font-weight: 400;"><strong>obotic hip replacement surgery cost in Delhi</strong> is high </span>since they follow good quality standards concerning second or third tier cities.</li>
 </ul>
-<h2 style="text-align: left;"><span style="color: #0048ad;"><strong>Top Hospitals Robotic Hip Replacement Surgery Cost Comparison</strong></span></h2>
-<ul style="text-align: left;">
-<li><span style="color: #000000;"><a style="color: #000000;" href="https://www.ckbhospital.com/"><strong>CK Birla Hospital</strong></a></span>
-<ul>
-<li>Unilateral Robotic Hip Replacement Surgery: USD 5400</li>
-<li>Bilateral Robotic Hip Replacement Surgery: USD 9500</li>
-</ul>
-</li>
-<li><span style="color: #000000;"><a style="color: #000000;" href="#/w-pratiksha-hospital/"><strong>W Partiksha Hospital</strong></a></span>
-<ul>
-<li>Unilateral Robotic Hip Replacement Surgery USD 6200</li>
-<li>Bilateral Robotic Hip Replacement Surgery USD 10400</li>
-</ul>
-</li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> PPG</strong></span>
-<ul>
-<li>Unilateral Robotic Hip Replacement Surgery USD 6500</li>
-<li>Bilateral Robotic Hip Replacement Surgery USD 10300</li>
-</ul>
-</li>
-</ul>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Included in the package are the following:</strong></span></p>
-<ul style="text-align: left;">
-<li>Rent for a room</li>
-<li>Fees charged by consultants and surgeons</li>
-<li>O.T. charges and Anaesthesia charges</li>
-<li>Medicines, tests, and routine medical care</li>
-<li>Pickup and drop off at the airport</li>
-<li>Attendant Stay with the patient during treatment</li>
-<li>Access to the International Patient Care Lounge</li>
-<li>Handhold care by an executive</li>
-<li>Patient and attendant 3 meals</li>
-</ul>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Exclusions from the package</strong></span></p>
-<ul style="text-align: left;">
-<li>Stay beyond package days</li>
-<li>Added drugs and consumables to the list</li>
-<li>Consultation with specialists from other fields of medicine</li>
-<li>The complications involved</li>
-</ul>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Stay in hospital: </strong></span>After your surgery, you will have to stay in the hospital for four days to recover from it.</p>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Stay in India: </strong></span>You must stay in India for at least 15 days after your surgery to complete the process.</p>
-<p style="text-align: left;"><span style="color: #0048ad;"><strong>Percentage of success: </strong></span>There is no doubt that India is one of the world’s top countries when it comes to robotic hip replacement procedures, enjoying a success rate of 99.9%.</p>
+<h2 style="text-align: left;"><br /></h2>
 <h3 style="text-align: left;"><span style="color: #0048ad;"><strong>How can you avail the best Robotic Hip Replacement in India-Step through Step process?</strong></span></h3>
 <p style="text-align: left;">If you are looking for trustworthy treatment consultants in India, then Medihelp Global  is here for you. We will help you find the best doctor in India and will get your treatment done for the JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals who will be there with you at each step of your treatment. So, if you are planning your <span style="color: #0048ad;">hip replacement <strong>surgery</strong> <strong>in India </strong></span>fill out the form below and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p style="text-align: left;">We score over others because the ‘treatment consultants’ in our company are medical professionals themselves who are involved in each step of patient care. It is good to have an experienced ‘<strong>treatment consultant</strong>’ if you are planning for any medical treatment in India.</p>
@@ -7378,7 +7336,7 @@ You can also follow the given safety measures after the first few days of the <s
   {
     name: "knee-replacement-surgery",
     img: "/treatment/knee-replacement-surgery.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -7388,7 +7346,7 @@ You can also follow the given safety measures after the first few days of the <s
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;"><strong>Robotic Knee Replacement Surgery- Transforming Knee Replacement&nbsp; </strong><strong>Surgery for Better Lives</strong></span></h2>
+<h2><span style="color: #0048ad;">Top Hospitals For&nbsp; Knee Replacement Surgery In India and their Cost Comparison</span></h2><h2><span style="color: #0048ad;"><div class="table-container" style="color: black; font-size: medium; font-weight: 400;"><p><!--Additional rows...--></p><table><thead><tr><th style="text-align: left;"><span style="color: black;">Cost Of Unilateral Surgery</span></th><th style="text-align: left;"><span style="color: black;">Cost of Bilateral Surgery</span></th><th style="text-align: left;"><span style="color: black;">Hospital</span></th><th style="text-align: left;"><span style="color: black;">Best Doctor</span></th></tr></thead><tbody><tr><td>5000$</td><td>8500$</td><td>Max Super Speciality Hospital, New Delhi, {JCI}</td><td>Dr Anil Arora&nbsp;Exp:35 years Principal and Director and HOD ( Robotics Department)</td></tr><tr><td>4400$</td><td>7400$</td><td>CK Birla Hospital, Delhi,{ NABH}</td><td>Dr. Ashwani Maichand&nbsp;Exp: 25 years Director( Robotic Orthopaedic division)</td></tr><tr><td>4700$</td><td>9000$</td><td>Fortis Memorial Research Institute, Gurugram, {JCI}</td><td>Dr Subash Jangit&nbsp;Exp: 25 years Director( Minimal Access Orthopedic and Joint Replacement</td></tr><tr><td>5000$</td><td>9000$</td><td>Sarvodhya Hospital, Faridabad,<br />{NABH}</td><td>Dr Sujoy Bhattacharjee&nbsp;Exp: 25 years Chairman Orthopaedics Department</td></tr><tr><td>4700$</td><td>7500$</td><td>W Pratiksha Hospital, Gurugram,<br />{NABH}</td><td>Dr Hemant Sharma&nbsp;Exp: 30 years HOD Orthopedics and Joint Replacement</td></tr></tbody></table></div></span></h2><h2><span style="color: #0048ad;">Package Inclusions and Exclusions</span></h2><h2><span style="color: #0048ad;"><table style="width: 624px;"><thead><tr><td width="337"><span style="color: #0048ad;"><strong>Inclusions</strong></span></td><td width="287"><span style="color: #0048ad;"><strong>Exclusions</strong></span></td></tr><tr><td width="337">Routier Pre-op investigations</td><td width="287">Stay beyond package days</td></tr><tr><td width="337">Single /Private Room</td><td width="287">Added drugs and consumables to the list</td></tr><tr><td width="337">Implant cost { J&amp;J , Stryker, Zimmer , Smith &amp; Nephew}</td><td width="287">Consultation with specialists from other fields of medicine</td></tr><tr><td width="337">Rehabilitation during hospitalisation</td><td width="287">The complications involved</td></tr><tr><td width="337">Consultants and surgeons fees</td><td width="287"><strong>&nbsp;</strong></td></tr><tr><td width="337">O.T. charges and Anaesthesia charges</td><td width="287"><strong>&nbsp;</strong></td></tr><tr><td width="337">Medicines and consumables</td><td width="287"><strong>&nbsp;</strong></td></tr><tr><td width="337">Pickup and drop off at the airport</td><td width="287"><strong>&nbsp;</strong></td></tr><tr><td width="337">Attendant Stay and meals</td><td width="287"><strong>&nbsp;</strong></td></tr><tr><td width="337">Access to the International Patient Care Lounge</td><td width="287"><strong>&nbsp;</strong></td></tr><tr><td width="337">Handhold care by an executive</td><td width="287"><strong>&nbsp;</strong></td></tr><tr><td width="337">Taxi to visit the hospital</td><td width="287"><strong>&nbsp;</strong></td></tr><tr><td width="337">Normal Hotel with kitchen 10 days</td><td width="287"><strong>&nbsp;</strong></td></tr></thead></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in hospital :&nbsp;</strong>04 Days</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Stay in India :&nbsp;</strong>15 Days</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>Percentage of success:&nbsp;</strong>99.9%</p></span></h2><h2><span style="color: #0048ad;"><strong>Robotic Knee Replacement Surgery- Transforming Knee Replacement&nbsp; </strong><strong>Surgery for Better Lives</strong></span></h2>
 <p><span style="color: #0048ad;"><strong>Robotic knee replacement surgery</strong> </span>is often called Knee arthroplasty surgery. This can help reduce discomfort and restore function in severely damaged knee joints. This operation entails removing diseased bone and cartilage from the lower end of the thighbone, upper end of the shinbone, and kneecap and replacing it with an implant consisting of metal alloys, high-grade plastics, and polymers to make an artificial joint. This new joint is designed and aligned to mimic the function of normal human joints.</p>
 <p>It becomes mandatory for patients who are in pain due to an injury in their knee joint and when no other therapy seems to be working. This may commonly be caused by age-related osteoarthritis or rheumatoid arthritis.</p>
 <h2><span style="color: #0048ad;"><strong>When Pain Rules: Understanding the Need for Knee Replacement</strong></span></h2>
@@ -7463,147 +7421,35 @@ You can also follow the given safety measures after the first few days of the <s
 <h2><strong>Key Factors Affecting the Cost of Robotic Knee Replacement Surgery in India are:&nbsp;</strong></h2>
 <p>The <strong>knee replacement surgery cost in India</strong> depends on:</p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The choice of the hospital ( JCI or NABH)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Expertise of surgeon in robotics&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cost also depends on the type of robotic system you chose, fully automated robotic systems are more expensive than partial ones.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of knee replacement surgery selected ( robotic knee replacement is more costly than traditional knee replacement technique)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Total knee replacement is significantly costlier than partial knee replacement.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of implant selected ( titanium implant is expensive )&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make of implant – Indian is cheap whereas American are expensive&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A metal-on-metal implant is also more costly than a metal-on-plastic implant.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The <strong>robotic knee replacement surgery cost in Delhi</strong> will also depend on the type of room you choose to stay in. Private rooms are costly.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The location of the hospital also matters a lot. Cost is higher in Delhi as it is a tier 1 city.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The cost will also depend on pre-operative tests performed before the surgery.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The cost is also affected by the patient’s overall health, the severity of knee damage, and complications.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The choice of the hospital ( JCI or NABH)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The brand of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Expertise of surgeon in robotics&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Cost also depends on the type of robotic system you chose, fully automated robotic systems are more expensive than partial ones.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of knee replacement surgery selected ( robotic knee replacement is more costly than traditional knee replacement technique)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Total knee replacement is significantly costlier than partial knee replacement.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of implant selected ( titanium implant is expensive )&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Make of implant – Indian is cheap whereas American are expensive&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">A metal-on-metal implant is also more costly than a metal-on-plastic implant.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The <strong>robotic knee replacement surgery cost in Delhi</strong> will also depend on the type of room you choose to stay in. Private rooms are costly.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The location of the hospital also matters a lot. Cost is higher in Delhi as it is a tier 1 city.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The cost will also depend on pre-operative tests performed before the surgery.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The cost is also affected by the patient’s overall health, the severity of knee damage, and complications.&nbsp;</span></li>
 </ul>
 <h2><b>Other factors affecting <span style="font-weight: 400;"><strong>robotic knee replacement surgery cost in India</strong>“</span></b></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post-operative care</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up care and visits</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rehabilitation after surgery&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Length of hospitalization</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Post-operative care</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medications</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Follow-up care and visits</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Rehabilitation after surgery&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Currency exchange rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Length of hospitalization</span></li>
 </ul>
 <p><b>Different Types&nbsp; Robotic Knee Replacement Surgery in India</b><b></b></p>
 <ul>
 <li aria-level="1">The Navio Surgical System</li>
 </ul>
 <ul>
-<li aria-level="1">Mako Robotic Assisted Knee Surgery</li>
-</ul>
-<h2><span style="color: #0048ad;">Top Hospitals For&nbsp; Knee Replacement Surgery In India and their Cost Comparison</span></h2>
-<div class="table-container">
-<p><!-- Additional rows... --></p><table>
-<thead>
-<tr>
-<th style="text-align: left;"><span style="color: #000000;">Cost Of Unilateral Surgery</span></th>
-<th style="text-align: left;"><span style="color: #000000;">Cost of Bilateral Surgery</span></th>
-<th style="text-align: left;"><span style="color: #000000;">Hospital</span></th>
-<th style="text-align: left;"><span style="color: #000000;">Best Doctor</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>5000$</td>
-<td>8500$</td>
-<td><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a>, {JCI}</td>
-<td><a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/">Dr Anil Arora</a> Exp:35 years Principal and Director and HOD ( Robotics Department)</td>
-</tr>
-<tr>
-<td>4400$</td>
-<td>7400$</td>
-<td><a href="#/ck-birla-hospital/">CK Birla Hospital</a>, Delhi,{ NABH}</td>
-<td><a href="#/dr-ashwani-mainchand-orthopaedics-surgeon/">Dr. Ashwani Maichand</a> Exp: 25 years Director( Robotic Orthopaedic division)</td>
-</tr>
-<tr>
-<td>4700$</td>
-<td>9000$</td>
-<td><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute, Gurugram</a>, {JCI}</td>
-<td><a href="#/dr-subhash-jangid-knee-replacement-surgeon/">Dr Subash Jangit</a> Exp: 25 years Director( Minimal Access Orthopedic and Joint Replacement</td>
-</tr>
-<tr>
-<td>5000$</td>
-<td>9000$</td>
-<td><a href="#/sarvodaya-hospital-faridabad-india/">Sarvodhya Hospital</a>, Faridabad,<br>
-{NABH}</td>
-<td><a href="#/dr-sujoy-bhattacharjee-robotic-joint-replacement/">Dr Sujoy Bhattacharjee</a> Exp: 25 years Chairman Orthopaedics Department</td>
-</tr>
-<tr>
-<td>4700$</td>
-<td>7500$</td>
-<td><a href="#/w-pratiksha-hospital/">W Pratiksha Hospital</a>, Gurugram,<br>
-{NABH}</td>
-<td><a href="#/dr-hemant-sharma-robotic-joint-replacement-surgeon/">Dr Hemant Sharma</a> Exp: 30 years HOD Orthopedics and Joint Replacement</td>
-</tr>
-</tbody>
-</table>
-</div>
-<h2><span style="color: #0048ad;"><strong>Package Inclusions and Exclusions</strong></span></h2>
-<table width="624">
-<thead>
-<tr>
-<td width="337"><span style="color: #0048ad;"><strong>Inclusions</strong></span></td>
-<td width="287"><span style="color: #0048ad;"><strong>Exclusions</strong></span></td>
-</tr>
-<tr>
-<td width="337">Routier Pre-op investigations</td>
-<td width="287">Stay beyond package days</td>
-</tr>
-<tr>
-<td width="337">Single /Private Room</td>
-<td width="287">Added drugs and consumables to the list</td>
-</tr>
-<tr>
-<td width="337">Implant cost { J&amp;J , Stryker, Zimmer , Smith &amp; Nephew}</td>
-<td width="287">Consultation with specialists from other fields of medicine</td>
-</tr>
-<tr>
-<td width="337">Rehabilitation during hospitalisation</td>
-<td width="287">The complications involved</td>
-</tr>
-<tr>
-<td width="337">Consultants and surgeons fees</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="337">O.T. charges and Anaesthesia charges</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="337">Medicines and consumables</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="337">Pickup and drop off at the airport</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="337">Attendant Stay and meals</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="337">Access to the International Patient Care Lounge</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="337">Handhold care by an executive</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="337">Taxi to visit the hospital</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="337">Normal Hotel with kitchen 10 days</td>
-<td width="287"><strong>&nbsp;</strong></td>
-</tr>
-</thead>
-</table>
-<p><strong>Stay in hospital : </strong>04 Days</p>
-<p><strong>Stay in India : </strong>15 Days</p>
-<p><strong>Percentage of success: </strong>99.9%</p>
+<li aria-level="1">Mako Robotic Assisted Knee Surgery</li></ul>
 <h2><b>Knee Health on a Budget: </b>Service Cost at Medihelp Global Global</h2>
 <table>
 <tbody>
@@ -7636,15 +7482,15 @@ You can also follow the given safety measures after the first few days of the <s
 <p><span style="font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
 <p><b>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:&nbsp;</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Arranging visa</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at&nbsp;</span></p><h1 class="text-black font-bold text-xl" style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-color: #fff; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-offset-width: 0px; --tw-ring-shadow: 0 0 #0000; --tw-rotate: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-shadow-colored: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-skew-x: 0; --tw-skew-y: 0; --tw-text-opacity: 1; --tw-translate-x: 0; --tw-translate-y: 0; background-color: rgba(255, 255, 255, 0.3); border-color: hsl(var(--border)); border-image: initial; border-style: solid; border-width: 0px; box-sizing: border-box; color: rgb(0 0 0/var(--tw-text-opacity)); font-family: Poppins, &quot;Poppins Fallback&quot;; font-size: 1.25rem; line-height: 1.75rem; margin: 0px;">info@medihelpglobal.com</h1>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Robotic Knee Replacement Surgery Doctors in India</strong>&nbsp;</span></p>
 </div>`,
   },
@@ -7653,27 +7499,27 @@ You can also follow the given safety measures after the first few days of the <s
     name: "shoulder-replacement-surgery",
     img: "/treatment/shoulder-replacement-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Shoulder Replacement Surgery in India: Shoulder Pain No More</span></h2>
+			<h2><strong><span style="color: #0048ad;">Top Hospitals and Doctors Doing Shoulder Replacement Surgery in India</span></strong></h2><h2><span style="color: #0048ad;"><table style="height: 804px; width: 532px;"><tbody><tr><td width="216"><strong>Hospital</strong></td><td width="164"><strong>Best Doctor</strong></td><td width="89"><strong>Cost&nbsp;</strong></td></tr><tr><td width="216">Max Super Speciality Hospital, New Delhi<p></p><p>(JCI accredited )</p></td><td width="164">Dr. S.K.S. Marya, Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, (Experience 42 years)</td><td width="89">9000$</td></tr><tr><td width="216">Fortis Memorial Research Institute,<p></p><p>(JCI accredited )</p></td><td width="164">Dr Subhash Jangit– Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, (Experience 25 years)</td><td width="89">8500$</td></tr><tr><td width="216">Medanta, The Medicity<p></p><p>(JCI accredited )</p></td><td width="164">&nbsp;Dr. Ashok Rajgopal, Group Chairman, Institute Of Musculoskeletal Disorders and Orthopaedics, (Experience 40 years)</td><td width="89">9500$</td></tr><tr><td width="216">Indraprastha Apollo Hospitals, New Delhi,<p></p><p>(JCI accredited )</p></td><td width="164">Dr (Prof) Raju Vaishya, Sr. Consultant Orthopaedics, (Experience 35 years)</td><td width="89">9000$</td></tr><tr><td width="216">Artemis Hospital, Gurugram,<p></p><p>(NABH accredited )</p></td><td width="164">&nbsp;Dr. I P S Oberoi, Chairperson of Orthopedics Program – Joint Replacement &amp; Arthroscopy, (Experience 25 years )</td><td width="89">8000$</td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Shoulder Replacement Surgery in India: Shoulder Pain No More</span></h2>
 <p>For individuals who suffer from severe shoulder pain or shoulder conditions, shoulder replacement surgery has emerged as a beacon of hope, which promises relief from pain and helps them to return to normalcy.</p>
 <p>In a shoulder replacement surgery, the damaged or diseased portion of the shoulder including the upper arm is removed carefully. These areas are then replaced by artificial components that mimic the natural joint, thus restoring normal shoulder function.</p>
 <p>In recent years, India has witnessed remarkable advancements in the field of orthopaedics, particularly in shoulder replacement surgery. This article will delve into all the essential points related to shoulder replacement surgery in India.</p>
 <p><strong><span style="color: #0048ad;">Why is shoulder replacement surgery done?</span></strong></p>
-<p>Shoulder replacement surgery is done to relieve pain and treat other conditions like:<br>
-● Osteoarthritis<br>
-● Rotator cuff injuries<br>
-● Fractures<br>
-● Rheumatoid arthritis or other inflammatory disorders<br>
+<p>Shoulder replacement surgery is done to relieve pain and treat other conditions like:<br />
+● Osteoarthritis<br />
+● Rotator cuff injuries<br />
+● Fractures<br />
+● Rheumatoid arthritis or other inflammatory disorders<br />
 ● Osteonecrosis</p>
 <h2><span style="color: #0048ad;"><strong>Types of Shoulder Replacement</strong></span></h2>
 <p>Different types of shoulder replacement surgery performed in India are:</p>
-<p>● <strong>Partial Shoulder Replacement:</strong> When the socket in the shoulder joint wears off, a person is usually recommended for partial shoulder replacement. In this procedure, the surgeon will put a metal stem on the upper end of the arm bone with the ball to regain movement in the shoulder joint.<br>
-● <strong>Total Shoulder Replacement:</strong> It is another technique and one of the most complex ones. It involves the replacement of a damaged shoulder joint with an artificial shoulder joint.<br>
-●<strong> Reverse Shoulder Replacement:</strong> This surgery is typically suggested when the natural position of the ball and socket joint gets reversed.<br>
+<p>● <strong>Partial Shoulder Replacement:</strong> When the socket in the shoulder joint wears off, a person is usually recommended for partial shoulder replacement. In this procedure, the surgeon will put a metal stem on the upper end of the arm bone with the ball to regain movement in the shoulder joint.<br />
+● <strong>Total Shoulder Replacement:</strong> It is another technique and one of the most complex ones. It involves the replacement of a damaged shoulder joint with an artificial shoulder joint.<br />
+●<strong> Reverse Shoulder Replacement:</strong> This surgery is typically suggested when the natural position of the ball and socket joint gets reversed.<br />
 ● <strong>Shoulder Resurfacing:</strong> In this technique, the surgeon will replace the damaged humeral joint surface with an artificial metal cap without harming any part of the humerus.</p>
 <p><strong><span style="color: #0048ad;">Diagnosis For Shoulder Replacement Surgery</span></strong></p>
-<p>A series of tests are performed before the surgery to determine the best-suited technique for the shoulder joint. Some common diagnostic tests which are performed before the surgery are:<br>
-● X-Ray<br>
-● MRI<br>
+<p>A series of tests are performed before the surgery to determine the best-suited technique for the shoulder joint. Some common diagnostic tests which are performed before the surgery are:<br />
+● X-Ray<br />
+● MRI<br />
 ● Electromyography</p>
 <h2><span style="color: #0048ad;"><strong>Advanced techniques and technologies for shoulder replacement in India</strong></span></h2>
 <p>In India, shoulder replacement surgery has been a success thanks to advanced techniques and technology. Here are some notable innovations:</p>
@@ -7684,107 +7530,68 @@ You can also follow the given safety measures after the first few days of the <s
 <h2><span style="color: #0048ad;"><strong>Understanding Minimally Invasive Shoulder Replacement Surgery</strong></span></h2>
 <p>Minimally Invasive shoulder replacement surgery is a refined surgical technique that is used to replace the deteriorated parts of the shoulder with artificial components. Unlike traditional open surgeries, this surgery involves small incisions, special instruments, and advanced imaging to achieve the same goals with minimal disruption.</p>
 <p><strong><span style="color: #0048ad;">Before the Surgery</span></strong></p>
-<p>● A first consultation with an orthopaedic surgeon usually kicks off the process. A surgeon will review your medical history, including any underlying health conditions, medications, and previous surgeries.<br>
-● An examination of the affected shoulder will be conducted to assess the range of motion, strength, and any specific shoulder issues.<br>
-● To determine the best surgical approach, X-rays, MRI scans, or other imaging studies may be ordered.<br>
-● Before surgery, patients are usually encouraged to try non-surgical treatments. The treatments may include physical therapy, pain meds, corticosteroid injections, and lifestyle changes.<br>
-● The surgeon will explain the risks and benefits of shoulder replacement surgery to the patient.<br>
-● You will be provided with detailed information about what to expect before and after the surgery.<br>
-● A patient must sign informed consent, a legal document, indicating their understanding and willingness to have surgery.<br>
-● As soon as the decision to have surgery is made, the surgical team starts planning. It includes figuring out what kind of anaesthesia will be used (general or regional)<br>
-● Depending on the anaesthesia team’s instructions, patients might be asked to abstain from eating or drinking for a while before surgery.<br>
-● Patients will have to provide a list of all their medications, supplements, and over-the-counter drugs.<br>
-● To reduce infection risk, patients might need to shower with an antibacterial soap the night before or the morning of surgery.<br>
+<p>● A first consultation with an orthopaedic surgeon usually kicks off the process. A surgeon will review your medical history, including any underlying health conditions, medications, and previous surgeries.<br />
+● An examination of the affected shoulder will be conducted to assess the range of motion, strength, and any specific shoulder issues.<br />
+● To determine the best surgical approach, X-rays, MRI scans, or other imaging studies may be ordered.<br />
+● Before surgery, patients are usually encouraged to try non-surgical treatments. The treatments may include physical therapy, pain meds, corticosteroid injections, and lifestyle changes.<br />
+● The surgeon will explain the risks and benefits of shoulder replacement surgery to the patient.<br />
+● You will be provided with detailed information about what to expect before and after the surgery.<br />
+● A patient must sign informed consent, a legal document, indicating their understanding and willingness to have surgery.<br />
+● As soon as the decision to have surgery is made, the surgical team starts planning. It includes figuring out what kind of anaesthesia will be used (general or regional)<br />
+● Depending on the anaesthesia team’s instructions, patients might be asked to abstain from eating or drinking for a while before surgery.<br />
+● Patients will have to provide a list of all their medications, supplements, and over-the-counter drugs.<br />
+● To reduce infection risk, patients might need to shower with an antibacterial soap the night before or the morning of surgery.<br />
 ● After surgery, you’ll usually be restricted from driving, so it’s important to arrange transportation.</p>
 <p><strong><span style="color: #0048ad;">During the Surgery</span></strong></p>
 <p>The procedure of minimally invasive shoulder replacement surgery involves the following steps:</p>
-<p>● The process begins with administering general or local anesthesia depending on the preference of the patients.<br>
-● A small incision around 2 to 3 inches is made to reach the shoulder joint.<br>
-● The surgeon then carefully navigates around muscles and tendons to access the joint.<br>
-● The damaged part of the joint including the humeral head and socket are removed carefully.<br>
-● Special instruments are used to place implants.<br>
+<p>● The process begins with administering general or local anesthesia depending on the preference of the patients.<br />
+● A small incision around 2 to 3 inches is made to reach the shoulder joint.<br />
+● The surgeon then carefully navigates around muscles and tendons to access the joint.<br />
+● The damaged part of the joint including the humeral head and socket are removed carefully.<br />
+● Special instruments are used to place implants.<br />
 ● The incisions are then closed with sutures and staples.</p>
 <p><strong><span style="color: #0048ad;">After the Surgery</span></strong></p>
 <p>During your recovery from shoulder replacement surgery, you’ll gradually improve shoulder function and reduce pain. Depending on the procedure, your overall health, and how well you follow postoperative instructions, your experience may vary. Here’s what to expect:</p>
-<p>● You will have to stay in the hospital for a few days for close monitoring.<br>
-● Pain and discomfort are common in the surgical area.<br>
-● Initially, your shoulder will be immobilized to protect the joint and promote healing.<br>
-● Physical therapy is extremely essential for recovery.<br>
-● Attend all follow-up appointments to monitor your recovery.<br>
-● Your surgeon will tell you to stop certain activities during the early phase of recovery.<br>
-● Swelling and bruising are common in the initial days of the surgery.<br>
+<p>● You will have to stay in the hospital for a few days for close monitoring.<br />
+● Pain and discomfort are common in the surgical area.<br />
+● Initially, your shoulder will be immobilized to protect the joint and promote healing.<br />
+● Physical therapy is extremely essential for recovery.<br />
+● Attend all follow-up appointments to monitor your recovery.<br />
+● Your surgeon will tell you to stop certain activities during the early phase of recovery.<br />
+● Swelling and bruising are common in the initial days of the surgery.<br />
 ● Complete recovery may take several months, so be patient and give yourself time to heal.</p>
 <p><strong><span style="color: #0048ad;">Recovery Tips</span></strong></p>
-<p>The recovery process is not so complicated but you have to follow some guidelines given by your doctor without fail. These guidelines include:<br>
-● Take all medications on time<br>
-● Avoid any strenuous activity post-surgery<br>
-● Avoid lifting heavy objects<br>
-● Avoid driving for at least a month<br>
+<p>The recovery process is not so complicated but you have to follow some guidelines given by your doctor without fail. These guidelines include:<br />
+● Take all medications on time<br />
+● Avoid any strenuous activity post-surgery<br />
+● Avoid lifting heavy objects<br />
+● Avoid driving for at least a month<br />
 ● Do not sleep on the side of the surgical site.</p>
 <p><strong><span style="color: #0048ad;">Benefits of Minimally Invasive Shoulder Replacement Surgery</span></strong></p>
-<p>The primary benefits of the surgery include:<br>
-● Small incision and less scarring<br>
-● Less tissue trauma<br>
-● Fast recovery<br>
-● Low risk of infections and complications<br>
+<p>The primary benefits of the surgery include:<br />
+● Small incision and less scarring<br />
+● Less tissue trauma<br />
+● Fast recovery<br />
+● Low risk of infections and complications<br />
 ● Improved joint stability</p>
 <p><strong><span style="color: #0048ad;">Risks Associated with the Surgery</span></strong></p>
 <p>Mostly shoulder replacement surgeries are safe and effective. However, there are some complications and risks involved. These risks include:</p>
-<p>● Dislocation of the ball of a new joint<br>
-● Fracture in the humerus bone or scapula<br>
-● Implant loosening<br>
-● Rotator cuff failure<br>
-● Nerve damage<br>
-● Blood clots<br>
+<p>● Dislocation of the ball of a new joint<br />
+● Fracture in the humerus bone or scapula<br />
+● Implant loosening<br />
+● Rotator cuff failure<br />
+● Nerve damage<br />
+● Blood clots<br />
 ● Infection in surgical site</p>
 <p><strong><span style="color: #0048ad;">What types of implants are used?</span></strong></p>
 <p>There are several types of implants used in shoulder replacement surgery. The primary components used in the surgery are:</p>
-<p><strong><em>Humeral Component:</em> </strong>It replaces the humerus. The material used for humeral implants includes metal alloys, ceramics, and special polymers.<br>
+<p><strong><em>Humeral Component:</em> </strong>It replaces the humerus. The material used for humeral implants includes metal alloys, ceramics, and special polymers.<br />
 Glenoid Component: It replaces the worn-out socket of the shoulder joint. It is made of plastic or highly polished metal.</p>
 <p><em><strong>Glenoid Liner:</strong></em> The liner helps to reduce friction within the joint. It is made of plastic.</p>
 <p>Stem: It provides stability to the humeral head. It is designed based on the bone quality of the patient.</p>
 <p><em><strong>Augments:</strong></em> They are additional pieces used during surgery. They provide stability to implant components.</p>
-<h2><strong><span style="color: #0048ad;">Top Hospitals and Doctors Doing Shoulder Replacement Surgery in India</span></strong></h2>
-<table style="height: 804px;" width="532">
-<tbody>
-<tr>
-<td width="216"><strong>Hospital</strong></td>
-<td width="164"><strong>Best Doctor</strong></td>
-<td width="89"><strong>Cost&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="216"><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital</a>, New Delhi<p></p>
-<p>(JCI accredited )</p></td>
-<td width="164"><a href="#/dr-s-k-s-marya-orthopedic-joint-replacement-surgeon/">Dr. S.K.S. Marya</a>, Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, (Experience 42 years)</td>
-<td width="89">9000$</td>
-</tr>
-<tr>
-<td width="216"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>,<p></p>
-<p>(JCI accredited )</p></td>
-<td width="164"><a href="#/dr-subhash-jangid-director-and-head-of-the-orthopaedics-and-robotic-joint-reconstruction/">Dr Subhash Jangit</a>– Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, (Experience 25 years)</td>
-<td width="89">8500$</td>
-</tr>
-<tr>
-<td width="216"><a href="#/medanta-the-medicity-eye-department/">Medanta, The Medicity</a><p></p>
-<p>(JCI accredited )</p></td>
-<td width="164"><a href="#/dr-ashok-rajgopal-orthopaedic-surgeon-in-delhi-india/">&nbsp;Dr. Ashok Rajgopal</a>, Group Chairman, Institute Of Musculoskeletal Disorders and Orthopaedics, (Experience 40 years)</td>
-<td width="89">9500$</td>
-</tr>
-<tr>
-<td width="216"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>s, New Delhi,<p></p>
-<p>(JCI accredited )</p></td>
-<td width="164"><a href="#/dr-prof-raju-vaishya-orthopedic-surgeon-in-delhi/">Dr (Prof) Raju Vaishya</a>, Sr. Consultant Orthopaedics, (Experience 35 years)</td>
-<td width="89">9000$</td>
-</tr>
-<tr>
-<td width="216"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram,<p></p>
-<p>(NABH accredited )</p></td>
-<td width="164">&nbsp;<a href="#/dr-ips-oberoi-orthopaedic-surgeon/">Dr. I P S Oberoi</a>, Chairperson of Orthopedics Program – Joint Replacement &amp; Arthroscopy, (Experience 25 years )</td>
-<td width="89">8000$</td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><strong>How can you avail the best Shoulder Replacement surgery in India By Step process?</strong></span></p>
+<h2><strong style="color: #0048ad;"><br />How can you avail the best Shoulder Replacement surgery in India By Step process?</strong></h2>
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your shoulder replacement surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Shoulder Replacement Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -7795,27 +7602,27 @@ Glenoid Component: It replaces the worn-out socket of the shoulder joint. It is 
     name: "arthroscopy-surgery",
     img: "/treatment/arthroscopy-surgery.webp",
     data: `<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">High-end technology-driven arthroscopic surgery in India</span></h2>
+			<h2><span style="color: #0048ad;">Cost of&nbsp;<a href="#/cost-of-arthroscopy-surgery-in-india/">Arthroscopy Surgery</a>&nbsp;in India</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">● The cost of knee arthroscopic surgery ranges between 2500 -3000$<br />● Shoulder arthroscopic surgery costs you around 2,500 $<br />● The cost of an ACL tear would be around 3,000 $ in top hospitals.<br />● ACL tear repair with an implant costs around 4000$.<br />● Debridement and cleaning of knee joint costs around 2500$<br />● The cost of rotator cuff injury with arthroscopic repair will be around 3,000$.<br />● Arthroscopic hip surgery also cost around 3,000 $</p></span></h2><h2><span style="color: #0048ad;">High-end technology-driven arthroscopic surgery in India</span></h2>
 <p><span style="color: #0048ad;"><strong>What is Arthroscopic surgery?</strong></span></p>
 <p>Arthroscopy is a surgical procedure that lets doctors diagnose and treat the problems inside a joint. The process involves the insertion of a fibre optic camera inside the joint through a small incision. A high-definition video monitor is used to look at the joint. This allows surgeons to view the joints and repair them using special instruments.</p>
 <p><strong><span style="color: #0048ad;">What are the different types of Arthroscopy?</span></strong></p>
 <p>Different types of arthroscopic reconstruction surgeries surgeries include:</p>
-<p>● Elbow Arthroscopy<br>
-● Foot and Ankle Arthroscopy<br>
-● Hand and wrist arthroscopy<br>
-● Hip arthroscopy<br>
-● Knee Arthroscopy<br>
+<p>● Elbow Arthroscopy<br />
+● Foot and Ankle Arthroscopy<br />
+● Hand and wrist arthroscopy<br />
+● Hip arthroscopy<br />
+● Knee Arthroscopy<br />
 ● Shoulder Arthroscopy</p>
-<p><strong><span style="color: #0048ad;">Why is Arthroscopy performed?</span></strong><br>
+<p><strong><span style="color: #0048ad;">Why is Arthroscopy performed?</span></strong><br />
 Healthcare providers particularly use Arthroscopy to diagnose and treat a range of joint, ligament, and tendon problems. These problems include:</p>
 <p><span style="color: #339966;"><strong>Knee</strong></span>: <strong>Knee Arthroscopy</strong> can be used to diagnose various knee problems, such as a torn meniscus or a misaligned patella (kneecap). It can be used to repair the ligaments with limited risks and an improved outlook. The process has significantly lower recovery times compared to the traditional surgical procedure.</p>
-<p>Arthroscopy can also be used to diagnose and treat knee injuries, such as:<br>
-o torn anterior or posterior cruciate ligaments<br>
-o torn meniscus (the cartilage between the bones in the knee)<br>
-o patella that’s out of position<br>
-o pieces of torn cartilage that are loose in the joint<br>
-o removal of a Baker’s cyst<br>
-o fractures in the knee bones<br>
+<p>Arthroscopy can also be used to diagnose and treat knee injuries, such as:<br />
+o torn anterior or posterior cruciate ligaments<br />
+o torn meniscus (the cartilage between the bones in the knee)<br />
+o patella that’s out of position<br />
+o pieces of torn cartilage that are loose in the joint<br />
+o removal of a Baker’s cyst<br />
+o fractures in the knee bones<br />
 o swollen synovium (the lining in the joint)</p>
 <p><span style="color: #0048ad;"><strong>Hip</strong></span>: <strong>Hip arthroscopy surgery</strong> is used to repair damaged labrum, articular cartilage, or other soft tissues surrounding the joint. This damage could be due to an injury and may lead to other orthopaedic conditions such as:</p>
 <p>Femoro-acetabular impingement (FAI): This results from bony over-growth along the cavity of the acetabulum (pincer impingement) or on the femoral head (cam impingement). This damages the soft tissues of the hip during movement, especially the articular cartilage.</p>
@@ -7830,90 +7637,83 @@ o swollen synovium (the lining in the joint)</p>
 <p><span style="color: #0048ad;"><strong>Frozen Shoulder</strong>: </span>Some cases of Frozen Shoulder may require surgical intervention using Shoulder Arthroscopy Surgery.</p>
 <p><span style="color: #0048ad;"><strong>AC Joint Arthritis</strong>: </span>In the case of severe arthritis of the acromioclavicular joint (AC joint), the damaged end of the clavicle (collarbone) is removed. This relieves the symptoms of AC arthritis.</p>
 <p><span style="color: #0048ad;"><strong>Who needs Arthroscopy?</strong></span></p>
-<p><span style="color: #0048ad;"><strong>Arthroscopy Surgery is a perfect option for people who do not get relief from non-surgical treatments like: </strong></span><br>
-● Braces and splints<br>
-● Medications and steroid injections<br>
-● Physiotherapy<br>
+<p><span style="color: #0048ad;"><strong>Arthroscopy Surgery is a perfect option for people who do not get relief from non-surgical treatments like: </strong></span><br />
+● Braces and splints<br />
+● Medications and steroid injections<br />
+● Physiotherapy<br />
 ● Rest</p>
 <p><span style="color: #0048ad;"><strong>Diagnosis</strong></span></p>
-<p>The various diagnostic tests performed include:<br>
-● Blood Tests<br>
-● Xrays<br>
-● CT scans<br>
-● MRI<br>
-● Ultrasound<br>
+<p>The various diagnostic tests performed include:<br />
+● Blood Tests<br />
+● Xrays<br />
+● CT scans<br />
+● MRI<br />
+● Ultrasound<br />
 ● PET scan</p>
 <p><span style="color: #0048ad;"><strong>Understanding High-End Technology Driven Arthroscopic Surgery in India</strong></span></p>
-<p>● Shaving Cartilage: It is also known as chondroplasty. During this procedure, the surgeon shaves the damaged cartilage surface within a joint.<br>
+<p>● Shaving Cartilage: It is also known as chondroplasty. During this procedure, the surgeon shaves the damaged cartilage surface within a joint.<br />
 ● Anterior Cruciate Ligament: ACL surgery aims to reconstruct torn or damaged ACL in the knee. ACL is a very important ligament that provides stability to the knee joint when it gets injured. ACL repair cost in India is affordable.</p>
 <p><span style="color: #0048ad;"><strong>Before Arthroscopy procedure</strong></span></p>
-<p><em><span style="color: #000000;"><strong>Before the surgery, you should follow the instructions of your healthcare provider. In general, you should:</strong></span></em></p>
-<p>● Inform your doctor about any allergies you have<br>
-● Inform about the medications and supplements you take<br>
-● Let your doctor know if you are only blood thinners<br>
+<p><em><span style="color: black;"><strong>Before the surgery, you should follow the instructions of your healthcare provider. In general, you should:</strong></span></em></p>
+<p>● Inform your doctor about any allergies you have<br />
+● Inform about the medications and supplements you take<br />
+● Let your doctor know if you are only blood thinners<br />
 ● Do not eat or drink anything the night before your surgery</p>
 <p><span style="color: #0048ad;"><strong>During the Surgery</strong></span></p>
-<p><span style="color: #000000;"><strong>What is an arthroscope?</strong></span></p>
+<p><span style="color: black;"><strong>What is an arthroscope?</strong></span></p>
 <p>An arthroscope is a small tube that is inserted into the body. It contains lenses, a video camera, and light. The camera is connected to a monitor system that allows surgeons to get a view of the surgery while it is being done. It is generally coupled with other tools used for grasping, cutting, and probing.</p>
-<p>● You will receive general, local, or spinal anaesthesia.<br>
-● A small incision is made in the skin.<br>
-● The Arthroscopy is inserted via incision.<br>
-● Other incisions called portals can be made to insert other tools.<br>
-● Light is transmitted at the end of the arthroscope using fibre optics.<br>
-● Corrective surgery is done.<br>
+<p>● You will receive general, local, or spinal anaesthesia.<br />
+● A small incision is made in the skin.<br />
+● The Arthroscopy is inserted via incision.<br />
+● Other incisions called portals can be made to insert other tools.<br />
+● Light is transmitted at the end of the arthroscope using fibre optics.<br />
+● Corrective surgery is done.<br />
 ● After the surgery, dressing and bandages are put on.</p>
 <p><span style="color: #0048ad;"><strong>After the Surgery</strong></span></p>
-<p>● After the surgery is over, you will be taken to the recovery room.<br>
-● Doctors will give you some pain medication to relieve your pain.<br>
-● Most arthroscopy surgeries are performed on an outpatient basis, so you will be discharged on the same day. If there are some complications, then you may have to stay at the hospital.<br>
-● You will also be prescribed aspirin to prevent blood clots.<br>
-● Make sure to apply ice for the first 24 hours to reduce inflammation.<br>
-● Elevate your leg to reduce pain.<br>
-● Take pain medicines as prescribed.<br>
+<p>● After the surgery is over, you will be taken to the recovery room.<br />
+● Doctors will give you some pain medication to relieve your pain.<br />
+● Most arthroscopy surgeries are performed on an outpatient basis, so you will be discharged on the same day. If there are some complications, then you may have to stay at the hospital.<br />
+● You will also be prescribed aspirin to prevent blood clots.<br />
+● Make sure to apply ice for the first 24 hours to reduce inflammation.<br />
+● Elevate your leg to reduce pain.<br />
+● Take pain medicines as prescribed.<br />
 ● Do not consume alcohol at all.</p>
 <p><span style="color: #0048ad;"><strong>Advantages of Arthroscopy</strong></span></p>
-<p>Arthroscopy surgery is a minimally invasive surgical procedure. Its benefits include:<br>
-● Fast recovery<br>
-● Less pain<br>
-● Minimal blood loss<br>
+<p>Arthroscopy surgery is a minimally invasive surgical procedure. Its benefits include:<br />
+● Fast recovery<br />
+● Less pain<br />
+● Minimal blood loss<br />
 ● Less scarring</p>
-<p><span style="color: #0048ad;"><strong>General Tips for Recovery</strong></span><br>
-● Pay attention to pain, swelling, and any strange sensations during recovery. Get in touch with your healthcare provider if you have any concerns.<br>
-● Be sure to follow your surgeon’s instructions about weight-bearing, activity level, and rehabilitation exercises.<br>
-● Maintain a balanced diet to help your body heal. Make sure you stay hydrated.<br>
-● Restorative sleep helps the healing process.<br>
-● You should avoid alcohol and tobacco. These substances can interfere with the healing process.<br>
-● It takes time to recover from an arthroscopy. To prevent setbacks or complications, be patient and don’t rush.<br>
+<p><span style="color: #0048ad;"><strong>General Tips for Recovery</strong></span><br />
+● Pay attention to pain, swelling, and any strange sensations during recovery. Get in touch with your healthcare provider if you have any concerns.<br />
+● Be sure to follow your surgeon’s instructions about weight-bearing, activity level, and rehabilitation exercises.<br />
+● Maintain a balanced diet to help your body heal. Make sure you stay hydrated.<br />
+● Restorative sleep helps the healing process.<br />
+● You should avoid alcohol and tobacco. These substances can interfere with the healing process.<br />
+● It takes time to recover from an arthroscopy. To prevent setbacks or complications, be patient and don’t rush.<br />
 ● During your recovery, ask for emotional support from friends and family. It can be a challenging time, and having a support system can be invaluable.</p>
 <p><span style="color: #0048ad;"><strong>Risks</strong></span></p>
-<p><strong>Arthroscopy</strong> is a safe procedure. However, there are some risks associated with it. The complications include:<br>
-● Allergic reaction to anaesthesia<br>
-● Blood clots<br>
-● Damage to surrounding nerves<br>
-● Excessive bleeding<br>
+<p><strong>Arthroscopy</strong> is a safe procedure. However, there are some risks associated with it. The complications include:<br />
+● Allergic reaction to anaesthesia<br />
+● Blood clots<br />
+● Damage to surrounding nerves<br />
+● Excessive bleeding<br />
 ● Infections</p>
 <h2><span style="color: #0048ad;"><strong>Top orthopaedicians carrying out arthroscopic surgeries in India</strong></span></h2>
-<p>● <strong><em><a href="#/dr-s-k-s-marya-orthopedic-joint-replacement-surgeon/">Dr. S.K.S. Marya</a>,</em> </strong>Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, Max Hospital, Gurgaon &amp; Max Smart Super Speciality Hospital, Saket, experience 42 years.<br>
-● <a href="#/dr-ashok-rajgopal-orthopaedic-surgeon-in-delhi-india/"><em><strong>Dr Ashok Rajgopal</strong></em></a>, Group Chairman, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta, Gurugram, has 40 years of experience.<br>
-● <a href="#/dr-prof-raju-vaishya-orthopedic-surgeon-in-delhi/"><em><strong>Dr (Prof) Raju Vaishya</strong></em></a>, Sr. Consultant Orthopaedics, Indraprastha Apollo Hospitals, New Delhi, experience 35 years.<br>
-● <a href="#/dr-prof-anil-arora-orthopedic-surgeon-in-delhi-india/"><em><strong>Dr. (Prof.) Anil Arora</strong></em></a>, Principal Director &amp; Head of Department – Orthopaedics &amp; Joint Replacement Surgery, Orthopaedics &amp; Joint Replacement, Max Super Speciality Hospital, Patparganj, 35 years of experience<br>
-● <a href="#/dr-ramneek-mahajan-orthopedic-surgeon-in-delhi-india/"><em><strong>Dr. Ramneek Mahajan</strong></em></a>, Senior Director (Orthopaedics) &amp; Head Joint Reconstruction (Hip &amp; Knee) Unit Orthopaedics &amp; Joint Replacement, Arthroscopy &amp; Sports Injury, Max Smart Super Speciality Hospital, Saket, experience 25 years</p>
+<p>● <strong><em>Dr. S.K.S. Marya,</em> </strong>Chairman &amp; Chief Surgeon – Orthopaedics &amp; Joint Replacement, Max Hospital, Gurgaon &amp; Max Smart Super Speciality Hospital, Saket, experience 42 years.<br />
+● <em><strong>Dr Ashok Rajgopal</strong></em>, Group Chairman, Institute Of Musculoskeletal Disorders and Orthopaedics, Medanta, Gurugram, has 40 years of experience.<br />
+● <em><strong>Dr (Prof) Raju Vaishya</strong></em>, Sr. Consultant Orthopaedics, Indraprastha Apollo Hospitals, New Delhi, experience 35 years.<br />
+● <em><strong>Dr. (Prof.) Anil Arora</strong></em>, Principal Director &amp; Head of Department – Orthopaedics &amp; Joint Replacement Surgery, Orthopaedics &amp; Joint Replacement, Max Super Speciality Hospital, Patparganj, 35 years of experience<br />
+● <em><strong>Dr. Ramneek Mahajan</strong></em>, Senior Director (Orthopaedics) &amp; Head Joint Reconstruction (Hip &amp; Knee) Unit Orthopaedics &amp; Joint Replacement, Arthroscopy &amp; Sports Injury, Max Smart Super Speciality Hospital, Saket, experience 25 years</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals offering Arthroscopy Surgery in India</strong></span></h2>
-<p>● <a href="https://www.medanta.org/">Medanta the Medicity</a>, Gurugram<br>
-● <a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, Patparganj. New Delhi.<br>
-●<a href="#/max-super-speciality-hospital-in-saket-new-delhi/"> Max Smart Super Speciality Hospital</a>, Saket, New Delhi.<br>
-●<a href="#/bl-kapur-hospital/"> BLK-Max Hospital</a>, New Delhi,<br>
-●<a href="#/artemis-hospital-gurgaon-india/"> Artemis Hospital</a>, Gurugram<br>
-● <a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram<br>
-● <a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</p>
-<h2><span style="color: #0048ad;"><strong>Cost of <a href="#/cost-of-arthroscopy-surgery-in-india/">Arthroscopy Surgery</a> in India</strong></span></h2>
-<p>● The cost of knee arthroscopic surgery ranges between 2500 -3000$<br>
-● Shoulder arthroscopic surgery costs you around 2,500 $<br>
-● The cost of an ACL tear would be around 3,000 $ in top hospitals.<br>
-● ACL tear repair with an implant costs around 4000$.<br>
-● Debridement and cleaning of knee joint costs around 2500$<br>
-● The cost of rotator cuff injury with arthroscopic repair will be around 3,000$.<br>
-● Arthroscopic hip surgery also cost around 3,000 $</p>
+<p>● Medanta the Medicity, Gurugram<br />
+● Max Super Speciality Hospital, Patparganj. New Delhi.<br />
+● Max Smart Super Speciality Hospital, Saket, New Delhi.<br />
+● BLK-Max Hospital, New Delhi,<br />
+● Artemis Hospital, Gurugram<br />
+● Fortis Memorial Research Institute, Gurugram<br />
+● Indraprastha Apollo Hospital, New Delhi</p>
+<h2><br /></h2>
 <p><em><span style="color: #0048ad;"><strong>How can you avail yourself of the best Arthroscopy surgery in India Step by Step process?</strong></span></em></p>
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your arthroscopy surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Arthroscopy Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
@@ -7928,13 +7728,7 @@ o swollen synovium (the lining in the joint)</p>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1700" height="1200" src="#/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1.webp" class="vc_single_image-img attachment-full" alt="Male Female Sex Conversion Surgery" title="Male-Female-Sex-Conversion-Surgery-1" srcset="#/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1.webp 1700w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-300x212.webp 300w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1024x723.webp 1024w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-768x542.webp 768w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1536x1084.webp 1536w, #/wp-content/uploads/2024/01/Male-Female-Sex-Conversion-Surgery-1-1200x847.webp 1200w" sizes="(max-width: 1700px) 100vw, 1700px"></div>
-		</figure>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element">
-		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Male-to-female sex change surgery in India: A Compassionate Journey from Male to Female Empowerment</span></h2>
+			<h2 style="text-align: left;"><span style="color: #0048ad;"><b>Male-to-female sex change surgery in India: A Compassionate Journey from Male to Female Empowerment</b></span></h2><div><strong style="color: #0048ad;">Sex change surgery cost – 7500 USD</strong></div></figure></div><div class="wpb_text_column wpb_content_element"><div class="wpb_wrapper">
 <p>Male-to-female sex conversion operations are not new. The first male-to-female sex change surgery was performed in the early 1990s, but there are still many misconceptions related to it. To put simply, male-to-female sex conversion surgery involves a series of operations whose aim is to change the appearance and function of male genitals to match the female genitals. It includes changing the shape of the penis and testicles to create a vagina.</p>
 <p>It is mostly performed on individuals who are physically male, but they identify themselves as female.</p>
 <p><span style="color: #0048ad;"><strong>Why do you feel trapped in someone else’s body?</strong></span></p>
@@ -7944,9 +7738,9 @@ o swollen synovium (the lining in the joint)</p>
 <p>A gender affirmation surgery includes the procedures that are performed so that your body aligns with your gender. Unlike the sex that is assigned to people at birth, gender identity is the way you understand your body and present yourself to others.</p>
 <p><span style="color: #0048ad;"><strong>Why is the MTF surgery done?</strong></span></p>
 <p>Gender affirmation surgery is a part of transitioning or “coming out” to others (and yourself) if you are transgender, nonbinary, or gender diverse. Surgeries exist that:</p>
-<p>● Enhance or lessen physical characteristics associated with being male at birth (AMAB).<br>
-● Enhance or lessen physical characteristics associated with being female at birth (AFAB).<br>
-● Change the way your genitals look.<br>
+<p>● Enhance or lessen physical characteristics associated with being male at birth (AMAB).<br />
+● Enhance or lessen physical characteristics associated with being female at birth (AFAB).<br />
+● Change the way your genitals look.<br />
 Surgery is just one possible way to transition.</p>
 <p><span style="color: #0048ad;"><strong>List of surgeries involved in male-to-female sex conversion</strong></span></p>
 <p>No matter what your gender identity is, if you believe that you need gender reassignment surgery, then you CAN! Today, you can empower and be confident in yourself. You can fulfill your calling and be happy every day in your life.</p>
@@ -7954,10 +7748,10 @@ Surgery is just one possible way to transition.</p>
 <p>Male-to-female sex change surgery is to transform the male penis into a woman’s vagina from its look as well as function. Here is a list of surgeries you need to undergo to achieve this kind of sex reassignment:</p>
 <p><span style="color: #0048ad;"><strong>Vaginal reconstruction</strong></span></p>
 <p>It is a surgical procedure during which the surgeons will remove your penis and testes. They will use the tissues from the penis to construct the vagina, clitoris and the labia. Different techniques are used for vaginoplasty, but the most common is to use penile and scrotal tissue to create a vaginal canal. The surgery may also involve the removal of the penis. To put it short, it includes:</p>
-<p>● Removal of the penis, known as penectomy<br>
-● Removal of testicles<br>
-● Creation of a vagina called vaginoplasty<br>
-● Creation of the clitoris called clitoroplasty<br>
+<p>● Removal of the penis, known as penectomy<br />
+● Removal of testicles<br />
+● Creation of a vagina called vaginoplasty<br />
+● Creation of the clitoris called clitoroplasty<br />
 ● Creation of labia called labiaplasty</p>
 <p><span style="color: #0048ad;"><strong>Breast Augmentation</strong></span></p>
 <p>Breast augmentation is a key surgery involved in gender reassignment surgery. It involves the placement of silicone or saline implants to increase the size of the breast. The procedure is chosen by transgender women who want a more feminine body.</p>
@@ -7965,8 +7759,8 @@ Surgery is just one possible way to transition.</p>
 <p>It is also known as facial feminization surgery. It includes a series of techniques in which the jaws, chin, cheeks, and forehead are changed to create a more feminine appearance.</p>
 <p><span style="color: #0048ad;"><strong>Body contouring</strong></span></p>
 <p><span style="color: #0048ad;"><strong>It involves a series of procedures :</strong></span></p>
-<p>● Tummy Tuck: It is a surgical procedure that removes excess skin and fat from the abdomen area.<br>
-● Buttock lift: It is a surgical procedure designed to lift and enhance the look of the buttock.<br>
+<p>● Tummy Tuck: It is a surgical procedure that removes excess skin and fat from the abdomen area.<br />
+● Buttock lift: It is a surgical procedure designed to lift and enhance the look of the buttock.<br />
 ● Liposuction: This surgical procedure uses suction to remove fat from specific body areas.</p>
 <p><span style="color: #0048ad;"><strong>Voice Feminizing Surgery</strong></span></p>
 <p>This surgical procedure aims to adjust the pitch of the voice. It is a less common type of surgery, and many people follow nonsurgical techniques like voice therapy to achieve the same.</p>
@@ -7980,58 +7774,58 @@ Surgery is just one possible way to transition.</p>
 <p>In this, the individuals take estrogen and anti-androgen medications to promote the development of secondary female characteristics like the growth of breasts.</p>
 <p><span style="color: #0048ad;"><strong>Procedure Details</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Preparing before the MTF surgery</strong></span></p>
-<p>● Many people choose to undergo sperm banking before undergoing the surgery. You must consult your doctor to create the best plan for your future.<br>
-● You must prepare yourself mentally before the surgery. You can talk to the people who have undergone this surgery.<br>
-● Please make sure to think about a proper recovery plan before the surgery. You should have someone to take care of you to cope with the aftereffects of the surgery.<br>
-● In some cases, you may need to be on hormone therapy before the surgery. Depending on the type of procedure, hormones can cause changes in your body and make the surgical outcomes more effective.<br>
-● Inform your doctor about the medications you are on.<br>
+<p>● Many people choose to undergo sperm banking before undergoing the surgery. You must consult your doctor to create the best plan for your future.<br />
+● You must prepare yourself mentally before the surgery. You can talk to the people who have undergone this surgery.<br />
+● Please make sure to think about a proper recovery plan before the surgery. You should have someone to take care of you to cope with the aftereffects of the surgery.<br />
+● In some cases, you may need to be on hormone therapy before the surgery. Depending on the type of procedure, hormones can cause changes in your body and make the surgical outcomes more effective.<br />
+● Inform your doctor about the medications you are on.<br />
 ● Call your insurance company to find out if they cover this surgery.</p>
 <p><span style="color: #0048ad;"><strong>Documents to submit</strong></span></p>
-<p>● Your pharmacy and medical records documenting hormone therapy<br>
-● Medical records from your primary physician<br>
-● Surgery-ready letters from a mental health evaluator<br>
+<p>● Your pharmacy and medical records documenting hormone therapy<br />
+● Medical records from your primary physician<br />
+● Surgery-ready letters from a mental health evaluator<br />
 ● In some cases, legal documentation may be required before the surgery.</p>
 <p><span style="color: #0048ad;"><strong>Tests before the sex change surgery male to female</strong></span></p>
-<p>● A physical exam<br>
-● Blood tests<br>
+<p>● A physical exam<br />
+● Blood tests<br />
 ● Imaging tests</p>
 <p><span style="color: #0048ad;"><strong>During the surgery</strong></span></p>
-<p>● You will be administered anaesthesia so that you do not feel any pain during the surgery.<br>
-● The surgeon will then make incisions to access the locations needed for the construction of the vagina.<br>
-● The penile skin is dissected and reversed to create a neovagina.<br>
-● The scrotal skin is used to create labia majora.<br>
-● Scrotal tissue is used to add depth to neovagina. Surgeons will create a neovaginal canal, and the urethra is properly positioned to ensure a natural appearance of the vagina.<br>
-● Clitoroplasty is performed to create a clitoris using penile tissue.<br>
-● Labiaplasty is performed to create labia majora and minora using penile and scrotal tissue.<br>
-● Incisions are closed<br>
-● Surgical drains are placed to prevent the build-up of fluids.<br>
+<p>● You will be administered anaesthesia so that you do not feel any pain during the surgery.<br />
+● The surgeon will then make incisions to access the locations needed for the construction of the vagina.<br />
+● The penile skin is dissected and reversed to create a neovagina.<br />
+● The scrotal skin is used to create labia majora.<br />
+● Scrotal tissue is used to add depth to neovagina. Surgeons will create a neovaginal canal, and the urethra is properly positioned to ensure a natural appearance of the vagina.<br />
+● Clitoroplasty is performed to create a clitoris using penile tissue.<br />
+● Labiaplasty is performed to create labia majora and minora using penile and scrotal tissue.<br />
+● Incisions are closed<br />
+● Surgical drains are placed to prevent the build-up of fluids.<br />
 ● You will then be moved to the recovery room.</p>
 <p><span style="color: #0048ad;"><strong>After the surgery</strong></span></p>
-<p>● Take care of your wounds and monitor for any infection.<br>
-● You must wear compression garments for a few days to reduce swelling.<br>
-● Take medicines to manage the pain.<br>
-● Take nutritious food to facilitate healing.<br>
+<p>● Take care of your wounds and monitor for any infection.<br />
+● You must wear compression garments for a few days to reduce swelling.<br />
+● Take medicines to manage the pain.<br />
+● Take nutritious food to facilitate healing.<br />
 ● Follow the instructions of your healthcare provider religiously.</p>
 <p><span style="color: #0048ad;"><strong>Recovery time</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Recovery times vary based on what procedures or combination of procedures you have:</strong></span></p>
-<p>● 7 days in hospital<br>
-● One day in ICU<br>
-● Follow up after seven days of discharge<br>
-● Stay in india for 20 days,<br>
-● Cheek and nose surgery: Swelling lasts for around two to four weeks.<br>
-● Chin and jaw surgery: Most swelling fades within two weeks. It may take up to four months for the swelling to disappear.<br>
-● Chest surgery: Swelling and soreness last for one to two weeks. You’ll need to avoid vigorous activity for at least one month.<br>
+<p>● 7 days in hospital<br />
+● One day in ICU<br />
+● Follow up after seven days of discharge<br />
+● Stay in india for 20 days,<br />
+● Cheek and nose surgery: Swelling lasts for around two to four weeks.<br />
+● Chin and jaw surgery: Most swelling fades within two weeks. It may take up to four months for the swelling to disappear.<br />
+● Chest surgery: Swelling and soreness last for one to two weeks. You’ll need to avoid vigorous activity for at least one month.<br />
 ● Bottom surgery: Most people don’t resume activities until six weeks after surgery. You’ll need weekly follow-up visits with your healthcare provider for a few months. These visits ensure you’re healing well.</p>
 <p>After gender affirmation surgery, it’s a good idea to continue seeing a mental health professional with a background in transgender care. They can support you as you adjust to life after surgery.</p>
 <p><span style="color: #0048ad;"><strong>Benefits</strong></span></p>
 <p><span style="color: #0048ad;"><strong>The MTF surgery makes you satisfied with your</strong></span></p>
-<p>● Appearance<br>
-● Gender expression<br>
+<p>● Appearance<br />
+● Gender expression<br />
 ● Sexual function</p>
 <p><span style="color: #0048ad;"><strong>Risks</strong></span></p>
-<p><span style="color: #0048ad;"><strong>Some minor risks of the gender reassignment surgery include: </strong></span><br>
-● Bleeding<br>
-● Infection<br>
+<p><span style="color: #0048ad;"><strong>Some minor risks of the gender reassignment surgery include: </strong></span><br />
+● Bleeding<br />
+● Infection<br />
 ● Side effects from anesthesia</p>
 <p><span style="color: #0048ad;"><strong>Outlook</strong></span></p>
 <p>Gender-affirming surgery provides long-term mental health benefits, too. Studies consistently show that gender affirmation surgery reduces gender dysphoria and related conditions like anxiety and depression.</p>
@@ -8053,7 +7847,7 @@ Surgery is just one possible way to transition.</p>
   {
     name: "tetralogy-of-fallot-repair",
     img: "/treatment/tetralogy-of-fallot-repair.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumn"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -8063,7 +7857,7 @@ Surgery is just one possible way to transition.</p>
 			
 		</div>
 	</div>
-<p>Tetralogy of Fallot is a congenital heart condition which involves four abnormalities together. The condition occurs in a newly born baby when the heart does not form correctly as the baby develops inside the womb. Fallot tetralogy is a complex and rare procedure that needs to be treated by an experienced surgeon.</p>
+<h2><span style="color: #0048ad;">Factors that Affect the Cost of TOF surgery in India</span></h2><p><b>Choice of Hospital:&nbsp;</b>The cost will be higher if you choose a JCI-accredited hospital with a brand name<span>.&nbsp;</span></p><p><b>Location of the hospital:&nbsp;</b><span>If the hospital is located in the top-tier city of India, the cost will be high.&nbsp;</span></p><p><b>Condition of the patient:&nbsp;</b><span>Patients with complex or complicated medical problems have to pay more for the surgery.&nbsp;</span></p><p><b>Surgeons experience:&nbsp;</b><span>The surgeon’s experience and expertise can affect the surgery’s overall cost.&nbsp;</span></p><p><b>Hospital Facilities:&nbsp;</b><span>If the hospital has :&nbsp;</span></p><ul><li aria-level="2"><span>Advanced medical facilities</span></li><li aria-level="2"><span>Advanced intensive care units</span></li><li aria-level="2"><span>Post-operative care units</span></li></ul><p><span>&nbsp;In such cases, the cost will increase.&nbsp;</span><b></b></p><p><b>Type of Surgery:&nbsp;</b><span>The type of TOF surgery depends on the intensity of the defect. The cost of surgery in India is:&nbsp;</span></p><p>Intracardiac Repair or Total correction: 6000 USD</p><p>Temporary Shunt Surgery: 4500 USD</p><p><span>Other significant factors affecting the cost:&nbsp;</span></p><ul><li aria-level="1"><span>Side procedures required or not</span></li><li aria-level="1"><span>Any shunt or bovine conduit needed or not&nbsp;</span></li><li aria-level="1"><span>Number of diagnostic tests conducted</span></li><li aria-level="1"><span>Number of days spent in hospital</span></li><li aria-level="1"><span>Complications post-op&nbsp;</span></li><li aria-level="1"><span>Choice of room&nbsp;</span></li><li aria-level="1"><span>Hospital fees</span></li><li aria-level="1"><span>Post-operative care</span></li><li aria-level="1"><span>Medications</span></li></ul><h2><span style="color: #0048ad;">Cost of TOF Surgery in Top Hospitals of India</span></h2><table><tbody><tr><td>Fortis Escorts Heart Institute</td><td>6600$</td></tr><tr><td>Indraprastha Apollo Hospital</td><td>7000$</td></tr><tr><td>Marengo Asia Hospital</td><td>7500$</td></tr><tr><td>Amrita Hospital</td><td>5500$</td></tr><tr><td>Max Healthcare</td><td>7000$</td></tr><tr><td>Artemis Hospital</td><td>6800$</td></tr><tr><td>Max-Blk Hospital</td><td>6500$</td></tr><tr><td>Medanta&nbsp; the Hospital</td><td>7500$</td></tr></tbody></table><h2><span style="color: #0048ad;">With Medihelp Global , your package will include:</span></h2><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 10 days&nbsp;</span></td><td></td></tr></tbody></table><p><b>India Stay:&nbsp;</b>One month</p><p><b>The success rate of the surgery&nbsp;</b><span>is 85 – 90 %, and it highly depends on the severity.&nbsp;</span></p><p><span style="color: #0048ad;"><b>Pediatric Heart Health on a Budget: Service Cost</b></span></p><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p><span>India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p><p>Tetralogy of Fallot is a congenital heart condition which involves four abnormalities together. The condition occurs in a newly born baby when the heart does not form correctly as the baby develops inside the womb. Fallot tetralogy is a complex and rare procedure that needs to be treated by an experienced surgeon.</p>
 <p>In India, leading multi-specialty hospitals like Fortis Escorts Heart Institute conduct this treatment. It is equipped with world class facilities like neonatal intensive care units and a team of experienced doctors lead by Dr. Iyer who is one of the best surgeons in India for Tetralogy Fallot Repair.</p>
 <h2><strong><span style="color: #0048ad;">Types of TOF Defects</span></strong></h2>
 <p><strong>Ventricular Septal Defect </strong>– In this effect, there is a hole in the ventricular septum. Due to this hole, the oxygenated (pure) blood gets easily mixed with deoxygenated (impure) blood.</p>
@@ -8085,164 +7879,26 @@ Surgery is just one possible way to transition.</p>
 <p>Premature babies or babies with underdeveloped pulmonary arteries often have to undergo temporary shut surgery before intracardiac repair. In this procedure, the surgeon creates a temporary bypass between a large artery and a pulmonary artery.</p>
 <h2><span style="color: #0048ad;"><strong>Top Doctors</strong> <strong>in India</strong></span></h2>
 <ul>
-<li><strong>Dr.</strong> <a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>K.S. Iyer</strong></a> – Paediatric Cardiac Surgeon, Fortis Escorts Heart Institute</li>
-<li><strong>Dr.</strong> <a href="#/dr-rajesh-sharma/"><strong>Rajesh Sharma</strong> </a>– Director and the Pediatric Cardiothoracic Surgeon at Marengo Aisa Hospital.</li>
-<li><strong>Dr.</strong> <a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>K.S. Dagar </strong></a>– Director Neonatal &amp; Congenital Heart Surgery, Max Healthcare,</li>
-<li><strong>Dr.</strong> <a href="#/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Anil Bhan </strong></a>– Chairman of Cardiac Surgery Heart Institute, Medanta the Medicity</li>
+<li><strong>Dr.</strong> <strong>K.S. Iyer</strong> – Paediatric Cardiac Surgeon, Fortis Escorts Heart Institute</li>
+<li><strong>Dr.</strong> <strong>Rajesh Sharma</strong> – Director and the Pediatric Cardiothoracic Surgeon at Marengo Aisa Hospital.</li>
+<li><strong>Dr.</strong> <strong>K.S. Dagar </strong>– Director Neonatal &amp; Congenital Heart Surgery, Max Healthcare,</li>
+<li><strong>Dr.</strong> <strong>Anil Bhan </strong>– Chairman of Cardiac Surgery Heart Institute, Medanta the Medicity</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top hospitals in India&nbsp;</strong></span></h2>
 <ul>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital Saket</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></li>
-<li><a href="#/fortis-escorts-heart-institute/">Fortis Escorts Heart Institute</a></li>
-<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a></li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Factors that Affect the Cost of TOF surgery in India</strong></span></h2>
-<p><b>Choice of Hospital: </b>The cost will be higher if you choose a JCI-accredited hospital with a brand name<span style="font-weight: 400;">.&nbsp;</span></p>
-<p><b>Location of the hospital: </b><span style="font-weight: 400;">If the hospital is located in the top-tier city of India, the cost will be high.&nbsp;</span></p>
-<p><b>Condition of the patient: </b><span style="font-weight: 400;">Patients with complex or complicated medical problems have to pay more for the surgery.&nbsp;</span></p>
-<p><b>Surgeons experience: </b><span style="font-weight: 400;">The surgeon’s experience and expertise can affect the surgery’s overall cost.&nbsp;</span></p>
-<p><b>Hospital Facilities: </b><span style="font-weight: 400;">If the hospital has :&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Advanced medical facilities</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Advanced intensive care units</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Post-operative care units</span></li>
-</ul>
-<p><span style="font-weight: 400;">&nbsp;In such cases, the cost will increase.&nbsp;</span><b></b></p>
-<p><b>Type of Surgery: </b><span style="font-weight: 400;">The type of TOF surgery depends on the intensity of the defect. The cost of surgery in India is:&nbsp;</span></p>
-<p>Intracardiac Repair or Total correction: 6000 USD</p>
-<p>Temporary Shunt Surgery: 4500 USD</p>
-<p><span style="font-weight: 400;">Other significant factors affecting the cost:&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Side procedures required or not</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Any shunt or bovine conduit needed or not&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Number of diagnostic tests conducted</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Number of days spent in hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications post-op&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Choice of room&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hospital fees</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post-operative care</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-</ul>
-<h2><span style="color: #0048ad;"><b>Cost of TOF Surgery in Top Hospitals of India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td>Fortis Escorts Heart Institute</td>
-<td>6600$</td>
-</tr>
-<tr>
-<td>Indraprastha Apollo Hospital</td>
-<td>7000$</td>
-</tr>
-<tr>
-<td>Marengo Asia Hospital</td>
-<td>7500$</td>
-</tr>
-<tr>
-<td>Amrita Hospital</td>
-<td>5500$</td>
-</tr>
-<tr>
-<td>Max Healthcare</td>
-<td>7000$</td>
-</tr>
-<tr>
-<td>Artemis Hospital</td>
-<td>6800$</td>
-</tr>
-<tr>
-<td>Max-Blk Hospital</td>
-<td>6500$</td>
-</tr>
-<tr>
-<td>Medanta&nbsp; the Hospital</td>
-<td>7500$</td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;">With Medihelp Global , your package will include:</span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 10 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: </b>One month</p>
-<p><b>The success rate of the surgery </b><span style="font-weight: 400;">is 85 – 90 %, and it highly depends on the severity.&nbsp;</span></p>
-<p><span style="color: #0048ad;"><b>Pediatric Heart Health on a Budget: Service Cost</b></span></p>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
+<li>Max Super Speciality Hospital Saket</li>
+<li>Medanta the Medicity</li>
+<li>Fortis Escorts Heart Institute</li>
+<li>Indraprastha Apollo Hospital</li></ul>
 <p><span style="color: #0048ad;"><b>Medihelp Global  is the best treatment consultant in India. When you contact us, we will help you with:&nbsp;</b></span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Arranging visa</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
 <p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
 <p><strong>Planning to travel to India for medical treatment. Book a free consultation with us!</strong></p>
@@ -8252,7 +7908,7 @@ Surgery is just one possible way to transition.</p>
   {
     name: "asd-closure",
     img: "/treatment/asd-closure.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -8262,7 +7918,7 @@ Surgery is just one possible way to transition.</p>
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;"><strong>Making a Difference in the Lives of Children with ASD Closure Surgery</strong></span></h2>
+<h2><strong><span style="color: #0048ad;">Cost of ASD Closure Surgery in Top Hospitals of India: Cardiac Catheterisation with Device Closer</span></strong></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Top Hospitals</b></td><td><b>Cost</b></td></tr><tr><td><b>Fortis Escorts Heart Institute&nbsp;</b></td><td><b>5000$</b></td></tr><tr><td><b>Indraprastha Apollo Hospital&nbsp;</b></td><td><b>5500$</b></td></tr><tr><td><b>Amrita Hospital&nbsp;</b></td><td><b>4500$</b></td></tr><tr><td><b>Max Healthcare&nbsp;</b></td><td><b>5200$</b></td></tr><tr><td><b>Artemis Hospital&nbsp;</b></td><td><b>4800$</b></td></tr><tr><td><b>Max-Blk Hospital&nbsp;</b></td><td><b>5000$</b></td></tr><tr><td><b>Medanta Hospital&nbsp;</b></td><td><b>5500$</b></td></tr></tbody></table></span></h2><h2><b>With Medihelp Global , your package will include:&nbsp;</b></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>Device cost&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 10 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay: 15 days&nbsp;</b></p><p style="color: black; font-size: medium; font-weight: 400;"><b>The success rate of the surgery: 98%&nbsp;</b></p><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><b>Pediatric Heart Health on a Budget: Service Cost</b></span></p><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;"><strong>Making a Difference in the Lives of Children with ASD Closure Surgery</strong></span></h2>
 <p>ASD is commonly known as a hole between the two upper chambers in the heart. Generally, a new born baby is born with a small opening in the heart, which gets closed on its own with the passage of time but when it does not close properly with time. Then actually, the main problem arises, and the patient needs to undergo ASD closure Procedure.</p>
 <p>India has emerged as one of the hotspots for pediatric heart surgery. It offers the best medical facilities and treatment from world-renowned doctors at very affordable pricing.</p>
 <h2><strong><span style="color: #0048ad;">Diagnosis</span> </strong></h2>
@@ -8337,17 +7993,17 @@ Surgery is just one possible way to transition.</p>
 <h2><span style="color: #0048ad;"><b>Factors that Affect the Treatment Cost of ASD in India:&nbsp;</b></span></h2>
 <p><b>Reputation of Hospital: </b><span style="font-weight: 400;">The reputation of the hospital highly influences the cost. The cost will depend on the following:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The accreditation of the hospital ( JCI or NABH)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand name of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The location of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Presence of advanced medical facilities for cardiac care.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The accreditation of the hospital ( JCI or NABH)</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The brand name of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The location of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Presence of advanced medical facilities for cardiac care.&nbsp;</span></li>
 </ul>
 <p><b>Cardiologist Fee: </b><span style="font-weight: 400;">One of the key costs that you have to pay for ASD closure surgery is the cardiologist’s fee. The highly skilled and experienced surgeons will charge you more for the surgery.&nbsp;</span></p>
 <p><b>Type of Surgical Approach: </b><span style="font-weight: 400;">Various surgical approaches are used to treat ASD. The cost of each approach is different and mentioned below:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Open heart surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cardiac Catheterization</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Robotic Assisted Surgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Open heart surgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Cardiac Catheterization</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Robotic Assisted Surgery</span></li>
 </ul>
 <p><b>Length of Hospital Stay: </b><span style="font-weight: 400;">The length of the hospital stay will also impact the overall cost. More extended hospital stays mean more cost. The total price also depends on the type of room you select to stay during the procedure.&nbsp;</span></p>
 <p><b>Surgery Related Expenses: </b><span style="font-weight: 400;">Your surgery-related expenses will include:&nbsp;</span></p>
@@ -8377,133 +8033,21 @@ Surgery is just one possible way to transition.</p>
 </table>
 <p><b>Other factors influencing the cost:&nbsp;</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The overall medical condition of the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Presence of any other disease&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The severity of the case&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates for international patients</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The overall medical condition of the patient</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Presence of any other disease&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The severity of the case&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Currency exchange rates for international patients</span></li>
 </ul>
-<h2><strong><span style="color: #0048ad;">Cost of ASD Closure Surgery in Top Hospitals of India: Cardiac Catheterisation with Device Closer</span></strong></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Top Hospitals</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><b>Fortis Escorts Heart Institute&nbsp;</b></td>
-<td><b>5000$</b></td>
-</tr>
-<tr>
-<td><b>Indraprastha Apollo Hospital&nbsp;</b></td>
-<td><b>5500$</b></td>
-</tr>
-<tr>
-<td><b>Amrita Hospital&nbsp;</b></td>
-<td><b>4500$</b></td>
-</tr>
-<tr>
-<td><b>Max Healthcare&nbsp;</b></td>
-<td><b>5200$</b></td>
-</tr>
-<tr>
-<td><b>Artemis Hospital&nbsp;</b></td>
-<td><b>4800$</b></td>
-</tr>
-<tr>
-<td><b>Max-Blk Hospital&nbsp;</b></td>
-<td><b>5000$</b></td>
-</tr>
-<tr>
-<td><b>Medanta Hospital&nbsp;</b></td>
-<td><b>5500$</b></td>
-</tr>
-</tbody>
-</table>
-<h2><b>With Medihelp Global , your package will include:&nbsp;</b></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Device cost&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 10 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: 15 days&nbsp;</b></p>
-<p><b>The success rate of the surgery: 98%&nbsp;</b></p>
-<p><span style="color: #0048ad;"><b>Pediatric Heart Health on a Budget: Service Cost</b></span></p>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">At Medihelp Global , we will consolidate most of the expenses of your Atrial Septal Defect and provide you with the most cost-effective packages that are specifically tailored to meet the requirements of every individual.&nbsp;</span></p>
-<p><strong>All you have to do is send us your query and medical reports at <a href="mailto:info@medihelpglobal.com">info@medihelpglobal.com</a>, and we will then give you a cost estimate. </strong></p>
+<h2><span style="font-weight: 400;"><br />At Medihelp Global , we will consolidate most of the expenses of your Atrial Septal Defect and provide you with the most cost-effective packages that are specifically tailored to meet the requirements of every individual.&nbsp;</span></h2>
+
+<p><strong>All you have to do is send us your query and medical reports at <a href="mailto:help@medihelpglobal.com">help@medihelpglobal.com</a>, and we will then give you a cost estimate.</strong></p><p><strong><br /></strong></p><p><strong><br /></strong></p><p><strong><br /></strong></p>
 </div>`,
   },
   // arterial-switch-surgery
   {
     name: "arterial-switch-surgery",
     img: "/treatment/arterial-switch-surgery.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -8513,7 +8057,7 @@ Surgery is just one possible way to transition.</p>
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;"><strong>“Parents’ love saves children’s lives: The miracle of Arterial Switch surgery.”</strong></span></h2>
+<h2><span style="color: #0048ad;">Other Factors that May Affect the Cost of the Surgery:&nbsp;</span></h2><h2><span style="color: #0048ad;"><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Technology and equipment used during the surgery</span></li><li aria-level="1"><span>Exceptional support staff, if required</span></li><li aria-level="1"><span>Administrative and overhead costs</span></li><li aria-level="1"><span>Negotiations and discounts</span></li><li aria-level="1"><span>Currency exchange rates for international patients</span></li><li aria-level="1"><span>Treatment of Co-morbidities like diabetes, hypertension or any other cardiac ailment</span></li></ul></span></h2><h2><span style="color: #0048ad;">Cost in Top Hospitals Doing Arterial Switch Surgery in India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Top Hospitals</b></td><td><b>Cost</b></td></tr><tr><td><b>Fortis Escorts Heart Institute&nbsp;</b></td><td><b>7800$</b></td></tr><tr><td><b>Indraprastha Apollo Hospital&nbsp;</b></td><td><b>8000$</b></td></tr><tr><td><b>Marengo Asia Hospital&nbsp;</b></td><td><b>8500$</b></td></tr><tr><td><b>Amrita Hospital&nbsp;</b></td><td><b>7000$</b></td></tr><tr><td><b>Max Healthcare&nbsp;</b></td><td><b>8000$</b></td></tr><tr><td><b>Artemis Hospital&nbsp;</b></td><td><b>7200$</b></td></tr><tr><td><b>Max-Blk Hospital&nbsp;</b></td><td><b>7500$</b></td></tr><tr><td><b>Medanta the Medicity&nbsp;</b></td><td><b>8500$</b></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;">If you decide to tie up with Medihelp Global for Arterial Switch surgery, your package will include<span>:&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">With Medihelp Global , your package will include:&nbsp;</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other specialty&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 10 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>India Stay:</strong>&nbsp;one month</p><p style="color: black; font-size: medium; font-weight: 400;"><strong>The success rate of the surgery:</strong>&nbsp;85 – 90 %</p></span></h2><h2><span style="color: #0048ad;">Pediatric Heart Health on a Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><span>India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;"><strong>“Parents’ love saves children’s lives: The miracle of Arterial Switch surgery.”</strong></span></h2>
 <p><strong>Arterial Switch Surgery</strong> is a surgical procedure performed on children to cure transposition of the great arteries (TGA). It is a congenital heart defect in which the aorta and pulmonary artery are interchanged inside the human body. The aorta originates from the right ventricle, while the pulmonary artery arises from the left ventricle. During surgery, the surgeon switches the aorta and pulmonary artery positions and connects them to the heart’s right chambers. This allows the oxygen-rich blood to be pumped into the body and the oxygen-poor blood to be pumped to the lungs.</p>
 <p>With a team of highly skilled and experienced surgeons, India has state-of-the-art medical facilities to provide the best and most economical Arterial Switch procedure in the world. India’s medical tourism industry is well-established and offers a wide range of support and assistance for international patients.</p>
 <h2><strong><span style="color: #0048ad;">Diagnosis of Transposition of the Great Arteries</span> </strong></h2>
@@ -8536,179 +8080,55 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Doctors doing Arterial Switch Surgery in India</strong></span></h2>
 <ul>
-<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
+<li><strong>Dr KS Iyer</strong>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><strong>Dr Anil Bhan</strong>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><strong>Dr Kulbhushan Singh Dagar</strong>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><strong>Dr Rajesh Sharma</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><strong>Dr Muthu Jothi</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><strong>Dr Vijay Agarwal</strong>, Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals for Arterial Switch Surgery in India</strong></span></h2>
 <ul>
-<li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a></li>
-<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram.</li>
-<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
+<li>Fortis Escorts Heart Institute, New Delhi</li>
+<li>Indraprastha Apollo Hospital, New Delhi</li>
+<li>Medanta The Medicity</li>
+<li>Fortis Memorial Research Institute, Gurugram.</li>
+<li>Max Super Speciality Hospital , New Delhi</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Key Cost Determinants for Arterial Switch Surgery in India.</b></span></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The reputation of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The accreditation of the hospital (JCI OR NABH)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Presence of state-of-the-art facilities in the hospital&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgeons’ credentials and expertise</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Location of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Number of days spent in hospital.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of room you select.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The reputation of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The brand of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The accreditation of the hospital (JCI OR NABH)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Presence of state-of-the-art facilities in the hospital&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgeons’ credentials and expertise</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Location of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Number of days spent in hospital.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of room you select.&nbsp;</span></li>
 </ul>
 <p><b>Type of Surgery: </b><span style="font-weight: 400;">The complexity of the surgery increases the cost.&nbsp;</span></p>
 <p><b>Pre-operative tests, like cardiac imaging studies, are required before the surgery</b><span style="font-weight: 400;">, which impacts the overall cost.&nbsp;</span></p>
 <p><b>Medications and Follow-up: </b><span style="font-weight: 400;">After the surgery, the patient will need certain medications to recover, and regular follow-ups are necessary to ensure that the patient is recovering steadily. All these factors impact the total cost.&nbsp;</span></p>
 <p><b>Medical complications: </b><span style="font-weight: 400;">Any unforeseen medical complications during or after the surgery may increase the overall cost due to extended hospital stays or additional treatments.&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>Other Factors that May Affect the Cost of the Surgery:&nbsp;</b></span></h2>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Technology and equipment used during the surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Exceptional support staff, if required</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Administrative and overhead costs</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Negotiations and discounts</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates for international patients</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Treatment of Co-morbidities like diabetes, hypertension or any other cardiac ailment</span></li>
-</ul>
-<h2><span style="color: #0048ad;"><b>Cost in Top Hospitals Doing Arterial Switch Surgery in India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Top Hospitals</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><b>Fortis Escorts Heart Institute&nbsp;</b></td>
-<td><b>7800$</b></td>
-</tr>
-<tr>
-<td><b>Indraprastha Apollo Hospital&nbsp;</b></td>
-<td><b>8000$</b></td>
-</tr>
-<tr>
-<td><b>Marengo Asia Hospital&nbsp;</b></td>
-<td><b>8500$</b></td>
-</tr>
-<tr>
-<td><b>Amrita Hospital&nbsp;</b></td>
-<td><b>7000$</b></td>
-</tr>
-<tr>
-<td><b>Max Healthcare&nbsp;</b></td>
-<td><b>8000$</b></td>
-</tr>
-<tr>
-<td><b>Artemis Hospital&nbsp;</b></td>
-<td><b>7200$</b></td>
-</tr>
-<tr>
-<td><b>Max-Blk Hospital&nbsp;</b></td>
-<td><b>7500$</b></td>
-</tr>
-<tr>
-<td><b>Medanta the Medicity&nbsp;</b></td>
-<td><b>8500$</b></td>
-</tr>
-</tbody>
-</table>
-<p>If you decide to tie up with Medihelp Global  for Arterial Switch surgery, your package will include<span style="font-weight: 400;">:&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>With Medihelp Global , your package will include:&nbsp;</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other specialty&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 10 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><strong>India Stay:</strong> one month</p>
-<p><strong>The success rate of the surgery:</strong> 85 – 90 %</p>
-<h2><span style="color: #0048ad;"><strong>Pediatric Heart Health on a Budget: Service Cost</strong></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">India is gaining fame as the best destination for any kind of medical procedure. While medical technology and experts in India are of the highest quality, their expenses are much less than those of other Western countries.&nbsp;</span></p>
 <p><span style="color: #0048ad;"><b>Medihelp Global  is the best medical tourism in India. When you contact us, we will help you with:&nbsp;</b></span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Arranging visa</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best hospital&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Arterial Switch Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:help@medihelpglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
+<p><span style="font-weight: 400;"><strong>We will help you to find the best Arterial Switch Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;"><br /></span></p>
 </div>`,
   },
   // bd-glenn-on-bypass
   {
     name: "bd-glenn-on-bypass",
     img: "/treatment/bd-glenn-on-bypass.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 		
@@ -8719,7 +8139,7 @@ Surgery is just one possible way to transition.</p>
 			
 		</div>
 	</div>
-<h2><strong><span style="color: #0048ad;">Your Support Can Help Your Child Overcome BD Glenn on Bypass Surgery</span> </strong></h2>
+<h2><span style="color: #0048ad;">Cost of Bidirectional Glenn On Surgery in Top Hospitals in India</span></h2><h2><table><tbody><tr><td><b>Top hospitals</b></td><td><b>Cost</b></td></tr><tr><td><b>Fortis Escorts Heart Institute&nbsp;</b></td><td><b>5800$</b></td></tr><tr><td><b>Indraprastha Apollo Hospital&nbsp;</b></td><td><b>7000$</b></td></tr><tr><td><b>Amrita Hospital&nbsp;</b></td><td><b>5500$</b></td></tr><tr><td><b>Max Healthcare&nbsp;</b></td><td><b>7500$</b></td></tr><tr><td><b>Marengo Asia Hospital&nbsp;</b></td><td><b>8000$</b></td></tr><tr><td><b>Medanta Hospital&nbsp;</b></td><td><b>7500$</b></td></tr></tbody></table></h2><h2><span style="color: #0048ad;">With Medihelp Global , your package will include:&nbsp;</span></h2><h2><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 10 days&nbsp;</span></td><td></td></tr></tbody></table><p style="font-size: medium; font-weight: 400;"><b>India Stay: 20 days&nbsp;</b></p><p style="font-size: medium; font-weight: 400;"><b>The success rate of the surgery: 85% – 90%&nbsp;</b></p></h2><h2><span style="color: #0048ad;">Heart Health on a Budget: Service Cost</span></h2><h2><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table></h2><h2><strong><span style="color: #0048ad;">Your Support Can Help Your Child Overcome BD Glenn on Bypass Surgery</span> </strong></h2>
 <p>Congenital heart defects (CHD) are a group of disorders present at birth and involve the heart’s structure. These defects can vary in severity and may affect how the heart functions. Common types may include atrial septal defects, ventricular septal defects, and transposition of the great arteries.</p>
 <p>Some individuals may not experience any symptoms, while others may have severe ones requiring medical intervention. Its treatment may include medications, surgery, or other procedures.</p>
 <p>India has a well-developed healthcare system with many skilled and experienced medical professionals. The quality of care provided in India is generally high and can be comparable to other developed countries.</p>
@@ -8738,20 +8158,20 @@ Surgery is just one possible way to transition.</p>
 <p>The bidirectional Glenn procedure is generally performed at around 4-6 months, while the Fontan procedure is typically performed at approximately 18-24 months. The time gap between the bidirectional Glenn procedure and the Fontan procedure can vary greatly depending on the patient’s specific circumstances.</p>
 <h2><span style="color: #0048ad;"><strong>Top Paediatric Heart Surgeons for </strong>Bidirectional </span><strong><span style="color: #0048ad;">Glenn on Bypass Surgery in India</span> </strong></h2>
 <ul>
-<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experienc</li>
+<li><strong>Dr KS Iyer</strong>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><strong>Dr Anil Bhan</strong>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><strong>Dr Kulbhushan Singh Dagar</strong>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><strong>Dr Rajesh Sharma</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><strong>Dr Muthu Jothi</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><strong>Dr Vijay Agarwal</strong>, Director &amp; HOD, Fortis Hospital, 15 years of experienc</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Determining factors that affect the cost of Glenn On Bypass surgery in India</b></span></h2>
 <h3><b>Hospital Factors</b></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of hospital you choose ( Government or Private)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation</span> <span style="font-weight: 400;">of the hospital ( JCI or NABH )&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reputation and brand value of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Location of the hospital – Delhi is expensive, followed by Gurugram and Faridabad.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of hospital you choose ( Government or Private)</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Accreditation</span> <span style="font-weight: 400;">of the hospital ( JCI or NABH )&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Reputation and brand value of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Location of the hospital – Delhi is expensive, followed by Gurugram and Faridabad.&nbsp;</span></li>
 </ul>
 <p><b>Note: </b><span style="font-weight: 400;">The hospitals that come under a brand name like Indraprastha Apollo Hospital or Fortis, will charge more for the surgery because they have advanced cardiac care centers for both infants and adults. =</span></p>
 <h3><span style="color: #0048ad;"><b>Medical Team Factors</b></span></h3>
@@ -8761,156 +8181,52 @@ Surgery is just one possible way to transition.</p>
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Norwood Procedure</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Bi-Directional Glenn shunt</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Fontan Procedure</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Norwood Procedure</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Bi-Directional Glenn shunt</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Fontan Procedure</span></li>
 </ul>
 </li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgery Type: Traditional approach or minimally invasive</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Qualification, skill, and expertise of the surgeon performing the surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Duration of the surgery&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgery Type: Traditional approach or minimally invasive</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Qualification, skill, and expertise of the surgeon performing the surgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Duration of the surgery&nbsp;</span></li>
 </ul>
 <h3><b>Patient Factors</b></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Total number of diagnostic tests performed before surgery&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">General health of the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Length of hospital stay</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of room selected by the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications post operatively&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Other treatments required in conjunction</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Total number of diagnostic tests performed before surgery&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">General health of the patient</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Length of hospital stay</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of room selected by the patient</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Complications post operatively&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Other treatments required in conjunction</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Other factors affecting the cost</b></span></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post Surgical expenses including medications and rehabilitation</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgical complications and outcomes</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Packages offered by medical tourism companies</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ethical and legal considerations</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Post Surgical expenses including medications and rehabilitation</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgical complications and outcomes</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Packages offered by medical tourism companies</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Currency exchange rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Ethical and legal considerations</span></li>
 </ul>
-<h2><span style="color: #0048ad;"><b>Cost of Bidirectional Glenn On Surgery in Top Hospitals in India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Top hospitals</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><b>Fortis Escorts Heart Institute&nbsp;</b></td>
-<td><b>5800$</b></td>
-</tr>
-<tr>
-<td><b>Indraprastha Apollo Hospital&nbsp;</b></td>
-<td><b>7000$</b></td>
-</tr>
-<tr>
-<td><b>Amrita Hospital&nbsp;</b></td>
-<td><b>5500$</b></td>
-</tr>
-<tr>
-<td><b>Max Healthcare&nbsp;</b></td>
-<td><b>7500$</b></td>
-</tr>
-<tr>
-<td><b>Marengo Asia Hospital&nbsp;</b></td>
-<td><b>8000$</b></td>
-</tr>
-<tr>
-<td><b>Medanta Hospital&nbsp;</b></td>
-<td><b>7500$</b></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>With Medihelp Global , your package will include:&nbsp;</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 10 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: 20 days&nbsp;</b></p>
-<p><b>The success rate of the surgery: 85% – 90%&nbsp;</b></p>
-<h2><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><b>Medihelp Global  is the best medical tourism company in India. When you contact us, we will help you with:&nbsp;</b></p>
+<h2><b><br />Medihelp Global  is the best medical tourism company in India. When you contact us, we will help you with:&nbsp;</b></h2>
+
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Arranging visa</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best hospital&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
 </ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Bidirectional (BD) Glenn On Bypass surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:help@medihelpglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
+<p><span style="font-weight: 400;"><strong>We will help you to find the best Bidirectional (BD) Glenn On Bypass surgery </strong><strong>Doctors in India.</strong></span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;"><br /></span></p><p><span style="font-weight: 400;">&nbsp;&nbsp;</span></p>
 </div>`,
   },
   // bentall-surgery
   {
     name: "bentall-surgery",
     img: "/treatment/bentall-surgery.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -8919,7 +8235,7 @@ Surgery is just one possible way to transition.</p>
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;">Bringing Hope to Families: Bentall Surgery Now Available for Children.”</span></h2>
+<h2><span style="color: #0048ad;">Cost of Bentall Surgery in India</span></h2><h2><span style="color: #0048ad;"><ul style="color: black; font-size: medium; font-weight: 400;"><li>Bentall surgery cost in India starts from&nbsp;<strong>US $9000</strong>&nbsp;with the best cardiac surgeons and top heart hospitals in India.</li></ul></span></h2><h2><strong><span style="color: #0048ad;">Top Paediatric Heart Surgeons for Bentall Surgery in India</span></strong></h2><h2><span style="color: #0048ad;"><ul style="color: black; font-size: medium; font-weight: 400;"><li><strong>Dr KS Iyer</strong>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li><li><strong>Dr Anil Bhan</strong>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li><li><strong>Dr Kulbhushan Singh Dagar</strong>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li><li><strong>Dr Rajesh Sharma</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li><li><strong>Muthu Jothi</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li><li><strong>Dr Vijay Agarwal</strong>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li></ul><p style="color: black; font-size: medium; font-weight: 400;"><span>Bentall surgery is primarily performed to treat aortic aneurysms, a condition where the walls of the aorta become weak and bulged. If left untreated, these aneurysms can rupture and lead to life-threatening conditions.&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>The average cost of Bentall surgery is much less in India as compared to Western countries.&nbsp;</span></li><li aria-level="1"><span>India is known worldwide for delivering promising results as far as Bentall surgery is concerned.&nbsp;</span></li><li aria-level="1"><span>The average cost of Bentall surgery in India is around $ 9000 to $ 12000</span></li></ul></span></h2><h2><span style="color: #0048ad;">The key factors affecting the cost of Bentall Surgery in India are:&nbsp;</span></h2><h2><span style="color: #0048ad;"><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Type of hospital you select ( Public or Private)&nbsp;</span></li><li aria-level="1"><span>Location of the hospital</span></li><li aria-level="1"><span>Accreditation of the hospital ( NABH or JCI)&nbsp;</span></li><li aria-level="1"><span>Brand value and reputation of the hospital</span></li><li aria-level="1"><span>Technology used ( Traditional or Minimally Invasive )&nbsp;</span></li><li aria-level="1"><span>Type of aortic graft used&nbsp;</span></li><li aria-level="1"><span>Type of valve used&nbsp;</span></li><li aria-level="1"><span>Qualification and expertise of the doctor</span></li><li aria-level="1"><span>The extent of surgery required</span></li><li aria-level="1"><span>The general health of the patient</span></li><li aria-level="1"><span>Room category selected by the patient</span></li><li aria-level="1"><span>Length of the hospital stay</span></li><li aria-level="1"><span>Other treatments required in conjunction</span></li><li aria-level="1"><span>Complications occurred post-surgery&nbsp;</span></li><li aria-level="1"><span>Pre-operative diagnostic tests</span></li><li aria-level="1"><span>Post-operative care and rehabilitation</span></li><li aria-level="1"><span>Medications</span></li></ul></span></h2><h2><span style="color: #0048ad;">Cost Of Bentall Procedure in Top Hospitals of India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Top Hospitals</b></td><td><b>Cost</b></td></tr><tr><td><b>Fortis Escorts Heart Institute&nbsp;</b></td><td><b>10000$</b></td></tr><tr><td><b>Indraprastha Apollo Hospital&nbsp;</b></td><td><b>12000$</b></td></tr><tr><td><b>Amrita Hospital&nbsp;</b></td><td><b>9000$</b></td></tr><tr><td><b>Max Healthcare&nbsp;</b></td><td><b>12000$</b></td></tr><tr><td><b>Marengo Asia Hospital&nbsp;</b></td><td><b>13000$</b></td></tr><tr><td><b>Medanta Hospital&nbsp;</b></td><td><b>12000$</b></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">With Medihelp Global , your package will include:&nbsp;</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>Device cost&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 10 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay: 20 days&nbsp;</b></p><p style="color: black; font-size: medium; font-weight: 400;"><b>The success rate of the surgery: 98%&nbsp;</b></p></span></h2><h2><span style="color: #0048ad;">Heart Health on a Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>Special Services Provided by Us to Our International Patients</b><b></b></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><b>Intricate planning&nbsp;</b><span>from doctor appointments to your accommodation in India</span></li><li aria-level="1"><span>Arranging calls with your surgeon to clear all your concerns</span></li><li aria-level="1"><span>Continuous assistance at every step</span></li><li aria-level="1"><span>Providing guidelines for Visa Application</span></li><li aria-level="1"><span>Sending budget hotel recommendations</span></li><li aria-level="1"><span>Airport pick and drop services</span></li><li aria-level="1"><span>Follow up with patients until they land back in their country</span></li><li aria-level="1"><span>Follow-up post-op</span></li><li aria-level="1"><span>Overall savings of 15% on a complete surgical package&nbsp;</span></li></ul></span></h2><h2><span style="color: #0048ad;">Bringing Hope to Families: Bentall Surgery Now Available for Children.”</span></h2>
 <p>A Bentall procedure, also known as a Bentall-DeBono procedure, is used to treat Aortic Valve Stenosis, Aortic aneurysms, Aortic root dilatation, and Aortic dissection. These medical conditions affect the proper functioning of the aorta, which is the main artery in the human body. It carries oxygenated blood from the heart to the rest of the body.</p>
 <p>It must function correctly to maintain proper blood flow and to deliver essential nutrients and oxygen to the organs and tissues. Damage or blockage of the aorta can lead to serious health complications such as heart attack, stroke, and organ failure.</p>
 <p>Bentall surgery is a complex procedure and must be performed by a skilled surgeon with experience in this type of surgery. India has many hospitals and clinics that provide excellent post-operative care for patients, which helps them recover faster from the Bentall procedure. Also, India has a large pool of highly skilled and experienced cardiovascular surgeons who are well-trained in performing the Bentall procedure.</p>
@@ -8955,167 +8271,7 @@ Surgery is just one possible way to transition.</p>
 <ul>
 <li>These valves are made from animal tissue, such as pig or cow heart valves, and are designed to be less likely to cause blood clots or infection.</li>
 <li>They can be used in patients who cannot take long-term blood thinning medication.</li>
-<li>However, they typically have a shorter lifespan and may require replacement within 10-15 years.</li>
-</ul>
-<h2><span style="color: #0048ad;">Cost of Bentall Surgery in India</span></h2>
-<ul>
-<li>Bentall surgery cost in India starts from <strong>US $9000</strong> with the best cardiac surgeons and top heart hospitals in India.</li>
-</ul>
-<h2><strong><span style="color: #0048ad;">Top Paediatric Heart Surgeons for Bentall Surgery in India</span> </strong></h2>
-<ul>
-<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong> Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
-</ul>
-<p><span style="font-weight: 400;">Bentall surgery is primarily performed to treat aortic aneurysms, a condition where the walls of the aorta become weak and bulged. If left untreated, these aneurysms can rupture and lead to life-threatening conditions.&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The average cost of Bentall surgery is much less in India as compared to Western countries.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">India is known worldwide for delivering promising results as far as Bentall surgery is concerned.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The average cost of Bentall surgery in India is around $ 9000 to $ 12000</span></li>
-</ul>
-<h2><span style="color: #0048ad;"><b>The key factors affecting the cost of Bentall Surgery in India are:&nbsp;</b></span></h2>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of hospital you select ( Public or Private)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Location of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation of the hospital ( NABH or JCI)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Brand value and reputation of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Technology used ( Traditional or Minimally Invasive )&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of aortic graft used&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of valve used&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Qualification and expertise of the doctor</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The extent of surgery required</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The general health of the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Room category selected by the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Length of the hospital stay</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Other treatments required in conjunction</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications occurred post-surgery&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pre-operative diagnostic tests</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post-operative care and rehabilitation</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-</ul>
-<h2><span style="color: #0048ad;"><b>Cost Of Bentall Procedure in Top Hospitals of India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Top Hospitals</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><b>Fortis Escorts Heart Institute&nbsp;</b></td>
-<td><b>10000$</b></td>
-</tr>
-<tr>
-<td><b>Indraprastha Apollo Hospital&nbsp;</b></td>
-<td><b>12000$</b></td>
-</tr>
-<tr>
-<td><b>Amrita Hospital&nbsp;</b></td>
-<td><b>9000$</b></td>
-</tr>
-<tr>
-<td><b>Max Healthcare&nbsp;</b></td>
-<td><b>12000$</b></td>
-</tr>
-<tr>
-<td><b>Marengo Asia Hospital&nbsp;</b></td>
-<td><b>13000$</b></td>
-</tr>
-<tr>
-<td><b>Medanta Hospital&nbsp;</b></td>
-<td><b>12000$</b></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>With Medihelp Global , your package will include:&nbsp;</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Device cost&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 10 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: 20 days&nbsp;</b></p>
-<p><b>The success rate of the surgery: 98%&nbsp;</b></p>
-<h2><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><b>Special Services Provided by Us to Our International Patients</b><b></b></p>
-<ul>
-<li aria-level="1"><b>Intricate planning </b><span style="font-weight: 400;">from doctor appointments to your accommodation in India</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging calls with your surgeon to clear all your concerns</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Continuous assistance at every step</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Providing guidelines for Visa Application</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sending budget hotel recommendations</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Airport pick and drop services</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow up with patients until they land back in their country</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up post-op</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Overall savings of 15% on a complete surgical package&nbsp;</span></li>
+<li>However, they typically have a shorter lifespan and may require replacement within 10-15 years.</li></ul><ul>
 </ul>
 <p><strong>Choose Medihelp Global Global Today. We are the best medical tourism company in India, and we will help you with Bentall Surgery at the most affordable prices in India.</strong></p>
 </div>`,
@@ -9124,7 +8280,7 @@ Surgery is just one possible way to transition.</p>
   {
     name: "bt-shunt-with-bypass",
     img: "/treatment/bt-shunt-with-bypass.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
 	</div>
@@ -9134,7 +8290,7 @@ Surgery is just one possible way to transition.</p>
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;">“Bringing Hope to Parents: BT Shunt with Bypass Surgery Brings Life-Changing Results”</span></h2>
+<h2><span style="color: #0048ad;"><b>Factors that Will Affect the Cost of&nbsp;</b><strong>BT Shunt Surgery&nbsp;</strong><strong>in India</strong></span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;"><b>Reputation of the Hospital:&nbsp;</b><span>The reputation and brand value of the hospital play a deciding role in the overall cost of the surgery. Plus the accreditation ( JCi or NABH ) also matters a lot. In addition, hospital infrastructure also decides the cost. A hospital with :&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Advanced medical equipment</span></li><li aria-level="1"><span>ICUs</span></li><li aria-level="1"><span>Special cardiac care centers</span></li></ul><p style="color: black; font-size: medium; font-weight: 400;"><span>These hospitals will charge you more for the surgery.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Surgical Team Expertise:&nbsp;</b><span>The experience and skill of pediatric cardiac surgeons, anesthesiologists, and nurses decide the overall cost of the surgery.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Location of the Hospital:&nbsp;</b><span>If you choose a hospital which is located in the top-tier cities of India, the cost will be more. The cost will also depend on the length of your hospital stay and the type of room you choose to stay.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Pre Operative Costs:&nbsp;</b><span>It includes:&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Diagnostic testing</span></li><li aria-level="1"><span>Consultations</span></li><li aria-level="1"><span>Cardiac imaging studying</span></li></ul><p style="color: black; font-size: medium; font-weight: 400;"><b>Post Operative Costs:&nbsp;</b><span>It includes:&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Medications</span></li><li aria-level="1"><span>Time required for recovery</span></li><li aria-level="1"><span>Follow up visits</span></li><li aria-level="1"><span>Additional therapies or interventions required</span></li></ul><p style="color: black; font-size: medium; font-weight: 400;"><b>Type of Shunt used:&nbsp;</b><span>The cost is also impacted by the type of shunt that is used. The average cost of different shunts is</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><b>Classic BT Shunt</b></li></ul><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><b>Modified BT Shunt</b></li></ul><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><b>Subclavian Flap Shunt</b></li></ul><p style="color: black; font-size: medium; font-weight: 400;"><b>Technology Used:&nbsp;</b>The cost will also depend on the technology or approach used to perform the surgery. The cost of the traditional approach will be less while the minimally invasive techniques will be costly.&nbsp;<b></b></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Other Factors Affecting the Cost:&nbsp;</b><span>Other factors affecting the cost of the surgery are:&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Any complications during the surgery</span></li><li aria-level="1"><span>Additional co-morbidities that require to be treated</span></li><li aria-level="1"><span>Medical tourism packages</span></li><li aria-level="1"><span>Currency exchange rates</span></li></ul></span></h2><h2><span style="color: #0048ad;">Cost in Top Hospitals Doing BT Shunt Surgery in India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Top Hospitals</b></td><td><b>Cost</b></td></tr><tr><td><b>Fortis Escorts Heart Institute&nbsp;</b></td><td><b>4800$</b></td></tr><tr><td><b>Indraprastha Apollo Hospital&nbsp;</b></td><td><b>5500$</b></td></tr><tr><td><b>Blk – Max Hospital&nbsp;</b></td><td><b>5000$</b></td></tr><tr><td><b>Max Healthcare&nbsp;</b></td><td><b>5500$</b></td></tr><tr><td><b>Marengo Asia Hospital&nbsp;</b></td><td><b>4500$</b></td></tr><tr><td><b>Artemis Hospital&nbsp;</b></td><td><b>4500$</b></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">At Medihelp Global your package will include:&nbsp;</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>Device cost&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 06 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay: 20 days&nbsp;</b></p><p style="color: black; font-size: medium; font-weight: 400;"><b>The success rate of the surgery: 90%&nbsp;</b></p></span></h2><h2><span style="color: #0048ad;">Heart Health on a Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><span>Medihelp Global is the best medical tourism company in India. If you choose our services you get the following advantages:&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Consultation with the best doctors and surgery in the best hospital in India</span></li><li aria-level="1"><span>Total guidance from your arrival in India to your departure</span></li><li aria-level="1"><span>Arrangement of visa</span></li><li aria-level="1"><span>Overall 15 % discount on the entire surgical package</span></li><li aria-level="1"><span>Help at every step ( before the procedure, during the procedure, and after the procedure)&nbsp;</span></li><li aria-level="1"><span>Follow-up post-op</span></li></ul></span></h2><h2><span style="color: #0048ad;">Bringing Hope to Parents: BT Shunt with Bypass Surgery Brings Life-Changing Results</span></h2>
 <p>The Blalock-Taussig shunt with bypass is a surgical procedure used to treat congenital heart defects like Atrial septal defect, Ventricular septal defect, Tetralogy of Fallot, Pulmonary stenosis, and Coarctation of the aorta that occurs in children since birth. Congenital heart defects can disrupt the normal flow of blood through the heart and the body, leading to low oxygen levels in the tissues and organs.</p>
 <p>India has a large pool of highly skilled and experienced doctors who are trained in the latest medical techniques. These doctors are well-equipped to handle complex medical procedures like the Blalock Taussig Shunt with Bypass.</p>
 <h2><span style="color: #0048ad;">Diagnosis of Blalock Taussing Shunt with Bypass</span></h2>
@@ -9152,179 +8308,20 @@ Surgery is just one possible way to transition.</p>
 <p>The average BT Shunt Surgery price in India is 4,800 USD</p>
 <h2><strong><span style="color: #0048ad;">Top Paediatric Heart Surgeons Carrying out BT Shunt Surgery in India</span> </strong></h2>
 <ul>
-<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer</strong></a>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan</strong></a>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar</strong></a>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
+<li><strong>Dr KS Iyer</strong>, Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><strong>Dr Anil Bhan</strong>, Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><strong>Dr Kulbhushan Singh Dagar</strong>, Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><strong>Dr Rajesh Sharma</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><strong>Dr Muthu Jothi</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><strong>Dr Vijay Agarwal</strong>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals C</strong><strong>arrying out BT Shunt Surgery </strong></span><strong><span style="color: #0048ad;">in India</span> </strong></h2>
 <ul>
-<li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
-<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
-</ul>
-<h2><span style="color: #0048ad;"><b>&nbsp;Factors that Will Affect the Cost of </b><strong>BT Shunt Surgery </strong><strong>in India</strong></span></h2>
-<p><b>Reputation of the Hospital: </b><span style="font-weight: 400;">The reputation and brand value of the hospital play a deciding role in the overall cost of the surgery. Plus the accreditation ( JCi or NABH ) also matters a lot. In addition, hospital infrastructure also decides the cost. A hospital with :&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Advanced medical equipment</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ICUs</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Special cardiac care centers</span></li>
-</ul>
-<p><span style="font-weight: 400;">These hospitals will charge you more for the surgery.&nbsp;</span></p>
-<p><b>Surgical Team Expertise: </b><span style="font-weight: 400;">The experience and skill of pediatric cardiac surgeons, anesthesiologists, and nurses decide the overall cost of the surgery.&nbsp;</span></p>
-<p><b>Location of the Hospital: </b><span style="font-weight: 400;">If you choose a hospital which is located in the top-tier cities of India, the cost will be more. The cost will also depend on the length of your hospital stay and the type of room you choose to stay.&nbsp;</span></p>
-<p><b>Pre Operative Costs: </b><span style="font-weight: 400;">It includes:&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Diagnostic testing</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultations</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cardiac imaging studying</span></li>
-</ul>
-<p><b>Post Operative Costs: </b><span style="font-weight: 400;">It includes:&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Time required for recovery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow up visits</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Additional therapies or interventions required</span></li>
-</ul>
-<p><b>Type of Shunt used: </b><span style="font-weight: 400;">The cost is also impacted by the type of shunt that is used. The average cost of different shunts is</span></p>
-<ul>
-<li aria-level="1"><b>Classic BT Shunt</b></li>
-</ul>
-<ul>
-<li aria-level="1"><b>Modified BT Shunt</b></li>
-</ul>
-<ul>
-<li aria-level="1"><b>Subclavian Flap Shunt</b></li>
-</ul>
-<p><b>Technology Used: </b>The cost will also depend on the technology or approach used to perform the surgery. The cost of the traditional approach will be less while the minimally invasive techniques will be costly.&nbsp;<b></b></p>
-<p><b>Other Factors Affecting the Cost: </b><span style="font-weight: 400;">Other factors affecting the cost of the surgery are:&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Any complications during the surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Additional co-morbidities that require to be treated</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medical tourism packages</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
-</ul>
-<h2><span style="color: #0048ad;"><b>Cost in Top Hospitals Doing BT Shunt Surgery in India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Top Hospitals</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><b>Fortis Escorts Heart Institute&nbsp;</b></td>
-<td><b>4800$</b></td>
-</tr>
-<tr>
-<td><b>Indraprastha Apollo Hospital&nbsp;</b></td>
-<td><b>5500$</b></td>
-</tr>
-<tr>
-<td><b>Blk – Max Hospital&nbsp;</b></td>
-<td><b>5000$</b></td>
-</tr>
-<tr>
-<td><b>Max Healthcare&nbsp;</b></td>
-<td><b>5500$</b></td>
-</tr>
-<tr>
-<td><b>Marengo Asia Hospital&nbsp;</b></td>
-<td><b>4500$</b></td>
-</tr>
-<tr>
-<td><b>Artemis Hospital&nbsp;</b></td>
-<td><b>4500$</b></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>At Medihelp Global  your package will include:&nbsp;</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Device cost&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 06 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: 20 days&nbsp;</b></p>
-<p><b>The success rate of the surgery: 90%&nbsp;</b></p>
-<h2><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">Medihelp Global  is the best medical tourism company in India. If you choose our services you get the following advantages:&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation with the best doctors and surgery in the best hospital in India</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Total guidance from your arrival in India to your departure</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arrangement of visa</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Overall 15 % discount on the entire surgical package</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help at every step ( before the procedure, during the procedure, and after the procedure)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up post-op</span></li>
+<li>Fortis Escorts Heart Institute, New Delhi</li>
+<li>Indraprastha Apollo Hospital, New Delhi</li>
+<li>Medanta The Medicity, Gurugram</li>
+<li>Fortis Memorial Research Institute, Gurugram</li>
+<li>Max Super Speciality Hospital , New Delhi</li></ul><ul>
 </ul>
 <p><span style="font-weight: 400;">Please write to us today at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a><span style="font-weight: 400;">. If you are looking for affordable BT Shunt surgery in India.&nbsp;</span></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best BT Shunt with Bypass Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
@@ -9334,7 +8331,7 @@ Surgery is just one possible way to transition.</p>
   {
     name: "fontan-procedure",
     img: "/treatment/fontan-procedure.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -9343,7 +8340,7 @@ Surgery is just one possible way to transition.</p>
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;">The Fontan Procedure Giving Hope to Parents and Children”</span></h2>
+<h2><span style="color: #0048ad;">Cost of Fontan Procedure in Top Hospitals of India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Top Hospitals</b></td><td><b>Cost</b></td></tr><tr><td><b>Fortis Escorts Heart Institute&nbsp;</b></td><td><b>7500$</b></td></tr><tr><td><b>Indraprastha Apollo Hospital&nbsp;</b></td><td><b>8500$</b></td></tr><tr><td><b>Blk – Max Hospital&nbsp;</b></td><td><b>8000$</b></td></tr><tr><td><b>Max Healthcare&nbsp;</b></td><td><b>8500$</b></td></tr><tr><td><b>Marengo Asia Hospital&nbsp;</b></td><td><b>9000$</b></td></tr><tr><td><b>Artemis Hospital&nbsp;</b></td><td><b>7000$</b></td></tr><tr><td><b>Medanta the Medicity&nbsp;</b></td><td><b>8500$</b></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Your Package at Medihelp Global will Include:&nbsp;</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>Device cost&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 10 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay: 20 days&nbsp;</b></p><p style="color: black; font-size: medium; font-weight: 400;"><b>The success rate of the surgery: 90%&nbsp;</b></p></span></h2><h2><span style="color: #0048ad;">Heart Health on a Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">The Fontan Procedure Giving Hope to Parents and Children</span></h2>
 <p>The Fontan procedure, also known as Fontan Kreutzer, is a surgical procedure named after Dr. Pierre Fontan, who developed the procedure in the 1970s.&nbsp; It is primarily used in treating single ventricles heart defects like hypoplastic left heart syndrome, tricuspid atresia, and pulmonary atresia, where the heart has only one functioning pumping chamber instead of two.</p>
 <p>It involves rerouting the blood flow in the heart so that it bypasses the defective ventricle and allows oxygenated blood to flow to the body. The procedure is typically performed on children or young adults. The Fontan procedure aims to improve the patient’s quality of life and allow them to lead a more normal, active lifestyle.</p>
 <p>The cost of the Fontan procedure in India is significantly lower compared to other countries, making it more affordable for patients. Not just this, India also has some of the best cardiac surgeons in the world who are highly skilled and experienced in performing the Fontan procedure.</p>
@@ -9364,191 +8361,79 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><strong><span style="color: #0048ad;">Top paediatric heart surgeons for fontal surgery in India</span> </strong></h2>
 <ul>
-<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
+<li><strong>Dr KS Iyer-</strong>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><strong>Dr Anil Bhan-</strong>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><strong>Dr Kulbhushan Singh Dagar-</strong>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><strong>Dr Rajesh Sharma-</strong>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><strong>Dr Muthu Jothi-</strong>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><strong>Dr Vijay Agarwal-</strong>, Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
 </ul>
 <h2><strong><span style="color: #0048ad;">Top Hospitals Carrying out Fontan Procedure in India</span> </strong></h2>
 <ul>
-<li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a> , Gurugram</li>
-<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-<li><a href="#/bl-kapur-hospital/">Max Super Speciality Hospital</a> , New Delhi</li>
+<li>Fortis Escorts Heart Institute, New Delhi</li>
+<li>Indraprastha Apollo Hospital, New Delhi</li>
+<li>Medanta The Medicity , Gurugram</li>
+<li>Fortis Memorial Research Institute, Gurugram</li>
+<li>Max Super Speciality Hospital , New Delhi</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Some of the factors affecting the cost of the Fontan Procedure in India are:&nbsp;</b></span></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital you choose for the surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation of the hospital ( JCI OR NABH)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Brand of the hospital ( Fortis Escorts Heart Institute)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Location of the hospital – Delhi is expensive than Faridabad&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Length of stay in the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of room you select – single room is expensive&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The presence of advanced cardiac care facilities in the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital you choose for the surgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Accreditation of the hospital ( JCI OR NABH)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Brand of the hospital ( Fortis Escorts Heart Institute)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Location of the hospital – Delhi is expensive than Faridabad&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Length of stay in the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of room you select – single room is expensive&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The presence of advanced cardiac care facilities in the hospital</span></li>
 </ul>
 <p><b>Surgical Expenses:&nbsp;</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Qualification of the surgeon</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Qualification of the surgeon</span></li>
 <li aria-level="1"><b>Type of Fontan Procedure Performed :&nbsp;</b></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Atrio Pulmonary Connection</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">The extra Cardiac Conduit</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Fenestration or No Fenestration</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Atrio Pulmonary Connection</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">The extra Cardiac Conduit</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Fenestration or No Fenestration</span></li>
 <li aria-level="1"><b>Type of Technique used:&nbsp;</b></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">A Lateral Tunnel Approach</span></li>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Cardiovascular Technique</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">A Lateral Tunnel Approach</span></li>
+<li aria-level="2" style="font-weight: 400;"><span style="font-weight: 400;">Cardiovascular Technique</span></li>
 </ul>
 <p><b>Patient Factors: </b><span style="font-weight: 400;">The cost also depends on :&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Age of the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">General health of the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Any other disease that the patient is suffering from</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Age of the patient</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">General health of the patient</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Any other disease that the patient is suffering from</span></li>
 </ul>
 <p><b>Pre-Operative costs</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Diagnosis and Testing</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation with the doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Diagnosis and Testing</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Consultation with the doctors</span></li>
 </ul>
 <p><b>Post Operative Costs</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications if any</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow up care</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rehabilitation&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medications</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Complications if any</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Follow up care</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Rehabilitation&nbsp;</span></li>
 </ul>
 <h2><span style="color: #0048ad;"><b>Other Factors Affecting the Cost</b></span></h2>
 <p><span style="font-weight: 400;">Other factors affecting the cost of the Fontan Procedure are:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The cost associated with implants</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cost of blood transfusions</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hospital pricing structure</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medical tourism packages</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Miscellaneous Expenses</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The cost associated with implants</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Cost of blood transfusions</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Hospital pricing structure</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medical tourism packages</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Currency exchange rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Miscellaneous Expenses</span></li>
 </ul>
-<h2><span style="color: #0048ad;"><b>Cost of Fontan Procedure in Top Hospitals of India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Top Hospitals</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><b>Fortis Escorts Heart Institute&nbsp;</b></td>
-<td><b>7500$</b></td>
-</tr>
-<tr>
-<td><b>Indraprastha Apollo Hospital&nbsp;</b></td>
-<td><b>8500$</b></td>
-</tr>
-<tr>
-<td><b>Blk – Max Hospital&nbsp;</b></td>
-<td><b>8000$</b></td>
-</tr>
-<tr>
-<td><b>Max Healthcare&nbsp;</b></td>
-<td><b>8500$</b></td>
-</tr>
-<tr>
-<td><b>Marengo Asia Hospital&nbsp;</b></td>
-<td><b>9000$</b></td>
-</tr>
-<tr>
-<td><b>Artemis Hospital&nbsp;</b></td>
-<td><b>7000$</b></td>
-</tr>
-<tr>
-<td><b>Medanta the Medicity&nbsp;</b></td>
-<td><b>8500$</b></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Your Package at Medihelp Global  will Include:&nbsp;</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Device cost&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 10 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: 20 days&nbsp;</b></p>
-<p><b>The success rate of the surgery: 90%&nbsp;</b></p>
-<h2><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><b>Medihelp Global  is the best medical tourism company in India. With our services, you get:&nbsp;</b></p>
+<h2><b><br />Medihelp Global  is the best medical tourism company in India. With our services, you get:&nbsp;</b></h2>
+
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Maximum discount on the procedures upto 15%&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help from the start to the beginning</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation with top doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgery in the best hospitals</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Visa arrangement</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation at every step of the surgery ( before, during and after )&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Maximum discount on the procedures upto 15%&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Help from the start to the beginning</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Consultation with top doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgery in the best hospitals</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Visa arrangement</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Consultation at every step of the surgery ( before, during and after )&nbsp;</span></li>
 </ul>
 <p><b>To avail of our services and to know about our packages, please write to us today at </b><a href="mailto:info@Medihelp Globalglobal.com"><b>info@Medihelp Globalglobal.com</b></a><b>.</b></p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Fontan Procedure </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
@@ -9558,14 +8443,14 @@ Surgery is just one possible way to transition.</p>
   {
     name: "pda-closure",
     img: "/treatment/pda-closure.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	
 	</div>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Closure of PDA Brings World – Class Results in Indian Hospitals</span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals PDA Closure Surgery Cost Comparison&nbsp; in India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Hospital&nbsp;</b></td><td><b>Open Heart&nbsp;</b></td><td><b>Transcatheter&nbsp;&nbsp;</b></td></tr><tr><td><span>Fortis Escorts Heart Institute&nbsp;</span></td><td><span>5500$</span></td><td><span>4500$</span></td></tr><tr><td><span>Max Healthcare&nbsp;</span></td><td><span>5500$</span></td><td><span>4500$</span></td></tr><tr><td><span>Marengo Asia&nbsp;</span></td><td><span>6000$</span></td><td><span>5000$</span></td></tr><tr><td><span>Indraprastha Apollo&nbsp;</span></td><td><span>5000$</span></td><td><span>4000$</span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Your Package Will Cover</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Cost of Device&nbsp;</span></td><td></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 10 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay:&nbsp;</b><span>30 days&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Success rate of the surgery:&nbsp;</b><span>99 %&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">Heart Health on a Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Closure of PDA Brings World – Class Results in Indian Hospitals</span></h2>
 <p>Patent ductus arteriosus (PDA) is a congenital heart defect that occurs when the ductus arteriosus, a blood vessel that connects the aorta and the pulmonary artery, fails to close after birth. This results in a persistent connection between the two arteries, allowing blood to flow and bypass the lungs.</p>
 <p>PDA can cause weakening heart muscles and other complications because it allows oxygenated blood from the aorta to mix with deoxygenated blood from the pulmonary artery, leading to an increased workload on the heart and reduced oxygen levels in the body.</p>
 <p>Today India has emerged as a world leader in cardiac treatments. It has some of the best hospitals and doctors but also one of the highest success rates of heart surgery.</p>
@@ -9577,7 +8462,7 @@ Surgery is just one possible way to transition.</p>
 <li>Physical examination (heart murmur)</li>
 </ul>
 <h2><span style="color: #0048ad;">About the Surgery</span></h2>
-<p><span style="color: #000000;">Patent ductus arteriosus (PDA) closure surgery is performed by a surgeon on an infant only after six months of his birth. The patient will be provided necessary anesthesia to remain calm throughout the procedure. To reach a Patent ductus arteriosus, the surgeon will make a small cut into the rib of the patient once the Patent ductus arteriosus is closed, the surgeon will stitch the opening. The complication of the procedure is only for a small duration and is less complex.</span></p>
+<p><span style="color: black;">Patent ductus arteriosus (PDA) closure surgery is performed by a surgeon on an infant only after six months of his birth. The patient will be provided necessary anesthesia to remain calm throughout the procedure. To reach a Patent ductus arteriosus, the surgeon will make a small cut into the rib of the patient once the Patent ductus arteriosus is closed, the surgeon will stitch the opening. The complication of the procedure is only for a small duration and is less complex.</span></p>
 <h2><span style="color: #0048ad;">Types of DPA Surgery</span></h2>
 <h3>1.&nbsp;&nbsp; Surgical Closure</h3>
 <p>This procedure is only adopted once the medication does not prove effective in curing your child’s condition. It may take a few weeks to recover from this surgery. This procedure is also used on adults to relieve them from Patent ductus arteriosus (PDA).</p>
@@ -9590,140 +8475,35 @@ Surgery is just one possible way to transition.</p>
 <p><b>Type of Surgical Approach:&nbsp; </b><span style="font-weight: 400;">with the hope of improving patient care, new techniques and technology are continuously being improved in India. The charges vary depending on your surgical approach ( open heart surgery or transcatheter closure).&nbsp;</span></p>
 <p><b>Surgical Facility: </b><span style="font-weight: 400;">The cost also depends on the surgical facility. The cost will be more if:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital is private and reputed. The cost will be higher if the hospital is branded.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The hospital has special cardiac centres with state-of-the-art facilities&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Presence of highly skilled cardiologists and interventional cardiologists.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Geographical location of the hospital. The cost is higher in hospitals located in metro cities.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital is private and reputed. The cost will be higher if the hospital is branded.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The hospital has special cardiac centres with state-of-the-art facilities&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Presence of highly skilled cardiologists and interventional cardiologists.</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Geographical location of the hospital. The cost is higher in hospitals located in metro cities.</span></li>
 </ul>
 <p><b>Duration of Hospital Stay: </b><span style="font-weight: 400;">The cost highly depends on the duration of the hospital stay. The price will increase if your stay in the hospital is more extended. Plus, the costs will increase if you choose a private room to stay.&nbsp;</span></p>
 <p><b>Other costs: </b><span style="font-weight: 400;">Other costs include:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Diagnostic Imaging</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Laboratory Test</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Specialized Nursing</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Anesthesia fees</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Preoperative care and tests</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post-operative care and tests</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Diagnostic Imaging</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Laboratory Test</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Specialized Nursing</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Anesthesia fees</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Preoperative care and tests</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Post-operative care and tests</span></li>
 </ul>
 <p><b>Economic Factors</b><span style="font-weight: 400;">: The overall cost of healthcare in India may be influenced by economic factors such as inflation rates, currency fluctuations, and government policies affecting healthcare financing and pricing.</span></p>
-<h2><span style="color: #0048ad;"><b>Top Hospitals PDA Closure Surgery Cost Comparison&nbsp; in India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital&nbsp;</b></td>
-<td><b>Open Heart&nbsp;</b></td>
-<td><b>Transcatheter&nbsp;&nbsp;</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Fortis Escorts Heart Institute&nbsp;</span></td>
-<td><span style="font-weight: 400;">5500$</span></td>
-<td><span style="font-weight: 400;">4500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Max Healthcare&nbsp;</span></td>
-<td><span style="font-weight: 400;">5500$</span></td>
-<td><span style="font-weight: 400;">4500$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Marengo Asia&nbsp;</span></td>
-<td><span style="font-weight: 400;">6000$</span></td>
-<td><span style="font-weight: 400;">5000$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo&nbsp;</span></td>
-<td><span style="font-weight: 400;">5000$</span></td>
-<td><span style="font-weight: 400;">4000$</span></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Cost of Device&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 10 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: </b><span style="font-weight: 400;">30 days&nbsp;</span></p>
-<p><b>Success rate of the surgery: </b><span style="font-weight: 400;">99 %&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<h2><strong><span style="color: #0048ad;">Top Pediatric Heart Surgeons for PDA Surgery in India</span> </strong></h2>
+<h2><strong><span style="color: #0048ad;"><br />Top Pediatric Heart Surgeons for PDA Surgery in India</span></strong></h2>
+
 <ul>
-<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="#/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li><a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Dr Muthu Jothi-</strong></a>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>&nbsp;Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
+<li><strong>Dr KS Iyer-</strong>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><strong>Dr Anil Bhan-</strong>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><strong>Dr Kulbhushan Singh Dagar-</strong>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><strong>Dr Rajesh Sharma-</strong>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li><strong>Dr Muthu Jothi-</strong>, Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><strong>Dr Vijay Agarwal-</strong>&nbsp;Director &amp; HOD, Fortis Hospital, 15 years of experience</li>
 </ul>
 <h2><strong><span style="color: #0048ad;">Top Pediatric cardiologist for PDA Surgery in India</span> </strong></h2>
 <ul>
-<li><a href="#/dr-sushil-azad-pediatric-cardiac-surgeon/"><strong>Dr Sushil Azad</strong></a>, Pediatric Cardiologist, Amrita Hospital, New Delhi, Delhi, experience 23 years.</li>
+<li><strong>Dr Sushil Azad</strong>, Pediatric Cardiologist, Amrita Hospital, New Delhi, Delhi, experience 23 years.</li>
 <li><strong>Dr Neeraj Awasthy</strong> , Director Paediatric Cardiology, Fortis Escorts Heart Institute, experience , 20 years.</li>
 <li><strong>Dr Amit Misri</strong>, Associate Director, Paediatic Cardiology, Medanta the Medicity, Gurigram, experience 15 years.</li>
 <li><strong>Dr Manvinder Singh Sachdev</strong>, Director Paediatric Cardiology, Fortis Memorial Research Institute, Gurugram, Experience 20 years.</li>
@@ -9740,7 +8520,7 @@ Surgery is just one possible way to transition.</p>
   {
     name: "vsd-closure",
     img: "/treatment/vsd-closure.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -9749,7 +8529,7 @@ Surgery is just one possible way to transition.</p>
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;">Saving Your Children’s Hearts – The Importance of Treating VSD”</span></h2>
+<h2><span style="color: #0048ad;">Cost of VSD Surgery in Top Hospitals of India: Device closure with cardiac catheterisation&nbsp;</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Top Hospitals</b></td><td><b>Cost</b></td></tr><tr><td><b>Fortis Escorts Heart Institute&nbsp;</b></td><td><b>5000$</b></td></tr><tr><td><b>Indraprastha Apollo Hospital&nbsp;</b></td><td><b>5500$</b></td></tr><tr><td><b>Amrita Hospital&nbsp;</b></td><td><b>4500$</b></td></tr><tr><td><b>Max Healthcare&nbsp;</b></td><td><b>5200$</b></td></tr><tr><td><b>Artemis Hospital&nbsp;</b></td><td><b>4800$</b></td></tr><tr><td><b>Max-Blk Hospital&nbsp;</b></td><td><b>5000$</b></td></tr><tr><td><b>Medanta Hospital&nbsp;</b></td><td><b>5500$</b></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Your Package at Medihelp Global will Include:&nbsp;</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>Device cost&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 04 days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay: 20 days&nbsp;</b></p><p style="color: black; font-size: medium; font-weight: 400;"><b>The success rate of the surgery: 95%&nbsp;</b></p></span></h2><h2><span style="color: #0048ad;">Paediatric Heart Health on a Budget: Service Cost</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Saving Your Children’s Hearts – The Importance of Treating VSD”</span></h2>
 <p>Ventricular septal defect (VSD) closure is a surgical procedure used to repair a hole in the wall separating the two lower chambers of the heart (ventricles). This hole, known as a VSD, allows blood to flow between the two ventricles, leading to abnormal oxygen levels in the body and an increased risk of heart failure. VSD surgery cost in India depends on several factors still India offers pocket – friendly pediatric heart surgery world wide.</p>
 <p>There are several reasons why India may be a good option for ventricular septal defect closure Cost, Expertise, Infrastructure, and Patient-friendly policies.</p>
 <p><span style="color: #0048ad;"><strong>Diagnosis of Ventricular Septal Defect</strong></span></p>
@@ -9802,12 +8582,12 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top paediatric heart surgeons doing VSD Surgery in India </strong></span></h2>
 <ul>
-<li><a href="#/dr-krishna-s-iyer-pediatric-cardiac-surgeon/"><strong>Dr KS Iyer-</strong></a>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
-<li><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/"><strong>Dr Anil Bhan-</strong></a>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
-<li><a href="#/dr-kulbhushan-singh-dagar-pediatric-cardiac-surgeon/"><strong>Dr Kulbhushan Singh Dagar-</strong></a>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
-<li><a href="#/dr-rajesh-sharma/"><strong>Dr Rajesh Sharma-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
-<li>Dr.<a href="#/dr-muthu-jothi-pediatric-cardiac-surgeon/"><strong>Muthu Jothi-</strong></a>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
-<li><a href="#/dr-vijay-agarwal-pediatric-cardiac-surgeon/"><strong>Dr Vijay Agarwal-</strong></a>&nbsp;Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
+<li><strong>Dr KS Iyer-</strong>&nbsp;Executive Director, Fortis Escorts Heart Institute, New Delhi, experience 42 years</li>
+<li><strong>Dr Anil Bhan-</strong>&nbsp;Chairman, Cardiac Surgery, Heart Institute Medanta the Medicity, Gurugram, experience 41 years.</li>
+<li><strong>Dr Kulbhushan Singh Dagar-</strong>&nbsp;Principal Director, Chief Surgeon &amp; Head – Neonatal &amp; Congenital Heart Surgery, Max Super Speciality Hospital, Saket, experience 30 years.</li>
+<li><strong>Dr Rajesh Sharma-</strong>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 30 years.</li>
+<li>Dr.<strong>Muthu Jothi-</strong>&nbsp;Senior Consultant, Indraprastha Apollo Hospital, New Delhi, experience 20 years.</li>
+<li><strong>Dr Vijay Agarwal-</strong>&nbsp;Director &amp; HOD, Fortis Hospital, Mulund, 15 years of experience</li>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Paediatric Cardiologist doing VSD Surgery in India </strong></span></h2>
 <ul>
@@ -9818,168 +8598,56 @@ Surgery is just one possible way to transition.</p>
 </ul>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals D</strong><strong>oing VSD Surgery </strong><strong>in India</strong></span></h2>
 <ul>
-<li><a href="https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi">Fortis Escorts Heart Institute</a>, New Delhi</li>
-<li><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
-<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Specialty Hospital</a> , New Delhi</li>
-<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram</li>
+<li>Fortis Escorts Heart Institute, New Delhi</li>
+<li>Indraprastha Apollo Hospital, New Delhi</li>
+<li>Medanta The Medicity, Gurugram</li>
+<li>Fortis Memorial Research Institute, Gurugram</li>
+<li>Max Super Specialty Hospital , New Delhi</li>
+<li>Artemis Hospital, Gurugram</li>
 </ul>
 <h2><span style="color: #0048ad;"><b>The key factors affecting the cost of VSD surgery in India are:&nbsp;</b></span></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The reputation of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The brand value of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The accreditation of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The number of days spent in the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of room you choose to stay in</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The location of the hospital&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The infrastructure of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The reputation of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The brand value of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The accreditation of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The number of days spent in the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of room you choose to stay in</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The location of the hospital&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The infrastructure of the hospital</span></li>
 </ul>
 <h3><b>Surgical factors</b></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The expertise of the surgical team</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of VSD Repair Technique used ( open heart surgery or minimally invasive surgery)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pre operative testing and diagnosis</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post surgical medicines&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow ups after the surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complications if any</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The expertise of the surgical team</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of VSD Repair Technique used ( open heart surgery or minimally invasive surgery)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Pre operative testing and diagnosis</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Post surgical medicines&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Follow ups after the surgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Complications if any</span></li>
 </ul>
 <h3><b>Patient Related Factors</b></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Age of the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complexity of the disease he is suffering from</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Extent of surgery required by the patient</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Any other disease that patient is suffering from</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Age of the patient</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Complexity of the disease he is suffering from</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Extent of surgery required by the patient</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Any other disease that patient is suffering from</span></li>
 </ul>
 <h3><b>Other factors affecting the cost of the surgery</b></h3>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medical tourism packages</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Blood transfusions</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Implants used</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Miscellaneous expenses</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medical tourism packages</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Blood transfusions</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Implants used</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Miscellaneous expenses</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Currency exchange rates</span></li>
 </ul>
-<h2><span style="color: #0048ad;"><b>Cost of VSD Surgery in Top Hospitals of India: Device closure with cardiac catheterisation&nbsp;</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Top Hospitals</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><b>Fortis Escorts Heart Institute&nbsp;</b></td>
-<td><b>5000$</b></td>
-</tr>
-<tr>
-<td><b>Indraprastha Apollo Hospital&nbsp;</b></td>
-<td><b>5500$</b></td>
-</tr>
-<tr>
-<td><b>Amrita Hospital&nbsp;</b></td>
-<td><b>4500$</b></td>
-</tr>
-<tr>
-<td><b>Max Healthcare&nbsp;</b></td>
-<td><b>5200$</b></td>
-</tr>
-<tr>
-<td><b>Artemis Hospital&nbsp;</b></td>
-<td><b>4800$</b></td>
-</tr>
-<tr>
-<td><b>Max-Blk Hospital&nbsp;</b></td>
-<td><b>5000$</b></td>
-</tr>
-<tr>
-<td><b>Medanta Hospital&nbsp;</b></td>
-<td><b>5500$</b></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><b>Your Package at Medihelp Global  will Include:&nbsp;</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Device cost&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 04 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: 20 days&nbsp;</b></p>
-<p><b>The success rate of the surgery: 95%&nbsp;</b></p>
-<h2><span style="color: #0048ad;"><b>Paediatric Heart Health on a Budget: Service Cost</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><b>Medihelp Global  is the best medical tourism company in India. With our services, you get:&nbsp;</b></p>
+<h2><b><br />Medihelp Global  is the best medical tourism company in India. With our services, you get:&nbsp;</b></h2>
+
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Maximum discount on the procedures upto 15%&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Help from the start to the beginning</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation with top doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgery in the best hospitals</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Visa arrangement</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Consultation at every step of the surgery ( before, during and after )&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Maximum discount on the procedures upto 15%&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Help from the start to the beginning</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Consultation with top doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgery in the best hospitals</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Visa arrangement</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Consultation at every step of the surgery ( before, during and after )&nbsp;</span></li>
 </ul>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best VSD Surgery&nbsp;</strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
@@ -9988,13 +8656,13 @@ Surgery is just one possible way to transition.</p>
   {
     name: "contoura-super-vision-surgery",
     img: "/treatment/contoura-super-vision-surgery.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Contoura Super Vision Surgery in India</span></h2>
+			<h2><span style="color: #0048ad;">Cost of robotic contoura super vision surgery in India</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">Following are the advantages of Contoura surgery in India</p><ul style="color: black; font-size: medium; font-weight: 400;"><li>Major advantage is low cost; India is famous for its pocket friendly cost then its western counterparts.</li><li>It is a suture free surgery</li><li>Second advantage is availability of Femtosecond world-class laser technology</li><li>Practically zero waiting time</li><li>It is a day care surgery , whole procedure takes less than a minute</li><li>On top of it robotic surgery is always painless, bloodless and infection less</li></ul></span></h2><h2><span style="color: #0048ad;">Factors That Affect Contoura Super Vision Surgery Cost in India&nbsp;</span></h2><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;"><span>Contoura Vision is the latest advancement in Specs removal by Laser Vision Correction. It is an FDA-approved procedure known for its precision and effectiveness.&nbsp; Let us first discuss the factors affecting the cost of&nbsp;</span><b>Contoura Super Vision Surgery Cost in India.</b><span>&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Choice of Hospital</b><span>: The choice of the hospital is one of the main factors affecting the cost of the Surgery. If the hospital is JCI accredited, NABH accredited, and comes under a brand name like Apollo or Fortis, then the cost of the surgery will be higher.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Location of the Hospital:&nbsp;</b><span>The location of the hospital also impacts the overall cost of the surgery. If the hospital is located in the high-tier cities of India, like Delhi, Bangalore, or Mumbai, then the cost of the surgery will be more.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Technology Used:&nbsp;</b><span>One of the main reasons why Contoura Vision is more expensive is the technology used. It requires a specialized robotic system that has advanced features like computerized eye tracking, cyclo rotation compensation, active centration control, visual axis treatment, and corneal irregularity correction. Since the machines used to perform the surgery are expensive, the procedure is also expensive.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Doctor’s fee:&nbsp;</b><span>To operate the machine used to perform Contoura Vision, the surgeon requires special expertise. A surgeon with the expertise and skill needed to perform this surgery will charge more for the procedure.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Pre-Operative Examination:&nbsp;</b><span>Before performing Contoura Vision surgery, the surgeon performs several examinations like :&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Visual Acuity Tests</span></li><li aria-level="1"><span>Pentacam Tests</span></li><li aria-level="1"><span>Eye Pressure Tests</span></li><li aria-level="1"><span>Retinal Tests</span></li></ul><p style="color: black; font-size: medium; font-weight: 400;"><span>The cost of these exams is included in the surgery.&nbsp;</span></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Post-Surgery Care:&nbsp;</b><span>After the surgery, the patient has to spend on:&nbsp;</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li aria-level="1"><span>Follow Up Visits</span></li><li aria-level="1"><span>Medications</span></li><li aria-level="1"><span>Eye drops</span></li><li aria-level="1"><span>Eye shields</span></li><li aria-level="1"><span>Protection covers</span></li></ul></span></h2><h2><span style="color: #0048ad;">Contoura Super Vision Surgery Cost in top-notch hospitals.</span></h2><h2><span style="color: #0048ad;"><table style="height: 182px; width: 271px;"><tbody><tr><td width="52"><strong>S.No.</strong></td><td width="146"><strong>Hospital</strong></td><td width="91"><strong>Cost in USD</strong></td></tr><tr><td width="52">1.</td><td width="146">Centre for Sight</td><td width="91">1800</td></tr><tr><td width="52">2.</td><td width="146">The Sight Avenue</td><td width="91">2000</td></tr><tr><td width="52">3.</td><td width="146">Eye 7 Hospital</td><td width="91">1100</td></tr><tr><td width="52">4.</td><td width="146">Narang Eye Institute</td><td width="91">1700</td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><strong>&nbsp;</strong><span style="color: #0048ad;">Package Inclusions</span></p><ul style="color: black; font-size: medium; font-weight: 400;"><li>Day care room rent</li><li>Consultant fees and Surgeon’s fees</li><li>O.T. charges and Anaesthesia charges</li><li>Routine Medicines and investigations</li><li>Airport Pick Up</li><li>International Patient Care Lounge Access</li><li>Handhold care by an executive</li><li>Airport Drop</li><li>Taxi</li></ul></span></h2><h3><span style="color: #0048ad;">Package Exclusions</span></h3><h2><span style="color: #0048ad;"><ul style="color: black; font-size: medium; font-weight: 400;"><li>Additional drugs and Consumables</li><li>Consultation of other specialities</li><li>Complications</li></ul></span></h2><h3><span style="color: #0048ad;">Stay in hospital</span></h3><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">It is a walk in and walks out procedure; you will be admitted in the hospital for two hours.</p></span></h2><h3><span style="color: #0048ad;">Stay in India</span></h3><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">Due to the nature of the surgery, you will need to stay in India for a minimum of 05 days.</p></span></h2><h3><span style="color: #0048ad;">Success rate</span></h3><h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;">99% success rate for cataract surgery is achieved through robot.</p></span></h2><h2><span style="color: #0048ad;">Contoura Super Vision Surgery in India</span></h2>
 <p>Contoura surgery, also known as topography-guided LASIK or T-CAT (Topography-guided Custom Ablation Treatment), is an advanced form of laser eye surgery that uses a specialized mapping system to create a personalized treatment plan for each patient. This procedure can correct a wide range of vision problems, including nearsightedness, farsightedness, and astigmatism, and can provide patients with a higher quality of vision than traditional LASIK surgery.</p>
 <p><span style="color: #0048ad;"><strong>Indications:</strong></span></p>
 <p>Contoura surgery is indicated for patients with refractive errors such as myopia, hyperopia, and astigmatism. It is also used to correct irregularities in the corneal surface, such as those caused by previous eye surgeries, keratoconus, or corneal scarring.</p>
@@ -10022,105 +8690,20 @@ Surgery is just one possible way to transition.</p>
 <p>Clinical studies have shown that Contoura surgery can provide patients with better visual outcomes and fewer side effects compared to traditional LASIK surgery. One study published in the Journal of Refractive Surgery found that patients who underwent Contoura surgery had significantly better visual acuity, contrast sensitivity, and refractive outcomes compared to those who underwent conventional LASIK. Another study published in the Journal of Cataract and Refractive Surgery found that Contoura surgery resulted in a higher percentage of patients achieving 20/20 or better vision compared to conventional LASIK.</p>
 <h2><span style="color: #0048ad;">Top hospitals for Contoura super vision surgery in India</span></h2>
 <ol>
-<li><a href="#/centre-for-sight/">Centre for sight</a></li>
-<li><a href="#/sight-avenue-hospital/">The Sight Avenue</a></li>
-<li><a href="#/eye-7-eye-hospital-lajpat-nagar/">Eye 7 eye hospital</a></li>
-<li><a href="#/narang-eye-institute/">Narang Eye Institute</a></li>
+<li>Centre for sight</li>
+<li>The Sight Avenue</li>
+<li>Eye 7 eye hospital</li>
+<li>Narang Eye Institute</li>
 </ol>
 <h2><span style="color: #0048ad;">Top Doctors for Contoura super vision surgery in India</span></h2>
 <ol>
-<li><a href="#/prof-mahipal-s-sachdev-2/">Dr Mahipal S Sachdev</a></li>
-<li><a href="#/dr-suraj-munjal/">Dr Suraj Munjal</a></li>
+<li>Dr Mahipal S Sachdev</li>
+<li>Dr Suraj Munjal</li>
 <li>Dr Sunil Narang</li>
-<li><a href="#/dr-rahil-chaudhary/">Dr Rahil Chaudhary</a></li>
+<li>Dr Rahil Chaudhary</li>
 </ol>
-<h2><span style="color: #0048ad;">Cost of robotic contoura super vision surgery in India</span></h2>
-<p>Following are the advantages of Contoura surgery in India</p>
-<ul>
-<li>Major advantage is low cost; India is famous for its pocket friendly cost then its western counterparts.</li>
-<li>It is a suture free surgery</li>
-<li>Second advantage is availability of Femtosecond world-class laser technology</li>
-<li>Practically zero waiting time</li>
-<li>It is a day care surgery , whole procedure takes less than a minute</li>
-<li>On top of it robotic surgery is always painless, bloodless and infection less</li>
-</ul>
-<h2><span style="color: #0048ad;"><b>Factors That Affect Contoura Super Vision Surgery Cost in India&nbsp;</b></span></h2>
-<p><span style="font-weight: 400;">Contoura Vision is the latest advancement in Specs removal by Laser Vision Correction. It is an FDA-approved procedure known for its precision and effectiveness.&nbsp; Let us first discuss the factors affecting the cost of </span><b>Contoura Super Vision Surgery Cost in India.</b><span style="font-weight: 400;">&nbsp;</span></p>
-<p><b>Choice of Hospital</b><span style="font-weight: 400;">: The choice of the hospital is one of the main factors affecting the cost of the Surgery. If the hospital is JCI accredited, NABH accredited, and comes under a brand name like Apollo or Fortis, then the cost of the surgery will be higher.&nbsp;</span></p>
-<p><b>Location of the Hospital: </b><span style="font-weight: 400;">The location of the hospital also impacts the overall cost of the surgery. If the hospital is located in the high-tier cities of India, like Delhi, Bangalore, or Mumbai, then the cost of the surgery will be more.&nbsp;</span></p>
-<p><b>Technology Used: </b><span style="font-weight: 400;">One of the main reasons why Contoura Vision is more expensive is the technology used. It requires a specialized robotic system that has advanced features like computerized eye tracking, cyclo rotation compensation, active centration control, visual axis treatment, and corneal irregularity correction. Since the machines used to perform the surgery are expensive, the procedure is also expensive.&nbsp;</span></p>
-<p><b>Doctor’s fee: </b><span style="font-weight: 400;">To operate the machine used to perform Contoura Vision, the surgeon requires special expertise. A surgeon with the expertise and skill needed to perform this surgery will charge more for the procedure.&nbsp;</span></p>
-<p><b>Pre-Operative Examination: </b><span style="font-weight: 400;">Before performing Contoura Vision surgery, the surgeon performs several examinations like :&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Visual Acuity Tests</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pentacam Tests</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Eye Pressure Tests</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Retinal Tests</span></li>
-</ul>
-<p><span style="font-weight: 400;">The cost of these exams is included in the surgery.&nbsp;</span></p>
-<p><b>Post-Surgery Care: </b><span style="font-weight: 400;">After the surgery, the patient has to spend on:&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow Up Visits</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medications</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Eye drops</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Eye shields</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Protection covers</span></li>
-</ul>
-<h2><span style="color: #0048ad;"><strong>Contoura Super Vision Surgery Cost in top-notch hospitals.</strong></span></h2>
-<table style="height: 182px;" width="271">
-<tbody>
-<tr>
-<td width="52"><strong>S.No.</strong></td>
-<td width="146"><strong>Hospital </strong></td>
-<td width="91"><strong>Cost in USD </strong></td>
-</tr>
-<tr>
-<td width="52">1.</td>
-<td width="146"><a href="https://www.centreforsight.net/">Centre for Sight</a></td>
-<td width="91">1800</td>
-</tr>
-<tr>
-<td width="52">2.</td>
-<td width="146"><a href="#/sight-avenue-hospital/">The Sight Avenue</a></td>
-<td width="91">2000</td>
-</tr>
-<tr>
-<td width="52">3.</td>
-<td width="146"><a href="#/eye-7-eye-hospital-lajpat-nagar/">Eye 7 Hospital</a></td>
-<td width="91">1100</td>
-</tr>
-<tr>
-<td width="52">4.</td>
-<td width="146"><a href="#/narang-eye-institute/">Narang Eye Institute</a></td>
-<td width="91">1700</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong><span style="color: #0048ad;">Package Inclusions</span></p>
-<ul>
-<li>Day care room rent</li>
-<li>Consultant fees and Surgeon’s fees</li>
-<li>O.T. charges and Anaesthesia charges</li>
-<li>Routine Medicines and investigations</li>
-<li>Airport Pick Up</li>
-<li>International Patient Care Lounge Access</li>
-<li>Handhold care by an executive</li>
-<li>Airport Drop</li>
-<li>Taxi</li>
-</ul>
-<h3><span style="color: #0048ad;">Package Exclusions</span></h3>
-<ul>
-<li>Additional drugs and Consumables</li>
-<li>Consultation of other specialities</li>
-<li>Complications</li>
-</ul>
-<h3><span style="color: #0048ad;">Stay in hospital</span></h3>
-<p>It is a walk in and walks out procedure; you will be admitted in the hospital for two hours.</p>
-<h3><span style="color: #0048ad;">Stay in India</span></h3>
-<p>Due to the nature of the surgery, you will need to stay in India for a minimum of 05 days.</p>
-<h3><span style="color: #0048ad;">Success rate</span></h3>
-<p>99% success rate for cataract surgery is achieved through robot.</p>
-<p><strong>If you need the best medical consultant in India to help you choose the best hospital and the best doctor, contact <span style="color: #0048ad;">Dr Nadeem Khan</span> from Medihelp Global  today!!!</strong></p>
+<h2><br /></h2>
+<p><strong>If you need the best medical consultant in India to help you choose the best hospital and the best doctor, Medihelp Global  today!!!</strong></p>
 <p><strong>&nbsp;</strong></p>
 
 		</div>
@@ -10254,34 +8837,34 @@ We score over others because the ‘treatment consultants’ in our company are 
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Retinal Detachment Surgery in India: From Darkness to Light</span></h2>
+			<h2><span style="color: #0048ad;">Retinal Detachment Surgery Cost in India&nbsp;</span></h2><h2><span style="color: #0048ad;"><table style="width: 470px;"><tbody><tr><td width="217"><strong>Hospital</strong></td><td width="164"><strong>Best Doctor</strong></td><td width="89"><strong>USD Cost</strong></td></tr><tr><td width="217">Centre of Sight</td><td width="164">Dr. Hemlata Gupta</td><td width="89">2300</td></tr><tr><td width="217">Medanta the Medicity</td><td width="164">Dr. Carreen Pakrasi</td><td width="89">2700</td></tr><tr><td width="217">The Sight Avenue</td><td width="164">Dr Suraj Munjal</td><td width="89">2200</td></tr><tr><td width="217">Chaudhary Eye Center</td><td width="164">Dr Sanjay Chaudhary</td><td width="89">2500<br /><br /></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Retinal Detachment Surgery in India: From Darkness to Light</span></h2>
 <p>Retinal Detachment happens when your retina is pulled away from its normal position. A medical emergency should be treated immediately to protect your vision. Your retina must be attached to the back of your eye within a few days if it’s detached.</p>
 <p>The retina is the innermost layer of our eye, which has two types of cells, namely rods and cones. When the retina is detached, it can no longer function, and the vision is lost. In this article, we will delve into retina surgery and why India is a popular destination to get this surgery.</p>
 <p><span style="color: #0048ad;"><strong>What are the causes of Retinal Detachment?</strong></span></p>
-<p><span style="color: #0048ad;"><strong>The most common reasons behind retinal Detachment are: </strong></span><br>
-● Age-related shrinkage of vitreous gel, which can cause a tear in the retina<br>
-● Eye injury<br>
-● Cataract surgery<br>
-● Diabetic retinopathy<br>
-● Extreme nearsightedness<br>
+<p><span style="color: #0048ad;"><strong>The most common reasons behind retinal Detachment are: </strong></span><br />
+● Age-related shrinkage of vitreous gel, which can cause a tear in the retina<br />
+● Eye injury<br />
+● Cataract surgery<br />
+● Diabetic retinopathy<br />
+● Extreme nearsightedness<br />
 ● Eye disease like retinoschisis</p>
 <p><span style="color: #0048ad;"><strong>Detached Retina Symptoms</strong></span></p>
 <p>Detachment of the retina is a serious eye condition that needs immediate medical attention. These are the most common symptoms of retinal detachment:</p>
-<p>● Seeing flashes of light<br>
-● Seeing a lot of floaters<br>
-● Darkening of side vision<br>
+<p>● Seeing flashes of light<br />
+● Seeing a lot of floaters<br />
+● Darkening of side vision<br />
 ● Darkening or shadow covering part of your vision</p>
 <p>Knowing Different Types of Retinal Detachment</p>
 <p><span style="color: #0048ad;"><strong>There are three types of retinal Detachment:</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Rhegmatogenous:</strong> </span>It is the most common type of retinal Detachment and usually occurs when you age. The tear in the retina causes vitreous humor to collect behind the retina, and the fluid pushes the retina away, thus detaching it from the back.</p>
-<p><span style="color: #0048ad;"><strong>Tractional:</strong></span> In this type of detached retina, the scar tissue pulls the retina away from the eye. The most common cause of it is diabetes. High blood sugar can damage the blood vessels in the eye and thus cause scar tissue.<br>
+<p><span style="color: #0048ad;"><strong>Tractional:</strong></span> In this type of detached retina, the scar tissue pulls the retina away from the eye. The most common cause of it is diabetes. High blood sugar can damage the blood vessels in the eye and thus cause scar tissue.<br />
 <span style="color: #0048ad;"><strong>Exudative:</strong> </span>in this type of retinal Detachment, the fluid builds behind the retainer even when there is no tear. The fluid pushes the retain away from the supporting tissue. The main reason behind the fluid build-up is the leaking blood vessels or selling behind the eye.</p>
 <p><span style="color: #0048ad;"><strong>Diagnosis and Tests</strong></span></p>
-<p>The only way to diagnose retinal Detachment is with an eye exam. During your dilated eye exam, your eye doctor will check your retina. They’ll put drops in your eyes. Drops dilate the pupil. Your provider only takes a few minutes to see the retina up close.<br>
-You might need other tests after your dilated eye exam. They’re non-invasive. They won’t hurt. Your provider can see your retina more clearly with them:<br>
-● Optical coherence tomography (OCT)<br>
-● Fundus imaging<br>
-● Eye (ocular) ultrasound<br>
+<p>The only way to diagnose retinal Detachment is with an eye exam. During your dilated eye exam, your eye doctor will check your retina. They’ll put drops in your eyes. Drops dilate the pupil. Your provider only takes a few minutes to see the retina up close.<br />
+You might need other tests after your dilated eye exam. They’re non-invasive. They won’t hurt. Your provider can see your retina more clearly with them:<br />
+● Optical coherence tomography (OCT)<br />
+● Fundus imaging<br />
+● Eye (ocular) ultrasound<br />
 ● Computed tomography (CT scan)</p>
 <p><span style="color: #0048ad;"><strong>Treatment options available for Retinal Detachment</strong></span></p>
 <p>The Retinal Detachment treatment options available for retinal Detachment include:</p>
@@ -10290,103 +8873,74 @@ You might need other tests after your dilated eye exam. They’re non-invasive. 
 <p><span style="color: #0048ad;"><strong>Scleral Buckling</strong></span></p>
 <p>The retinal tear is treated via cryotherapy. The fluid under the retina is drained, and silicone rubber is sutured to the eye’s outer wall. The silicone pushes the eye wall back onto the retina.</p>
 <p><span style="color: #0048ad;"><strong>Vitrectomy Surgery</strong></span></p>
-<p>Your doctor will do these things during a vitrectomy:<br>
-● The vitreous is removed surgically.<br>
-● Seals all tears or holes in the retina with laser or freezing.<br>
+<p>Your doctor will do these things during a vitrectomy:<br />
+● The vitreous is removed surgically.<br />
+● Seals all tears or holes in the retina with laser or freezing.<br />
 ● It puts an air, gas, or oil bubble in the eye to push the retina back in.</p>
-<p>If your provider uses them, oil bubbles will be removed after a few months. Your body reabsorbs gas and air bubbles. You may have to avoid certain activities if you have a gas bubble. Changes in altitude can make gas bubbles bigger and increase eye pressure. Avoid flying and traveling at high altitudes. Your provider will tell you when you can start these activities again.<br>
+<p>If your provider uses them, oil bubbles will be removed after a few months. Your body reabsorbs gas and air bubbles. You may have to avoid certain activities if you have a gas bubble. Changes in altitude can make gas bubbles bigger and increase eye pressure. Avoid flying and traveling at high altitudes. Your provider will tell you when you can start these activities again.<br />
 Understanding Retinal Detachment Treatment in India in Detail</p>
 <p><span style="color: #0048ad;"><strong>Before the Surgery</strong></span></p>
 <p>Preparation is key before retinal detachment surgery to ensure a successful outcome. The typical process before retinal detachment surgery is as follows:</p>
-<p>● The eye doctor will conduct a comprehensive examination that may include a medical history, visual acuity testing, intraocular pressure measurements, and an examination of the retina with instruments such as a slit lamp and an ophthalmoscope.<br>
-● A retinal detachment evaluation helps the ophthalmologist plan the appropriate surgical approach.<br>
-● Diagnostic imaging, such as ultrasound or optical coherence tomography (OCT), may be performed to provide detailed retina images.<br>
-● The ophthalmologist will discuss the diagnosis and the recommended surgical procedure with you.<br>
-● Before the surgery, you will be asked to sign an informed consent form.<br>
-● You will receive specific instructions from the surgical team regarding fasting before the procedure, any necessary medications, and how to prepare for surgery.<br>
-● During retinal detachment surgery, the type of anesthesia may vary. You can get local anesthesia with sedation or general anesthesia. During surgery, the anesthesia choice will be discussed with you.<br>
-● A surgeon will review your medical history and medications. Adjust or temporarily stop some medications before surgery to reduce bleeding risk.<br>
-● In some cases, preoperative tests, like blood tests and electrocardiograms (ECGs), may be required, especially for people with underlying medical conditions.<br>
+<p>● The eye doctor will conduct a comprehensive examination that may include a medical history, visual acuity testing, intraocular pressure measurements, and an examination of the retina with instruments such as a slit lamp and an ophthalmoscope.<br />
+● A retinal detachment evaluation helps the ophthalmologist plan the appropriate surgical approach.<br />
+● Diagnostic imaging, such as ultrasound or optical coherence tomography (OCT), may be performed to provide detailed retina images.<br />
+● The ophthalmologist will discuss the diagnosis and the recommended surgical procedure with you.<br />
+● Before the surgery, you will be asked to sign an informed consent form.<br />
+● You will receive specific instructions from the surgical team regarding fasting before the procedure, any necessary medications, and how to prepare for surgery.<br />
+● During retinal detachment surgery, the type of anesthesia may vary. You can get local anesthesia with sedation or general anesthesia. During surgery, the anesthesia choice will be discussed with you.<br />
+● A surgeon will review your medical history and medications. Adjust or temporarily stop some medications before surgery to reduce bleeding risk.<br />
+● In some cases, preoperative tests, like blood tests and electrocardiograms (ECGs), may be required, especially for people with underlying medical conditions.<br />
 ● Make sure you quit smoking and drinking before the surgery.</p>
 <p><span style="color: #0048ad;"><strong>During the Surgery</strong></span></p>
-<p>● The surgery is performed under anesthesia. Local anesthesia will numb the eye, whereas general anesthesia will lead to unconsciousness during the surgery.<br>
-● The surgeon will position you properly during the surgery.<br>
-● In some cases, small incisions are used to access the inside part of the eye. In other cases, large incisions may be required.<br>
-● If you undergo a vitrectomy, the surgeon will remove the gel inside the eye and access the detached retina.<br>
-● The surgeon will then identify the retinal tear and use various methods to reattach it. These methods may include:<br>
-● Scleral Buckling<br>
-● Cryotherapy<br>
-● Pneumatic Retinopexy<br>
-● The surgeon will then close the incisions using sutures.<br>
-● After the surgery, the eye is patched with a protective shield to prevent infection.<br>
+<p>● The surgery is performed under anesthesia. Local anesthesia will numb the eye, whereas general anesthesia will lead to unconsciousness during the surgery.<br />
+● The surgeon will position you properly during the surgery.<br />
+● In some cases, small incisions are used to access the inside part of the eye. In other cases, large incisions may be required.<br />
+● If you undergo a vitrectomy, the surgeon will remove the gel inside the eye and access the detached retina.<br />
+● The surgeon will then identify the retinal tear and use various methods to reattach it. These methods may include:<br />
+● Scleral Buckling<br />
+● Cryotherapy<br />
+● Pneumatic Retinopexy<br />
+● The surgeon will then close the incisions using sutures.<br />
+● After the surgery, the eye is patched with a protective shield to prevent infection.<br />
 After the Surgery</p>
-<p>● You will be shifted to the recovery room after the surgery, where you will be monitored closely.<br>
-● You will have to stay in the hospital overnight or even longer.<br>
-● You may feel discomfort for several days to weeks after the surgery.<br>
-● You will be given pain medications to relieve pain after the surgery.<br>
-● You need to take proper rest after the surgery. Your eye surgeon will let you know when you can resume your daily activities after the surgery.<br>
-● You have to wear an eye patch after the surgery.<br>
-● If a bubble was put in your eye, you must keep your head in a certain position after the surgery. Your ophthalmologist will let you know about it.<br>
-● You will see floaters and flashing lights a few weeks after the surgery. You may also notice the bubble in your eye.<br>
-● You will start noticing improvements 6 weeks after the surgery.<br>
+<p>● You will be shifted to the recovery room after the surgery, where you will be monitored closely.<br />
+● You will have to stay in the hospital overnight or even longer.<br />
+● You may feel discomfort for several days to weeks after the surgery.<br />
+● You will be given pain medications to relieve pain after the surgery.<br />
+● You need to take proper rest after the surgery. Your eye surgeon will let you know when you can resume your daily activities after the surgery.<br />
+● You have to wear an eye patch after the surgery.<br />
+● If a bubble was put in your eye, you must keep your head in a certain position after the surgery. Your ophthalmologist will let you know about it.<br />
+● You will see floaters and flashing lights a few weeks after the surgery. You may also notice the bubble in your eye.<br />
+● You will start noticing improvements 6 weeks after the surgery.<br />
 ● You must attend follow-up visits with your doctor to ensure complete healing.</p>
 <p><span style="color: #0048ad;"><strong>Risks</strong></span></p>
-<p>Risks and complications depend on the procedure used to treat retinal Detachment. Some complications that may occur include:<br>
-● Cataract Formation<br>
-● Glaucoma<br>
-● Infection in the eyes<br>
-● Hemorrhage<br>
+<p>Risks and complications depend on the procedure used to treat retinal Detachment. Some complications that may occur include:<br />
+● Cataract Formation<br />
+● Glaucoma<br />
+● Infection in the eyes<br />
+● Hemorrhage<br />
 ● Vision loss</p>
 <p><span style="color: #0048ad;"><strong>Advantages of the Surgery</strong></span></p>
-<p>There are several advantages of retina surgery. The primary ones include:<br>
-● Preservation of vision<br>
-● Prevention of further damage to the eye<br>
-● Improved quality of life<br>
-● Quick recovery<br>
-● Minimal discomfort<br>
-● High success rates<br>
-● Long term benefits<br>
+<p>There are several advantages of retina surgery. The primary ones include:<br />
+● Preservation of vision<br />
+● Prevention of further damage to the eye<br />
+● Improved quality of life<br />
+● Quick recovery<br />
+● Minimal discomfort<br />
+● High success rates<br />
+● Long term benefits<br />
 ● Reduced risk of complications</p>
 <p><span style="color: #0048ad;"><strong>Long Term Outlook</strong></span></p>
 <p>In a country like India, which is emerging as a medical hub, nine out of 10 retinal detachments prove successful. The final success rate is over 95 percent. Your outlook depends on your vision’s clarity before the retinal Detachment, its extent, and other complicating factors. Your provider will tell you what type of improvement you can expect.</p>
 <p><span style="color: #0048ad;"><strong>How can you prevent retinal Detachment?</strong></span></p>
-<p>● Make sure you get regular eye exams: Your eyes are important. A good eye exam is especially important if you’re nearsighted. Retinal Detachment is more likely if you have myopia. A dilated eye exam can find small retinal tears.<br>
-● Protect your eyes: Wear safety goggles or other eye protection when playing sports.<br>
-● Ensure prompt treatment: If you notice detached retina symptoms, immediately see your eye doctor.<br>
+<p>● Make sure you get regular eye exams: Your eyes are important. A good eye exam is especially important if you’re nearsighted. Retinal Detachment is more likely if you have myopia. A dilated eye exam can find small retinal tears.<br />
+● Protect your eyes: Wear safety goggles or other eye protection when playing sports.<br />
+● Ensure prompt treatment: If you notice detached retina symptoms, immediately see your eye doctor.<br />
 ● Take care of your overall health: Manage chronic conditions, eat right, and exercise.</p>
 <p>If you improve your blood glucose levels and blood pressure, you can prevent diabetes-related tractional retinal Detachment.</p>
 <p>If you improve your blood glucose levels and blood pressure, you can prevent diabetes-related tractional retinal Detachment.</p>
-<h2><span style="color: #0048ad;"><strong>&nbsp;Retinal Detachment Surgery Cost in India&nbsp;</strong></span></h2>
-<table width="470">
-<tbody>
-<tr>
-<td width="217"><strong>Hospital</strong></td>
-<td width="164"><strong>Best Doctor</strong></td>
-<td width="89"><strong>USD Cost</strong></td>
-</tr>
-<tr>
-<td width="217"><a href="https://www.centreforsight.net/">Centre of Sight</a></td>
-<td width="164"><a href="#/dr-hemlata-gupta/">Dr. Hemlata Gupta</a></td>
-<td width="89">2300</td>
-</tr>
-<tr>
-<td width="217"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="164"><a href="#/dr-carreen-pakrasi/">Dr. Carreen Pakrasi</a></td>
-<td width="89">2700</td>
-</tr>
-<tr>
-<td width="217"><a href="#/sight-avenue-hospital/">The Sight Avenue</a></td>
-<td width="164"><a href="#/dr-suraj-munjal/">Dr Suraj Munjal</a></td>
-<td width="89">2200</td>
-</tr>
-<tr>
-<td width="217"><a href="#/eye-7-eye-hospital-lajpat-nagar/">Chaudhary Eye Center</a></td>
-<td width="164"><a href="#/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></td>
-<td width="89">2500</td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Retinal Detachment Surgery in India?</strong></span></p>
+<h2><span style="color: #0048ad;"><strong>&nbsp;</strong></span><strong style="color: #0048ad;">How can you avail yourself of the best Retinal Detachment Surgery in India?</strong></h2>
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Retinal Detachment surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Retinal Detachment Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -10406,7 +8960,7 @@ After the Surgery</p>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Squint Surgery: Eyes Aligned, Confidence Redefined</span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals and Doctors Doing Squint Surgery in India and squint surgery cost</span></h2><h2><span style="color: #0048ad;"><table style="width: 473px;"><tbody><tr><td width="220"><strong>Hospital</strong></td><td width="164"><strong>Best Doctor</strong></td><td width="89"><strong>USD Cost</strong></td></tr><tr><td width="220">Centre for Sight Eye Hospital</td><td width="164">&nbsp;Dr Mahipal S Sachdev</td><td width="89">2200</td></tr><tr><td width="220">&nbsp;Eye 7 Eye Hospital</td><td width="164">&nbsp;Dr Sanjay Chaudhary</td><td width="89">2000</td></tr><tr><td width="220">The Sight Avenue</td><td width="164">Dr Suraj Munjal</td><td width="89">2000</td></tr><tr><td width="220">Medanta the Medicity</td><td width="164">Dr. Sudipto Pakrasi</td><td width="89">2500</td></tr><tr><td width="220">Max Healthcare</td><td width="164">Dr Tarun Kapur</td><td width="89">2300</td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Squint Surgery: Eyes Aligned, Confidence Redefined</span></h2>
 <p>Many think squint is a permanent eye condition that cannot be corrected. But the truth is that the eye can be straightened at any age. A squint is also known as strabismus, where the eyes are not aligned in the same direction. In individuals with squint, the eyes do not point in the same direction simultaneously. One eye may turn inward, outward, upward, or downward while the other remains straight. This misalignment can be constant or intermittent. It can occur at any age.</p>
 <p>This particular piece of article is for people who are dealing with squint eyes and are looking for treatment options in India. We will discuss eye squint surgery and why India is the best place to treat this condition.</p>
 <p><span style="color: #0048ad;"><strong>Types of Squint</strong></span></p>
@@ -10418,39 +8972,39 @@ After the Surgery</p>
 <p><span style="color: #0048ad;"><strong>Infantile Exotropia</strong></span></p>
 <p>This type of squint occurs in children when infants show a significant amount of turning in of eyes before they are six months old.</p>
 <p><span style="color: #0048ad;"><strong>Strabismus or squint can be defined in the following ways:</strong></span></p>
-<p>Esotropia: Your eyes point inward.<br>
-Exotropia: Your eyes point outward.<br>
-Hypertropia: Your eyes point upward.<br>
-Hypotropia: Your eyes point downward.<br>
-Unilateral: It is always in the same eye.<br>
+<p>Esotropia: Your eyes point inward.<br />
+Exotropia: Your eyes point outward.<br />
+Hypertropia: Your eyes point upward.<br />
+Hypotropia: Your eyes point downward.<br />
+Unilateral: It is always in the same eye.<br />
 Alternating: It happens in one eye sometimes and in the other eye at times.</p>
 <p>Symptoms</p>
 <p><span style="color: #0048ad;"><strong>Symptoms of strabismus include:</strong></span></p>
-<p>● Double Vision<br>
-● Tilting or turning your head<br>
-● Headaches<br>
-● Difficulty in reading<br>
-● Eye strain<br>
+<p>● Double Vision<br />
+● Tilting or turning your head<br />
+● Headaches<br />
+● Difficulty in reading<br />
+● Eye strain<br />
 ● Closing or covering one eye when looking at nearby objects.</p>
 <p><span style="color: #0048ad;"><strong>Causes of Squint in Children:</strong></span></p>
-<p>● <span style="color: #0048ad;"><strong>Congenital Squint:</strong></span> A strong family history can lead to squint in children.<br>
-●<span style="color: #0048ad;"><strong> Hypermetropia:</strong></span> Since the child cannot focus well, he has to put extra effort into focusing, which can cause double vision.<br>
-● <span style="color: #0048ad;"><strong>Childhood Illness:</strong></span> Squint may develop due to viral fever of measles<br>
-● Injury to nerves<br>
+<p>● <span style="color: #0048ad;"><strong>Congenital Squint:</strong></span> A strong family history can lead to squint in children.<br />
+●<span style="color: #0048ad;"><strong> Hypermetropia:</strong></span> Since the child cannot focus well, he has to put extra effort into focusing, which can cause double vision.<br />
+● <span style="color: #0048ad;"><strong>Childhood Illness:</strong></span> Squint may develop due to viral fever of measles<br />
+● Injury to nerves<br />
 ● Hereditary</p>
 <p><span style="color: #0048ad;"><strong>Causes of Squint in Adults</strong></span></p>
-<p>●<span style="color: #0048ad;"><strong> Muscle Imbalance:</strong> </span>The most common cause of squint is muscle imbalance, which makes it difficult for both eyes to work together.<br>
-● <span style="color: #0048ad;"><strong>Genetics:</strong> </span>A family history of squint also increases the chances of developing this condition.<br>
-● Refractive Errors: Uncorrected vision problems like nearsightedness or farsightedness can also lead to squints in adults.<br>
-● <span style="color: #0048ad;"><strong>Underlying health conditions:</strong></span> Certain neurological conditions, head injuries, or brain tumors can also lead to squint.<br>
+<p>●<span style="color: #0048ad;"><strong> Muscle Imbalance:</strong> </span>The most common cause of squint is muscle imbalance, which makes it difficult for both eyes to work together.<br />
+● <span style="color: #0048ad;"><strong>Genetics:</strong> </span>A family history of squint also increases the chances of developing this condition.<br />
+● Refractive Errors: Uncorrected vision problems like nearsightedness or farsightedness can also lead to squints in adults.<br />
+● <span style="color: #0048ad;"><strong>Underlying health conditions:</strong></span> Certain neurological conditions, head injuries, or brain tumors can also lead to squint.<br />
 ● <span style="color: #0048ad;"><strong>Lifestyle:</strong> </span>Prolonged screen time, stress, and poor lighting can lead to squinting.</p>
 <p>Diagnosis of squint</p>
 <p><span style="color: #0048ad;"><strong>Eye specialists in India conduct the following tests to diagnose squint:</strong></span></p>
-<p>● Medical history examination<br>
-● Visual Acuity Test<br>
-● Corneal Light Reflex<br>
-● Cover test<br>
-● Ocular Alignment and Motility Examination<br>
+<p>● Medical history examination<br />
+● Visual Acuity Test<br />
+● Corneal Light Reflex<br />
+● Cover test<br />
+● Ocular Alignment and Motility Examination<br />
 ● Refraction Test</p>
 <p><span style="color: #0048ad;"><strong>Treatment</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Glasses or Contact Lenses:</strong> </span>If the squint is associated with refractive errors, such as nearsightedness, farsightedness, or astigmatism, the use of glasses and lenses is prescribed to restore vision and align the eyes.</p>
@@ -10460,121 +9014,87 @@ Alternating: It happens in one eye sometimes and in the other eye at times.</p>
 <p><span style="color: #0048ad;"><strong>Surgery:</strong> </span>It is the main treatment option for squint in India. Squint surgery is recommended when other treatments fail to help. The operation involves moving the muscles to control eye movement so that the eyes align better.</p>
 <p><span style="color: #0048ad;"><strong>Some terms related to Squint Surgery:</strong></span></p>
 <p>You can have strabismus surgery on one or both eyes.</p>
-<p>● Bilateral strabismus surgery is the term for when you have surgery on both eyes.<br>
-● Resection is the term for making the muscle short by cutting it.<br>
-● Plication is the term for making the muscle shorter by folding it over.<br>
-● Recession refers to moving the muscle back to make it less tight.<br>
+<p>● Bilateral strabismus surgery is the term for when you have surgery on both eyes.<br />
+● Resection is the term for making the muscle short by cutting it.<br />
+● Plication is the term for making the muscle shorter by folding it over.<br />
+● Recession refers to moving the muscle back to make it less tight.<br />
 ● You may have adjustable eye squint surgery, where doctors adjust the muscle sutures to correct for remaining misalignment in the recovery area or clinic soon after strabismus surgery in the operating room.</p>
 <p>Understanding Squint Surgery in Detail</p>
-<p><span style="color: #0048ad;"><strong>Before the Surgery</strong></span><br>
-● You will have to take some pre-operative tests before the surgery that will determine your overall health.<br>
-● If you have any history of past eye surgery, the doctors will review your reports.<br>
-● Tell your doctor if you are on any specific medicines or blood thinners.<br>
-● Tell your doctor if you are allergic to any medicine.<br>
+<p><span style="color: #0048ad;"><strong>Before the Surgery</strong></span><br />
+● You will have to take some pre-operative tests before the surgery that will determine your overall health.<br />
+● If you have any history of past eye surgery, the doctors will review your reports.<br />
+● Tell your doctor if you are on any specific medicines or blood thinners.<br />
+● Tell your doctor if you are allergic to any medicine.<br />
 ● Stop eating or drinking just before the surgery. You are not supposed to take anything from your mouth after midnight. You also have to stop all your medications before the surgery.</p>
 <p><span style="color: #0048ad;"><strong>During the Surgery</strong></span></p>
-<p>● The squint surgery starts by giving general anesthesia.<br>
-● Your team will monitor your vitals during the surgery<br>
-● The team will use an eye speculum to keep your eye open during the surgery<br>
-● The surgeon will then cut into the outer white opening of your eye.<br>
-● The doctor will then pull out the muscles and correct them using the above mentioned techniques.<br>
-● Once done, the surgeon will attach the muscles and close your eye with dissolvable stitches.<br>
-● The surgical team will remove the speculum and put ointment in the eye.<br>
+<p>● The squint surgery starts by giving general anesthesia.<br />
+● Your team will monitor your vitals during the surgery<br />
+● The team will use an eye speculum to keep your eye open during the surgery<br />
+● The surgeon will then cut into the outer white opening of your eye.<br />
+● The doctor will then pull out the muscles and correct them using the above mentioned techniques.<br />
+● Once done, the surgeon will attach the muscles and close your eye with dissolvable stitches.<br />
+● The surgical team will remove the speculum and put ointment in the eye.<br />
 ● The surgery takes somewhere around 30 minutes.</p>
 <p><span style="color: #0048ad;"><strong>After the surgery</strong></span></p>
-<p>The treated eye is covered with a pad. It’s usually removed the next day or before you leave.<br>
-● You’ll probably have a sore eye for a few days.<br>
+<p>The treated eye is covered with a pad. It’s usually removed the next day or before you leave.<br />
+● You’ll probably have a sore eye for a few days.<br />
 ● Painkillers and eye drops may be given to ease discomfort.</p>
-<p><span style="color: #0048ad;"><strong>You may experience some of the following side effects after the surgery:</strong></span><br>
-● eye pain<br>
-● blood in your tears and watering eyes<br>
-● itchy eyes<br>
-● double vision.<br>
+<p><span style="color: #0048ad;"><strong>You may experience some of the following side effects after the surgery:</strong></span><br />
+● eye pain<br />
+● blood in your tears and watering eyes<br />
+● itchy eyes<br />
+● double vision.<br />
 Contact your eye specialist as soon as possible if any of the side effects bother you.</p>
 <p><span style="color: #0048ad;"><strong>Returning to normal activities</strong></span></p>
 <p>Recovery from squint surgery can take several weeks. The care team will give you specific advice about returning to normal activities, but generally:</p>
-<p>● When you feel okay, you can read, watch TV, and do other stuff.<br>
-● It’ll take about a week to return to work or school.<br>
-● Stay away from driving for at least a day or two or longer if you have double vision.<br>
-● Avoid any soap or shampoo entering the eyes.<br>
-● Start swimming or any other exercise only after six weeks of surgery.<br>
-● Please do not put any makeup close to your eyes for at least four we<br>
-● Most people return to exercise and sport after a week, although you may be advised to avoid swimming for four weeks and contact sports (such as rugby) for six weeks.<br>
-● Do not use makeup close to the eyes for four weeks.<br>
-● Regular follow-ups are necessary.<br>
-● A balanced diet will improve healing.<br>
+<p>● When you feel okay, you can read, watch TV, and do other stuff.<br />
+● It’ll take about a week to return to work or school.<br />
+● Stay away from driving for at least a day or two or longer if you have double vision.<br />
+● Avoid any soap or shampoo entering the eyes.<br />
+● Start swimming or any other exercise only after six weeks of surgery.<br />
+● Please do not put any makeup close to your eyes for at least four we<br />
+● Most people return to exercise and sport after a week, although you may be advised to avoid swimming for four weeks and contact sports (such as rugby) for six weeks.<br />
+● Do not use makeup close to the eyes for four weeks.<br />
+● Regular follow-ups are necessary.<br />
+● A balanced diet will improve healing.<br />
 ● In case of recurrence, a revision surgery is suggested.</p>
 <p><span style="color: #0048ad;"><strong>Risks</strong></span></p>
 <p>Risks are there in every operation. The risks associated with eye squint surgery include</p>
-<p>● Further surgery to fully correct the squint if it is severe<br>
-● Permanent double vision,<br>
-● Infection in the eye<br>
-● Eye muscles slipping out of position.<br>
-● Loss of vision, but this is very rare.<br>
+<p>● Further surgery to fully correct the squint if it is severe<br />
+● Permanent double vision,<br />
+● Infection in the eye<br />
+● Eye muscles slipping out of position.<br />
+● Loss of vision, but this is very rare.<br />
 Speak to your doctor about the risks associated with the squint surgery.</p>
 <p><span style="color: #0048ad;"><strong>Pediatric and squint surgery</strong></span></p>
 <p>Pediatric and squint surgery addresses misalignment in a child’s eyes, known as strabismus, aiming to improve vision and prevent long-term complications. Tailored to each child’s unique needs, this procedure enhances eye coordination, promoting optimal visual development. Early intervention is key, ensuring a brighter, clearer future for children facing squint-related challenges.</p>
 <p><span style="color: #0048ad;"><strong>Advantages of surgery</strong></span></p>
 <p><span style="color: #0048ad;"><strong>The primary advantages of squint surgery include:</strong></span></p>
-<p>● Improved eye alignment<br>
-● Enhanced vision<br>
-● Reduction in double vision<br>
-● Cosmetic benefits<br>
-● Correction of lazy eye<br>
-● Enhanced life quality<br>
+<p>● Improved eye alignment<br />
+● Enhanced vision<br />
+● Reduction in double vision<br />
+● Cosmetic benefits<br />
+● Correction of lazy eye<br />
+● Enhanced life quality<br />
 ● Reduced eye strain</p>
 <p><span style="color: #0048ad;"><strong>Prognosis</strong></span></p>
 <p>The prognosis for strabismus, commonly known as squint or crossed eyes, can vary depending on several factors. Here are some considerations:</p>
 <p><span style="color: #0048ad;"><strong>Early Intervention:</strong> </span>Early detection of squint gives good outcomes; it helps to prevent amblyopia, also known as lazy eye.</p>
-<p><span style="color: #0048ad;"><strong>Underlying Cause:</strong></span> The prognosis is affected by the underlying cause of the strabismus. Some cases may be related to refractive errors, muscle imbalances, or neurological factors<br>
-.<br>
+<p><span style="color: #0048ad;"><strong>Underlying Cause:</strong></span> The prognosis is affected by the underlying cause of the strabismus. Some cases may be related to refractive errors, muscle imbalances, or neurological factors<br />
+.<br />
 <span style="color: #0048ad;"><strong>Type and Severity of Strabismus:</strong></span> There are different types of strabismus, such as esotropia (inward turning) or exotropia (outward turning). The severity of the misalignment can also affect the prognosis.</p>
 <p><span style="color: #0048ad;"><strong>Treatment Type:</strong></span> Surgical correction of strabismus is often successful, but the outcome can vary.</p>
 <p><span style="color: #0048ad;"><strong>Compliance with Treatment:</strong></span> Treatment success also depends on the individual’s compliance with prescribed interventions.</p>
 <p><span style="color: #0048ad;"><strong>Age of the Individual:</strong></span> While strabismus can be treated at any age, it tends to give better results when treated in childhood.</p>
 <p><span style="color: #0048ad;"><strong>Squint Prevention</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Squint prevention involves a combination of awareness and early intervention. Here is how you can prevent squint:</strong></span></p>
-<p>● Regular eye checkups<br>
-● Limit excessive screen time<br>
-● Address any vision-related issues as soon as possible<br>
-● Eye exercises can prevent squint<br>
+<p>● Regular eye checkups<br />
+● Limit excessive screen time<br />
+● Address any vision-related issues as soon as possible<br />
+● Eye exercises can prevent squint<br />
 ● Take a nutritious and balanced diet</p>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Squint Surgery in India and squint surgery cost</strong></span></h2>
-<table width="473">
-<tbody>
-<tr>
-<td width="220"><strong>Hospital</strong></td>
-<td width="164"><strong>Best Doctor</strong></td>
-<td width="89"><strong>USD Cost </strong></td>
-</tr>
-<tr>
-<td width="220"><a href="#/centre-for-sight/">Centre for Sight Eye Hospital</a></td>
-<td width="164">&nbsp;<a href="#/prof-mahipal-s-sachdev-">Dr Mahipal S Sachdev</a></td>
-<td width="89">2200</td>
-</tr>
-<tr>
-<td width="220"><a href="#/eye-7-eye-hospital-lajpat-nagar/">&nbsp;Eye 7 Eye Hospital</a></td>
-<td width="164">&nbsp;<a href="#/dr-sanjay-chaudhary/">Dr Sanjay Chaudhary</a></td>
-<td width="89">2000</td>
-</tr>
-<tr>
-<td width="220"><a href="#/sight-avenue-hospital/">The Sight Avenue</a></td>
-<td width="164"><a href="#/dr-suraj-munjal/">Dr Suraj Munjal</a></td>
-<td width="89">2000</td>
-</tr>
-<tr>
-<td width="220"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="164"><a href="#/dr-sudipto-pakrasi/">Dr. Sudipto Pakrasi</a></td>
-<td width="89">2500</td>
-</tr>
-<tr>
-<td style="text-align: left;" width="220"><a href="#/max-hospital-patparganj/">Max Healthcare</a></td>
-<td style="text-align: left;" width="164"><a href="#/dr-tarun-kapur/">Dr Tarun Kapur</a></td>
-<td style="text-align: left;" width="89">2300</td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Squint Surgery in India?</strong></span></p>
+<h2><strong style="color: #0048ad;"><br />How can you avail yourself of the best Squint Surgery in India?</strong></h2>
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your <span style="color: #0048ad;"><strong>squint surgery in India, </strong></span>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Squint Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -10593,8 +9113,8 @@ Speak to your doctor about the risks associated with the squint surgery.</p>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Transformative Ptosis Correction: Discover Excellence in India.</span></h2>
-<p>Ptosis is a condition when your eyelids droop over your eyes. This can impair your vision and can also lead to some serious complications. This condition can be present by birth and developed later in life. Another name for this condition is blepharoptosis, or droopy eyelid.<br>
+			<h3><span style="color: #0048ad;">Top Hospitals and Doctors Doing Ptosis Surgery in India</span></h3><h2><span style="color: #0048ad;"><table style="width: 545px;"><tbody><tr><td width="217"><strong>Hospital</strong></td><td width="236"><strong>Best Doctor</strong></td><td width="92"><strong>USD Cost</strong></td></tr><tr><td width="217">Center for Sight Eye Hospital</td><td width="236">&nbsp;Dr. Mahipal S Sachdev</td><td width="92">2000</td></tr><tr><td width="217">&nbsp;Eye 7 Eye Hospital</td><td width="236">&nbsp;Dr. Sanjay Chaudhary</td><td width="92">2000</td></tr><tr><td width="217">The Sight Avenue</td><td width="236">Dr. Suraj Munjal</td><td width="92">2000</td></tr><tr><td width="217">Medanta the Medicity</td><td width="236">Dr. Sudipto Pakrasi</td><td width="92">2200</td></tr><tr><td width="217">Max Healthcare</td><td width="236">Dr. Tarun Kapur</td><td width="92">2300</td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Transformative Ptosis Correction: Discover Excellence in India.</span></h2>
+<p>Ptosis is a condition when your eyelids droop over your eyes. This can impair your vision and can also lead to some serious complications. This condition can be present by birth and developed later in life. Another name for this condition is blepharoptosis, or droopy eyelid.<br />
 Ptosis surgery is an operation that is done to tighten the muscles that will lift your upper eyelid. India is the right choice if you are struggling with sagging eyelids and looking for an affordable treatment. This section will discuss ptosis and how you can get its treatment in India.</p>
 <p><span style="color: #0048ad;"><strong>Types of Ptosis</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Congenital</strong></span></p>
@@ -10603,22 +9123,22 @@ Ptosis surgery is an operation that is done to tighten the muscles that will lif
 <p>This type of eyelid ptosis affects adults in the later part of their life. This condition occurs when your levator muscles weaken or separate from your eyelid.</p>
 <p><span style="color: #0048ad;"><strong>Causes</strong></span></p>
 <p><span style="color: #0048ad;"><strong>The causes of ptosis vary from patient to patient. Numerous reasons can be behind ptosis. They can be:</strong></span></p>
-<p>● AGING<br>
-● EYE INJURY<br>
-● MEDICAL CONDITIONS SUCH AS A STROKE, HORNER’S CONDITION, DIABETES, SKIN CANCER, OR STYE<br>
+<p>● AGING<br />
+● EYE INJURY<br />
+● MEDICAL CONDITIONS SUCH AS A STROKE, HORNER’S CONDITION, DIABETES, SKIN CANCER, OR STYE<br />
 ● SOME PEOPLE ARE BORN WITH PTOSIS</p>
 <p><span style="color: #0048ad;"><strong>Other causes</strong></span></p>
-<p>Other reasons for a droopy eyelid requiring ptosis surgery can include:<br>
-● Injury to the upper eyelid muscle, including the levator muscle<br>
-● Disease of the levator muscle and any other muscle that lifts the upper eyelid, such as myasthenia gravis<br>
+<p>Other reasons for a droopy eyelid requiring ptosis surgery can include:<br />
+● Injury to the upper eyelid muscle, including the levator muscle<br />
+● Disease of the levator muscle and any other muscle that lifts the upper eyelid, such as myasthenia gravis<br />
 ● Damage to the nerve supplying the muscle that lifts the eyelid</p>
-<p><span style="color: #0048ad;"><strong>Symptoms</strong></span><br>
-<span style="color: #0048ad;"><strong>You can tell if your child is suffering from ptosis by the appearance of the eyelids. It may cover only your upper eye, but it can also cover your entire pupil. Other symptoms include: </strong></span><br>
-● Excessive rubbing of eyes<br>
-● Increased tearing<br>
-● Impaired vision<br>
-● Tiredness or achiness in the eyes<br>
-● Eye strain or headache<br>
+<p><span style="color: #0048ad;"><strong>Symptoms</strong></span><br />
+<span style="color: #0048ad;"><strong>You can tell if your child is suffering from ptosis by the appearance of the eyelids. It may cover only your upper eye, but it can also cover your entire pupil. Other symptoms include: </strong></span><br />
+● Excessive rubbing of eyes<br />
+● Increased tearing<br />
+● Impaired vision<br />
+● Tiredness or achiness in the eyes<br />
+● Eye strain or headache<br />
 ● Dry or watery eyes</p>
 <p><span style="color: #0048ad;"><strong>What happens if ptosis is not treated?</strong></span></p>
 <p>If your child has congenital ptosis, you have to get it treated as soon as possible. Mild ptosis does not cause serious vision problems; no treatment is required. However, severe ptosis can lead to some severe complications.</p>
@@ -10630,12 +9150,12 @@ Ptosis surgery is an operation that is done to tighten the muscles that will lif
 <p>When your child has to tilt their chin up to be able to see beyond their drooping eyelids, it can cause neck problems, tighten forehead muscles, and developmental delays.</p>
 <p><span style="color: #0048ad;"><strong>Diagnosis</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Tests to diagnose ptosis include:</strong></span></p>
-<p>● Slit lamp examination<br>
-● Visual field testing<br>
-● Eye movement test<br>
+<p>● Slit lamp examination<br />
+● Visual field testing<br />
+● Eye movement test<br />
 ● Tensilon test</p>
 <p><span style="color: #0048ad;"><strong>Treatment</strong></span></p>
-<p>The treatment of eyelid lift in India depends on its cause and severity. It is essential to contact a professional ophthalmologist in India to determine the course of the treatment.<br>
+<p>The treatment of eyelid lift in India depends on its cause and severity. It is essential to contact a professional ophthalmologist in India to determine the course of the treatment.<br />
 Here are some treatment options available for ptosis in India:</p>
 <p><span style="color: #0048ad;"><strong>Management</strong></span></p>
 <p>If ptosis is mild, the doctors recommend conservative management. This involves monitoring the condition over time.</p>
@@ -10654,83 +9174,49 @@ Here are some treatment options available for ptosis in India:</p>
 <p>For cases of congenital ptosis (present from birth), surgery is often the primary treatment option. The timing of surgery may vary depending on the individual case and the child’s overall health.</p>
 <p>Understanding surgery in detail</p>
 <p><span style="color: #0048ad;"><strong>Before the surgery</strong></span></p>
-<p>● The treatment will begin with a consultation with an experienced ophthalmologist and plastic surgeon.<br>
-● It would help if you underwent a series of medical examinations to determine the underlying cause of ptosis.<br>
-● If you smoke, stop smoking to reduce complications after the surgery.<br>
-● Try to maintain a healthy weight. Risks increase if you are overweight.<br>
-● Regular exercise will help you prepare for the operation.<br>
-● When you come to the hospital, practice handwashing and wear a mask to avoid infection.<br>
-● Talk to your healthcare provider about the medications you take. You will have to stop taking medications before the surgery.<br>
+<p>● The treatment will begin with a consultation with an experienced ophthalmologist and plastic surgeon.<br />
+● It would help if you underwent a series of medical examinations to determine the underlying cause of ptosis.<br />
+● If you smoke, stop smoking to reduce complications after the surgery.<br />
+● Try to maintain a healthy weight. Risks increase if you are overweight.<br />
+● Regular exercise will help you prepare for the operation.<br />
+● When you come to the hospital, practice handwashing and wear a mask to avoid infection.<br />
+● Talk to your healthcare provider about the medications you take. You will have to stop taking medications before the surgery.<br />
 ● Do not eat or drink anything before the surgery.</p>
 <p><span style="color: #0048ad;"><strong>During the surgery</strong></span></p>
-<p>● The eyelid surgery is performed under local or general anesthesia, depending on your preference.<br>
-● The surgeon will make an opening in the skin of your upper eyelid.<br>
-● The incision will help the surgeon to find the small muscle that raises your eyelid. He will then place stitches to tighten this muscle(levator) and raise your eyelid. The incision is then closed with the stitches.<br>
+<p>● The eyelid surgery is performed under local or general anesthesia, depending on your preference.<br />
+● The surgeon will make an opening in the skin of your upper eyelid.<br />
+● The incision will help the surgeon to find the small muscle that raises your eyelid. He will then place stitches to tighten this muscle(levator) and raise your eyelid. The incision is then closed with the stitches.<br />
 ● If the levator muscle is extremely weak, the surgeon might attach or suspend the eyelid from smaller muscles in the eyebrow so the forehead muscles can lift.</p>
 <p><span style="color: #0048ad;"><strong>After the surgery</strong></span></p>
-<p>● You will be closely monitored in the recovery area after the eyelid surgery.<br>
-● It is common to experience some swelling and bruising in the initial days of the surgery.<br>
-● You should be able to go home after a few hours.<br>
-● Do not get your eyelid wet; exercise strenuously or bend until the stitches are removed.<br>
-● Do not wear eye makeup or drink alcohol for a few weeks, and keep your face out of the sun.<br>
-● Stay away from swimming for four weeks.<br>
-● Regular exercise should help you to return to normal activities as soon as possible. Before exercising, ask the healthcare team or your GP for advice.<br>
+<p>● You will be closely monitored in the recovery area after the eyelid surgery.<br />
+● It is common to experience some swelling and bruising in the initial days of the surgery.<br />
+● You should be able to go home after a few hours.<br />
+● Do not get your eyelid wet; exercise strenuously or bend until the stitches are removed.<br />
+● Do not wear eye makeup or drink alcohol for a few weeks, and keep your face out of the sun.<br />
+● Stay away from swimming for four weeks.<br />
+● Regular exercise should help you to return to normal activities as soon as possible. Before exercising, ask the healthcare team or your GP for advice.<br />
 ● The results of ptosis surgery may take some time to become apparent fully.</p>
 <p><span style="color: #0048ad;"><strong>Complications</strong></span></p>
-<p>● Infection of the surgical site<br>
-● Allergic reaction to the equipment, materials, or medication<br>
-● Chest infection<br>
-● Over-correction, where your eyelid is lifted too high<br>
-● Under-correction, where your eyelid is not lifted enough<br>
-● Bleeding into your eye socket<br>
+<p>● Infection of the surgical site<br />
+● Allergic reaction to the equipment, materials, or medication<br />
+● Chest infection<br />
+● Over-correction, where your eyelid is lifted too high<br />
+● Under-correction, where your eyelid is not lifted enough<br />
+● Bleeding into your eye socket<br />
 ● Recurrent ptosis</p>
 <p><span style="color: #0048ad;"><strong>Ptosis Prevention</strong></span></p>
-<p>● Protect your eye from UV rays and dust<br>
-● Take good eye care<br>
-● Follow healthy lifestyle<br>
-● Avoid eye strain<br>
+<p>● Protect your eye from UV rays and dust<br />
+● Take good eye care<br />
+● Follow healthy lifestyle<br />
+● Avoid eye strain<br />
 ● Take prompt treatment if you observe any change in your vision</p>
 <p><span style="color: #0048ad;"><strong>Prognosis</strong></span></p>
 <p>The prognosis for ptosis depends on its underlying cause and the individual’s overall health. In cases where ptosis is age-related or due to muscle weakness, the condition may progress gradually. Surgical intervention often corrects the drooping eyelid and restores a more natural appearance.</p>
 <p>For congenital eyelid ptosis (present from birth), the prognosis depends on the severity of the condition. Early intervention, such as surgery, is often recommended to improve visual development and prevent complications like amblyopia (lazy eye).</p>
 <p>In cases where ptosis is associated with more serious underlying medical conditions, the prognosis may be influenced by the management of those conditions.</p>
 <p>It’s important to note that eyelid surgery is generally considered safe and effective. However, like any surgical procedure, there are potential risks and complications. A qualified healthcare professional can provide a more accurate prognosis based on an individual’s circumstances. If you suspect or are diagnosed with ptosis, it’s advisable to consult with an ophthalmologist or a plastic surgeon for a personalized treatment plan.</p>
-<h3><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Ptosis Surgery in India</strong></span></h3>
-<table width="545">
-<tbody>
-<tr>
-<td width="217"><strong>Hospital</strong></td>
-<td width="236"><strong>Best Doctor</strong></td>
-<td width="92"><strong>USD Cost </strong></td>
-</tr>
-<tr>
-<td width="217"><a href="#/centre-for-sight/">Center for Sight Eye Hospital</a></td>
-<td width="236"><a href="#/prof-mahipal-s-sachdev/">&nbsp;Dr. Mahipal S Sachdev</a></td>
-<td width="92">2000</td>
-</tr>
-<tr>
-<td width="217">&nbsp;<a href="#/eye-7-eye-hospital-lajpat-nagar/">Eye 7 Eye Hospital</a></td>
-<td width="236">&nbsp;<a href="#/dr-sanjay-chaudhary/">Dr. Sanjay Chaudhary</a></td>
-<td width="92">2000</td>
-</tr>
-<tr>
-<td width="217"><a href="#/sight-avenue-hospital/">The Sight Avenue</a></td>
-<td width="236"><a href="#/dr-suraj-munjal/">Dr. Suraj Munjal</a></td>
-<td width="92">2000</td>
-</tr>
-<tr>
-<td width="217"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity</a></td>
-<td width="236"><a href="#/dr-sudipto-pakrasi/">Dr. Sudipto Pakrasi</a></td>
-<td width="92">2200</td>
-</tr>
-<tr>
-<td width="217"><a href="#/max-hospital-patparganj/">Max Healthcare</a></td>
-<td width="236"><a href="#/dr-tarun-kapur/">Dr. Tarun Kapur</a></td>
-<td width="92">2300</td>
-</tr>
-</tbody>
-</table>
-<h3><span style="color: #0048ad;">&nbsp;</span><strong style="color: #0048ad;">How can you avail yourself of the best Ptosis Surgery in India?</strong></h3>
+<h3><span style="color: #0048ad;"><br />&nbsp;</span><strong style="color: #0048ad;">How can you avail yourself of the best Ptosis Surgery in India?</strong></h3>
+
 <p><span style="color: #0048ad;"><strong>Medihelp Global </strong> </span>is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your ptosis surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Ptosis Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -10750,7 +9236,7 @@ Here are some treatment options available for ptosis in India:</p>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Vitrectomy Surgery in India: Breaking Barriers, Restoring Sight</span></h2>
+			<h2><span style="color: #0048ad;">Cost of Vitrectomy in Top Hospitals in India</span></h2><h2><span style="color: #0048ad;"><div style="color: black; font-size: medium; font-weight: 400;"><span style="color: black;"><strong>A vitrectomy costs 1000 USD in the top hospitals in India. The cost of a vitrectomy depends on the following factors in India:&nbsp;</strong></span></div><div style="color: black; font-size: medium; font-weight: 400;"></div><div style="color: black; font-size: medium; font-weight: 400;">● Geographic location</div><div style="color: black; font-size: medium; font-weight: 400;">● Type of facility</div><div style="color: black; font-size: medium; font-weight: 400;">● Surgeons fee</div><div style="color: black; font-size: medium; font-weight: 400;">● Anesthesia fee</div><div style="color: black; font-size: medium; font-weight: 400;">● Medical equipment and technology</div><div style="color: black; font-size: medium; font-weight: 400;">● Post-operative and pre-operative care</div><div style="color: black; font-size: medium; font-weight: 400;">● Health insurance and coverage</div><div style="color: black; font-size: medium; font-weight: 400;">● Reputation of the hospital and healthcare provider</div><div style="color: black; font-size: medium; font-weight: 400;">● Additional procedures and complications</div><div style="color: black; font-size: medium; font-weight: 400;"></div></span></h2><h2><span style="color: #0048ad;">The top hospitals in India to get vitrectomy surgery are:&nbsp;</span></h2><h2><span style="color: #0048ad;"><div style="color: black; font-size: medium; font-weight: 400;">●&nbsp;Centre for Sight Eye Hospital: Cost 1000 USD</div><div style="color: black; font-size: medium; font-weight: 400;">●&nbsp;The Sight Avenue Hospital:&nbsp;Cost 1000 USD</div></span></h2><h2><span style="color: #0048ad;">Vitrectomy Surgery in India: Breaking Barriers, Restoring Sight</span></h2>
 <div>A vitrectomy is when you remove the vitreous gel from your eye. It is done to remove the cloudy fluid or the fluid with debris. At times, it is also done to repair your retina. The vitreous humour inside the eyeball is replaced with a gas bubble or clear fluid until your body starts producing the vitreous again.</div>
 <div></div>
 <div>Vitrectomy procedures are done to allow surgeons to have a look at the back of the eye during operations to treat retina problems</div>
@@ -10918,27 +9404,10 @@ Here are some treatment options available for ptosis in India:</p>
 <div></div>
 <div><span style="color: #0048ad;"><strong>Recovery Time:</strong></span> The recovery duration can vary based on the specific procedure and the individual’s overall health. Some people may experience a relatively quick recovery, while others may require a more extended period for full healing.</div>
 <div></div>
-<h2><span style="color: #0048ad;"><strong>Cost of Vitrectomy in Top Hospitals in India</strong></span></h2>
-<div><span style="color: #000000;"><strong>A vitrectomy costs 1000 USD in the top hospitals in India. The cost of a vitrectomy depends on the following factors in India:&nbsp;</strong></span></div>
-<div></div>
-<div>● Geographic location</div>
-<div>● Type of facility</div>
-<div>● Surgeons fee</div>
-<div>● Anesthesia fee</div>
-<div>● Medical equipment and technology</div>
-<div>● Post-operative and pre-operative care</div>
-<div>● Health insurance and coverage</div>
-<div>● Reputation of the hospital and healthcare provider</div>
-<div>● Additional procedures and complications</div>
-<div></div>
-<h2><span style="color: #0048ad;"><strong>The top hospitals in India to get vitrectomy surgery are:&nbsp;</strong></span></h2>
-<div>●<a href="#/centre-for-sight/"> Centre for Sight Eye Hospital</a>: Cost 1000 USD</div>
-<div>● <a href="#/sight-avenue-hospital/">The Sight Avenue Hospital:</a> Cost 1000 USD</div>
-<div></div>
 <h2><span style="color: #0048ad;"><strong>Recommended Hospital &amp; Doctor&nbsp;</strong></span></h2>
 <div><span style="color: #0048ad;"><strong>The top hospitals and doctors to consider to get vitrectomy surgery in India are:&nbsp;</strong></span></div>
 <div></div>
-<div><a href="#/centre-for-sight/"><span style="color: #0048ad;"><strong>Centre Of Sight Hospital</strong></span></a>: Centre of Sight is accredited by NABH and is awarded as the best eye hospital in North India. The hospital has the most advanced technology, operated by experts who provide comprehensive eye care. The doctors here use the latest diagnostics and surgical technologies. The hospital also specialises in the most advanced robotic surgeries.</div>
+<div><span style="color: #0048ad;"><strong>Centre Of Sight Hospital</strong></span>: Centre of Sight is accredited by NABH and is awarded as the best eye hospital in North India. The hospital has the most advanced technology, operated by experts who provide comprehensive eye care. The doctors here use the latest diagnostics and surgical technologies. The hospital also specialises in the most advanced robotic surgeries.</div>
 <div></div>
 <div><span style="color: #0048ad;"><strong>Recommended Doctors:&nbsp;</strong></span></div>
 <div></div>
@@ -10964,7 +9433,7 @@ Here are some treatment options available for ptosis in India:</p>
   {
     name: "coronary-artery-bypass-graft",
     img: "/treatment/coronary-artery-bypass-graft.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
@@ -10974,7 +9443,7 @@ Here are some treatment options available for ptosis in India:</p>
 			
 		</div>
 	</div>
-<h2><span style="color: #0048ad;">Coronary Artery Bypass Graft (CABG) Surgery in India</span></h2>
+<h2><span style="color: #0048ad;">Cost of CABG Surgery in the Top Hospitals of India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><span>Indraprastha Apollo Hospital&nbsp;</span></td><td><span>6300$</span></td></tr><tr><td><span>Max Healthcare&nbsp;</span></td><td><span>5800$&nbsp;</span></td></tr><tr><td><span>Fortis Escorts Heart Institute&nbsp;</span></td><td><span>5500$&nbsp;</span></td></tr><tr><td><span>Artemis Hospital&nbsp;</span></td><td><span>5200$</span></td></tr><tr><td><span>Metro Heart Institute&nbsp;</span></td><td><span>5300$</span></td></tr><tr><td><span>PSRI Hospital&nbsp;</span></td><td><span>4000$</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></p><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 08 Days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay: 2 weeks&nbsp;</b></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Success rate of the surgery:&nbsp;</b><span>99 %&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">Coronary Artery Bypass Graft (CABG) Surgery in India</span></h2>
 <p>Coronary artery by-pass grafting (CABG) or heart bypass surgery is a procedure in which healthy blood vessels are taken from other part of the body and connected above and below the blocked artery. This ensures improved blood flow to the heart and significantly lowers the risk of a heart attack by creating a new route for the blood to flow.</p>
 <h2><span style="color: #0048ad;">Minimally Invasive – Coronary Artery Bypass Surgery (MICS CABG)</span></h2>
 <p>This is a much newer and advanced technique of performing coronary bypass for the&nbsp;treatment of coronary heart disease. In this technique, a small 4 – 6 cm incision is made on the left side of the chest. This incision is used to approach the heart through the ribs without cutting any bones and the surgery is performed using laproscopy. The different techniques used are:</p>
@@ -11015,103 +9484,32 @@ Here are some treatment options available for ptosis in India:</p>
 </ul>
 <h2><span style="color: #0048ad;"><b>Factors Affecting the Overall Cost of the Treatment CABG:&nbsp;</b></span></h2>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The cost of CABG surgery is very high in Western countries.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">India is known worldwide for its advanced medical facilities and promising technology for CABG surgery.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The average cost of surgery in India is less than that of Western countries.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The average cost of coronary Artery Bypass Surgery is around $ 4000 to $ 5500.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The cost of CABG surgery is very high in Western countries.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">India is known worldwide for its advanced medical facilities and promising technology for CABG surgery.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The average cost of surgery in India is less than that of Western countries.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The average cost of coronary Artery Bypass Surgery is around $ 4000 to $ 5500.&nbsp;</span></li>
 </ul>
 <h3><span style="color: #0048ad;"><b>The various deciding factors that affect the total cost are:&nbsp;</b></span></h3>
 <p><b>Hospital Factors:&nbsp;</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of Hospital( government or private)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation of the hospital ( JCI OR NABH)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reputation and brand value of the hospital.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of Hospital( government or private)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Accreditation of the hospital ( JCI OR NABH)</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Reputation and brand value of the hospital.&nbsp;</span></li>
 </ul>
 <p><b>Surgeons Fee: </b><span style="font-weight: 400;">The credentials and the experience of the cardiac surgeon also affect the overall cost of the surgery. Highly skilled and renowned surgeons increase overall expenses.&nbsp;</span></p>
 <p><b>Geographic Location of the Hospital: </b><span style="font-weight: 400;">The cost of heart bypass surgery also depends on the city or location where the surgery is performed. Major metropolitan areas like Mumbai, Delhi, and Bangalore translate into high medical expenses.&nbsp;</span></p>
 <p><b>Technology Used: </b><span style="font-weight: 400;">The technology used in the surgery affects the overall cost. The various technologies used in CABG are:&nbsp;</span></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1">Beating heart CABG</li>
-<li style="font-weight: 400;" aria-level="1">Minimally Invasive CABG surgery</li>
-<li style="font-weight: 400;" aria-level="1">Off-Pump Coronary Artery Bypass</li>
-<li style="font-weight: 400;" aria-level="1">Endoscopic, Robot-Assisted Coronary Artery Bypass Grafting (TECAB)</li>
+<li aria-level="1" style="font-weight: 400;">Beating heart CABG</li>
+<li aria-level="1" style="font-weight: 400;">Minimally Invasive CABG surgery</li>
+<li aria-level="1" style="font-weight: 400;">Off-Pump Coronary Artery Bypass</li>
+<li aria-level="1" style="font-weight: 400;">Endoscopic, Robot-Assisted Coronary Artery Bypass Grafting (TECAB)</li>
 </ul>
 <p><b>Duration of the Hospital Stay: </b><span style="font-weight: 400;">The length of the hospitalization affects the overall cost. Prolonged stay due to complications or other medical conditions may increase the overall cost.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Also, the type of room selected for the stay determines the cost.&nbsp;</span></p>
 <p><b>Pre-operative Costs: </b><span style="font-weight: 400;">Before the surgery, extensive evaluations are conducted to assess the patient’s condition. These evaluations may involve tests, consultations, and imaging studies. The cost of the evaluations is based on their complexity and the number of tests.&nbsp;</span></p>
 <p><b>Post-operative Care: </b><span style="font-weight: 400;">After coronary artery bypass surgery, patients require post-operative care like medications, monitoring, and follow-up care. The duration and the intensity of post-operative care can impact the cost.&nbsp;</span></p>
-<h2><span style="color: #0048ad;"><b>Cost of CABG Surgery in the Top Hospitals of India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">6300$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Max Healthcare&nbsp;</span></td>
-<td><span style="font-weight: 400;">5800$&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Fortis Escorts Heart Institute&nbsp;</span></td>
-<td><span style="font-weight: 400;">5500$&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Artemis Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">5200$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Metro Heart Institute&nbsp;</span></td>
-<td><span style="font-weight: 400;">5300$</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">PSRI Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">4000$</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></p>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 08 Days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: 2 weeks&nbsp;</b></p>
-<p><b>Success rate of the surgery: </b><span style="font-weight: 400;">99 %&nbsp;</span></p>
+<h2><br /></h2>
 <p><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></p>
 <table>
 <tbody>
@@ -11155,41 +9553,41 @@ Here are some treatment options available for ptosis in India:</p>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;"><strong>Minimal Invasive Cardiac Surgery (CABG) in India: Transforming Heart Surgeries with Precision and Safety</strong></span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals and Doctor’s doing Coronary Artery Bypass surgery in India</span></h2><h2><span style="color: #0048ad;"><div class="table-container" style="color: black; font-size: medium; font-weight: 400;"><table><thead><tr><td width="222"><span style="color: #0048ad;"><strong>Hospital</strong></span></td><td width="326"><span style="color: #0048ad;"><strong>&nbsp;</strong></span><span style="color: #0048ad;"><strong>Best Doctor</strong></span></td><td width="92"><span style="color: #0048ad;"><strong>&nbsp;</strong></span><span style="color: #0048ad;"><strong>Cost</strong></span></td></tr><tr><td width="222"><strong>Indraprastha Apollo Hospital</strong><p></p><p>(JCI Accreditation)</p></td><td width="326">Dr Mukesh Goel&nbsp;– Chief Cardiac Surgeon<p></p><p>(Experience 25 years)</p></td><td width="92">8000 USD</td></tr><tr><td width="222"><strong>Max Super Speciality Hospital</strong><p></p><p>(JCI Accreditation)</p></td><td width="326">Dr Rajneesh Malhotra&nbsp;– Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,<p></p><p>(Experience 35 years).</p></td><td width="92">8500 USD</td></tr><tr><td width="222"><strong>Manipal Hospitals</strong><p></p><p>(NABH Accreditation)</p></td><td width="326">Dr YK Mishra&nbsp; – Chief of Clinical Services,<p></p><p>(Experience 34 years).</p></td><td width="92">8000 USD</td></tr></thead></table></div></span></h2><h2><span style="color: #0048ad;"><strong>Minimal Invasive Cardiac Surgery (CABG) in India: Transforming Heart Surgeries with Precision and Safety</strong></span></h2>
 <p>MICS Bypass Surgery stands for “Minimally Invasive Coronary Artery Bypass Surgery.” It is a specialized surgical technique used to treat blocked or narrowed coronary arteries in a less invasive manner compared to traditional open-heart coronary artery bypass graft (CABG) surgery</p>
 <p>Like all body organs, the heart also needs a constant blood supply. The blood is supplied via two large blood vessels, the left and right coronary arteries. However, these arteries become narrow and hardened over time by depositing fatty acids known as plaques. This is known as atherosclerosis.</p>
 <p>People suffering from this disease are said to have coronary heart disease. The best treatment option in India to treat coronary heart disease is Coronary Artery Bypass Grafting, also known as CABG. A coronary artery bypass gives blood a new route around a blocked artery. A healthy blood vessel is taken from the chest or leg during surgery. This vessel is connected below the blocked artery. A new pathway improves blood flow to the heart</p>
 <p>Let us know more about this surgery in India and how it is transforming people’s lives in India and around the globe. Continue reading to know more about it:</p>
 <p><span style="color: #0048ad;"><strong>Who are at risk of developing Coronary Artery Disease?</strong></span></p>
-<p>Your chances of developing coronary heart disease increase with age. However, you can also develop it if:<br>
-● You smoke<br>
-● You are obese<br>
+<p>Your chances of developing coronary heart disease increase with age. However, you can also develop it if:<br />
+● You smoke<br />
+● You are obese<br />
 ● You have a high-fat diet</p>
 <p><span style="color: #0048ad;"><strong>Symptoms of Coronary Artery Disease</strong></span></p>
-<p>Symptoms of coronary artery disease may include:<br>
-● Chest pain<br>
-● Fatigue<br>
-● Palpitations<br>
-● Abnormal heart rhythms<br>
-● Shortness of breath<br>
-● Swelling in hands<br>
+<p>Symptoms of coronary artery disease may include:<br />
+● Chest pain<br />
+● Fatigue<br />
+● Palpitations<br />
+● Abnormal heart rhythms<br />
+● Shortness of breath<br />
+● Swelling in hands<br />
 ● Indigestion</p>
 <p><span style="color: #0048ad;"><strong>Who needs Coronary Artery Bypass surgery?</strong></span></p>
 <p>CABG is done to restore the blood flow around the blocked artery. The surgery is done as an emergency treatment for a heart attack. It may also be recommended in the following situations:</p>
-<p>● You have a severe blockage in the left artery as it supplies maximum blood to the heart<br>
-● Severe narrowing in the main heart artery<br>
-● Severe chest pain<br>
-● More than one blocked heart artery<br>
-● A blocked heart artery that cannot be treated by angioplasty<br>
+<p>● You have a severe blockage in the left artery as it supplies maximum blood to the heart<br />
+● Severe narrowing in the main heart artery<br />
+● Severe chest pain<br />
+● More than one blocked heart artery<br />
+● A blocked heart artery that cannot be treated by angioplasty<br />
 ● Angioplasty with or without a stent that has not worked.</p>
 <p><span style="color: #0048ad;"><strong>Imaging and Lab Tests</strong></span></p>
-<p>The potential tests you can undergo before the surgery are:<br>
-● ECG or EKG<br>
-● Echocardiogram<br>
-● Exercise stress test<br>
-● Nuclear cardiac stress test<br>
-● Cardiac catheterization<br>
-● CT scan<br>
+<p>The potential tests you can undergo before the surgery are:<br />
+● ECG or EKG<br />
+● Echocardiogram<br />
+● Exercise stress test<br />
+● Nuclear cardiac stress test<br />
+● Cardiac catheterization<br />
+● CT scan<br />
 ● Coronary Calcium Scan</p>
 <h2><span style="color: #0048ad;"><strong>Treatment of Coronary Artery Disease in India: Minimally Invasive Coronary Artery Bypass Surgery ( MICS-CABG)</strong></span></h2>
 <p>This is the latest treatment option available in India for treating patients suffering from coronary heart disease. Unlike traditional CABG, it is a specialized coronary artery bypass grafting technique with small incisions and reduced trauma. The different techniques used to perform MICS-CABG in India are:</p>
@@ -11198,97 +9596,66 @@ Here are some treatment options available for ptosis in India:</p>
 <p><strong>Robot-Assisted Coronary Artery Bypass Grafting (TECAB):</strong> This is an advanced technique used to perform coronary artery bypass grafts (CABGs). It’s a minimally invasive approach using robotics and endoscopic instruments to reach the coronary arteries.</p>
 <p><span style="color: #0048ad;"><strong>Knowing Minimally Invasive Coronary Artery Bypass Surgery ( MICS-CABG) In Detail</strong></span></p>
 <p><strong>Before the Surgery</strong></p>
-<p>● It would help if you underwent a thorough medical evaluation to determine your overall health.<br>
-● Any pre-existing medical condition is identified to increase the impact of the surgery.<br>
-● You will have an in-depth conversation with your cardiac surgeon to determine the risks and benefits of the surgery.<br>
-● Your current medications may be temporarily adjusted or stopped to reduce any complications in the surgery.<br>
-● You will be given pre-operative instructions, including fasting before the surgery and avoiding certain medications (potent anticoagulants)<br>
-● Please quit smoking and drinking before the surgery to avoid complications.<br>
+<p>● It would help if you underwent a thorough medical evaluation to determine your overall health.<br />
+● Any pre-existing medical condition is identified to increase the impact of the surgery.<br />
+● You will have an in-depth conversation with your cardiac surgeon to determine the risks and benefits of the surgery.<br />
+● Your current medications may be temporarily adjusted or stopped to reduce any complications in the surgery.<br />
+● You will be given pre-operative instructions, including fasting before the surgery and avoiding certain medications (potent anticoagulants)<br />
+● Please quit smoking and drinking before the surgery to avoid complications.<br />
 ● The anesthesiologist will discuss the risks associated with anesthesia with you.</p>
 <p><strong>During the Surgery</strong></p>
-<p>● Anesthesia: During surgery, the patient is given general anesthesia to make sure they’re unconscious<br>
-● Minimal Incision: A thoracoscope (a thin, flexible tube with a camera) and specialized instruments are inserted through small incisions in the chest.<br>
-● Visualization: The thoracoscope shows the heart and its internal structures on a video monitor in the operating room. This allows the surgeon to see the surgical site clearly and perform the procedure correctly.<br>
-● Grafting: The surgeon can use an artery from another body part as the graft, like the internal mammary or radial artery. A small incision in the arm or leg can also harvest the artery endoscopically.<br>
-● Closing: Surgeons use specialized instruments to graft the healthy artery onto the blocked coronary artery, creating a new path for blood to flow.<br>
+<p>● Anesthesia: During surgery, the patient is given general anesthesia to make sure they’re unconscious<br />
+● Minimal Incision: A thoracoscope (a thin, flexible tube with a camera) and specialized instruments are inserted through small incisions in the chest.<br />
+● Visualization: The thoracoscope shows the heart and its internal structures on a video monitor in the operating room. This allows the surgeon to see the surgical site clearly and perform the procedure correctly.<br />
+● Grafting: The surgeon can use an artery from another body part as the graft, like the internal mammary or radial artery. A small incision in the arm or leg can also harvest the artery endoscopically.<br />
+● Closing: Surgeons use specialized instruments to graft the healthy artery onto the blocked coronary artery, creating a new path for blood to flow.<br />
 ● Once the bypass graft is placed, the surgeon ensures the bypass graft is working, and the blood flow to the heart muscles is back to normal.</p>
 <p><strong>After the Surgery</strong></p>
-<p>● After the surgery, you will be taken to the ICU.<br>
-● You may experience pain after the surgery. Hence an important part of the surgery is pain management.<br>
-● You will be closely observed weekly with frequent heart rate, blood pressure, and oxygen level checks.<br>
-● After four days, you can start routine activities like sitting in bed, walking short distances, etc.<br>
-● Since the incision during the surgery is small, it requires less wound care.<br>
-● You can also start cardiovascular rehabilitation after your hospital stay.<br>
-● The length of hospital stay is comparatively less in MICS-CABG.<br>
-● Follow post-operative instructions by a surgical team once you reach home.<br>
+<p>● After the surgery, you will be taken to the ICU.<br />
+● You may experience pain after the surgery. Hence an important part of the surgery is pain management.<br />
+● You will be closely observed weekly with frequent heart rate, blood pressure, and oxygen level checks.<br />
+● After four days, you can start routine activities like sitting in bed, walking short distances, etc.<br />
+● Since the incision during the surgery is small, it requires less wound care.<br />
+● You can also start cardiovascular rehabilitation after your hospital stay.<br />
+● The length of hospital stay is comparatively less in MICS-CABG.<br />
+● Follow post-operative instructions by a surgical team once you reach home.<br />
 ● Individual experiences can vary, so consult your surgeon for a personalized experience.</p>
 <p><strong>Long term outcomes</strong></p>
-<p>Most patients do well with Minimally Invasive Coronary Artery Bypass Surgery (MICS-CABG). It improves blood flow to blocked or narrowed coronary arteries by revascularizing the heart. Long-term benefits of MICS-CABG include:<br>
-● Improves quality of life by improving chest pain and shortness of breath.<br>
-● Prevents future heart attacks and strokes by restoring blood flow to the heart and brain.<br>
-● It can boost your exercise capacity and cardiovascular health.<br>
-● MICS-CABG bypass grafts last for years, so patients get long-lasting benefits.<br>
-● It may reduce the need for certain medications to manage coronary artery disease, but patients will still have to take blood pressure and cholesterol medications.<br>
+<p>Most patients do well with Minimally Invasive Coronary Artery Bypass Surgery (MICS-CABG). It improves blood flow to blocked or narrowed coronary arteries by revascularizing the heart. Long-term benefits of MICS-CABG include:<br />
+● Improves quality of life by improving chest pain and shortness of breath.<br />
+● Prevents future heart attacks and strokes by restoring blood flow to the heart and brain.<br />
+● It can boost your exercise capacity and cardiovascular health.<br />
+● MICS-CABG bypass grafts last for years, so patients get long-lasting benefits.<br />
+● It may reduce the need for certain medications to manage coronary artery disease, but patients will still have to take blood pressure and cholesterol medications.<br />
 ● Early returning to their regular activities, including work, exercise, and hobbies, with the guidance of their healthcare team.</p>
 <p><span style="color: #0048ad;"><strong>Sites Of Graft in MICS-CABG</strong></span></p>
-<p><span style="color: #000000;"><em><strong>The grafts are usually obtained from healthy blood vessels elsewhere in the body. The most common sites of graft in MICS-CABG are:</strong></em></span></p>
-<p>● Internal Mammary Artery: It is inside the chest and runs parallel to the breastbone.<br>
-● Radial Artery: It is located in the forearm and is often used as a graft in MICS-CABG.<br>
+<p><span style="color: black;"><em><strong>The grafts are usually obtained from healthy blood vessels elsewhere in the body. The most common sites of graft in MICS-CABG are:</strong></em></span></p>
+<p>● Internal Mammary Artery: It is inside the chest and runs parallel to the breastbone.<br />
+● Radial Artery: It is located in the forearm and is often used as a graft in MICS-CABG.<br />
 ● Saphenous Vein: It is a superficial vein located in the left and used in traditional CABG and MICS-CABG.</p>
 <p><span style="color: #0048ad;"><strong>Arterial Vs. Venous Graft</strong></span></p>
-<p>● Arterial Grafts, particularly the internal mammary artery, have long-term patency rates, leading to improved graft durability and reducing chances of blockage.<br>
+<p>● Arterial Grafts, particularly the internal mammary artery, have long-term patency rates, leading to improved graft durability and reducing chances of blockage.<br />
 ● Venous grafts, on the other hand, such as saphenous veins, are easier to harvest and suitable for grafting multiple coronary arteries.</p>
 <p><span style="color: #0048ad;"><strong>Advantages of Minimally Invasive Cardiac Surgery over the traditional CABG:</strong></span></p>
-<p>● The biggest advantage of this method is that no bones are cut, so there’s less pain and less impact on your breathing.<br>
-● Unlike conventional heart surgery, which takes nine days, this procedure takes only five days so that you can return to normal life quicker.<br>
-● With less blood loss, you don’t need blood transfusions, and you don’t get blood-borne diseases.<br>
-● Patients may not experience post-surgical anemia due to blood loss.<br>
-● There’s a big reduction in infection risks due to a small cut. It’s perfect for people with diabetes and older patients with weakened immune systems.<br>
+<p>● The biggest advantage of this method is that no bones are cut, so there’s less pain and less impact on your breathing.<br />
+● Unlike conventional heart surgery, which takes nine days, this procedure takes only five days so that you can return to normal life quicker.<br />
+● With less blood loss, you don’t need blood transfusions, and you don’t get blood-borne diseases.<br />
+● Patients may not experience post-surgical anemia due to blood loss.<br />
+● There’s a big reduction in infection risks due to a small cut. It’s perfect for people with diabetes and older patients with weakened immune systems.<br />
 ● It leaves a very small scar since the incision is just 2 – 3 inches long</p>
 <p><span style="color: #0048ad;"><strong>The limitations of minimally invasive cardiac surgery</strong></span></p>
-<p>● It requires specialized surgeons and specialized hospitals since this is a new technique.<br>
-● Compared to the traditional CABG, this is more expensive.<br>
+<p>● It requires specialized surgeons and specialized hospitals since this is a new technique.<br />
+● Compared to the traditional CABG, this is more expensive.<br />
 ● Patients are selected based on strict criteria. This technique isn’t for patients with extensive disease or low heart function.</p>
 <p><span style="color: #0048ad;"><strong>Endoscopic Vein Harvesting (EVH)</strong></span></p>
-<p>Endoscopic Vein Harvesting refers to harvesting a healthy vein from a patient for coronary artery bypass graft (CABG) surgery. A tiny incision in the leg is used to insert an endoscope (a thin, flexible tube with a camera). An endoscope provides a magnified view of the saphenous Vein’s insides so the surgeon can carefully dissect and remove it. The advantage of this procedure is:<br>
-● Small incisions<br>
-● Faster recovery<br>
-● Reduced risk of complications<br>
-● Enhanced visualization<br>
+<p>Endoscopic Vein Harvesting refers to harvesting a healthy vein from a patient for coronary artery bypass graft (CABG) surgery. A tiny incision in the leg is used to insert an endoscope (a thin, flexible tube with a camera). An endoscope provides a magnified view of the saphenous Vein’s insides so the surgeon can carefully dissect and remove it. The advantage of this procedure is:<br />
+● Small incisions<br />
+● Faster recovery<br />
+● Reduced risk of complications<br />
+● Enhanced visualization<br />
 ● Improved patient satisfaction</p>
-<h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctor’s doing Coronary Artery Bypass surgery in India</strong></span></h2>
-<div class="table-container">
-<table>
-<thead>
-<tr>
-<td width="222"><span style="color: #0048ad;"><strong>Hospital</strong></span></td>
-<td width="326"><span style="color: #0048ad;"><strong>&nbsp;</strong></span><span style="color: #0048ad;"><strong>Best Doctor</strong></span></td>
-<td width="92"><span style="color: #0048ad;"><strong>&nbsp;</strong></span><span style="color: #0048ad;"><strong>Cost </strong></span></td>
-</tr>
-<tr>
-<td width="222"><a href="https://www.apollohospitals.com/delhi/"><strong>Indraprastha Apollo Hospital</strong></a><p></p>
-<p>(JCI Accreditation)</p></td>
-<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Chief Cardiac Surgeon<p></p>
-<p>(Experience 25 years)</p></td>
-<td width="92">8000 USD</td>
-</tr>
-<tr>
-<td width="222"><a href="#/bl-kapur-hospital/"><strong>Max Super Speciality Hospital</strong></a><p></p>
-<p>(JCI Accreditation)</p></td>
-<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences,<p></p>
-<p>(Experience 35 years).</p></td>
-<td width="92">8500 USD</td>
-</tr>
-<tr>
-<td width="222"><strong><a href="#/manipal-hospital/">Manipal Hospital</a>s</strong><p></p>
-<p>(NABH Accreditation)</p></td>
-<td width="326"><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Dr YK Mishra</a>&nbsp; – Chief of Clinical Services,<p></p>
-<p>(Experience 34 years).</p></td>
-<td width="92">8000 USD</td>
-</tr>
-</thead>
-</table>
-<h2><span style="color: #0048ad;">How can you avail the best MICS-CABG Surgery in India-Step By Step process?</span></h2>
+<h2><span style="color: #0048ad;"><br />How can you avail the best MICS-CABG Surgery in India-Step By Step process?</span></h2><div class="table-container">
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your MICS-CABG surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Minimally Invasive Coronary Artery Bypass Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>
@@ -11315,136 +9682,103 @@ Here are some treatment options available for ptosis in India:</p>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Valve replacement surgery in India: Giving Heart a Second Chance</span></h2>
+			<h2><span style="color: #0048ad;">Top Hospitals and Doctors doing Heart Valve Replacement in India</span></h2><h2><span style="color: #0048ad;"><table style="width: 614px;"><tbody><tr><td width="222"><span style="color: black;"><strong>Hospital</strong></span></td><td width="326"><span style="color: black;"><strong>Best Doctor</strong></span></td><td width="66"><span style="color: black;"><strong>Cost</strong></span></td></tr><tr><td width="222">Max Super Speciality Hospital, New Delhi<p></p><p>(JCI accredited )</p></td><td width="326">Dr Rajneesh Malhotra&nbsp;– Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS), (Experience 35 years).</td><td width="66"><strong>9500$</strong></td></tr><tr><td width="222">Indraprastha Apollo Hospital, New Delhi .<p></p><p>(JCI accredited )</p></td><td width="326">Dr Mukesh Goel&nbsp;– Senior Consultant –&nbsp;&nbsp; Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS), (Experience 25 years).</td><td width="66"><strong>9000$</strong></td></tr><tr><td width="222">Fortis Memorial Research Institute,<p></p><p>(JCI accredited )</p></td><td width="326">Dr Udgeath Dhir&nbsp;– Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Gurugram, (Experience 15 years).</td><td width="66"><strong>9000$</strong></td></tr><tr><td width="222">Manipal Hospitals,<p></p><p>(NABH accredited )</p></td><td width="326">Y K Mishra&nbsp;– Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, (Experience 34 years).</td><td width="66"><strong>10000$</strong></td></tr></tbody></table></span></h2><h2><span style="color: #0048ad;">Valve replacement surgery in India: Giving Heart a Second Chance</span></h2>
 <p>Heart valve surgery is a procedure used to treat heart valve disease. The main function of a heart valve is to keep the blood flowing in the correct direction.</p>
-<p><strong>Our heart has four valves:</strong><br>
-● Mitral valve<br>
-● Tricuspid valve<br>
-● Pulmonary valve<br>
+<p><strong>Our heart has four valves:</strong><br />
+● Mitral valve<br />
+● Tricuspid valve<br />
+● Pulmonary valve<br />
 ● Aortic valve</p>
 <p>These valves have flaps and should open and close once during each heartbeat. However, if one or more valves fail to do so, then a person needs valve replacement surgery. Here we will discuss India’s most famous Minimally Invasive Heart Valve Surgery. This technique can be used for MVR (Mitral Valve Replacement) and AVR (Aortic Valve Replacement) procedures. Let us delve into the details of the procedure and let us know which top hospitals in India perform this procedure.</p>
 <p><span style="color: #0048ad;"><strong>Why is the Surgery done?</strong></span></p>
-<p><strong>Heart valve surgery is done to treat heart valve disease. There are two types of heart valve problems:</strong><br>
-● Stenosis, which is a narrowing of a valve<br>
+<p><strong>Heart valve surgery is done to treat heart valve disease. There are two types of heart valve problems:</strong><br />
+● Stenosis, which is a narrowing of a valve<br />
 ● A leak in the valve makes the blood flow backward</p>
 <p><span style="color: #0048ad;"><strong>Symptoms of diseased or damaged valve</strong></span></p>
-<p><strong>Symptoms of damaged or diseased heart valves include:</strong><br>
-● Feeling dizzy<br>
-● Pain in the chest<br>
-● Having trouble breathing<br>
-● Feeling palpitations<br>
-● Edema (swelling) of the feet, ankles, or belly<br>
+<p><strong>Symptoms of damaged or diseased heart valves include:</strong><br />
+● Feeling dizzy<br />
+● Pain in the chest<br />
+● Having trouble breathing<br />
+● Feeling palpitations<br />
+● Edema (swelling) of the feet, ankles, or belly<br />
 ● Gaining weight quickly because of fluid retention</p>
 <p><span style="color: #0048ad;"><strong>Valve Repair Vs. MICS Valve Replacement Surgery</strong></span></p>
 <p><strong>Heart valve surgery comes in two types:</strong></p>
-<p>● Valve repair surgery preserves much of the patient’s tissue while fixing the damaged or faulty valve. Mostly mitral valves are repaired, but aortic and tricuspid valves can be repaired too.<br>
+<p>● Valve repair surgery preserves much of the patient’s tissue while fixing the damaged or faulty valve. Mostly mitral valves are repaired, but aortic and tricuspid valves can be repaired too.<br />
 ● Valve replacement surgery removes the old, faulty valve and replaces it with a new one made from either human tissue or metal.</p>
 <p><span style="color: #0048ad;"><strong>Types of Valve Replacement Surgery</strong></span></p>
 <p>● Aortic Valve Replacement ( AVR): Aortic valve on the left side of the heart serves as an outflow valve. It lets blood leave the left ventricle, the heart’s main pumping chamber. It also prevents blood from leaking back into the left ventricle. In case of stenosis or regurgitation of the aortic valve, you may require Surgery.</p>
 <p>● Mitral Valve Replacement (MVR): The heart’s mitral valve is on the left side. It acts as an inflow valve. It allows blood to flow into the left ventricle from the left atrium. If the valve doesn’t fully open or close, Surgery may be required.</p>
 <p>● Double Valve Replacement: A double valve replacement replaces the mitral and aortic valves or the left side. This one has a higher mortality rate than other kinds of surgeries.</p>
 <p><span style="color: #0048ad;"><strong>Imaging and Lab Tests</strong></span></p>
-<p><strong>Imaging and lab tests required for single valve replacement surgery are:</strong><br>
-● TEE<br>
-● Cardiac CT Scan<br>
+<p><strong>Imaging and lab tests required for single valve replacement surgery are:</strong><br />
+● TEE<br />
+● Cardiac CT Scan<br />
 ● Cardiac MRI</p>
 <h2><span style="color: #0048ad;"><strong>Minimally Invasive Heart Valve Surgery: Understanding the Details</strong></span></h2>
 <p>It involves smaller incisions, advanced imaging techniques, and specialized instruments to access and replace damaged heart valves. This allows surgeons to operate on the heart without having open-heart surgery. Both mitral valve replacement (MVR) and aortic valve replacement (AVR) surgeries can be performed using minimally invasive techniques.</p>
 <p><span style="color: #0048ad;"><strong>Types of Minimally Invasive Heart Valve Surgery</strong></span></p>
-<p>●<strong> TAVR:</strong>TAVR stands for Transcatheter Aortic Valve Replacement, in which a catheter is threaded through a blood vessel to the heart to position a new artificial valve inside.<br>
-●<strong> TMVR:</strong> It stands for Transcatheter Mitral Valve Replacement. In this, a catheter is guided through a blood vessel to the heart’s mitral valve to replace it.<br>
-● <strong>Mini Sternotomy:</strong> An aortic or mitral valve replacement is done through a small incision in the upper part of the breastbone.<br>
+<p>●<strong> TAVR:</strong>TAVR stands for Transcatheter Aortic Valve Replacement, in which a catheter is threaded through a blood vessel to the heart to position a new artificial valve inside.<br />
+●<strong> TMVR:</strong> It stands for Transcatheter Mitral Valve Replacement. In this, a catheter is guided through a blood vessel to the heart’s mitral valve to replace it.<br />
+● <strong>Mini Sternotomy:</strong> An aortic or mitral valve replacement is done through a small incision in the upper part of the breastbone.<br />
 ● <strong>Robot-Assisted Heart Valve Surgery</strong> is an advanced technology combining minimally invasive techniques. This approach uses robotic arms to improve precision and agility, hence better results.</p>
 <p><strong>Before the Surgery</strong></p>
-<p>● Ask questions to your healthcare provider related to Surgery.<br>
-● Sign a consent form if you agree to the Surgery.<br>
-● During a complete medical history and physical exam, your healthcare provider will ensure that you are otherwise healthy before Surgery.<br>
-● Before the procedure, fast for 8 hours (without eating or drinking).<br>
-● Let your healthcare provider know if you are pregnant.<br>
-● You should inform your healthcare provider if you are allergic to any medicines, iodine, latex, tape, or anesthetic agents.<br>
-● Tell your healthcare provider if you have a history of bleeding disorders or are taking anticoagulants (blood-thinning) or aspirin. These medicines have to be stopped four days before Surgery.<br>
-● Before Surgery, your healthcare provider may test your blood’s clotting time.<br>
-● If you have a pacemaker, let your healthcare provider know.<br>
-● Smokers should stop smoking immediately. It improves your chances for successful surgery recovery and overall health.<br>
+<p>● Ask questions to your healthcare provider related to Surgery.<br />
+● Sign a consent form if you agree to the Surgery.<br />
+● During a complete medical history and physical exam, your healthcare provider will ensure that you are otherwise healthy before Surgery.<br />
+● Before the procedure, fast for 8 hours (without eating or drinking).<br />
+● Let your healthcare provider know if you are pregnant.<br />
+● You should inform your healthcare provider if you are allergic to any medicines, iodine, latex, tape, or anesthetic agents.<br />
+● Tell your healthcare provider if you have a history of bleeding disorders or are taking anticoagulants (blood-thinning) or aspirin. These medicines have to be stopped four days before Surgery.<br />
+● Before Surgery, your healthcare provider may test your blood’s clotting time.<br />
+● If you have a pacemaker, let your healthcare provider know.<br />
+● Smokers should stop smoking immediately. It improves your chances for successful surgery recovery and overall health.<br />
 ● Your healthcare provider may request additional preparations if you have a medical condition</p>
 <p><strong>During the Surgery</strong></p>
 <p>Anesthesia: General anesthesia is administered in the operating room to induce unconsciousness and pain relief during Surgery.</p>
 <p>Incision: Small incisions are made when performing minimally invasive valve surgery. A small incision (Generally 4-6 cm long) is typically made on the side of the chest (right or left) or in the middle of the chest.</p>
 <p>Access to the Heart: The surgeon accesses the heart through a small incision. The rib cage may be moved temporarily for better visualization and access to the heart valves.</p>
 <p>Cardiopulmonary Bypass (Heart-Lung Machine): A heart-lung machine controls the heart and lungs during Surgery, allowing the surgeon to halt the heart temporarily.</p>
-<p>Replacement of valves: A prosthetic heart valve replaces the diseased valve. A prosthetic valve can either be mechanical (made of durable materials) or biological (usually made of animal tissue).<br>
+<p>Replacement of valves: A prosthetic heart valve replaces the diseased valve. A prosthetic valve can either be mechanical (made of durable materials) or biological (usually made of animal tissue).<br />
 Analysis and adjustment: The surgeon carefully assesses and adjusts the new valve after installation to ensure proper blood flow and function.</p>
 <p>The Restart and Chest Closure: The heart-lung machine will eventually be disconnected, and the heart will restart. Incisions are then closed with sutures or staples.</p>
 <p><strong>After The Surgery</strong></p>
-<p>● As soon as the Surgery is over, you’ll be shifted to the recovery room and the intensive care unit (ICU).<br>
-● Nurses will connect you to machines that will continuously display your electrocardiogram tracing, blood pressure, breathing rate, and oxygen saturation.<br>
-● Your throat will be attached to a ventilator until you can breathe independently.<br>
-● In case of pain, you’ll get pain medicine.<br>
-● You may need IV (intravenous) medicines to control your blood pressure, heart, and bleeding problems.<br>
-● You can start drinking liquids as soon as your breathing and stomach tubes are removed. Solid foods can be eaten as soon as you can tolerate them.<br>
-● You will be moved from the ICU to a surgical unit upon your healthcare provider’s approval.<br>
-● Your activity will gradually increase as you get out of bed and walk around for longer.<br>
+<p>● As soon as the Surgery is over, you’ll be shifted to the recovery room and the intensive care unit (ICU).<br />
+● Nurses will connect you to machines that will continuously display your electrocardiogram tracing, blood pressure, breathing rate, and oxygen saturation.<br />
+● Your throat will be attached to a ventilator until you can breathe independently.<br />
+● In case of pain, you’ll get pain medicine.<br />
+● You may need IV (intravenous) medicines to control your blood pressure, heart, and bleeding problems.<br />
+● You can start drinking liquids as soon as your breathing and stomach tubes are removed. Solid foods can be eaten as soon as you can tolerate them.<br />
+● You will be moved from the ICU to a surgical unit upon your healthcare provider’s approval.<br />
+● Your activity will gradually increase as you get out of bed and walk around for longer.<br />
 ● After you are discharged from the hospital, usually 5 – 6 days , your healthcare team will arrange a follow-up appointment.</p>
 <p><span style="color: #0048ad;"><strong>Mechanical Vs. Biological Valve</strong></span></p>
 <p>● Mechanical valves are created from carbon and polyester that are well tolerated by the human body. They can last between 10 to 20 years. However, if you choose a mechanical valve, you must take blood thinners to reduce the risk of stroke.</p>
-<p>● Biological valves, on the other hand, are created from human or animal tissue. They are of three types:<br>
-● A homograft made from a human donor heart<br>
-● Porcine valve made from pig tissue<br>
+<p>● Biological valves, on the other hand, are created from human or animal tissue. They are of three types:<br />
+● A homograft made from a human donor heart<br />
+● Porcine valve made from pig tissue<br />
 ● A bovine valve made from cow tissue</p>
 <p>These valves do not increase the risk of blood clots, so you do not have to be blood thinners. However, their life is shorter compared to mechanical valves. Your surgeon will recommend the type of valve,</p>
 <p><span style="color: #0048ad;"><strong>Advantages of Minimally Invasive Heart Valve Replacement Surgery</strong></span></p>
-<p><strong>It offers several advantages over traditional open-heart Surgery:</strong><br>
-● A smaller incision<br>
-● Shorter hospital stays.<br>
-● Less postoperative pain and a faster overall recovery process<br>
-● Lower complications, such as bleeding, infection, and blood clots.<br>
+<p><strong>It offers several advantages over traditional open-heart Surgery:</strong><br />
+● A smaller incision<br />
+● Shorter hospital stays.<br />
+● Less postoperative pain and a faster overall recovery process<br />
+● Lower complications, such as bleeding, infection, and blood clots.<br />
 ● Improved quality of life.</p>
 <p><span style="color: #0048ad;"><strong>Risks Associated with the Surgery</strong></span></p>
-<p><strong>Risks come with any surgery. There are a few risks associated with heart valve surgery:</strong><br>
-● Heart attack.<br>
-● Failure of the heart.<br>
-● Heart rhythm problems – you might need a pacemaker.<br>
-● Stroke.<br>
-● Infection.<br>
+<p><strong>Risks come with any surgery. There are a few risks associated with heart valve surgery:</strong><br />
+● Heart attack.<br />
+● Failure of the heart.<br />
+● Heart rhythm problems – you might need a pacemaker.<br />
+● Stroke.<br />
+● Infection.<br />
 ● Bleeding.</p>
 <p><strong>Before your Surgery, your cardiologist and surgeon will discuss these risks with you.</strong></p>
 <p><span style="color: #0048ad;"><strong>Why India?</strong></span></p>
 <p>India offers affordable, minimally invasive heart valve surgery compared to many Western countries. It depends on the hospital, the surgeon’s fees, the specific technique used, and the patient’s health. Compared to countries like the U.S. or U.K., minimally invasive heart valve surgery in India costs significantly less, so it’s an appealing option for international patients.</p>
-<h2><span style="color: #0048ad;">Top Hospitals and Doctors doing Heart Valve Replacement in India</span></h2>
-<table width="614">
-<tbody>
-<tr>
-<td width="222"><span style="color: #000000;"><strong>Hospital</strong></span></td>
-<td width="326"><span style="color: #000000;"><strong>Best Doctor</strong></span></td>
-<td width="66"><span style="color: #000000;"><strong>Cost </strong></span></td>
-</tr>
-<tr>
-<td width="222"><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi</a><p></p>
-<p>(JCI accredited )</p></td>
-<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS), (Experience 35 years).</td>
-<td width="66"><strong>9500$</strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi .<p></p>
-<p>(JCI accredited )</p></td>
-<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Senior Consultant –&nbsp;&nbsp; Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS), (Experience 25 years).</td>
-<td width="66"><strong>9000$</strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>,<p></p>
-<p>(JCI accredited )</p></td>
-<td width="326"><a href="#/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/">Dr Udgeath Dhir</a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Gurugram, (Experience 15 years).</td>
-<td width="66"><strong>9000$</strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/manipal-hospital/">Manipal Hospital</a>s,<p></p>
-<p>(NABH accredited )</p></td>
-<td width="326"><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Y K Mishra</a> – Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, (Experience 34 years).</td>
-<td width="66"><strong>10000$</strong></td>
-</tr>
-</tbody>
-</table>
-<h2><span style="color: #0048ad;"><strong>How can you avail the best Heart Valve replacement surgery in India-Step By Step process?</strong></span></h2>
+<h2><strong style="color: #0048ad;"><br />How can you avail the best Heart Valve replacement surgery in India-Step By Step process?</strong></h2>
+
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your valve replacement surgery in India<strong>, </strong>fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best MICS Valve Replacement Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 
@@ -11465,95 +9799,95 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><strong>Double Valve Replacement Surgery in India: Advancing Cardiac Care</strong></h2>
+			<h2><span style="color: #0048ad;">Cost of Double Valve Replacement in Top Hospitals&nbsp;</span></h2><h2><p style="font-size: medium; font-weight: 400;">&nbsp;</p><table style="width: 614px;"><thead><tr><td width="222"><span style="color: black;"><strong>Hospital</strong></span></td><td width="326"><span style="color: black;"><strong>Best Doctor</strong></span></td><td width="66"><span style="color: black;"><strong>Cost</strong></span></td></tr><tr><td width="222">Max Super Speciality Hospital, New Delhi,&nbsp;(JCI accredited )</td><td width="326">Dr Rajneesh Malhotra&nbsp;– Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences (CTVS), (Experience 35 years).</td><td width="66"><strong>11000$</strong></td></tr><tr><td width="222">Indraprastha Apollo Hospital, New Delhi . (JCI accredited )</td><td width="326">Dr Mukesh Goel&nbsp;– Senior Consultant –&nbsp;&nbsp; Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences (CTVS), (Experience 25 years).</td><td width="66"><strong>9500$</strong></td></tr><tr><td width="222">Fortis Memorial Research Institute, (JCI accredited )</td><td width="326">Dr Udgeath Dhir&nbsp;– Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Gurugram (Experience 15 years).</td><td width="66"><strong>13500$</strong></td></tr><tr><td width="222">Manipal Hospitals, (NABH accredited )</td><td width="326">Y K Mishra&nbsp;– Chief of Clinical Services, Head of Cardiac Sciences, and Chief Cardio Vascular Surgeon, (Experience 34 years).</td><td width="66"><strong>12000$</strong></td></tr><tr><td width="222">Medanta the Medicity,&nbsp;(JCI accredited )</td><td width="326">Dr Anil Bhan&nbsp;– Chairman, Cardiac Surgery , Heart Institute, Gurugram, (Experience 41 years).</td><td width="66"><strong>11500$</strong></td></tr></thead></table></h2><h2><strong>Double Valve Replacement Surgery in India: Advancing Cardiac Care</strong></h2>
 <p>With the advancement in cardiovascular Surgery, medical professionals in India can now perform very complex procedures with utmost precision. Double valve replacement surgery is one such procedure that gives a new life to a patient suffering from severe valve disease. In this article, we will look more into the intricacies of double valve replacement surgery, its importance, how the procedure is performed, and what is best to get the valve replacement Surgery done in India.</p>
 <p><span style="color: #0048ad;"><strong>Understanding Double Valve Replacement Surgery</strong></span></p>
 <p>Human hearts have four valves that ensure unidirectional blood flow, ensuring optimal circulation. Many conditions can damage heart valves, like congenital anomalies, degenerative changes, infections, and rheumatic fever. A double valve replacement is necessary when the aortic and mitral valves are severely damaged.</p>
 <p><span style="color: #0048ad;"><strong>Significance of Double Valve Replacement</strong></span></p>
 <p>The double valve replacement surgery restores normal blood flow and improves heart function. If both aortic and mitral valves are damaged, the heart’s pumping efficiency is severely reduced, causing shortness of breath, fatigue, chest pain, and edema. Leaving this condition untreated can cause heart failure and reduce the quality of life. A double valve replacement surgery can help relieve these symptoms, improve overall health, and prolong your life.</p>
 <p><span style="color: #0048ad;"><strong>Symptoms</strong></span></p>
-<p><em><span style="color: #000000;"><strong>Here are some common symptoms that may indicate the need for a double valve replacement surgery:</strong> </span></em><br>
-● Shortness of breath<br>
-● Fatigue<br>
-● Weakness<br>
-● Chest pain<br>
-● Palpitations<br>
-● Edema of the feet<br>
-● Dizziness<br>
-● Cyanosis<br>
-● Persistent cough<br>
+<p><em><span style="color: black;"><strong>Here are some common symptoms that may indicate the need for a double valve replacement surgery:</strong> </span></em><br />
+● Shortness of breath<br />
+● Fatigue<br />
+● Weakness<br />
+● Chest pain<br />
+● Palpitations<br />
+● Edema of the feet<br />
+● Dizziness<br />
+● Cyanosis<br />
+● Persistent cough<br />
 ● Weight gain</p>
 <p><span style="color: #0048ad;"><strong>Imaging and Lab Tests</strong></span></p>
-<p><em><span style="color: #000000;"><strong>Imaging and lab tests required for double valve replacement surgery are:</strong> </span></em><br>
-● TEE<br>
-● Cardiac CT Scan<br>
+<p><em><span style="color: black;"><strong>Imaging and lab tests required for double valve replacement surgery are:</strong> </span></em><br />
+● TEE<br />
+● Cardiac CT Scan<br />
 ● Cardiac MRI</p>
 <h2><span style="color: #0048ad;"><strong>Types of Double Valve Replacement Surgery Performed in India</strong></span></h2>
 <p>Double valve replacement surgery involves the removal of the aortic valve and mitral valve and its replacement with prosthetic valves. The procedure is performed in India using two ways:</p>
 <p><em><strong>Traditional Open Heart Surgery</strong></em></p>
 <p>In traditional open-heart Surgery, the patient is under general anesthesia. A large incision is made in the chest to reach the heart. You will be connected to a heart-lung machine, and the surgeon will then remove the diseased aortic and mitral valves to replace them with prosthetic ones.</p>
-<p><strong><em><span style="color: #000000;">Minimally Invasive Double Valve Surgery</span></em></strong></p>
+<p><strong><em><span style="color: black;">Minimally Invasive Double Valve Surgery</span></em></strong></p>
 <p>A minimally invasive double valve replacement reduces surgical trauma, shortens recovery time, and improves cosmetic outcomes. The procedure uses smaller incisions, specialized instruments, and advanced imaging.</p>
 <p>One technique is robotic-assisted Surgery, where the surgeon controls robot arms to make small incisions. Another way to get to the heart is through thoracoscopic Surgery. These two techniques offer benefits like reduced blood loss, shorter hospital stays, and faster recovery.</p>
 <p><span style="color: #0048ad;"><strong>Before the Surgery</strong></span></p>
-<p>● You can ask your healthcare provider questions about Surgery.<br>
-● You’ll need to sign a consent form if you’re going in for Surgery.<br>
-● Before Surgery, your healthcare provider will make sure you’re healthy otherwise.<br>
-● Wait to eat or drink for 8 hours before the procedure.<br>
-● If you’re pregnant, let your doctor know.<br>
-● Please let your healthcare provider know if you’re allergic to any medicines, iodine, latex, tape, or anesthetics.<br>
-● Be sure your healthcare provider knows if you’ve had bleeding disorders or if you take anticoagulants (blood thinners) or aspirin. You have to stop these medicines four days before Surgery.<br>
-● Your healthcare provider might test your blood’s clotting time before Surgery.<br>
-● Tell your doctor if you have a pacemaker.<br>
-● Stop smoking right away if you’re a smoker. It improves your chances of a successful surgery recovery.<br>
+<p>● You can ask your healthcare provider questions about Surgery.<br />
+● You’ll need to sign a consent form if you’re going in for Surgery.<br />
+● Before Surgery, your healthcare provider will make sure you’re healthy otherwise.<br />
+● Wait to eat or drink for 8 hours before the procedure.<br />
+● If you’re pregnant, let your doctor know.<br />
+● Please let your healthcare provider know if you’re allergic to any medicines, iodine, latex, tape, or anesthetics.<br />
+● Be sure your healthcare provider knows if you’ve had bleeding disorders or if you take anticoagulants (blood thinners) or aspirin. You have to stop these medicines four days before Surgery.<br />
+● Your healthcare provider might test your blood’s clotting time before Surgery.<br />
+● Tell your doctor if you have a pacemaker.<br />
+● Stop smoking right away if you’re a smoker. It improves your chances of a successful surgery recovery.<br />
 ● Your healthcare provider may ask you to make additional preparations.</p>
 <p><span style="color: #0048ad;"><strong>During The Surgery</strong></span></p>
-<p>● You will be under general anesthesia to ensure you are asleep during the procedure.<br>
-● The surgeon will then make small incisions in the chest ( sternum or right side of the chest) to access the heart and valves.<br>
-● In minimally invasive heart surgery, the incisions are designed to be small while still allowing access to necessary structures within the chest. Smaller incisions may range from a few centimeters to 5-8 centimeters in length (about 2-3 inches).<br>
-● The minimally invasive technique involves two approaches:<br>
-● The thoracic approach involves the insertion of a thoracoscope ( a tube with a camera at the end) to give the surgeon a magnified view.<br>
-● In some instances, surgeons in India use a robotic approach, where the surgeon’s movements are translated into precise motions of the robotic arms to increase agility. Since this approach gives a 3D view, the prosthetic valves are placed accurately.<br>
-● Once the surgeon reaches the heart, the prosthetic ones replace the two valves. The valves are attached to the heart using sutures or other fixing methods.<br>
-● In some cases, the surgeon may also place you on a heart-lung machine, which takes over the heart’s function while the heart is not working.<br>
+<p>● You will be under general anesthesia to ensure you are asleep during the procedure.<br />
+● The surgeon will then make small incisions in the chest ( sternum or right side of the chest) to access the heart and valves.<br />
+● In minimally invasive heart surgery, the incisions are designed to be small while still allowing access to necessary structures within the chest. Smaller incisions may range from a few centimeters to 5-8 centimeters in length (about 2-3 inches).<br />
+● The minimally invasive technique involves two approaches:<br />
+● The thoracic approach involves the insertion of a thoracoscope ( a tube with a camera at the end) to give the surgeon a magnified view.<br />
+● In some instances, surgeons in India use a robotic approach, where the surgeon’s movements are translated into precise motions of the robotic arms to increase agility. Since this approach gives a 3D view, the prosthetic valves are placed accurately.<br />
+● Once the surgeon reaches the heart, the prosthetic ones replace the two valves. The valves are attached to the heart using sutures or other fixing methods.<br />
+● In some cases, the surgeon may also place you on a heart-lung machine, which takes over the heart’s function while the heart is not working.<br />
 ● After the replacement, the incisions are closed with sutures.</p>
 <p><span style="color: #0048ad;"><strong>After the Surgery</strong></span></p>
 <p><em><strong>Immediately post-op:</strong></em></p>
-<p>● You will be monitored in the CTVS ICU room as the anesthesia wears off after Surgery.<br>
-● The hospital staff will monitor your vital signs, like heart rate, blood pressure, and oxygen levels.<br>
+<p>● You will be monitored in the CTVS ICU room as the anesthesia wears off after Surgery.<br />
+● The hospital staff will monitor your vital signs, like heart rate, blood pressure, and oxygen levels.<br />
 ● To make sure you are comfortable, pain medications are administered.</p>
 <p><em><strong>During your hospital stay:</strong></em></p>
-<p>● Hospital stay is typically shorter than traditional open heart surgery, usually a week.<br>
-● Moving and walking immediately is essential to prevent complications like blood clots.<br>
-● As your condition stabilizes, IV lines and catheters can be removed.<br>
-● Cardiac monitoring keeps tabs on your heart’s function.<br>
-● If you’re using chest tubes, remove them once the drainage is acceptable.<br>
+<p>● Hospital stay is typically shorter than traditional open heart surgery, usually a week.<br />
+● Moving and walking immediately is essential to prevent complications like blood clots.<br />
+● As your condition stabilizes, IV lines and catheters can be removed.<br />
+● Cardiac monitoring keeps tabs on your heart’s function.<br />
+● If you’re using chest tubes, remove them once the drainage is acceptable.<br />
 ● Some patients start physical therapy to regain strength and mobility.</p>
-<p><span style="color: #000000;"><em><strong>Recovering at home after discharge:</strong></em></span></p>
-<p>● You will be discharged when you can walk, manage daily activities, and have stable vital signs.<br>
-● Pain relievers, antibiotics, and blood thinners might be prescribed.<br>
-● Increase activity gradually while avoiding strenuous tasks.<br>
+<p><span style="color: black;"><em><strong>Recovering at home after discharge:</strong></em></span></p>
+<p>● You will be discharged when you can walk, manage daily activities, and have stable vital signs.<br />
+● Pain relievers, antibiotics, and blood thinners might be prescribed.<br />
+● Increase activity gradually while avoiding strenuous tasks.<br />
 ● Follow-up appointments with the surgeon and cardiologist are essential for monitoring your progress.</p>
 <p><span style="color: #0048ad;"><strong>The long-term recovery process:</strong></span></p>
-<p>● A cardiac rehabilitation program guides patients through structured exercises and lifestyle adjustments.<br>
-● For long-term cardiac health, it’s essential to eat a heart-healthy diet.<br>
-● Follow your prescribed medications strictly, including anticoagulants if needed.<br>
-● Depending on the job’s demands, you can return to work within a few weeks to a few months.<br>
-● For the initial recovery phase, you should avoid crowded places and follow hygiene practices.<br>
+<p>● A cardiac rehabilitation program guides patients through structured exercises and lifestyle adjustments.<br />
+● For long-term cardiac health, it’s essential to eat a heart-healthy diet.<br />
+● Follow your prescribed medications strictly, including anticoagulants if needed.<br />
+● Depending on the job’s demands, you can return to work within a few weeks to a few months.<br />
+● For the initial recovery phase, you should avoid crowded places and follow hygiene practices.<br />
 ● Regular checkups with the doctors will monitor your heart, valves, and overall health.</p>
 <p><span style="color: #0048ad;"><strong>Coping and emotional support:</strong></span></p>
-<p>● The emotional support of family, friends, and support groups can make a big difference in recovery.<br>
+<p>● The emotional support of family, friends, and support groups can make a big difference in recovery.<br />
 ● Emotional challenges can arise from lifestyle changes and Surgery; counseling or therapy can help.</p>
 <p><span style="color: #0048ad;"><strong>A look at the long-term:</strong></span></p>
-<p>● Successful recovery can lead to reduced symptoms, increased energy levels, and improved quality of life.<br>
+<p>● Successful recovery can lead to reduced symptoms, increased energy levels, and improved quality of life.<br />
 ● Lifelong follow-ups are needed to monitor the health of your replaced valves and your heart.</p>
 <p><span style="color: #0048ad;"><strong>Mechanical Vs. Biological Valves</strong></span></p>
-<table width="624">
+<table style="width: 624px;">
 <thead>
 <tr>
-<td width="208"><span style="color: #000000;"><strong>Aspect</strong></span></td>
-<td width="208"><span style="color: #000000;"><strong>Mechanical Valve</strong></span></td>
-<td width="208"><span style="color: #000000;"><strong>Biological Valve</strong></span></td>
+<td width="208"><span style="color: black;"><strong>Aspect</strong></span></td>
+<td width="208"><span style="color: black;"><strong>Mechanical Valve</strong></span></td>
+<td width="208"><span style="color: black;"><strong>Biological Valve</strong></span></td>
 </tr>
 <tr>
 <td width="208">Source</td>
@@ -11593,75 +9927,40 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 </thead>
 </table>
 <h2><span style="color: #0048ad;"><strong>Advantages of Minimally Invasive Double Valve Surgery</strong></span></h2>
-<p><em><strong>The several advantages of double valve surgery include:</strong></em><br>
-● Small size incision 4 – 6 cm<br>
-● Short hospital stay generally 5 to 7 days<br>
-● Fast recovery<br>
-● Improved cosmetic outcomes<br>
-● Lower risk of complications<br>
+<p><em><strong>The several advantages of double valve surgery include:</strong></em><br />
+● Small size incision 4 – 6 cm<br />
+● Short hospital stay generally 5 to 7 days<br />
+● Fast recovery<br />
+● Improved cosmetic outcomes<br />
+● Lower risk of complications<br />
 ● No postoperative anemia</p>
 <p><span style="color: #0048ad;"><strong>Risks</strong></span></p>
-<p><em><span style="color: #000000;"><strong>Risks come with any surgery. There are a few risks associated with heart valve surgery:</strong></span></em><br>
-● Heart attack.<br>
-● Failure of the heart.<br>
-● Heart rhythm problems – you might need a pacemaker.<br>
-● Stroke.<br>
-● Infection.<br>
+<p><em><span style="color: black;"><strong>Risks come with any surgery. There are a few risks associated with heart valve surgery:</strong></span></em><br />
+● Heart attack.<br />
+● Failure of the heart.<br />
+● Heart rhythm problems – you might need a pacemaker.<br />
+● Stroke.<br />
+● Infection.<br />
 ● Bleeding.</p>
 <p>Before your Surgery, your cardiologist and surgeon will discuss these risks with you.</p>
 <h2><strong><span style="color: #0048ad;">Advancement in Double Valve Replacement Techniques</span></strong></h2>
 <p>The advancement in medical technology in India has significantly improved the outcomes of double valve replacement surgery in India.</p>
 <p>● The use of 3D printing has allowed surgeons to perform highly complex procedures.</p>
 <p><span style="color: #0048ad;"><strong>Why is India a Hub for Double Valve Replacement Surgery?</strong></span></p>
-<p><strong><em><span style="color: #000000;">India is now a global hub for medical tourism because of the following:</span></em></strong></p>
-<p>● Affordability<br>
-● Skilled surgeons and medical teams<br>
-● Cutting-edge medical infrastructure<br>
+<p><strong><em><span style="color: black;">India is now a global hub for medical tourism because of the following:</span></em></strong></p>
+<p>● Affordability<br />
+● Skilled surgeons and medical teams<br />
+● Cutting-edge medical infrastructure<br />
 ● Personalized care and hospitality</p>
 <p><span style="color: #0048ad;"><strong>Clinical Outcomes</strong></span></p>
-<p>● There is no significant difference in mortality in DVR.<br>
-● Mortality is 6.3% in the DVR, and overall mortality is 17% for DVR<br>
-● When it comes to rheumatic valve disease and endocarditis, DVR is preferred.<br>
-● Mechanical valves are used more in the DVR.<br>
+<p>● There is no significant difference in mortality in DVR.<br />
+● Mortality is 6.3% in the DVR, and overall mortality is 17% for DVR<br />
+● When it comes to rheumatic valve disease and endocarditis, DVR is preferred.<br />
+● Mechanical valves are used more in the DVR.<br />
 ● Rehospitalization, left ventricular ejection fraction deterioration, and postoperative complications are equally common in all valve replacements.</p>
-<h2><span style="color: #0048ad;">Cost of Double Valve Replacement in Top Hospitals&nbsp;</span></h2>
-<p>&nbsp;</p>
-<table width="614">
-<thead>
-<tr>
-<td width="222"><span style="color: #000000;"><strong>Hospital</strong></span></td>
-<td width="326"><span style="color: #000000;"><strong>Best Doctor</strong></span></td>
-<td width="66"><span style="color: #000000;"><strong>Cost </strong></span></td>
-</tr>
-<tr>
-<td width="222"><a href="#/hospital-network/max-super-speciality-hospital-saket">Max Super Speciality Hospital, New Delhi, </a>(JCI accredited )</td>
-<td width="326"><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/">Dr Rajneesh Malhotra</a> – Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences (CTVS), (Experience 35 years).</td>
-<td width="66"><strong>11000$ </strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a>, New Delhi . (JCI accredited )</td>
-<td width="326"><a href="#/dr-mukesh-goel-cardiothoracic-and-vascular-surgeon/">Dr Mukesh Goel</a> – Senior Consultant –&nbsp;&nbsp; Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences (CTVS), (Experience 25 years).</td>
-<td width="66"><strong>9500$</strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, (JCI accredited )</td>
-<td width="326"><a href="#/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/">Dr Udgeath Dhir</a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Gurugram (Experience 15 years).</td>
-<td width="66"><strong>13500$ </strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/manipal-hospital/">Manipal Hospital</a>s, (NABH accredited )</td>
-<td width="326"><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/">Y K Mishra</a> – Chief of Clinical Services, Head of Cardiac Sciences, and Chief Cardio Vascular Surgeon, (Experience 34 years).</td>
-<td width="66"><strong>12000$</strong></td>
-</tr>
-<tr>
-<td width="222"><a href="#/medanta-the-medicity-eye-department/">Medanta the Medicity, </a>(JCI accredited )</td>
-<td width="326"><a href="#/dr-anil-bhan-cardiothoracic-and-vascular-surgeon/">Dr Anil Bhan</a> – Chairman, Cardiac Surgery , Heart Institute, Gurugram, (Experience 41 years).</td>
-<td width="66"><strong>11500$</strong></td>
-</tr>
-</thead>
-</table>
-<h2><span style="color: #0048ad;"><strong>How can you avail the best Double Valve replacement surgery in India-Step By Step process?</strong></span></h2>
-<p><span style="color: #000000;"><strong>Medihelp Global </strong> </span>is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your double valve replacement surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
+<h2><strong style="color: #0048ad;"><br />How can you avail the best Double Valve replacement surgery in India-Step By Step process?</strong></h2>
+
+<p><span style="color: black;"><strong>Medihelp Global </strong> </span>is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your double valve replacement surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-art-technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best DVR ( Double Valve Replacement Surgery ) </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 <p><strong>&nbsp;</strong></p>
 
@@ -11674,14 +9973,14 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
   {
     name: "valve-replacement",
     img: "/treatment/valve-replacement.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 		
 	</div>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2>Valve Replacement Surgery in JCI Accredited Hospitals in India</h2>
+			<h2><span style="color: #0048ad;">Cost in Top Hospitals Doing&nbsp; Heart Valve Replacement Surgery in India</span></h2><h2><table><tbody><tr><td><b>Hospital&nbsp;</b></td><td><b>MICS&nbsp;</b></td><td><b>Open Heart&nbsp;</b></td><td><b>Robotic&nbsp;</b></td><td><b>TAVR&nbsp;</b></td></tr><tr><td><span>Indraprastha Apollo Hospital&nbsp;</span></td><td><span>9500</span></td><td><span>7000</span></td><td><span>11000</span></td><td><span>35000</span></td></tr><tr><td><span>Fortis Escorts Heart Institute&nbsp;</span></td><td><span>10000</span></td><td><span>7500</span></td><td><span>NA&nbsp;</span></td><td><span>32000</span></td></tr><tr><td><span>Manipal Hospital&nbsp;</span></td><td><span>10500</span></td><td><span>7200</span></td><td><span>12000</span></td><td><span>45000</span></td></tr><tr><td><span>Max Healthcare&nbsp;</span></td><td><span>10000</span></td><td><span>7500</span></td><td><span>11500</span></td><td><span>30000</span></td></tr></tbody></table><p style="font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><strong><em>Note: Tissue valve will cost USD 2,000 extra per valve.&nbsp;</em></strong></span></p><p style="font-size: medium; font-weight: 400;"><b>Your Package Will Cover</b></p><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Cost of Valve&nbsp;&nbsp;</span></td><td></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 08 days&nbsp;</span></td><td></td></tr></tbody></table><p style="font-size: medium; font-weight: 400;"><b>India Stay:&nbsp;</b><span>20 days&nbsp;</span></p><p style="font-size: medium; font-weight: 400;"><b>Success rate of the surgery:&nbsp;</b><span>99%&nbsp;</span></p><p style="font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></p><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table></h2><h2>Valve Replacement Surgery in JCI Accredited Hospitals in India</h2>
 <h2><span style="color: #0048ad;">What is Valve Replacement Surgery?</span></h2>
 <p>Valve replacement surgery is a procedure to remove impaired heart valve and replace it with a mechanical (metal or carbon) or a biological (pig, cow or human tissue) valve.</p>
 <p>This surgery is required in patients who have heart valve disease. Heart valve disease leads to at least one of the four heart valves (namely Aortic valve, Mitral valve, Tricuspid valve and Pulmonary valve)to not function properly. The two basic heart valve problems are:</p>
@@ -11728,27 +10027,27 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <p><span style="font-weight: 400;">The factors determining the cost of heart valve replacement in India are broadly categorized into three types:&nbsp;</span></p>
 <p><b>Hospital Factors</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of Hospital( Government/ trust/ Private)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Use of insurance, type of insurance or self-paid</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accreditation( JCI Or NABH)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reputation and brand value of the hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Single or Super speciality cardiology hospitals, like Fortis Escorts Heart Institute, are expensive.&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Location of the hospital – Second-tier cities are cheap, whereas metropolitan cities are expensive.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of Hospital( Government/ trust/ Private)</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Use of insurance, type of insurance or self-paid</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Accreditation( JCI Or NABH)</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Reputation and brand value of the hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Single or Super speciality cardiology hospitals, like Fortis Escorts Heart Institute, are expensive.&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Location of the hospital – Second-tier cities are cheap, whereas metropolitan cities are expensive.&nbsp;</span></li>
 </ul>
 <p><b>Medical Team Factors</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Technology and approach used for the surgery</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgery type ( Minimally Invasive or Traditional Open Heart Surgery)&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Type of anaesthesia uses</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Qualification and expertise of the CTVS Surgeon&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The extent of surgery needed</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Technology and approach used for the surgery</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgery type ( Minimally Invasive or Traditional Open Heart Surgery)&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of anaesthesia uses</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Qualification and expertise of the CTVS Surgeon&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The extent of surgery needed</span></li>
 </ul>
 <p><b>Patient Factors</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Patient Diagnosis</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Patient general health and fitness&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Room category selected by the patient, single or economy&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Other treatments required in conjunction</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Patient Diagnosis</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Patient general health and fitness&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Room category selected by the patient, single or economy&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Other treatments required in conjunction</span></li>
 </ul>
 <p><span style="color: #0048ad;"><b>A look into other significant factors</b></span></p>
 <p><b>Type of Valve: </b><span style="font-weight: 400;">the cost of a valve can vary. Mechanical valves are economically durable but require lifelong blood-thinning medicines, and on the other hand, biological valves are not expensive and durable but do not require blood thinners.&nbsp;</span></p>
@@ -11756,125 +10055,8 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <p><b>&nbsp;Length of Hospital Stay</b><span style="font-weight: 400;">: The duration of hospitalization impacts the overall cost. A more extended stay can result in higher expenses for room charges, nursing care, and other associated costs.</span></p>
 <p><b>Diagnostic Tests and Pre-operative Care</b><span style="font-weight: 400;">: Costs associated with diagnostic tests, pre-operative assessments, and consultations with specialists before the surgery can add to the overall expense.</span></p>
 <p><b>Post-operative Care:</b><span style="font-weight: 400;"> After the surgery, there may be expenses related to medications, rehabilitation, and follow-up consultations.</span></p>
-<h2><span style="color: #0048ad;"><b>Cost in Top Hospitals Doing&nbsp; Heart Valve Replacement Surgery in India</b></span></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Hospital&nbsp;</b></td>
-<td><b>MICS&nbsp;</b></td>
-<td><b>Open Heart&nbsp;</b></td>
-<td><b>Robotic&nbsp;</b></td>
-<td><b>TAVR&nbsp;</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Indraprastha Apollo Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">9500</span></td>
-<td><span style="font-weight: 400;">7000</span></td>
-<td><span style="font-weight: 400;">11000</span></td>
-<td><span style="font-weight: 400;">35000</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Fortis Escorts Heart Institute&nbsp;</span></td>
-<td><span style="font-weight: 400;">10000</span></td>
-<td><span style="font-weight: 400;">7500</span></td>
-<td><span style="font-weight: 400;">NA&nbsp;</span></td>
-<td><span style="font-weight: 400;">32000</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Manipal Hospital&nbsp;</span></td>
-<td><span style="font-weight: 400;">10500</span></td>
-<td><span style="font-weight: 400;">7200</span></td>
-<td><span style="font-weight: 400;">12000</span></td>
-<td><span style="font-weight: 400;">45000</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Max Healthcare&nbsp;</span></td>
-<td><span style="font-weight: 400;">10000</span></td>
-<td><span style="font-weight: 400;">7500</span></td>
-<td><span style="font-weight: 400;">11500</span></td>
-<td><span style="font-weight: 400;">30000</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="color: #0048ad;"><strong><em>Note: Tissue valve will cost USD 2,000 extra per valve.&nbsp;</em></strong></span></p>
-<p><b>Your Package Will Cover</b></p>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Cost of Valve&nbsp;&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Rehabilitation during hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 08 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: </b><span style="font-weight: 400;">20 days&nbsp;</span></p>
-<p><b>Success rate of the surgery: </b><span style="font-weight: 400;">99%&nbsp;</span></p>
-<p><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></p>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">It’s important to note that the cost of aortic valve replacement can vary significantly between hospitals and patients based on their specific medical conditions and needs. Patients are encouraged to research and compare costs at other healthcare facilities, consider their insurance coverage, and consult with experts like </span><b>Dr NADEEM KHAN </b><span style="font-weight: 400;">( Top Medical consultant in India) to understand the expected expenses before the procedure.</span></p>
-<p><span style="font-weight: 400;"><strong>We will help you to find the best Heart Valve Replacement Surgery </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
+<h2><strong><br />We will help you to find the best Heart Valve Replacement Surgery </strong><strong>Doctors in India.</strong><span style="font-weight: 400;">&nbsp;&nbsp;</span></h2>
+
 <p><strong>&nbsp;</strong></p>
 
 		</div>
@@ -12022,7 +10204,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
   {
     name: "erectile-dysfunction-treatments",
     img: "/treatment/erectile-dysfunction-treatments.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumn" class="vc_row wpb_row vc_row-fluid"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumn"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
@@ -12031,7 +10213,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 			
 		</div>
 	</div>
-<p>Erectile dysfunction affects one in two men who are over 50 years of age. ED involves having trouble in getting an erection or maintains penal firmness during sexual intercourse.</p>
+<table style="height: 248px; width: 677px;"><tbody><tr><td colspan="3" width="100%"><strong>Cost at Top Indian Hospital for Erectile Dysfunction Treatment&nbsp;</strong></td></tr><tr><td width="50%"><strong>Type of Implant</strong></td><td width="25%"><strong>Make</strong></td><td width="25%"><strong>Cost</strong></td></tr><tr><td width="50%">Malleable</td><td width="25%">Indian</td><td width="25%">3000$</td></tr><tr><td width="50%">Malleable Promedon Tube</td><td width="25%">American</td><td width="25%">4500$</td></tr><tr><td width="50%">Inflatable Two Piece</td><td width="25%">American, AMS</td><td width="25%">9000$</td></tr><tr><td width="50%">Inflatable Three Pieces / hydraulic</td><td width="25%">Swiss CX 700</td><td width="25%">14000$</td></tr><tr><td width="50%">Inflatable Three Pieces / hydraulic</td><td width="25%">American, LGX</td><td width="25%">16000$</td></tr></tbody></table><h2><strong>Top doctors in India offering penile implant surgery in India&nbsp;</strong></h2><ol><li><strong>Dr Anshuman Agarwal,</strong>&nbsp;working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 20 years.</li><li><strong>Dr Rajesh Ahlawat,</strong>&nbsp;working as Chairman Urology &amp; Kidney Transplant at Medanta the Medicity, experience 40 years.</li><li><strong>Dr Vikram Sharma</strong>, Director Fortis Memorial Research Institute, Gurugram, experience 32 years</li><li><strong>Dr Gagan Gautam</strong>&nbsp;Director Urology at Max Super Speciality Hospital, Experience 22 years.</li><li><strong>Dr Shailesh Chandra Sahay</strong>&nbsp;Director Urology at Max Super Speciality Hospital, PPG, Experience 20 years.</li></ol><h2><strong>Top hospitals in India Offering erectile dysfunction treatment</strong></h2><ol><li>Indraprastha Apollo Hospital, Delhi</li><li>Medanta The Medicity, Gurugram</li><li>Artemis Hospital, Gurugram</li><li>Max Super Specialty Hospital, Delhi</li><li>Fortis Memorial Research Institute, Gurugram</li></ol><h2><span style="font-weight: 400;">Factors Affecting Erectile Dysfunction Cost in India:&nbsp;</span></h2><p><b>Type of Hospital you choose:&nbsp;</b>The cost greatly depends on the type of hospital you choose. If the hospital is JCI a<span>ccredited, located in a top-tier city in India, and offers single super specialty or multi-super specialty treatment, the cost of the treatment will be higher. The cost also depends on the hospital’s brand.&nbsp;</span></p><p><b>Treatment Method:&nbsp;</b><span>Various treatment methods are available for erectile dysfunction. The treatment methods are :&nbsp;</span></p><ul><li aria-level="1"><span>Oral medications</span></li><li aria-level="1"><span>Vacuum erection devices</span></li><li aria-level="1"><span>Penile implants</span></li><li aria-level="1"><span>Therapy</span></li></ul><p><span>The cost will depend on the type of treatment method you choose.&nbsp;</span></p><p><b>Andrologist Fee:&nbsp;</b><span>The overall cost of the treatment also depends on the experience and skill of the doctor treating your case.&nbsp;</span></p><p><b>Medication Costs:&nbsp;</b><span>The oral medications that are used to treat erectile dysfunction, like Viagra and Cialis are costly. The frequency of medication will determine your overall cost.&nbsp;</span></p><p><b>Medical Consultations:&nbsp;</b><span>Consultation with healthcare professionals, including urologists, sexologists, and others, is needed to diagnose erectile dysfunction. The cost of these things adds to the overall cost of the treatment.&nbsp;</span></p><p><b>Diagnostic Tests:&nbsp;</b><span>Some diagnostic tests, such as hormone function tests, ultrasound, and imaging, are needed to determine the underlying cause of ED. The cost of these procedures adds to the total cost of the treatment.&nbsp;</span></p><p><b>Therapy or Counseling:</b><span>&nbsp;Psychological factors also contribute to the cost of the treatment. In cases like erectile dysfunction, you will need therapy and counseling. This will affect the cost of the treatment.&nbsp;</span></p><p><b>Type of Penile Implant Used:&nbsp;</b><span>If you go for penile implant surgery, the type and make of the penile implant used will determine the cost of the surgery. The types of penile implants used are:</span></p><ul><li aria-level="1"><span>Malleable penile implants ( Indian made are cheap and best )&nbsp;</span></li><li aria-level="1"><span>Two – piece Inflatable penile implants ( US made is expensive )&nbsp;</span></li><li aria-level="1"><span>Three-piece inflatable penile implants (US-made is costly)&nbsp;</span></li></ul><h2><b>Other factors affecting the cost</b></h2><ul><li aria-level="1"><span>The complexity of the condition</span></li><li aria-level="1"><span>Post operational expenses</span></li><li aria-level="1"><span>Follow-up care and visits</span></li><li aria-level="1"><span>Currency exchange rates</span></li></ul><h2><b>With Medihelp Global , your package will include:&nbsp;</b></h2><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Penile Implant Cost&nbsp;&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 2 days&nbsp;</span></td><td></td></tr></tbody></table><p><b>India Stay: 10 days&nbsp;</b></p><p><b>The success rate of the surgery&nbsp;</b><span>is 99%&nbsp;</span></p><p><b>Sexual Health on a Budget:&nbsp;</b>Service Cost at Medihelp Global Global</p><table><tbody><tr><td><b>Services</b></td><td><b>Cost</b></td></tr><tr><td><span>Hotel with kitchen</span></td><td><span>20$ per day</span></td></tr><tr><td><span>Food</span></td><td><span>10$ per day</span></td></tr><tr><td><span>Local Travelling (taxi)</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Local SIM Card</span></td><td><span>Free of cost</span></td></tr><tr><td><span>Language Translator</span></td><td><span>Free of cost<br /><br /></span></td></tr></tbody></table><p>Erectile dysfunction affects one in two men who are over 50 years of age. ED involves having trouble in getting an erection or maintains penal firmness during sexual intercourse.</p>
 <p><strong>What causes Erectile Dysfunction?</strong></p>
 <p>It could be caused due to psychological factors or underlying diseases such as diabetes, prostate surgery, heart diseases, smoking &amp; alcohol, etc.</p>
 <p><strong>What are the symptoms of Erectile Dysfunction?</strong></p>
@@ -12052,7 +10234,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <p><strong>What is a penile implant?</strong></p>
 <p>Surgery is needed when conservative treatment didnt work.&nbsp; Penile implant is mainly of two types: (a) bendable or semi-rigid and (b) inflatable. Bendable penile implants are best suitable for patients with spinal cord injury or limited hand strength. A pair of bendable rods is surgically positioned inside the erectile chambers of the penis. This makes the penis remain in a semi-rigid position and doesn’t require the initiation of erection before sexual intercourse. However, inflatable or hydraulic penile implants are preferred by most men. The device comes in two and three pieces.</p>
 <p><strong>What are the advantages and disadvantages of the different types of penile implants?</strong></p>
-<table style="height: 615px;" width="727">
+<table style="height: 615px; width: 727px;">
 <tbody>
 <tr>
 <td width="205"><strong>Implant type </strong></td>
@@ -12124,170 +10306,15 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <p>Ninety percent of the men are highly satisfied with the erection and sexual experience after getting implants. Success rates of getting implants in India are at par with the world standards, however, it should be understood that every surgical procedure could have its own complications. Hence, cases with 4% mechanical failure rates could be corrected by a revision surgery.</p>
 <p><strong>&nbsp;</strong><strong>What is the </strong><strong>recommended frequency of usage after the implant?</strong></p>
 <p>It is harmless if used two to three times a week without causing any kind of injury in blood vessels and penile tissues. However, if carefully tackled, patient can also use it daily for weeks or even months</p>
-<table style="height: 248px;" width="677">
-<tbody>
-<tr>
-<td style="text-align: left;" colspan="3" width="100%"><strong>Cost at Top Indian Hospital for Erectile Dysfunction Treatment&nbsp;</strong></td>
-</tr>
-<tr>
-<td width="50%"><strong>Type of Implant </strong></td>
-<td width="25%"><strong>Make </strong></td>
-<td width="25%"><strong>Cost </strong></td>
-</tr>
-<tr>
-<td width="50%">Malleable</td>
-<td width="25%">Indian</td>
-<td width="25%">3000$</td>
-</tr>
-<tr>
-<td width="50%">Malleable Promedon Tube</td>
-<td width="25%">American</td>
-<td width="25%">4500$</td>
-</tr>
-<tr>
-<td width="50%">Inflatable Two Piece</td>
-<td width="25%">American, AMS</td>
-<td width="25%">9000$</td>
-</tr>
-<tr>
-<td width="50%">Inflatable Three Pieces / hydraulic</td>
-<td width="25%">Swiss CX 700</td>
-<td width="25%">14000$</td>
-</tr>
-<tr>
-<td width="50%">Inflatable Three Pieces / hydraulic</td>
-<td width="25%">American, LGX</td>
-<td width="25%">16000$</td>
-</tr>
-</tbody>
-</table>
-<h2><strong>Top doctors in India offering penile implant surgery in India&nbsp;</strong></h2>
-<ol>
-<li><strong><a href="#/dr-anshuman-agarwal-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Anshuman Agarwal</a>,</strong> working as senior consultant at Indraprastha Apollo Hospital New Delhi, experience 20 years.</li>
-<li><strong><a href="#/dr-rajesh-ahlawat-urologist-at-medanta-the-medicity/">Dr Rajesh Ahlawat</a>,</strong> working as Chairman Urology &amp; Kidney Transplant at Medanta the Medicity, experience 40 years.</li>
-<li><strong>Dr Vikram Sharma</strong>, Director Fortis Memorial Research Institute, Gurugram, experience 32 years</li>
-<li><a href="#/dr-gagan-gautam-robotic-urological-cancer-kidney-transplant-surgeon/"><strong>Dr Gagan Gautam</strong></a> Director Urology at Max Super Speciality Hospital, Experience 22 years.</li>
-<li><a href="#/dr-shailesh-chandra-sahay/"><strong>Dr Shailesh Chandra Sahay</strong></a> Director Urology at Max Super Speciality Hospital, PPG, Experience 20 years.</li>
-</ol>
-<h2><strong>Top hospitals in India Offering erectile dysfunction treatment</strong></h2>
-<ol>
-<li><a href="https://www.apollohospitals.com/locations/india/delhi/">Indraprastha Apollo Hospital, Delhi</a></li>
-<li><a href="#/medanta-the-medicity-eye-department/">Medanta The Medicity</a>, Gurugram</li>
-<li><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a>, Gurugram</li>
-<li><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Specialty Hospital</a>, Delhi</li>
-<li><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram</li>
-</ol>
-<h2><span style="font-weight: 400;">Factors Affecting Erectile Dysfunction Cost in India:&nbsp;</span></h2>
-<p><b>Type of Hospital you choose: </b>The cost greatly depends on the type of hospital you choose. If the hospital is JCI a<span style="font-weight: 400;">ccredited, located in a top-tier city in India, and offers single super specialty or multi-super specialty treatment, the cost of the treatment will be higher. The cost also depends on the hospital’s brand.&nbsp;</span></p>
-<p><b>Treatment Method: </b><span style="font-weight: 400;">Various treatment methods are available for erectile dysfunction. The treatment methods are :&nbsp;</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Oral medications</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Vacuum erection devices</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Penile implants</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Therapy</span></li>
-</ul>
-<p><span style="font-weight: 400;">The cost will depend on the type of treatment method you choose.&nbsp;</span></p>
-<p><b>Andrologist Fee: </b><span style="font-weight: 400;">The overall cost of the treatment also depends on the experience and skill of the doctor treating your case.&nbsp;</span></p>
-<p><b>Medication Costs: </b><span style="font-weight: 400;">The oral medications that are used to treat erectile dysfunction, like Viagra and Cialis are costly. The frequency of medication will determine your overall cost.&nbsp;</span></p>
-<p><b>Medical Consultations: </b><span style="font-weight: 400;">Consultation with healthcare professionals, including urologists, sexologists, and others, is needed to diagnose erectile dysfunction. The cost of these things adds to the overall cost of the treatment.&nbsp;</span></p>
-<p><b>Diagnostic Tests: </b><span style="font-weight: 400;">Some diagnostic tests, such as hormone function tests, ultrasound, and imaging, are needed to determine the underlying cause of ED. The cost of these procedures adds to the total cost of the treatment.&nbsp;</span></p>
-<p><b>Therapy or Counseling:</b><span style="font-weight: 400;"> Psychological factors also contribute to the cost of the treatment. In cases like erectile dysfunction, you will need therapy and counseling. This will affect the cost of the treatment.&nbsp;</span></p>
-<p><b>Type of Penile Implant Used: </b><span style="font-weight: 400;">If you go for penile implant surgery, the type and make of the penile implant used will determine the cost of the surgery. The types of penile implants used are:</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Malleable penile implants ( Indian made are cheap and best )&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Two – piece Inflatable penile implants ( US made is expensive )&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Three-piece inflatable penile implants (US-made is costly)&nbsp;</span></li>
-</ul>
-<h2><b>Other factors affecting the cost</b></h2>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The complexity of the condition</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Post operational expenses</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Follow-up care and visits</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currency exchange rates</span></li>
-</ul>
-<h2><b>With Medihelp Global , your package will include:&nbsp;</b></h2>
-<table>
-<tbody>
-<tr>
-<td><b>Package Inclusion</b></td>
-<td><b>Package Exclusion</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Pre-Operative Investigations&nbsp;</span></td>
-<td><span style="font-weight: 400;">Stay beyond package days&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Single / Private Room&nbsp;</span></td>
-<td><span style="font-weight: 400;">Consultation with other speciality&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Surgeons Fees&nbsp;</span></td>
-<td><span style="font-weight: 400;">The complications that may occur&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">OT and Anesthesia Charges&nbsp;</span></td>
-<td><span style="font-weight: 400;">An implant that is not part of the package will not be included in the Price&nbsp;</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Penile Implant Cost&nbsp;&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Medication during the hospital stay&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">The attendant stays with three times meals&nbsp;</span></td>
-<td></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hospital stay – 2 days&nbsp;</span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><b>India Stay: 10 days&nbsp;</b></p>
-<p><b>The success rate of the surgery </b><span style="font-weight: 400;">is 99%&nbsp;</span></p>
-<p><b>Sexual Health on a Budget: </b>Service Cost at Medihelp Global Global</p>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
 <p><b>Medihelp Global  is the best medical consultant in India. When you contact us, we will help you with:&nbsp;</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Arranging visa</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best hospital</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Finding the best doctors</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li>
-</ul>
-<p><span style="font-weight: 400;">To know more about our services, please write to us at </span><a href="mailto:info@Medihelp Globalglobal.com"><span style="font-weight: 400;">info@Medihelp Globalglobal.com</span></a></p>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Arranging visa</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best hospital</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Surgical package negotiation on your behalf&nbsp;&nbsp;</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Finding the best doctors</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Medicines at reasonable rates</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Affordable options to stay in India</span></li>
+<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Over saving of 15% treatment cost through us&nbsp;</span></li></ul>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Erectile Dysfunction Treatment </strong><strong>Doctors in India.</strong>&nbsp;&nbsp;</span></p>
 </div>`,
   },
@@ -12302,7 +10329,7 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<h2><span style="color: #0048ad;">Penile Implant Surgery: Reclaiming Intimate Wellness</span></h2>
+			<h2><span style="color: #0048ad;"><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><strong>Penile Implant Cost in India</strong></span></p><p style="color: black; font-size: medium; font-weight: 400;">● Single Piece / Semi Rigid –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3000 USD<br />● Two Piece –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4500 – 9000 USD<br />● Three Piece –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14000 – 17000 USD</p></span></h2><h2><span style="color: #0048ad;">Penile Implant Surgery: Reclaiming Intimate Wellness</span></h2>
 <p>Penile implants are the devices that are placed inside the penis of men who are suffering from erectile dysfunction. It helps them to achieve erection. It is the last resort for the men when no other treatment option works for them.</p>
 <p>Here, we will examine the types of penile implants available and how they work. We will also take a look at how the surgery is performed in India and why it is best to get the surgery done in India.</p>
 <p><span style="color: #0048ad;"><strong>What is a penile implant?</strong></span></p>
@@ -12314,13 +10341,13 @@ Analysis and adjustment: The surgeon carefully assesses and adjusts the new valv
 <p><span style="color: #0048ad;"><strong>Good for:</strong> </span>men with poor hand function or men with a buried penis who need a prosthetic to hold on a condom-style catheter</p>
 <p><span style="color: #0048ad;"><strong>Two-piece Implants or Inflatable penile implant</strong></span></p>
 <p>Two-piece cylinders are made of cylinders and a pump. The pump is hidden in your scrotum. Pumping fills the cylinders with fluid to give you an erection.</p>
-<p>Bending your penis allows the fluid to move out of the cylinders, so your penis can become flaccid<br>
-.<br>
+<p>Bending your penis allows the fluid to move out of the cylinders, so your penis can become flaccid<br />
+.<br />
 <span style="color: #0048ad;"><strong>Benefits:</strong></span> excellent rigidity; no need to place any parts in the pelvis or abdomen</p>
 <p><span style="color: #0048ad;"><strong>Downsides:</strong></span> no antibiotic coating; not good flaccidity; not good for very thin men; not good for larger penises due to poor flaccidity</p>
 <p><span style="color: #0048ad;"><strong>Good for:</strong></span> men who have extremely complex pelvic issues that make placement of a three-piece penile implant less desirable, such as men who have had certain pelvic crush injuries or those with complex vascular reconstruction – very few men fall into this category.</p>
 <p><span style="color: #0048ad;"><strong>Three-Piece Penile Implant</strong></span></p>
-<p>Three-piece implants are the most commonly used devices. They consist of a pair of cylinders in the penis, a pump placed inside your scrotum near your testicles, and a reservoir of saline. Squeezing the pump in your scrotum moves the saline into the cylinders, creating a rigid erection that feels natural.<br>
+<p>Three-piece implants are the most commonly used devices. They consist of a pair of cylinders in the penis, a pump placed inside your scrotum near your testicles, and a reservoir of saline. Squeezing the pump in your scrotum moves the saline into the cylinders, creating a rigid erection that feels natural.<br />
 Inflatable penile Implant remains inflated as long as you desire. When you’re ready, you’ll hit a deflate button on the pump that returns the penis to a flaccid, soft state.</p>
 <p><span style="color: #0048ad;"><strong>Benefits:</strong></span> excellent rigidity and flaccidity; total control over the erection; antibiotic coatings are available</p>
 <p><span style="color: #0048ad;"><strong>Downsides:</strong></span> need for placement of reservoir in your pelvis/abdomen, mechanical failure of the penile implant</p>
@@ -12341,69 +10368,69 @@ Inflatable penile Implant remains inflated as long as you desire. When you’re 
 <p><span style="color: #0048ad;"><strong>Inflatable Implants:</strong></span> They come in different cylinder lengths to accommodate the size of the penis.</p>
 <p>Semi Rigid or Malleable Implant: they come in the form of bendable rods, and the size of the rod can be adjusted according to the size of your penis.</p>
 <p><span style="color: #0048ad;"><strong>How does a penile implant work?</strong></span></p>
-<p>An inflatable penile implant has two cylinders, a reservoir, and a pump surgically placed into your body.<br>
+<p>An inflatable penile implant has two cylinders, a reservoir, and a pump surgically placed into your body.<br />
 The surgeon will insert cylinders into your penis. Tubes connect the cylinders to a separate reservoir under your lower abdominal (stomach) muscles. The reservoir contains fluid. A penile implant pump also connects to this system. It is placed under the loose skin of your scrotum, between your testicles.</p>
 <p>To inflate the implant, you have to press the pump in your scrotum. Pressing the pump doesn’t put any pressure on your testicles. The pump transfers fluid from the reservoir to the cylinders in your penis, inflating them to the level of hardness that you want. Once erect, you can maintain your erection for as long as you wish, even after an orgasm. When you want to stop the erection, pressing a valve on the pump returns the fluid to the reservoir, which brings your penis back to its original shape.</p>
 <p>A semi-rigid penile implant has two firm, flexible silicone rods. This type of device doesn’t require pumping. It has bendable rods that are implanted inside the penis. The rods remain in the semi-erect state and the users manually position the penis for sexual activity.</p>
 <p><span style="color: #0048ad;"><strong>Who is a good candidate for a penile implant?</strong></span></p>
-<p>● Men suffering from erectile dysfunction<br>
-● Component of gender affirmation surgery<br>
+<p>● Men suffering from erectile dysfunction<br />
+● Component of gender affirmation surgery<br />
 ● Treatment of severe cases of scarring inside the penis</p>
 <p><span style="color: #0048ad;"><strong>You are not a good candidate for penile implant if:</strong></span></p>
-<p>● You have an infection like a pulmonary or urinary tract infection<br>
-● Diabetes<br>
+<p>● You have an infection like a pulmonary or urinary tract infection<br />
+● Diabetes<br />
 ● Cardiovascular disease</p>
 <p>Understanding penile implant surgery in detail</p>
 <p><span style="color: #0048ad;"><strong>What happens before the penile implant surgery</strong></span></p>
-<p>● If you choose to get the surgery in India, your healthcare provider will perform a physical examination and review your medical history.<br>
-● The physical exam involves a urologic exam. It includes examining your genitals, prostate, and urine samples.<br>
-● All treatment options will be considered before going ahead with a penile implant. Most doctors in India recommend surgery only when all other treatment options fail to treat ED.<br>
-● Discuss the pros and cons of the surgery with the doctor beforehand.<br>
-● Tell your healthcare provider if you are taking any medications or herbal supplements.<br>
-● Tell your doctor if you have any allergies.<br>
-● The healthcare provider will also give you specific instructions on eating and drinking before your penis implant.<br>
-● It would help if you didn’t eat or drink anything after midnight the night before your surgery. If you must take medications, you should take them with a small sip of water.<br>
-● You do not need to shave the pubic hair before the surgery. Your doctor will do it before the surgery.<br>
+<p>● If you choose to get the surgery in India, your healthcare provider will perform a physical examination and review your medical history.<br />
+● The physical exam involves a urologic exam. It includes examining your genitals, prostate, and urine samples.<br />
+● All treatment options will be considered before going ahead with a penile implant. Most doctors in India recommend surgery only when all other treatment options fail to treat ED.<br />
+● Discuss the pros and cons of the surgery with the doctor beforehand.<br />
+● Tell your healthcare provider if you are taking any medications or herbal supplements.<br />
+● Tell your doctor if you have any allergies.<br />
+● The healthcare provider will also give you specific instructions on eating and drinking before your penis implant.<br />
+● It would help if you didn’t eat or drink anything after midnight the night before your surgery. If you must take medications, you should take them with a small sip of water.<br />
+● You do not need to shave the pubic hair before the surgery. Your doctor will do it before the surgery.<br />
 ● Always make sure that you do not have any active infection before the surgery. If you have, you will have to notify your doctor.</p>
 <p><span style="color: #0048ad;"><strong>During the surgery</strong></span></p>
-<p>● The surgery is performed using spinal anesthesia or general anesthesia.<br>
-● Prior to the surgery, the pubic hair is shaved. A catheter is placed to collect urine, and an IV is placed to inject antibiotics.<br>
-● The surgeon will make an incision in the lower abdomen, the base of your penis, or just below the head of your penis.<br>
-● The two inflatable cylinders are placed inside the penis. The size of the implants will depend on your body measurements.<br>
-● If your surgeon is implanting a two-piece inflatable device, then a pump and valve are also placed inside the scrotum.<br>
-● For a three-piece penile implant, a pump goes into your scrotum, and the reservoir is inserted under your abdominal wall.<br>
-● Finally, the surgeon will close the incisions.<br>
+<p>● The surgery is performed using spinal anesthesia or general anesthesia.<br />
+● Prior to the surgery, the pubic hair is shaved. A catheter is placed to collect urine, and an IV is placed to inject antibiotics.<br />
+● The surgeon will make an incision in the lower abdomen, the base of your penis, or just below the head of your penis.<br />
+● The two inflatable cylinders are placed inside the penis. The size of the implants will depend on your body measurements.<br />
+● If your surgeon is implanting a two-piece inflatable device, then a pump and valve are also placed inside the scrotum.<br />
+● For a three-piece penile implant, a pump goes into your scrotum, and the reservoir is inserted under your abdominal wall.<br />
+● Finally, the surgeon will close the incisions.<br />
 ● The procedure is done on an outpatient basis and takes 45 to 90 minutes to complete.</p>
 <p><span style="color: #0048ad;"><strong>After the surgery</strong></span></p>
-<p>● After the penile implant surgery, you will be moved to the recovery room.<br>
-● Once you are fully awake, after the effect of anesthesia, you may feel soreness in your groin and abdominal area.<br>
-● Your pain will be treated using pain management drugs.<br>
-● In most cases, you can go home a few hours after the implant.<br>
+<p>● After the penile implant surgery, you will be moved to the recovery room.<br />
+● Once you are fully awake, after the effect of anesthesia, you may feel soreness in your groin and abdominal area.<br />
+● Your pain will be treated using pain management drugs.<br />
+● In most cases, you can go home a few hours after the implant.<br />
 ● Please make sure to have a family member beside you to help take care of you after the implant.</p>
 <p><span style="color: #0048ad;"><strong>What is recovery like?</strong></span></p>
-<p>● After the surgery, you will need medications to relieve the pain.<br>
-● A long-acting injection is given into the scrotum to reduce pain for 48 to 72 hours.<br>
-● Ask your healthcare provider about when you can resume your daily activities.<br>
-● Most men resume daily physical activities after 4 to 6 weeks.<br>
-● You will be able to resume sexual activity six weeks after the surgery.<br>
+<p>● After the surgery, you will need medications to relieve the pain.<br />
+● A long-acting injection is given into the scrotum to reduce pain for 48 to 72 hours.<br />
+● Ask your healthcare provider about when you can resume your daily activities.<br />
+● Most men resume daily physical activities after 4 to 6 weeks.<br />
+● You will be able to resume sexual activity six weeks after the surgery.<br />
 ● Your doctor will give you instructions on how to use the pump.</p>
 <p><span style="color: #0048ad;"><strong>Are penile implants effective?</strong></span></p>
 <p>Although penile implants are the most invasive treatment for erectile dysfunction, most men who have them and their partners report satisfaction with the devices. In fact, penile implants have the highest rate of satisfaction of all erectile dysfunction treatments. Thus, if we talk about penile implants before and after, then we can only say that men have reported 100 % satisfaction after this surgery.</p>
 <p><span style="color: #0048ad;"><strong>Benefits of the surgery</strong></span></p>
-<p>● The main benefit of the implant is that it helps you maintain an erection that is firm enough for the sex.<br>
-● The procedure is safe and has a low risk of complications<br>
-● The results of the procedure are satisfying. Over 90 percent of people are happy with the results.<br>
-● Penile implants are durable. They last for about 20 years.<br>
+<p>● The main benefit of the implant is that it helps you maintain an erection that is firm enough for the sex.<br />
+● The procedure is safe and has a low risk of complications<br />
+● The results of the procedure are satisfying. Over 90 percent of people are happy with the results.<br />
+● Penile implants are durable. They last for about 20 years.<br />
 ● Increased self-esteem</p>
 <p><span style="color: #0048ad;"><strong>Risks of the surgery</strong></span></p>
 <p><span style="color: #0048ad;"><strong>The penile implant complaints are:</strong></span></p>
-<p>● After the penile implant surgery, the risk of infection is possible<br>
-● New penile implants are reliable, but in some cases, there may be malfunction.<br>
+<p>● After the penile implant surgery, the risk of infection is possible<br />
+● New penile implants are reliable, but in some cases, there may be malfunction.<br />
 ● In some cases, the implant might stick to the skin inside the penis, and it can also break through the skin.</p>
 <p><span style="color: #0048ad;"><strong>When to see the doctor?</strong></span></p>
-<p>● Heavy bleeding in the incision area<br>
-● A fever of 100 degrees Celsius or higher<br>
-● Increased pain<br>
+<p>● Heavy bleeding in the incision area<br />
+● A fever of 100 degrees Celsius or higher<br />
+● Increased pain<br />
 ● Infection at the surgical site</p>
 <p><span style="color: #0048ad;"><strong>How common are penile implants?</strong></span></p>
 <p>Penile implants are becoming more common these days. About 63000 procedures have been performed in India since the last decade.</p>
@@ -12419,34 +10446,30 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 <p>In most cases, women cannot tell if a man has a penile implant because the implants are concealed. However, it is important to remain true to your partner about it.</p>
 <p>Women’s Complaints about penile implant</p>
 <p><span style="color: #0048ad;"><strong>The most common complaints of women related to penile implants are:</strong></span></p>
-<p>● Mild pain during sex<br>
+<p>● Mild pain during sex<br />
 ● Penile implants have less flexibility</p>
 <p>We suggest having an open dialogue with your partner about the expectations and seeking professional guidance to have a smooth experience with implant surgery.</p>
 <p><span style="color: #0048ad;"><strong>How is life after penile implant surgery?</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Life after penile implant surgery includes:</strong></span></p>
-<p>● Restored confidence<br>
-● Good sexual relationship<br>
+<p>● Restored confidence<br />
+● Good sexual relationship<br />
 ● Positive impact on the overall life of an individual.</p>
 <p><span style="color: #0048ad;"><strong>Can a man with a penile implant get a woman pregnant?</strong></span></p>
 <p>A man with a penile implant can make a woman pregnant, but fertility depends on several factors. Please speak to your surgeon or healthcare provider about it.</p>
 <p><span style="color: #0048ad;"><strong>Transgender penile implant</strong></span></p>
 <p>Transgender penile implants are done as a component of gender affirmation surgery to increase the overall outcome of the surgery.</p>
 <p><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Doing Penile Implant in India</strong></span></p>
-<p><a href="#/dr-vikram-sharma/"><span style="color: #0048ad;"><strong>Dr Vikram Sharma</strong></span></a> -Director, Director Fortis Memorial Research Institute, Gurugram</p>
+<p><span style="color: #0048ad;"><strong>Dr Vikram Sharma</strong></span> -Director, Director Fortis Memorial Research Institute, Gurugram</p>
 <p>Dr. Vikram is a urologist and Andrologist. He holds vast experience in Laparoscopic Urological Surgeries.</p>
 <p>Dr. Sharma was also the Founding Director of India’s first Andrology Centre, the Alpha One Andrology Group, exclusively dedicated to the treatment of Male Sexual Dysfunction.</p>
-<p><a href="#/best-robotic-urologist-andrologist/"><span style="color: #0048ad;"><strong>Dr Ajit Saxena</strong></span></a>– Robotic Urologist Andrologist, Apollo Hospital Delhi</p>
+<p><span style="color: #0048ad;"><strong>Dr Ajit Saxena</strong></span>– Robotic Urologist Andrologist, Apollo Hospital Delhi</p>
 <p>Dr. Ajit Saxena is a highly experienced urologist as well as an andrologist and has vast experience of over 35 years of experience in the same field. He specializes in treating various male reproductive system-related disorders such as erectile dysfunction, male infertility, kidney stones, prostate cancer, sexual disorders, and urinary tract infections. Dr. Saxena has received numerous prizes for his exemplary work in the field, including the UP Ratna Award and the Japanese OISC International Award for Surgical Excellence.</p>
-<p><a href="#/dr-ashish-sabharwal-in-urology-andrology-and-robotic-surgereon/"><span style="color: #0048ad;"><strong>Dr Ashish Sabharwal</strong></span></a>-Urologist, Apollo Hospital Delhi</p>
+<p><span style="color: #0048ad;"><strong>Dr Ashish Sabharwal</strong></span>-Urologist, Apollo Hospital Delhi</p>
 <p>Dr. Ashish Sabharwal is one of the best urologists and andrologists in Delhi-NCR, with two decades of experience. His expertise includes prostate cancer, kidney cancer, robotic surgery, erectile dysfunction, penile implants, enlarged prostate (BPH), and kidney stones.</p>
-<p><a href="#/dr-manish-singla/"><span style="color: #0048ad;"><strong>Dr Manish Singla</strong></span></a> – Urology, Sr Consultant at RG Stone</p>
+<p><span style="color: #0048ad;"><strong>Dr Manish Singla</strong></span> – Urology, Sr Consultant at RG Stone</p>
 <p>Dr. Manish Singla is a highly skilled urologist and Andrologist with extensive experience in the diagnosis and treatment of various urological conditions. Dr. Singla’s areas of specialization include the treatment of male hypogonadism, erectile dysfunction, kidney stones, bladder and prostate cancer, and female incontinence.</p>
-<p><a href="#/dr-abhinandan-mukhopadhyay/"><span style="color: #0048ad;"><strong>Dr Abhinandan</strong></span></a> -Artemis Hospital Gurgaon</p>
+<p><span style="color: #0048ad;"><strong>Dr Abhinandan</strong></span> -Artemis Hospital Gurgaon</p>
 <p>Dr. Abhinandan Mukhopadhyay specializes in the field of Urology and Andrology, dealing with several Urologic problems ranging from kidney stone disease, male sexual problems and infertility, diseases of the prostate and its management to performance of complex reconstructive procedures for urethral stricture and uro-oncological surgery.</p>
-<p><a href="#/cost-of-penile-implant-surgery-in-india/"><span style="color: #0048ad;"><strong>Penile Implant Cost in India</strong></span></a></p>
-<p>● Single Piece / Semi Rigid –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3000 USD<br>
-● Two Piece –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4500 – 9000 USD<br>
-● Three Piece –&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14000 – 17000 USD</p>
 <p><span style="color: #0048ad;"><strong>How can you avail yourself of the best Penile Implant Surgery in India?</strong></span></p>
 <p>Medihelp Global  is here for you if you are looking for trustworthy treatment consultants in India. We will help you find the best doctor in India and get your treatment done for JCI-accredited hospitals at the most pocket-friendly rates. Our team includes experienced medical professionals with you at each treatment step. So, if you are planning your Penile Implant surgery in India, fill out the form below, and we will help you to choose the best doctor and hospital providing state-of-the-art technology.</p>
 <p><span style="font-weight: 400;"><strong>We will help you to find the best Penile Implant Surgery Doctors in India</strong>&nbsp;</span></p>
@@ -12548,13 +10571,13 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
   {
     name: "ivf-procedure",
     img: "/treatment/ivf-procedure.webp",
-    data: `<div class="wpb-content-wrapper"><div id="DColumns" class="vc_row wpb_row vc_row-fluid"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
 	</div>
 
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
-			<p>With the advent of latest technology, clinical expertise, cost effectiveness and zero waiting lists, India has become&nbsp; first choice for IVF &amp; infertility treatment.&nbsp; Concept of standalone super specialty IVF clinic is mushrooming in India for example Apollo, Max, BLK hospital, NOVA IVF clinic, Ferticity fertility clinic etc.&nbsp; Cost of IVF treatment in India is ranging from 3500 USD to 5000 USD depending upon the type of centre you choose with success rate at par with global standards.</p>
+			<h2><span style="color: #0048ad;">What is the cost of IVF Procedure?</span></h2><p>The cost of IVF in top Indian hospital is 3500$, donor egg IVF will additionally cost you around 1000$ extra.</p><h2><span style="color: #0048ad;">Top five IVF &amp;Infertility Treatment specialist in Delhi, India</span></h2><ul><li><strong>Dr Ila Gupta-</strong>&nbsp;Clinical Director , Ferticity Fertility Clinic ,New Delhi , India ,&nbsp;<strong>27&nbsp;Years’ Experienc</strong></li><li><strong>Dr Shushma Sinha-</strong>&nbsp;Senior Consultant IVF ,Indraprastha Apollo Hospital,&nbsp;<strong>25&nbsp;Years’ Experience</strong></li><li><strong>Dr Nalini Mahajan-</strong>&nbsp;Scientific Director, Ferticity Fertility Clinic ,New Delhi , India,<strong>&nbsp;38&nbsp;Years’ Experience</strong></li><li><strong>Dr Kaberi Banerjee-</strong>&nbsp;Director , Kaberi IVF Clinic, New Delhi,&nbsp;<strong>22&nbsp;Years’ Experience</strong></li><li><strong>Dr Parul Kathiyar-&nbsp;</strong>Senior Consultant<strong>&nbsp;,&nbsp;</strong>NOVA IVF Clinic , New Delhi<strong>&nbsp;, 15&nbsp;Years’ Experience</strong></li></ul><p>With the advent of latest technology, clinical expertise, cost effectiveness and zero waiting lists, India has become&nbsp; first choice for IVF &amp; infertility treatment.&nbsp; Concept of standalone super specialty IVF clinic is mushrooming in India for example Apollo, Max, BLK hospital, NOVA IVF clinic, Ferticity fertility clinic etc.&nbsp; Cost of IVF treatment in India is ranging from 3500 USD to 5000 USD depending upon the type of centre you choose with success rate at par with global standards.</p>
 <p><strong><span style="color: #0048ad;">What is infertility?&nbsp;</span> </strong></p>
 <p>Inability to conceive naturally after 12 months of unprotected sexual intercourse is called infertility.</p>
 <p><strong><span style="color: #0048ad;">How common infertility is among us?&nbsp;</span> </strong></p>
@@ -12629,26 +10652,17 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 <p>It is required for older women who have a higher chance of producing chromosomally abnormal baby, also done in cases of repeated IVF/ICSI failures, history of recurrent miscarriages, in cases of any parental genetic diseases etc.</p>
 <p><strong>Assisted Hatching:</strong> It is carried out in case of two or more IVF failures, advanced age of woman and poor quality of embryos.</p>
 <h2><span style="color: #0048ad;">What is IVF Success Rate?</span></h2>
-<p>50 – 60 % success rate is achieved in India. India is emerging as a cheap and frontline destination for assisted reproductive techniques with state of the art equipment and internationally trained qualified doctors. Apollo hospital, in India ranked 1<sup>st</sup> in IVF is now 37 years old centre with a very good success rate according to <strong>Dr Shushma Sinha</strong>, Senior IVF specialist at Indraprastha Apollo Hospital, New Delhi, India.</p>
-<h2><span style="color: #0048ad;">What is the cost of IVF Procedure?</span></h2>
-<p>The cost of IVF in top Indian hospital is 3500$, donor egg IVF will additionally cost you around 1000$ extra.</p>
-<h2><span style="color: #0048ad;">Top five IVF &amp;Infertility Treatment specialist in Delhi, India</span></h2>
-<ul>
-<li><a href="#/dr-ila-gupta-best-ivf-infertility-specialist-in-india/"><strong>Dr Ila Gupta-</strong></a>&nbsp;Clinical Director , Ferticity Fertility Clinic ,New Delhi , India , <strong>27&nbsp;Years’ Experienc</strong></li>
-<li><a href="#/dr-sushma-prasad-sinha-senior-consultant-obstetrician-and-gynaecologist/"><strong>Dr Shushma Sinha-</strong></a>&nbsp;Senior Consultant IVF ,Indraprastha Apollo Hospital, <strong>25&nbsp;Years’ Experience</strong></li>
-<li><a href="#/dr-nalini-mahajan-director-at-mother-and-child-hospital-delhi/"><strong>Dr Nalini Mahajan-</strong></a>&nbsp;Scientific Director, Ferticity Fertility Clinic ,New Delhi , India,<strong> 38&nbsp;Years’ Experience</strong></li>
-<li><a href="#/dr-kaberi-banerjee/"><strong>Dr Kaberi Banerjee-</strong></a>&nbsp;Director , Kaberi IVF Clinic, New Delhi, <strong>22&nbsp;Years’ Experience</strong></li>
-<li><strong><a href="#/dr-parul-kathiyar-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr Parul Kathiyar-</a>&nbsp;</strong>Senior Consultant<strong> , </strong>NOVA IVF Clinic , New Delhi<strong> , 15&nbsp;Years’ Experience</strong></li>
+<p>50 – 60 % success rate is achieved in India. India is emerging as a cheap and frontline destination for assisted reproductive techniques with state of the art equipment and internationally trained qualified doctors. Apollo hospital, in India ranked 1<sup>st</sup> in IVF is now 37 years old center with a very good success rate according to <strong>Dr Shushma Sinha</strong>, Senior IVF specialist at Indraprastha Apollo Hospital, New Delhi, India.</p><ul>
 </ul>
 <h2><span style="color: #0048ad;">Top&nbsp; Infertility hospitals in Delhi, India</span></h2>
 <ul>
-<li><a href="https://ferticity.com/"><strong>Ferticity Fertility Clinic</strong> ,New Delhi , India</a></li>
-<li><a href="#/apollo-fertility-clinic/">Indraprastha Apollo Hospital</a>, New Delhi</li>
-<li><a href="#/advance-fertility-and-gynecology-centre/">Kaberi IVF Clinic</a>, New Delhi,</li>
-<li><a href="#/nova-ivf-centre/">NOVA IVF Clinic</a> , New Delhi<strong> ,</strong></li>
-<li><a href="#/medicover-ivf-centre/">Medicover IVF Centre</a> ,New Delhi</li>
-<li><a href="#/max-panchsheel-ivf-centre/">Max Panchseel Hospital</a> ,New Delhi</li>
-<li><a href="#/art-ivf-clinic/"><strong>ART IVF Clinic</strong></a> ,New Delhi</li>
+<li><strong>Ferticity Fertility Clinic</strong> ,New Delhi , India</li>
+<li>Indraprastha Apollo Hospital, New Delhi</li>
+<li>Kaberi IVF Clinic, New Delhi,</li>
+<li>NOVA IVF Clinic , New Delhi<strong> ,</strong></li>
+<li>Medicover IVF Centre ,New Delhi</li>
+<li>Max Panchseel Hospital ,New Delhi</li>
+<li><strong>ART IVF Clinic</strong> ,New Delhi</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>Need Assistance in IVF ! Contact Us today</strong></p>
@@ -12676,22 +10690,22 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 <p>The man’s body makes tiny cells known as sperms. During sex, these sperm are released into a woman’s body. The male reproductive system makes, stores, and transports sperm. Hormones control this process.</p>
 <p>The sperm and male hormones known as testosterone are made in the two testicles. When sperm leaves the testicles, it goes into a tube known as epididymis.</p>
 <p>Just before ejaculation, the sperm goes into the vas deferens from the epididymis. During ejaculation, the sperm mixes with semen, and then it comes out of the penis.</p>
-<p><a href="https://www.healthdirect.gov.au/male-reproductive-system">Male reproductive</a> health depends upon how normally your body makes sperm and releases it out of your body.</p>
+<p>Male reproductive health depends upon how normally your body makes sperm and releases it out of your body.</p>
 <p><span style="color: #0048ad;"><strong>Male Infertility Causes</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Obstructions</strong></span></p>
 <p>As already told above, sperms are made in testicles. They spend 2 to 10 days from passing through the epididymis to the vas deferens (the long muscular tube that carries sperm from the testicles to the urethra). The vas deferns ejaculates the sperm, and after that, it mixes with semen.</p>
 <p>During ejaculation, muscular contraction forces the semen into the urethra and then out of the penis. Blockage or absence of tubes ( vas deferns) can be a cause of male infertility. Blockages and absence may be congenital or due to any injury.</p>
 <p><span style="color: #0048ad;"><strong>Sperm Disorders</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Another cause of male infertility may be due to sperm disorders. It can be due to:</strong></span></p>
-<p>●<span style="color: #0048ad;"><strong> Azoospermia:</strong></span> the semen does not contain any sperm. It can be due to blockage or testicles not producing sperm.<br>
-● <span style="color: #0048ad;"><strong>Oligospermia:</strong></span> insufficient sperm count, which is not enough to bring about conception.<br>
-● <span style="color: #0048ad;"><strong>Abnormal shape:</strong></span> a healthy sperm is shaped like a tadpole. Abnormally shaped sperms do not fuse into women’s eggs.<br>
+<p>●<span style="color: #0048ad;"><strong> Azoospermia:</strong></span> the semen does not contain any sperm. It can be due to blockage or testicles not producing sperm.<br />
+● <span style="color: #0048ad;"><strong>Oligospermia:</strong></span> insufficient sperm count, which is not enough to bring about conception.<br />
+● <span style="color: #0048ad;"><strong>Abnormal shape:</strong></span> a healthy sperm is shaped like a tadpole. Abnormally shaped sperms do not fuse into women’s eggs.<br />
 ● <span style="color: #0048ad;"><strong>Poor Motility:</strong></span> a healthy sperm has a lashing tail, which allows it to swim in the womens reproductive system. Sperm with poor Motility cannot swim at all.</p>
 <p><span style="color: #0048ad;"><strong>Functional Problems</strong></span></p>
-<p>● Impotence is the inability to maintain an erection during sexual intercourse.<br>
-● Premature ejaculation<br>
-● Removal of the prostate gland<br>
-● Disorders like multiple sclerosis or diabetes<br>
+<p>● Impotence is the inability to maintain an erection during sexual intercourse.<br />
+● Premature ejaculation<br />
+● Removal of the prostate gland<br />
+● Disorders like multiple sclerosis or diabetes<br />
 ● When the immune system starts making antibodies that hinder the natural functioning of sperms.</p>
 <p><strong><span style="color: #0048ad;">Hormonal Problems</span></strong></p>
 <p>The pituitary gland influences the production of male sex hormones known as testosterone under the influence of the hypothalamus. A relatively uncommon cause of male infertility may be the improper functioning of the pituitary gland.</p>
@@ -12699,40 +10713,40 @@ The surgeon will insert cylinders into your penis. Tubes connect the cylinders t
 <p>This includes the use of tobacco, heavy alcohol, marijuana, steroids, and exposure to toxins. These are the major male infertility causes.</p>
 <p><strong><span style="color: #0048ad;">Who is likely to deal with male infertility?</span></strong></p>
 <p><strong><span style="color: #0048ad;">The following people are at an increased risk of male infertility:</span></strong></p>
-<p>● Pre-existing genetic condition<br>
-● Use of alcohol and drugs<br>
-● Severe mumps infection<br>
-● Hernia repairs<br>
-● Hormone disorder<br>
-● Wearing tight underwear<br>
-● Injury in the groin area<br>
-● Retrograde ejaculation occurs when sperm is forced back into the bladder<br>
-● Erectile dysfunction<br>
-● History of STD<br>
-● Urinary tract infection<br>
+<p>● Pre-existing genetic condition<br />
+● Use of alcohol and drugs<br />
+● Severe mumps infection<br />
+● Hernia repairs<br />
+● Hormone disorder<br />
+● Wearing tight underwear<br />
+● Injury in the groin area<br />
+● Retrograde ejaculation occurs when sperm is forced back into the bladder<br />
+● Erectile dysfunction<br />
+● History of STD<br />
+● Urinary tract infection<br />
 ● Use of certain types of medication for treatment of anxiety, depression, high blood pressure, and cancer</p>
 <p><strong><span style="color: #0048ad;">Symptoms</span></strong></p>
 <p>The main symptom of male infertility is the inability to have a child. In some cases, an underlying disorder may also be a cause of male infertility. Please make sure to contact your healthcare provider if you experience the following symptoms:</p>
-<p>● Problems with sexual function<br>
-● Pain or lump in testicles<br>
-● Inability to smell<br>
-● Recurrent respiratory infections<br>
-● Decreased facial hair<br>
+<p>● Problems with sexual function<br />
+● Pain or lump in testicles<br />
+● Inability to smell<br />
+● Recurrent respiratory infections<br />
+● Decreased facial hair<br />
 ● Low sperm count</p>
 <p><span style="color: #0048ad;"><strong>Male Fertility Tests</strong></span></p>
-<p><span style="color: #0048ad;"><strong>Tests to detect male infertility include: </strong></span><br>
-● Semen analysis<br>
-● Blood tests<br>
-● Ultrasound of testicles and scrotum<br>
-● Testicular biopsy<br>
-● Hormonal test<br>
-● Vasography<br>
+<p><span style="color: #0048ad;"><strong>Tests to detect male infertility include: </strong></span><br />
+● Semen analysis<br />
+● Blood tests<br />
+● Ultrasound of testicles and scrotum<br />
+● Testicular biopsy<br />
+● Hormonal test<br />
+● Vasography<br />
 ● Genetic testing</p>
 <p><span style="color: #0048ad;"><strong>Can Male infertility be treated?</strong></span></p>
 <p>Yes, male infertility can be treated depending on the underlying causes. Various treatment options to treat male infertility are:</p>
-<p><span style="color: #0048ad;"><strong>Lifestyle Changes:</strong></span> These include maintaining a balanced diet, regular exercise and avoiding alcohol.<br>
-<span style="color: #0048ad;"><strong>Medications:</strong></span> It involves hormonal treatment to boost sperm production.<br>
-Surgery: It involves various procedures like TESA and Micro TESE.<br>
+<p><span style="color: #0048ad;"><strong>Lifestyle Changes:</strong></span> These include maintaining a balanced diet, regular exercise and avoiding alcohol.<br />
+<span style="color: #0048ad;"><strong>Medications:</strong></span> It involves hormonal treatment to boost sperm production.<br />
+Surgery: It involves various procedures like TESA and Micro TESE.<br />
 <span style="color: #0048ad;"><strong>Counselling and Support:</strong></span> Dealing with infertility can be challenging. Counselling and support can help you navigate the emotional aspects of fertility issues.</p>
 <p><span style="color: #0048ad;"><strong>Male Infertility Treatment Available in India</strong></span></p>
 <p><span style="color: #0048ad;"><strong>There are various treatment options to treat male fertility in India. Let us understand them one by one:</strong></span></p>
@@ -12744,8 +10758,8 @@ Surgery: It involves various procedures like TESA and Micro TESE.<br>
 <p>The pituitary gland in the brain is responsible for the release of a hormone known as gonadotropin. This hormone stimulates the production of sperm. In some cases, male infertility can be caused due to insufficient levels of gonadotropins. When you take these hormones as medicines, it can boost sperm production.</p>
 <p><span style="color: #0048ad;"><strong>Artificial Insemination</strong></span></p>
 <p>In this case, this means semen is collected, washed, and concentrated. It is then introduced into the female’s uterus through the cervix. This is a viable option when:</p>
-<p>● The concentration of sperm is low in men’s semen<br>
-● Man is impotent<br>
+<p>● The concentration of sperm is low in men’s semen<br />
+● Man is impotent<br />
 ● Seminal fluid contains antibodies against sperm</p>
 <h2><span style="color: #0048ad;"><strong>IVF</strong></span></h2>
 <p>In in vitro fertilization, the sperm from the man is collected and placed in a special incubator. The ovaries of women are stimulated with hormone injections, and when the eggs mature, they are taken out through an ultrasound-guided procedure.</p>
@@ -12763,44 +10777,44 @@ Surgery: It involves various procedures like TESA and Micro TESE.<br>
 <p>Physiological Intracytoplasmic Sperm Injection is a technique that involves selecting sperms on their ability to bind to hyaluronic acid, a substance that is present in female eggs. This method aims at the natural sperm selection process and improves the chances of selecting high-quality sperm for fertilization.</p>
 <p><span style="color: #0048ad;"><strong>Prevention tips</strong></span></p>
 <p><span style="color: #0048ad;"><strong>There is nothing that can be done to treat male infertility that is caused by genetic disorders. However, here are some tips to prevent it:</strong></span></p>
-<p>● Avoid having sex with unknown people to reduce the risk of STD<br>
-● Avoid illegal drugs to maintain male reproductive health<br>
-● Avoid radiation when possible<br>
-● Avoid exposure to toxic substances<br>
-● Avoid frequent use of alcohol<br>
-● Observe good personal hygiene<br>
-● Avoid long and hot baths<br>
+<p>● Avoid having sex with unknown people to reduce the risk of STD<br />
+● Avoid illegal drugs to maintain male reproductive health<br />
+● Avoid radiation when possible<br />
+● Avoid exposure to toxic substances<br />
+● Avoid frequent use of alcohol<br />
+● Observe good personal hygiene<br />
+● Avoid long and hot baths<br />
 ● Wear loose-fitting underwear</p>
 <p><span style="color: #0048ad;"><strong>Prognosis</strong></span></p>
 <p>Just because you have male infertility issues does not mean that you cannot have your child. There are many treatment options available in India. If you work with your partner and a urologist, you can increase the chances of conception.</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors for Male Infertility Treatment in India</strong></span></h2>
-<table width="531">
+<table style="width: 531px;">
 <tbody>
 <tr>
 <td width="300"><strong>Hospital</strong></td>
 <td width="231"><strong>Best Doctor</strong></td>
 </tr>
 <tr>
-<td width="300"><a href="#/babyscience-ivf-clinics/">Baby Science IVF Centre</a>, New Delhi</td>
+<td width="300">Baby Science IVF Centre, New Delhi</td>
 <td width="231">Dr Vineet Malhotra,<p></p>
 <p>Director Andrology</p></td>
 </tr>
 <tr>
-<td width="300"><a href="#/max-super-speciality-hospital-in-saket-new-delhi/">Max Super Speciality Hospital</a>, Experience 22 years.</td>
-<td width="231"><a href="#/dr-gagan-gautam-robotic-urological-cancer-kidney-transplant-surgeon/">Dr Gagan Gautam</a>, Director of Urology &amp; Andrology</td>
+<td width="300">Max Super Speciality Hospital, Experience 22 years.</td>
+<td width="231">Dr Gagan Gautam, Director of Urology &amp; Andrology</td>
 </tr>
 <tr>
-<td width="300"><a href="#/fortis-memorial-research-institute/">Fortis Memorial Research Institute</a>, Gurugram,</td>
+<td width="300">Fortis Memorial Research Institute, Gurugram,</td>
 <td width="231">Dr Vikram Sharma, Director Urology &amp; Andrology</td>
 </tr>
 <tr>
-<td width="300"><a href="#/indraprastha-apollo-hospital-new-delhi/">Indraprastha Apollo Hospital</a> Delhi</td>
-<td width="231"><a href="#/best-robotic-urologist-andrologist/">Dr Ajit Saxena</a><p></p>
+<td width="300">Indraprastha Apollo Hospital Delhi</td>
+<td width="231">Dr Ajit Saxena<p></p>
 <p>Urologist and Andrologist</p></td>
 </tr>
 <tr>
-<td width="300"><a href="#/artemis-hospital-gurgaon-india/">Artemis Hospital</a>s</td>
-<td width="231"><a href="#/dr-rajiv-yadav/">Dr Rajiv Yadav</a><p></p>
+<td width="300">Artemis Hospitals</td>
+<td width="231">Dr Rajiv Yadav<p></p>
 <p>Director of Urology &amp; Robotics</p></td>
 </tr>
 </tbody>
@@ -12818,23 +10832,19 @@ Surgery: It involves various procedures like TESA and Micro TESE.<br>
     name: "female-infertility-treatment",
     img: "/treatment/female-infertility-treatment.webp",
     data: `<div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
-		
-		
-	</div>
-
+	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element"></div>
 	<div class="wpb_text_column wpb_content_element">
 		<div class="wpb_wrapper">
 			<h2><span style="color: #0048ad;">Female Infertility Treatment in India: From Despair to Hope</span></h2>
-<p>Female infertility treatment is a common condition in which a female is unable to become pregnant or have a successful pregnancy. It is diagnosed when a woman tries to get pregnant for 12 months without a pregnancy. Infertility can result from female factors, male factors, or a combination of both. <a href="https://www.columbiadoctors.org/specialties/obstetrics-gynecology/our-services/columbia-university-fertility-center/our-services/conditions-and-treatments/female-infertility">Female factors cause infertility 33 percent of the time</a>. Characteristics can include ovulation dysfunction, anatomical problems, endometriosis, uterine defects, and immunological problems.</p>
+<p>Female infertility treatment is a common condition in which a female is unable to become pregnant or have a successful pregnancy. It is diagnosed when a woman tries to get pregnant for 12 months without a pregnancy. Infertility can result from female factors, male factors, or a combination of both. Female factors cause infertility 33 percent of the time. Characteristics can include ovulation dysfunction, anatomical problems, endometriosis, uterine defects, and immunological problems.</p>
 <p>In this detailed article, we will discuss female infertility and why you should get its treatment from India.</p>
 <p><span style="color: #0048ad;"><strong>What happens under normal conditions?</strong></span></p>
-<p>New life begins when a sperm fertilizes an egg. Ovulation occurs when an egg is released from one of the ovaries, which happens 14 days before the start of menstrual period.<br>
+<p>New life begins when a sperm fertilizes an egg. Ovulation occurs when an egg is released from one of the ovaries, which happens 14 days before the start of menstrual period.<br />
 The egg then goes to the fallopian tube and towards the uterus. If the egg gets fertilized, pregnancy begins.</p>
 <p>The monthly chance of a young, fertile couple conceiving is approximately 25 %. If there is no pregnancy after 12 months of trying, then there may be a fertility issue.</p>
 <p><span style="color: #0048ad;"><strong>Female Infertility Causes</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Ovulation problem</strong></span></p>
-<p>● For ovulation to occur, the hypothalamus prompts the pituitary gland that triggers ovaries to release eggs.<br>
+<p>● For ovulation to occur, the hypothalamus prompts the pituitary gland that triggers ovaries to release eggs.<br />
 ● Irregular or absent periods indicate that there are problems with ovulation.</p>
 <p><span style="color: #0048ad;"><strong>Polycystic Ovary Syndrome</strong></span></p>
 <p>PCOS is the most common hormonal condition affecting women in their reproductive years. Irregular periods are the main symptom of this condition.</p>
@@ -12842,58 +10852,58 @@ The egg then goes to the fallopian tube and towards the uterus. If the egg gets 
 <p>The egg is fertilized in the fallopian tube. A blocked fallopian tube does not allow the egg to meet the sperm.</p>
 <p><span style="color: #0048ad;"><strong>Problem with uterus</strong></span></p>
 <p>The fertilized egg implants in the lining of the uterus. Certain conditions that do not allow implantation to happen are:</p>
-<p>● <span style="color: #0048ad;"><strong>Fibroids:</strong></span> They are non-malignant tumors inside the womb<br>
+<p>● <span style="color: #0048ad;"><strong>Fibroids:</strong></span> They are non-malignant tumors inside the womb<br />
 ● <span style="color: #0048ad;"><strong>Polyps:</strong></span> They are small protrusions that grow in the uterus lining.</p>
 <p><span style="color: #0048ad;"><strong>Problems with Cervix</strong></span></p>
 <p>The entrance to the uterus is called the cervix. The ejaculated sperm must travel through the cervix to reach the fallopian tubes. During ovulation, the cervix mucus is thin, which allows the sperm to swim. However, when cervix mucus becomes thick, it can block the sperm.</p>
 <p><span style="color: #0048ad;"><strong>Endometriosis</strong></span></p>
 <p>It is a condition in which cells from the uterus lining migrate to the pelvis. It can damage the fallopian tube and affect the movement of egg and sperm.</p>
 <p><span style="color: #0048ad;"><strong>Who is at risk?</strong></span></p>
-<p>Many factors increase the risk of female infertility. General health conditions, inherited traits, lifestyle choices, and age can also contribute to female infertility.<br>
-Specific factors include:<br>
-● Age<br>
-● Hormonal imbalance<br>
-● Abnormal menstrual cycle<br>
-● Obesity<br>
-● Being underweight<br>
-● Having a lot of body fat<br>
-● Endometriosis<br>
-● Cysts<br>
-● Tumors<br>
-● Autoimmune disorders<br>
-● Sexually transmitted infections<br>
-● PCOS<br>
-● Excessive drinking<br>
+<p>Many factors increase the risk of female infertility. General health conditions, inherited traits, lifestyle choices, and age can also contribute to female infertility.<br />
+Specific factors include:<br />
+● Age<br />
+● Hormonal imbalance<br />
+● Abnormal menstrual cycle<br />
+● Obesity<br />
+● Being underweight<br />
+● Having a lot of body fat<br />
+● Endometriosis<br />
+● Cysts<br />
+● Tumors<br />
+● Autoimmune disorders<br />
+● Sexually transmitted infections<br />
+● PCOS<br />
+● Excessive drinking<br />
 ● Smoking</p>
 <p><span style="color: #0048ad;"><strong>What is the effect of age on female infertility?</strong></span></p>
-<p>As a woman ages, her chances of becoming pregnant decrease. Generation is becoming a more common factor in female infertility because many couples wait till their 30s and 40s to have babies. Women who are above 35 years start facing fertility issues because:<br>
-● The overall number of eggs is low<br>
-● Eggs have abnormal chromosomes<br>
+<p>As a woman ages, her chances of becoming pregnant decrease. Generation is becoming a more common factor in female infertility because many couples wait till their 30s and 40s to have babies. Women who are above 35 years start facing fertility issues because:<br />
+● The overall number of eggs is low<br />
+● Eggs have abnormal chromosomes<br />
 ● Health conditions that develop after 35 years of age</p>
 <p><span style="color: #0048ad;"><strong>Tests for female infertility</strong></span></p>
 <p><span style="color: #0048ad;"><strong>Female fertility tests include;</strong></span></p>
-<p>● A physical examination<br>
-● Blood test<br>
-● Diagnostic Laparoscopy<br>
-● Ultrasound scans<br>
-● Ovulation Testing<br>
+<p>● A physical examination<br />
+● Blood test<br />
+● Diagnostic Laparoscopy<br />
+● Ultrasound scans<br />
+● Ovulation Testing<br />
 ● Ovarian reserve testing</p>
 <p><span style="color: #0048ad;"><strong>Hormonal Assay For Female Infertility</strong></span></p>
-<p>Hormonal assays play a crucial role in the assessment of female infertility. These tests help identify hormonal imbalances that may be contributing to fertility issues. Here are some standard hormonal assays performed for the evaluation of female infertility:<br>
-Follicle-Stimulating Hormone (FSH): Elevated FSH levels may indicate diminished ovarian reserve<br>
-Luteinizing Hormone (LH): Abnormal levels of LH can affect the timing and regularity of ovulation.<br>
-<span style="color: #0048ad;"><strong>Estradiol:</strong> </span>Elevated or low levels of estradiol can indicate problems with ovarian function<br>
-<span style="color: #0048ad;"><strong>Progesterone:</strong></span> Low progesterone levels can result in implantation failure.<br>
-Anti-Mullerian Hormone<span style="color: #0048ad;"><strong> (AMH)</strong></span>: Low AMH levels may suggest diminished ovarian reserve.<br>
-Thyroid Function Tests <span style="color: #0048ad;"><strong>(TSH, Free T4, Free T3)</strong></span>: Thyroid hormones regulate the menstrual cycle. Abnormal thyroid function affects fertility.<br>
-Prolactin: Elevated prolactin levels, a hormone responsible for milk production, can interfere with ovulation.<br>
+<p>Hormonal assays play a crucial role in the assessment of female infertility. These tests help identify hormonal imbalances that may be contributing to fertility issues. Here are some standard hormonal assays performed for the evaluation of female infertility:<br />
+Follicle-Stimulating Hormone (FSH): Elevated FSH levels may indicate diminished ovarian reserve<br />
+Luteinizing Hormone (LH): Abnormal levels of LH can affect the timing and regularity of ovulation.<br />
+<span style="color: #0048ad;"><strong>Estradiol:</strong> </span>Elevated or low levels of estradiol can indicate problems with ovarian function<br />
+<span style="color: #0048ad;"><strong>Progesterone:</strong></span> Low progesterone levels can result in implantation failure.<br />
+Anti-Mullerian Hormone<span style="color: #0048ad;"><strong> (AMH)</strong></span>: Low AMH levels may suggest diminished ovarian reserve.<br />
+Thyroid Function Tests <span style="color: #0048ad;"><strong>(TSH, Free T4, Free T3)</strong></span>: Thyroid hormones regulate the menstrual cycle. Abnormal thyroid function affects fertility.<br />
+Prolactin: Elevated prolactin levels, a hormone responsible for milk production, can interfere with ovulation.<br />
 Testosterone: Testosterone is a male sex hormone that is also in smaller amounts in females. Imbalances in testosterone levels can affect ovarian function.</p>
-<p>Insulin and Glucose: Insulin resistance and abnormalities in glucose metabolism may be associated with polycystic ovary syndrome (PCOS), a common cause of female infertility.<br>
+<p>Insulin and Glucose: Insulin resistance and abnormalities in glucose metabolism may be associated with polycystic ovary syndrome (PCOS), a common cause of female infertility.<br />
 17-hydroxyprogesterone (17-OHP): Elevated levels of 17-OHP may be associated with conditions such as congenital adrenal hyperplasia, which can affect fertility.</p>
 <p><span style="color: #0048ad;"><strong>Female Infertility Treatment Available in India</strong></span></p>
-<h3><span style="color: #0048ad;"><strong>The treatment for female infertility in India depends upon the following factors: </strong></span><br>
-● Age<br>
-● Period of infertility<br>
+<h3><span style="color: #0048ad;"><strong>The treatment for female infertility in India depends upon the following factors: </strong></span><br />
+● Age<br />
+● Period of infertility<br />
 ● Personal preferences</h3>
 <p>Female infertility treatments available in India either attempt to restore fertility through medication or help you get pregnant via sophisticated techniques.</p>
 <p><span style="color: #0048ad;"><strong>Option 1: Medications</strong></span></p>
@@ -12918,10 +10928,10 @@ Testosterone: Testosterone is a male sex hormone that is also in smaller amounts
 <p><span style="color: #0048ad;"><strong>Embryo Transfer:</strong></span> Once the embryos reach an optimal stage of development, one or more are carefully selected and transferred into the woman’s uterus</p>
 <p><span style="color: #0048ad;"><strong>When is ICSI performed?</strong></span></p>
 <p>ICSI is particularly recommended in cases where traditional fertilization methods may be compromised</p>
-<p>● ICSI is often chosen when male partners have low sperm count or sperm are non-motile.<br>
-● Previous IVF Failure<br>
-● Unexplained Infertility:<br>
-● Advanced Maternal Age:<br>
+<p>● ICSI is often chosen when male partners have low sperm count or sperm are non-motile.<br />
+● Previous IVF Failure<br />
+● Unexplained Infertility:<br />
+● Advanced Maternal Age:<br />
 ● Bad reproductive health in women</p>
 <p><span style="color: #0048ad;"><strong>Gamete Intrafallopian Tube Transfer(GIFT)</strong></span></p>
 <p>GIFT stands for gamete intrafallopian tube transfer. The procedure involves retrieving an egg and combining it with a sperm in the lab. It is then inserted into the female fallopian tube.</p>
@@ -12936,55 +10946,55 @@ Testosterone: Testosterone is a male sex hormone that is also in smaller amounts
 <h3><span style="color: #0048ad;"><strong>Role of Zinc and Folic Acid for female infertility</strong></span></h3>
 <p>Zinc and folic acid play essential roles in female infertility treatment.</p>
 <p><span style="color: #0048ad;"><strong>Zinc</strong></span></p>
-<p>● Improves ovarian function<br>
-● Aids fertilization<br>
+<p>● Improves ovarian function<br />
+● Aids fertilization<br />
 ● Regulates hormones and menstrual cycle</p>
-<p><span style="color: #0048ad;"><strong>Folic Acid</strong></span><br>
-● Helps in fetal development<br>
+<p><span style="color: #0048ad;"><strong>Folic Acid</strong></span><br />
+● Helps in fetal development<br />
 ● Improves fertility</p>
 <h3><span style="color: #0048ad;"><strong>Affordability and Accessibility of Fertility Treatments in India</strong></span></h3>
 <p>Getting fertility treatments can be costly, and it’s essential to know what you’re getting into. In India, some places might be more affordable, and support and resources might be available. Accessibility is about ensuring these treatments are open to everyone, regardless of where they live or how much money they have. It’s about fairness and making family-building options accessible to many people.</p>
 <p><span style="color: #0048ad;"><strong>Preventing Female Infertility</strong></span></p>
-<p>For women thinking of getting pregnant soon, these tips will help you stay fertile:<br>
-● Maintain healthy weight<br>
-● Quit smoking<br>
-● Avoid Alcohol<br>
+<p>For women thinking of getting pregnant soon, these tips will help you stay fertile:<br />
+● Maintain healthy weight<br />
+● Quit smoking<br />
+● Avoid Alcohol<br />
 ● Reduce Stress</p>
 <p><span style="color: #0048ad;"><strong>Prognosis</strong></span></p>
 <p>Just because you have female infertility issues does not mean that you cannot have your child. There are many treatment options available in India. If you work with your partner and an experienced gynecologist, you can increase the chances of conception.</p>
 <h2><span style="color: #0048ad;"><strong>Top Hospitals and Doctors Treating Female Infertility in India</strong></span></h2>
-<table width="531">
+<table style="width: 531px;">
 <thead>
 <tr>
 <td width="300"><strong>Hospital</strong></td>
 <td width="231"><strong>Best Doctor</strong></td>
 </tr>
 <tr>
-<td width="300"><a href="#/babyscience-ivf-clinics/">Baby Science IVF Centre</a>, New Delhi</td>
-<td width="231"><a href="#/dr-reena-gupta/">Dr Reena Gupta</a><p></p>
+<td width="300">Baby Science IVF Centre, New Delhi</td>
+<td width="231">Dr Reena Gupta<p></p>
 <p>Senior Consultant &amp; Director IVF</p></td>
 </tr>
 <tr>
-<td width="300"><a href="#/apollo-fertility-clinic/">Apollo Fertility Clinic</a><p></p>
+<td width="300">Apollo Fertility Clinic<p></p>
 <p>&nbsp;</p></td>
-<td width="231"><a href="#/dr-brinda-narain-kalro-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Brinda Narain Kalro</a>,<p></p>
+<td width="231">Dr. Brinda Narain Kalro,<p></p>
 <p>Director IVF</p></td>
 </tr>
 <tr>
-<td width="300"><a href="#/fortis-la-famme/">Fortis La Femme</a><p></p>
+<td width="300">Fortis La Femme<p></p>
 <p>&nbsp;</p></td>
 <td width="231">Dr. Jasbir Chandna<p></p>
 <p>HOD Infertility</p></td>
 </tr>
 <tr>
-<td width="300"><a href="#/art-ivf-clinic/">ART IVF Clinic</a><p></p>
+<td width="300">ART IVF Clinic<p></p>
 <p>&nbsp;</p></td>
-<td width="231"><a href="#/dr-parul-kathiyar-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Parul Kathiyar</a><p></p>
+<td width="231">Dr. Parul Kathiyar<p></p>
 <p>Director IVF &amp; Infertility</p></td>
 </tr>
 <tr>
-<td width="300"><a href="#/nova-ivf-centre/">Nova IVF Centre</a></td>
-<td width="231"><a href="#/dr-sonia-malik-best-infirtility-and-ivf-specialist-in-delhi-india/">Dr. Sonia Malik</a><p></p>
+<td width="300">Nova IVF Centre</td>
+<td width="231">Dr. Sonia Malik<p></p>
 <p>Director Infertility Program</p></td>
 </tr>
 </thead>
