@@ -57,6 +57,22 @@ export function ENTIcon() {
   return <Image src={'/icons/ent.webp'} height={60} width={60} alt={'ENT Icon'} />;
 }
 
+export function RareCancer() {
+  return <Image src={'/icons/rare-cancer.png'} height={60} width={60} alt={'ENT Icon'} />;
+}
+
+export function HeartDisease() {
+  return <Image src={'/icons/heart-disease.png'} height={60} width={60} alt={'ENT Icon'} />;
+}
+
+export function Immune() {
+  return <Image src={'/icons/immune-system.png'} height={60} width={60} alt={'ENT Icon'} />;
+}
+
+export function PlasticSurgery() {
+  return <Image src={'/icons/plastic-surgery.png'} height={60} width={60} alt={'ENT Icon'} />;
+}
+
 export function EyeIcon() {
   return <Image src={'/icons/eye.webp'} height={60} width={60} alt={'Eye Surgery Icon'} />;
 }

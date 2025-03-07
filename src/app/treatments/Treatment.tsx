@@ -1,4 +1,4 @@
-import { RoboticIcon, BrainIcon, SpineIcon, CardiologyIcon, TransplantIcon, OncologyIcon, GeneralSurgeryIcon, VascularSurgeryIcon, DentalSurgeryIcon, OrthopedicIcon,  CosmeticSurgeryIcon, PediatricCardiologyIcon, ENTIcon, EyeIcon,  HeartIcon, UrologyIcon, GynecologyIcon, ReproductiveMedicineIcon } from '@/components/icons';
+import { RoboticIcon, BrainIcon, SpineIcon, CardiologyIcon, TransplantIcon, OncologyIcon, GeneralSurgeryIcon, VascularSurgeryIcon, DentalSurgeryIcon, OrthopedicIcon,  CosmeticSurgeryIcon, PediatricCardiologyIcon, ENTIcon, EyeIcon,  HeartIcon, UrologyIcon, GynecologyIcon, ReproductiveMedicineIcon, RareCancer, HeartDisease, Immune, PlasticSurgery } from '@/components/icons';
 
 
 export const allSubTreatmentLinks = () => {
@@ -93,6 +93,7 @@ export const Treatments = [
       }
     ]
   },
+  
   {
     name: "Spine Surgery",
     icon: <SpineIcon />,
@@ -140,6 +141,7 @@ export const Treatments = [
       }
     ]
   },
+  
   {
     name: "Interventional Cardiology",
     icon: <CardiologyIcon />,
@@ -167,6 +169,7 @@ export const Treatments = [
       }
     ]
   },
+  
   {
     name: "Organ Transplant",
     icon: <TransplantIcon />,
@@ -208,8 +211,24 @@ export const Treatments = [
         link: "/treatments/osteosarcoma-surgery"
       },
       {
+        name: "Tibial Sarcoma (Tibiyasarcoma)",
+        link: "/treatments/tibial-sarcoma"
+      },
+      {
         name: "Ewing’s Sarcoma Treatment",
         link: "/treatments/ewings-sarcoma-treatment"
+      },
+      {
+        name: "Brain Tumor Treatment",
+        link: "/treatments/brain-tumor-treatment"
+      },
+      {
+        name: "Chemotherapy",
+        link: "/treatments/chemotherapy"
+      },
+      {
+        name: "Radiation Therapy",
+        link: "/treatments/radiation-therapy"
       },
       {
         name: "Chondrosarcoma Treatment",
@@ -277,6 +296,7 @@ export const Treatments = [
 
     ]
   },
+  
   {
     name: "Vascular Surgery",
     icon: <VascularSurgeryIcon />,
@@ -302,6 +322,17 @@ export const Treatments = [
     ]
   },
   {
+    name: "Neurological & Sensory Treatments",
+    icon: <BrainIcon />,
+    description: "Enhancing brain and sensory function through specialized therapies for improved cognitive, motor, and sensory processing.",
+    sublinks: [
+      {
+        name: "Cochlear Implant Surgery",
+        link: "/treatments/cochlear-implant-surgery"
+      }
+    ]
+  },
+  {
     name: "Orthopedics",
     icon: <OrthopedicIcon />, // Replace with an appropriate icon
     description: "Advanced surgical and non-surgical treatments for bone and joint conditions.",
@@ -321,6 +352,14 @@ export const Treatments = [
       {
         name: "Arthroscopy Surgery",
         link: "/treatments/arthroscopy-surgery"
+      },
+      {
+        name: "Total Knee Replacement (TKR)",
+        link: "/treatments/total-knee-replacement"
+      },
+      {
+        name: "Total Hip Replacement (THR)",
+        link: "/treatments/total-hip-replacement"
       },
 
     ]
@@ -426,6 +465,29 @@ export const Treatments = [
       }
     ]
   },
+  {
+    name: "Rare & Specialized Cancer Treatments",
+    icon: <RareCancer />, // Replace with an appropriate icon
+    description: "Advanced therapies and personalized care for rare and complex cancers, offering cutting-edge treatments tailored to individual needs.",
+    sublinks: [
+      {
+        name: "Leukemia",
+        link: "/treatments/leukemia"
+      },
+      {
+        name: "Oral Malignant Melanoma",
+        link: "/treatments/oral-malignant-melanoma"
+      },
+      {
+        name: "Adenoid Cystic Carcinoma",
+        link: "/treatments/adenoid-cystic-carcinoma"
+      },
+      {
+        name: "Stromal Tumors",
+        link: "/treatments/stromal-tumors"
+      },
+    ]
+  },
   // {
   //   name: "Ophthalmology",
   //   icon: <EyeIcon />, // Replace with an appropriate icon
@@ -508,6 +570,65 @@ export const Treatments = [
     ]
   },
   {
+    name: "Congenital Heart Defect Surgeries",
+    icon: <HeartDisease />, // Replace with an appropriate icon
+    description: "Advanced surgical procedures for various eye conditions to restore and enhance vision.",
+    sublinks: [
+      {
+        name: "Truncus Arteriosus Repair",
+        link: "/treatments/truncus-arteriosus-repair"
+      },
+      {
+        name: "Blalock-Taussig (BT) Shunt",
+        link: "/treatments/blalock-taussig-shunt"
+      },
+      {
+        name: "Double Switch Operations",
+        link: "/treatments/double-switch-operations"
+      },
+      {
+        name: "Fontan Procedure",
+        link: "/treatments/fontan-procedure"
+      },
+      {
+        name: "Rastelli Procedure",
+        link: "/treatments/rastelli-procedure"
+      },
+      {
+        name: "Subaortic Membrane Resection",
+        link: "/treatments/subaortic-membrane-resection"
+      },
+      {
+        name: "Tetralogy of Fallot (TOF) Repair",
+        link: "/treatments/tetralogy-of-fallot-repair"
+      },
+      {
+        name: "Arterial Switch Operation (ASO)",
+        link: "/treatments/arterial-switch-operation"
+      },
+      {
+        name: "Atrioventricular Canal Repair",
+        link: "/treatments/atrioventricular-canal-repair"
+      },
+      {
+        name: "Senning Procedure",
+        link: "/treatments/senning-procedure"
+      },
+      {
+        name: "Ventricular Septal Defect (VSD) Repair",
+        link: "/treatments/ventricular-septal-defect-repair"
+      },
+      {
+        name: "Atrial Septal Defect (ASD) Repair",
+        link: "/treatments/atrial-septal-defect-repair"
+      },
+      {
+        name: "Bidirectional Glenn (BD Glenn) Shunt",
+        link: "/treatments/bidirectional-glenn-shunt"
+      },
+    ]
+  },
+  {
     name: "Heart Surgery",
     icon: <HeartIcon />, // Replace with an appropriate icon
     description: "Comprehensive cardiac surgical services for various heart conditions.",
@@ -548,8 +669,34 @@ export const Treatments = [
         link: "/treatments/erectile-dysfunction-treatments"
       },
       {
+        name: "Robotic Bladder Diverticulectomy",
+        link: "/treatments/robotic-bladder-diverticulectomy"
+      },
+      {
         name: "Penile Implant",
         link: "/treatments/penile-implant"
+      }
+    ]
+  },
+  {
+    name: "Advanced Immunotherapy",
+    icon: <Immune />, // Replace with an appropriate icon
+    description: "Cutting-edge treatment that enhances the body's immune system to fight diseases like cancer, infections, and autoimmune disorders with precision and effectiveness.",
+    sublinks: [
+      {
+        name: "CAR-T Cell Therapy",
+        link: "/treatments/car-t-cell-therapy"
+      }
+    ]
+  },
+  {
+    name: "Plastic & Reconstructive Surgeries",
+    icon: <PlasticSurgery />, // Replace with an appropriate icon
+    description: "Enhancing aesthetics and restoring function through advanced surgical techniques.",
+    sublinks: [
+      {
+        name: "Ear Reconstruction and Plastic Surgery",
+        link: "/treatments/ear-reconstruction-and-plastic-surgery"
       }
     ]
   },
