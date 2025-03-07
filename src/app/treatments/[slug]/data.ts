@@ -3744,6 +3744,1955 @@ Every surgery comes with some risks. The common risks associated with the proced
 
 		</div>`,
   },
+  // valve-replacement-surgery
+  {
+    name: "valve-replacement-surgery",
+    img: "/treatment/valve-replacement-surgery.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Valve Replacement Surgery: Restoring Heart Function & Quality of Life</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Valve Replacement Surgery is a critical cardiac procedure performed when one or more heart valves are severely damaged or diseased, affecting the heart’s ability to pump blood efficiently. The heart has four valves — <strong>aortic, mitral, tricuspid, and pulmonary</strong> — with replacement most commonly performed on the aortic and mitral valves.</p>
+    <p>The goal of valve replacement is to <strong>restore normal blood flow</strong>, reduce heart strain, and alleviate symptoms such as fatigue, shortness of breath, and chest pain. The procedure can involve either:</p>
+    <ul>
+        <li><strong>Mechanical Valves:</strong> Long-lasting but require lifelong blood thinners.</li>
+        <li><strong>Bioprosthetic Valves:</strong> Made from animal tissue and do not require long-term anticoagulation.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with Valve Replacement</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Aortic Stenosis/Regurgitation:</strong></span> Narrowing or leaking of the aortic valve, causing restricted blood flow.</p>
+    <p><span style="color: #0048ad;"><strong>Mitral Valve Prolapse or Stenosis:</strong></span> A faulty mitral valve that may not close properly or becomes narrowed.</p>
+    <p><span style="color: #0048ad;"><strong>Tricuspid Valve Disease:</strong></span> Dysfunction in the tricuspid valve affecting blood flow from the right atrium to the right ventricle.</p>
+    <p><span style="color: #0048ad;"><strong>Pulmonary Valve Stenosis:</strong></span> A narrowed pulmonary valve restricting blood flow to the lungs.</p>
+    <p><span style="color: #0048ad;"><strong>Infective Endocarditis (severe cases):</strong></span> Infection damaging heart valves.</p>
+    <p><span style="color: #0048ad;"><strong>Congenital Valve Defects:</strong></span> Birth-related valve abnormalities requiring surgical intervention.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>Diseased valves can be either <strong>narrowed (stenotic)</strong> or <strong>leaky (regurgitant)</strong>, disrupting normal blood flow. Left untreated, severe valve disease can lead to <strong>heart failure, arrhythmias, and stroke</strong>.</p>
+    <p>The choice between <strong>mechanical and bioprosthetic valves</strong> depends on factors such as age, lifestyle, and medical history.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span></p>
+    <ul>
+        <li>Echocardiogram to assess valve function.</li>
+        <li>Cardiac catheterization to check for coronary artery disease.</li>
+        <li>Blood tests and imaging for surgical planning.</li>
+    </ul>
+
+    <p><span style="color: #0048ad;"><strong>Surgical Options:</strong></span></p>
+    <ul>
+        <li><strong>Open-Heart Surgery:</strong> Traditional approach for complex cases.</li>
+        <li><strong>Minimally Invasive Valve Replacement:</strong> Smaller incisions with quicker recovery.</li>
+        <li><strong>Transcatheter Aortic Valve Replacement (TAVR):</strong> Suitable for high-risk patients who cannot undergo open surgery.</li>
+    </ul>
+
+    <p><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span></p>
+    <ul>
+        <li>ICU monitoring for heart rhythm and function.</li>
+        <li>Anticoagulation therapy for mechanical valves.</li>
+        <li>Regular echocardiograms to assess valve function.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Fatigue, chest pain, shortness of breath, heart murmurs, and heart failure symptoms.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved energy levels, normalized heart function, and reduced symptoms.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Valve Replacement</strong></span></h2>
+    <p>✔ Restores normal blood flow and heart function.</p>
+    <p>✔ Reduces the risk of heart failure and stroke.</p>
+    <p>✔ Improves quality of life and survival rates.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Potential Risks:</strong></span> Risk of blood clots (especially with mechanical valves), infection (endocarditis), arrhythmias, or valve dysfunction.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ <strong>Minimally invasive and transcatheter techniques</strong> have significantly reduced recovery times.</p>
+    <p>✔ <strong>Innovations in tissue-engineered valves</strong> are expanding treatment options.</p>
+    <p>✔ Regular follow-up is crucial to monitor valve function over time.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Valve Replacement Surgery?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Top Cardiac Surgeons:</strong></span> Experts in complex valve repairs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ State-of-the-Art Cath Labs:</strong></span> Equipped for minimally invasive valve replacements.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Tailored Valve Selection:</strong></span> Personalized treatment based on patient lifestyle and medical needs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Post-Op Care:</strong></span> Ensuring long-term heart health and recovery.</p>
+
+</div>`,
+  },
+  // valve-replacement-surgery
+  {
+    name: "coronary-artery-bypass-grafting",
+    img: "/treatment/coronary-artery-bypass-grafting.webp",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Coronary Artery Bypass Grafting (CABG): Restoring Heart Health</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Coronary Artery Bypass Grafting (CABG) is a surgical procedure aimed at improving blood flow to the heart in patients with severe <strong>coronary artery disease (CAD)</strong>. In CAD, the coronary arteries become narrowed or blocked due to <strong>atherosclerosis</strong>—the buildup of plaque—reducing oxygen-rich blood supply to the heart muscle, increasing the risk of heart attacks and heart failure.</p>
+    <p>CABG involves creating a **detour** around the blocked arteries by grafting healthy blood vessels from other parts of the body—typically the <strong>saphenous vein</strong> from the leg, the <strong>internal mammary artery</strong> from the chest, or the <strong>radial artery</strong> from the arm—to restore adequate blood flow to the heart.</p>
+    <p>As one of the most commonly performed heart surgeries globally, CABG significantly improves <strong>survival rates</strong>, alleviates symptoms like chest pain (angina), and enhances overall quality of life.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with CABG</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Coronary Artery Disease (CAD):</strong></span> The most common reason for CABG, involving blocked coronary arteries.</p>
+    <p><span style="color: #0048ad;"><strong>Acute Myocardial Infarction (Heart Attack):</strong></span> CABG may be necessary after a severe heart attack.</p>
+    <p><span style="color: #0048ad;"><strong>Chronic Angina:</strong></span> Persistent chest pain due to inadequate blood supply.</p>
+    <p><span style="color: #0048ad;"><strong>Left Main Coronary Artery Disease:</strong></span> A blockage in the main artery supplying the heart.</p>
+    <p><span style="color: #0048ad;"><strong>Triple-Vessel Disease:</strong></span> Severe blockages in three major coronary arteries.</p>
+    <p><span style="color: #0048ad;"><strong>Failed Percutaneous Coronary Interventions (PCI):</strong></span> When stents or angioplasty fail to keep arteries open.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>Blocked coronary arteries prevent oxygenated blood from reaching heart tissues, leading to **ischemia and potential heart muscle damage**.</p>
+    <p>CABG provides an **alternative route for blood flow**, reducing strain on the heart and preventing further ischemic events.</p>
+    <p>The **longevity of the graft** varies based on the type of vessel used and patient lifestyle factors.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span></p>
+    <ul>
+        <li><strong>Coronary Angiography:</strong> Identifies blocked arteries.</li>
+        <li><strong>Echocardiogram & Stress Test:</strong> Evaluates heart function.</li>
+        <li><strong>Blood Tests & Chest X-rays:</strong> Assesses overall surgical readiness.</li>
+    </ul>
+
+    <p><span style="color: #0048ad;"><strong>Surgical Process:</strong></span></p>
+    <ul>
+        <li>Performed under **general anesthesia**.</li>
+        <li>The heart may be **stopped using a heart-lung machine** (on-pump CABG) or kept beating (off-pump CABG).</li>
+        <li>Healthy blood vessels are **grafted above and below** the blocked artery to restore blood flow.</li>
+    </ul>
+
+    <p><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span></p>
+    <ul>
+        <li>ICU monitoring for **heart rhythm, blood pressure, and fluid balance**.</li>
+        <li>Pain management and gradual **physical rehabilitation**.</li>
+        <li>Long-term follow-up includes **medication management and lifestyle counseling**.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Symptoms include chest pain (angina), shortness of breath, fatigue, and risk of heart attack.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved heart function, increased energy levels, reduced chest pain, and lowered risk of cardiac events.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of CABG</strong></span></h2>
+    <p>✔ Provides long-term relief from angina.</p>
+    <p>✔ Reduces the risk of heart attacks.</p>
+    <p>✔ Improves life expectancy, especially in high-risk patients.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Potential Risks:</strong></span> Risk of infection or bleeding, arrhythmias (especially atrial fibrillation), stroke or heart attack during/after surgery (rare), and graft occlusion over time requiring future interventions.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ **Arterial grafts** (like the internal mammary artery) have longer patency rates than vein grafts.</p>
+    <p>✔ **Off-pump CABG** reduces the risk of certain complications but may not be suitable for all patients.</p>
+    <p>✔ **Post-operative cardiac rehabilitation** improves long-term outcomes.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for CABG?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Cardiothoracic Surgeons:</strong></span> Extensive experience in both on-pump and off-pump CABG.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Pre-Surgical Planning:</strong></span> Using 3D angiography for precision.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Cardiac Rehabilitation Programs:</strong></span> Ensuring holistic recovery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Success Rates:</strong></span> Industry-leading patient outcomes.</p>
+
+</div>
+`,
+  },
+  // total-knee-replacement
+  {
+    name: "total-knee-replacement",
+    img: "/treatment/total-knee-replacement.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Total Knee Replacement (TKR): Restoring Mobility & Quality of Life</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Total Knee Replacement (TKR), also known as <strong>Total Knee Arthroplasty</strong>, is a surgical procedure that replaces a damaged or worn-out knee joint with an artificial implant. It is typically performed in patients suffering from severe knee pain and disability due to <strong>osteoarthritis, rheumatoid arthritis, or traumatic injury</strong>.</p>
+    <p>The surgery involves removing damaged <strong>bone and cartilage</strong> from the thighbone (<strong>femur</strong>), shinbone (<strong>tibia</strong>), and kneecap (<strong>patella</strong>), and replacing them with **metal and plastic components** that replicate the knee's natural movement.</p>
+    <p>TKR is considered one of the most successful orthopedic procedures, significantly <strong>reducing pain, improving mobility, and enhancing quality of life</strong>.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with TKR</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Osteoarthritis:</strong></span> The most common reason for knee replacement due to cartilage wear.</p>
+    <p><span style="color: #0048ad;"><strong>Rheumatoid Arthritis:</strong></span> Autoimmune inflammation causing joint damage.</p>
+    <p><span style="color: #0048ad;"><strong>Post-Traumatic Arthritis:</strong></span> Arthritis resulting from knee injuries.</p>
+    <p><span style="color: #0048ad;"><strong>Avascular Necrosis:</strong></span> Bone tissue death due to lack of blood supply.</p>
+    <p><span style="color: #0048ad;"><strong>Knee Deformities:</strong></span> Conditions such as bow-legged or knock-kneed alignment.</p>
+    <p><span style="color: #0048ad;"><strong>Severe Knee Injuries:</strong></span> Irreparable joint damage requiring surgical intervention.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>The <strong>knee joint</strong>, the largest in the body, is prone to wear and tear over time, leading to **cartilage degeneration**.</p>
+    <p>Loss of cartilage results in **bone-on-bone contact**, causing pain, stiffness, and reduced mobility.</p>
+    <p><strong>Artificial knee implants</strong> are designed to mimic natural movement and withstand daily stress.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span></p>
+    <ul>
+        <li><strong>X-rays & MRI:</strong> Assess joint damage.</li>
+        <li><strong>Blood Tests & Physical Therapy Evaluation:</strong> Ensure patient fitness for surgery.</li>
+        <li><strong>Pre-operative Education:</strong> Patients are guided on post-surgical recovery.</li>
+    </ul>
+
+    <p><span style="color: #0048ad;"><strong>Surgical Process:</strong></span></p>
+    <ul>
+        <li>Performed under **general or spinal anesthesia**.</li>
+        <li>Damaged cartilage and bone are removed from the knee joint.</li>
+        <li>**Metal components** are attached to the **femur and tibia**, with a **plastic spacer** inserted for smooth movement.</li>
+        <li>The **patella may be resurfaced** if necessary.</li>
+    </ul>
+
+    <p><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span></p>
+    <ul>
+        <li>Early mobilization is encouraged to **prevent stiffness and blood clots**.</li>
+        <li><strong>Physical therapy</strong> begins within 24 hours post-surgery.</li>
+        <li>**Pain management** and **blood clot prevention** protocols are followed.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Severe knee pain, stiffness, reduced range of motion, and difficulty walking.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved joint function, significant pain relief, and restored mobility.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of TKR</strong></span></h2>
+    <p>✔ Long-lasting pain relief.</p>
+    <p>✔ Enhanced joint stability and mobility.</p>
+    <p>✔ Improved quality of life.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Potential Risks:</strong></span> Infection, blood clots, nerve injury, implant wear or loosening over time, and stiffness due to improper rehabilitation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ **Modern knee implants** can last 20+ years with proper care.</p>
+    <p>✔ **Robotic-assisted TKR** offers greater precision and faster recovery.</p>
+    <p>✔ **Weight management & physical therapy** significantly improve long-term outcomes.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for TKR?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Experienced Orthopedic Surgeons:</strong></span> Skilled in both traditional and robotic-assisted TKR.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Customized Implants:</strong></span> Tailored to match individual anatomy.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Rehabilitation Programs:</strong></span> Designed to maximize post-operative recovery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Minimally Invasive Techniques:</strong></span> For faster healing and reduced post-op pain.</p>
+
+</div>
+`,
+  },
+  // total-hip-replacement
+  {
+    name: "total-hip-replacement",
+    img: "/treatment/total-hip-replacement.webp",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Total Hip Replacement (THR): Restoring Mobility & Quality of Life</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Total Hip Replacement (THR), also known as <strong>Total Hip Arthroplasty</strong>, is a surgical procedure that replaces the damaged ball-and-socket joint of the hip with a prosthetic implant. This surgery is commonly performed to relieve pain and restore function in patients with <strong>hip joint damage</strong> due to <strong>arthritis, fractures, or other conditions</strong>.</p>
+    <p>The procedure involves replacing the <strong>femoral head</strong> (the ball) with a **metal or ceramic prosthesis** and lining the hip socket (<strong>acetabulum</strong>) with a durable **plastic, metal, or ceramic cup**.</p>
+    <p>THR is one of the most successful orthopedic surgeries, providing <strong>long-term pain relief</strong> and significantly improving mobility.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with THR</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Osteoarthritis:</strong></span> The most common reason for hip replacement due to cartilage wear.</p>
+    <p><span style="color: #0048ad;"><strong>Rheumatoid Arthritis:</strong></span> Autoimmune inflammation leading to joint damage.</p>
+    <p><span style="color: #0048ad;"><strong>Avascular Necrosis:</strong></span> Bone tissue death due to reduced blood supply.</p>
+    <p><span style="color: #0048ad;"><strong>Hip Fractures:</strong></span> Severe fractures that impair mobility.</p>
+    <p><span style="color: #0048ad;"><strong>Developmental Dysplasia of the Hip (DDH):</strong></span> Congenital hip misalignment requiring surgical correction.</p>
+    <p><span style="color: #0048ad;"><strong>Ankylosing Spondylitis:</strong></span> A condition that causes stiffness and fusion of the hip joints.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>The <strong>hip joint</strong> is essential for **weight-bearing and mobility**; damage to its cartilage results in **pain and reduced range of motion**.</p>
+    <p>Over time, **bone-on-bone contact** leads to **inflammation, stiffness, and disability**.</p>
+    <p>Modern **hip implants** are designed to mimic **natural motion** and withstand daily stresses.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span></p>
+    <ul>
+        <li><strong>X-rays, MRI, and CT scans:</strong> Used for detailed surgical planning.</li>
+        <li><strong>Blood tests & Physical Therapy Evaluations:</strong> To ensure fitness for surgery.</li>
+    </ul>
+
+    <p><span style="color: #0048ad;"><strong>Surgical Process:</strong></span></p>
+    <ul>
+        <li>Performed under **general or spinal anesthesia**.</li>
+        <li>The **damaged femoral head** is removed and replaced with a **metal or ceramic prosthesis**.</li>
+        <li>The **acetabulum is cleaned, reshaped**, and fitted with a **prosthetic cup**.</li>
+        <li>The new components are **secured**, and surrounding **muscles and tissues are reattached**.</li>
+    </ul>
+
+    <p><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span></p>
+    <ul>
+        <li>**Early mobilization** to prevent stiffness and blood clots.</li>
+        <li><strong>Physical therapy</strong> for strength and mobility restoration.</li>
+        <li>**Pain management** and **blood clot prevention** measures.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Hip pain, stiffness, reduced range of motion, and difficulty walking or standing.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved hip function, significant pain relief, and enhanced mobility.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of THR</strong></span></h2>
+    <p>✔ Long-lasting pain relief.</p>
+    <p>✔ Restored hip function and improved mobility.</p>
+    <p>✔ High success rate with implants lasting 20+ years.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Potential Risks:</strong></span> Risk of **dislocation, infection, or blood clots**. Implant wear over time may require **revision surgery**. Leg length discrepancy (rare but possible).</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ **Minimally invasive & robotic-assisted THR** techniques reduce recovery time.</p>
+    <p>✔ **Ceramic and metal implants** offer enhanced durability.</p>
+    <p>✔ **Post-op physical therapy** is crucial for optimal outcomes.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for THR?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Orthopedic Surgeons:</strong></span> Trained in minimally invasive and robotic-assisted THR.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Customized Implants:</strong></span> Tailored to individual patient anatomy.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Dedicated Physical Therapy Programs:</strong></span> Designed for faster recovery and mobility improvement.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Success Rates:</strong></span> Low complication rates with excellent patient outcomes.</p>
+
+</div>
+`,
+  },
+  // tibial-sarcoma
+  {
+    name: "tibial-sarcoma",
+    img: "/treatment/tibial-sarcoma.png",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Tibial Sarcoma (Tibiyasarcoma): Advanced Cancer Treatment</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Tibial Sarcoma, also referred to as Osteosarcoma of the Tibia, is a rare but aggressive form of bone cancer that originates in the tibia (shinbone). It typically affects children, adolescents, and young adults during growth spurts but can occur at any age. This malignant tumor originates in the osteoblasts—the bone-forming cells—and often presents with pain, swelling, and reduced mobility.</p>
+    <p>Tibial sarcoma is classified as a primary bone tumor and requires prompt diagnosis and a multidisciplinary treatment approach involving chemotherapy, surgery, and sometimes radiation therapy. Due to its location, limb-sparing surgical techniques are prioritized whenever possible to maintain function and mobility.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms of Tibial Sarcoma</strong></span></h2>
+    <ul>
+        <li>Persistent pain in the shin or knee area.</li>
+        <li>Swelling and tenderness near the tumor site.</li>
+        <li>A visible lump or mass over the tibia.</li>
+        <li>Decreased range of motion or limping.</li>
+        <li>Increased risk of fractures (pathologic fractures).</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>Tibial sarcoma is often diagnosed during adolescence due to rapid bone growth.</p>
+    <p>It commonly metastasizes to the lungs if not detected early.</p>
+    <p>Genetic syndromes like Li-Fraumeni Syndrome and hereditary retinoblastoma may increase the risk.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Diagnosis Process</strong></span></h2>
+    <ul>
+        <li><strong>X-rays and MRI:</strong> Evaluate tumor size and bone involvement.</li>
+        <li><strong>CT Scan of the Chest:</strong> Assesses for lung metastases.</li>
+        <li><strong>Bone Scan or PET Scan:</strong> Used for staging.</li>
+        <li><strong>Biopsy:</strong> Definitive diagnosis and histological analysis.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Treatment Options</strong></span></h2>
+    <ul>
+        <li><strong>Neoadjuvant Chemotherapy:</strong> Shrinks the tumor before surgery and targets microscopic metastases.</li>
+        <li><strong>Surgical Resection:</strong></li>
+        <ul>
+            <li>Limb-Sparing Surgery when possible, using bone grafts or endoprostheses.</li>
+            <li>Amputation if the tumor involves major blood vessels or nerves.</li>
+        </ul>
+        <li><strong>Adjuvant Chemotherapy:</strong> Destroys remaining cancer cells post-surgery.</li>
+        <li><strong>Radiation Therapy:</strong> Used when complete surgical removal isn't possible.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Severe pain, visible swelling, and reduced mobility.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Pain relief, improved mobility (if limb-sparing is successful), and a reduced risk of metastasis.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Early Treatment</strong></span></h2>
+    <p>✔ Increases survival rates and the likelihood of limb preservation.</p>
+    <p>✔ Reduces the risk of distant metastases.</p>
+    <p>✔ Improves quality of life with modern reconstructive surgery.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p>✔ Risk of infection and prosthesis failure in limb-sparing surgeries.</p>
+    <p>✔ Chemotherapy side effects (immune suppression, nausea, fatigue).</p>
+    <p>✔ Possibility of recurrence, especially in the lungs.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Advances in 3D-printed implants and bone grafting techniques have improved surgical outcomes.</p>
+    <p>✔ Immunotherapy and targeted treatments are under investigation for metastatic cases.</p>
+    <p>✔ Physical rehabilitation plays a vital role post-surgery for restoring function.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Tibial Sarcoma Treatment?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Oncology and Orthopedic Teams:</strong></span> Coordinated care for complex bone tumors.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Specialized Limb-Sparing Surgeons:</strong></span> High success rates in preserving limb function.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Rehabilitation Programs:</strong></span> Ensuring post-operative recovery and mobility restoration.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Chemotherapy Protocols:</strong></span> Minimizing side effects while maximizing treatment effectiveness.</p>
+</div>
+
+
+`,
+  },
+  // brain-tumor-treatment
+  {
+    name: "brain-tumor-treatment",
+    img: "/treatment/brain-tumor-treatment.png",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Brain Tumor Treatment: Advanced Neurosurgical & Oncological Care</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>A Brain Tumor is an abnormal growth of cells within the brain or its surrounding structures. Tumors can be benign (non-cancerous) or malignant (cancerous) and may originate within the brain (primary tumors) or spread from other organs (secondary or metastatic tumors).</p>
+    <p>Brain tumors can affect cognitive functions, motor skills, vision, and personality, depending on their location. Treatment strategies vary based on the tumor type, size, location, and grade but often include surgery, radiation therapy, and chemotherapy.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Common Types of Brain Tumors</strong></span></h2>
+    <ul>
+        <li><strong>Glioblastoma Multiforme (GBM):</strong> Most aggressive primary brain cancer.</li>
+        <li><strong>Meningioma:</strong> Typically benign but can be aggressive in rare cases.</li>
+        <li><strong>Astrocytoma:</strong> Varying grades from low to high malignancy.</li>
+        <li><strong>Medulloblastoma:</strong> Common in children.</li>
+        <li><strong>Pituitary Adenomas:</strong> Usually benign tumors of the pituitary gland.</li>
+        <li><strong>Metastatic Brain Tumors:</strong> Spread from cancers like lung, breast, or melanoma.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms of Brain Tumors</strong></span></h2>
+    <ul>
+        <li>Persistent headaches, often worse in the morning.</li>
+        <li>Seizures or convulsions.</li>
+        <li>Vision or hearing changes.</li>
+        <li>Memory loss or cognitive difficulties.</li>
+        <li>Weakness or numbness in limbs.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>Tumor grade (I-IV) determines aggressiveness and guides treatment.</p>
+    <p>The brain’s complex anatomy makes surgical access challenging, requiring advanced techniques like neuronavigation and awake craniotomy.</p>
+    <p>The blood-brain barrier limits the effectiveness of some chemotherapy drugs, making targeted therapies and immunotherapies essential in certain cases.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Diagnosis Process</strong></span></h2>
+    <ul>
+        <li><strong>MRI with Contrast:</strong> Gold standard for brain imaging.</li>
+        <li><strong>CT Scan:</strong> Useful in emergencies (e.g., suspected hemorrhage).</li>
+        <li><strong>Biopsy:</strong> Surgical or stereotactic for definitive diagnosis.</li>
+        <li><strong>PET Scans:</strong> To assess metabolic activity in certain tumors.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Treatment Options</strong></span></h2>
+    <ul>
+        <li><strong>Surgery:</strong></li>
+        <ul>
+            <li>Craniotomy for tumor removal.</li>
+            <li>Minimally Invasive Endoscopic Surgery for deep-seated tumors.</li>
+            <li>Awake Craniotomy when tumors are near critical brain areas.</li>
+        </ul>
+        <li><strong>Radiation Therapy:</strong></li>
+        <ul>
+            <li>Stereotactic Radiosurgery (Gamma Knife, CyberKnife) for precision targeting.</li>
+            <li>Whole-Brain Radiation for metastatic tumors.</li>
+        </ul>
+        <li><strong>Chemotherapy:</strong> Agents like Temozolomide (TMZ) for gliomas.</li>
+        <li><strong>Targeted Therapy:</strong> e.g., Bevacizumab for GBM.</li>
+        <li><strong>Immunotherapy:</strong> Emerging options for certain brain tumors.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Headaches, neurological deficits, seizures, and cognitive changes.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Symptom relief, tumor control or remission, and improved quality of life.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Advanced Brain Tumor Treatment</strong></span></h2>
+    <p>✔ Improved survival rates with multimodal approaches.</p>
+    <p>✔ Enhanced safety with real-time brain mapping and intraoperative imaging.</p>
+    <p>✔ Reduced side effects with targeted therapies.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p>✔ Risk of neurological deficits post-surgery.</p>
+    <p>✔ Cognitive side effects from radiation therapy.</p>
+    <p>✔ Tumor recurrence, especially in high-grade malignancies.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Tumor molecular profiling helps personalize treatments.</p>
+    <p>✔ Ongoing research in immunotherapy and tumor vaccines holds promise for aggressive cancers.</p>
+    <p>✔ Supportive care, including neuro-rehabilitation, is essential post-treatment.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Brain Tumor Treatment?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Neurosurgical Facilities:</strong></span> Equipped with state-of-the-art surgical technology.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Multidisciplinary Tumor Board:</strong></span> Ensuring individualized treatment planning.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Access to Clinical Trials:</strong></span> Offering cutting-edge therapies for high-risk cases.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Neuro-Rehabilitation Programs:</strong></span> Supporting post-operative recovery and cognitive function.</p>
+</div>
+`,
+  },
+  // leukemia
+  {
+    name: "leukemia",
+    img: "/treatment/leukemia.webp",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Leukemia: Advanced Diagnosis & Treatment Options</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Leukemia is a type of blood cancer that originates in the bone marrow, leading to an overproduction of abnormal white blood cells. These cancerous cells interfere with normal blood cell production, resulting in anemia, frequent infections, and bleeding disorders.</p>
+    <p>Leukemia is classified based on how quickly it progresses (acute or chronic) and the type of blood cell affected (lymphoid or myeloid). Treatment varies depending on the type and stage but typically includes chemotherapy, radiation therapy, targeted therapy, and bone marrow transplantation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of Leukemia</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Acute Lymphoblastic Leukemia (ALL):</strong></span> Most common in children.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Acute Myeloid Leukemia (AML):</strong></span> Affects both children and adults.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Chronic Lymphocytic Leukemia (CLL):</strong></span> Primarily affects older adults.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Chronic Myeloid Leukemia (CML):</strong></span> Treated effectively with targeted therapies.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Hairy Cell Leukemia:</strong></span> A rare, slow-growing leukemia affecting white blood cells.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms of Leukemia</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Fatigue & Weakness:</strong></span> Due to low red blood cell counts (anemia).</p>
+    <p><span style="color: #0048ad;"><strong>✔ Frequent Infections:</strong></span> Caused by a weakened immune system.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Easy Bruising & Bleeding:</strong></span> Due to low platelet levels.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Swollen Lymph Nodes or Spleen:</strong></span> Often a sign of leukemic cell accumulation.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Bone Pain or Tenderness:</strong></span> From overcrowded bone marrow.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Unexplained Weight Loss & Night Sweats:</strong></span> Common in advanced leukemia cases.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ Leukemia begins in the bone marrow when abnormal white blood cells multiply uncontrollably.</p>
+    <p>✔ Genetic mutations, such as the Philadelphia chromosome (CML), play a significant role in certain leukemia subtypes.</p>
+    <p>✔ Leukemia severity and treatment approach depend on the specific subtype and progression rate.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Diagnosis Process</strong></span></h2>
+    <ul>
+        <li>Complete Blood Count (CBC): Detects abnormal white blood cell counts.</li>
+        <li>Bone Marrow Biopsy: Confirms leukemia and determines specific subtype.</li>
+        <li>Cytogenetic Testing: Identifies chromosomal abnormalities.</li>
+        <li>Flow Cytometry & Molecular Testing: Provides detailed cell profiling for precision treatment.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Treatment Options</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Chemotherapy:</strong></span> Primary treatment for most leukemia cases.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Targeted Therapy:</strong></span> Drugs like Imatinib for CML.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Radiation Therapy:</strong></span> Used for localized leukemia cell destruction.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Bone Marrow/Stem Cell Transplant:</strong></span> For high-risk or relapsed cases.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Immunotherapy:</strong></span> CAR-T cell therapy for refractory leukemia.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Fatigue, frequent infections, bleeding issues, weight loss.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Symptom relief, restored blood cell counts, potential remission.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Early Treatment</strong></span></h2>
+    <p>✔ Increases the chance of remission, especially in acute leukemias.</p>
+    <p>✔ Reduces life-threatening infections and bleeding risks.</p>
+    <p>✔ Improves survival rates and overall quality of life.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Chemotherapy Side Effects:</strong></span> Fatigue, nausea, hair loss, immune suppression.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of Relapse:</strong></span> Particularly in aggressive leukemia subtypes.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Long-Term Complications:</strong></span> Fertility issues, secondary cancers, chronic fatigue.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Advances in targeted therapy have significantly improved survival rates.</p>
+    <p>✔ Bone marrow transplants remain the gold standard for high-risk leukemia cases.</p>
+    <p>✔ Ongoing research into gene-editing techniques (CRISPR) holds potential for future leukemia cures.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Leukemia Treatment?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Specialized Hematology-Oncology Teams:</strong></span> Expertise in complex leukemia cases.</p>
+    <p><span style="color: #0048ad;"><strong>✔ State-of-the-Art Bone Marrow Transplant Units:</strong></span> Advanced donor matching programs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Access to Targeted Therapies & Clinical Trials:</strong></span> Innovative leukemia treatments.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Supportive Care:</strong></span> Includes psychological counseling & nutritional support.</p>
+
+</div>
+
+`,
+  },
+  // oral-malignant-melanoma
+  {
+    name: "oral-malignant-melanoma",
+    img: "/treatment/oral-malignant-melanoma.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Oral Malignant Melanoma: Early Detection & Advanced Treatment</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Oral Malignant Melanoma is a rare but aggressive cancer that arises from the melanocytes within the oral cavity, most commonly affecting the palate and gums. Unlike skin melanomas, oral melanomas are often asymptomatic in their early stages, leading to delayed diagnosis and a more challenging prognosis.</p>
+    <p>Early detection is critical, as oral melanomas have a high risk of local invasion and distant metastasis. Treatment typically involves surgery, radiation therapy, and in advanced cases, immunotherapy.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Risk Factors for Oral Malignant Melanoma</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Tobacco and Alcohol Use</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Chronic Irritation or Trauma</strong></span> in the oral cavity</p>
+    <p><span style="color: #0048ad;"><strong>✔ Genetic Predisposition</strong></span> (rare cases)</p>
+    <p><span style="color: #0048ad;"><strong>✔ Immunosuppression</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms of Oral Malignant Melanoma</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Dark-colored lesions or patches</strong></span> in the mouth</p>
+    <p><span style="color: #0048ad;"><strong>✔ Bleeding</strong></span> from oral lesions</p>
+    <p><span style="color: #0048ad;"><strong>✔ Ulcerations</strong></span> that do not heal</p>
+    <p><span style="color: #0048ad;"><strong>✔ Swelling or a lump</strong></span> in the gums or palate</p>
+    <p><span style="color: #0048ad;"><strong>✔ Pain or difficulty swallowing</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ Melanomas in the oral cavity behave more aggressively than their cutaneous counterparts.</p>
+    <p>✔ Oral melanomas can metastasize early to lymph nodes, lungs, and the brain.</p>
+    <p>✔ Genetic mutations such as BRAF and KIT may influence treatment options.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Diagnosis Process</strong></span></h2>
+    <ul>
+        <li>Oral Examination and biopsy of the lesion</li>
+        <li>Immunohistochemistry to confirm melanoma markers</li>
+        <li>CT, MRI, or PET Scans to check for metastasis</li>
+        <li>Lymph Node Assessment for regional spread</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Treatment Options</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Surgical Resection</strong></span> – Wide excision with clear margins is critical</p>
+    <p><span style="color: #0048ad;"><strong>✔ Radiation Therapy</strong></span> – Often used post-surgery to reduce recurrence</p>
+    <p><span style="color: #0048ad;"><strong>✔ Immunotherapy</strong></span> – PD-1 inhibitors like Pembrolizumab for metastatic cases</p>
+    <p><span style="color: #0048ad;"><strong>✔ Targeted Therapy</strong></span> – For patients with specific genetic mutations</p>
+    <p><span style="color: #0048ad;"><strong>✔ Reconstructive Surgery</strong></span> – To restore oral function and appearance post-resection</p>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Visible dark patches, oral bleeding, difficulty swallowing or speaking</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Tumor removal, restored oral function, and regular surveillance to prevent recurrence</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Early Treatment</strong></span></h2>
+    <p>✔ Higher survival rates with early diagnosis</p>
+    <p>✔ Improved functional and cosmetic outcomes</p>
+    <p>✔ Reduced risk of distant metastasis</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of speech and swallowing difficulties</strong></span> post-surgery</p>
+    <p><span style="color: #0048ad;"><strong>✔ High recurrence rate</strong></span> if not fully excised</p>
+    <p><span style="color: #0048ad;"><strong>✔ Immune-related side effects</strong></span> from immunotherapy</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Immunotherapy has significantly improved survival in metastatic cases</p>
+    <p>✔ Early-stage melanomas treated with surgery alone have favorable outcomes</p>
+    <p>✔ Advanced imaging techniques help map tumors before surgery</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Oral Malignant Melanoma Treatment?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Specialized Head & Neck Oncology Teams:</strong></span> Expertise in rare oral cancers</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Surgical Techniques:</strong></span> For tumor resection and reconstruction</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Cancer Care:</strong></span> Including immunotherapy and radiation</p>
+    <p><span style="color: #0048ad;"><strong>✔ Holistic Rehabilitation Programs:</strong></span> Focusing on speech and swallowing recovery</p>
+
+</div>
+`,
+  },
+  // adenoid-cystic-carcinoma
+  {
+    name: "adenoid-cystic-carcinoma",
+    img: "/treatment/adenoid-cystic-carcinoma.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Adenoid Cystic Carcinoma (ACC): Diagnosis & Advanced Treatment</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Adenoid Cystic Carcinoma (ACC) is a rare, slow-growing cancer that typically arises in the salivary glands, though it can also develop in the breast, trachea, or skin. Despite its slow growth, ACC has a high risk of perineural invasion (spreading along nerves) and can metastasize to distant organs like the lungs and liver.</p>
+    <p>The main challenge with ACC is its tendency for late recurrence and distant metastases, even years after initial treatment. A combination of surgery and radiation therapy is the standard of care.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Common Sites of ACC</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Salivary Glands</strong></span> (Parotid, Submandibular)</p>
+    <p><span style="color: #0048ad;"><strong>✔ Minor Salivary Glands</strong></span> (Palate, Tongue)</p>
+    <p><span style="color: #0048ad;"><strong>✔ Trachea and Lungs</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Breast</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Skin and Lacrimal Glands</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms of Adenoid Cystic Carcinoma</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Slow-growing mass</strong></span> in the affected area</p>
+    <p><span style="color: #0048ad;"><strong>✔ Pain or facial nerve weakness</strong></span> if in salivary glands</p>
+    <p><span style="color: #0048ad;"><strong>✔ Difficulty swallowing or breathing</strong></span> if in airways</p>
+    <p><span style="color: #0048ad;"><strong>✔ Numbness or tingling</strong></span> due to nerve involvement</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ ACC is known for its perineural invasion, where cancer cells spread along nerve pathways.</p>
+    <p>✔ It often recurs locally and can metastasize even years after initial treatment.</p>
+    <p>✔ Genetic alterations, such as MYB-NFIB fusion, are commonly seen in ACC tumors.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Diagnosis Process</strong></span></h2>
+    <ul>
+        <li>Imaging (MRI, CT) to assess tumor extent and nerve involvement</li>
+        <li>Biopsy for histopathological confirmation</li>
+        <li>PET Scan to check for distant metastasis</li>
+        <li>Fine-Needle Aspiration (FNA) in cases involving salivary glands</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Treatment Options</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Surgical Resection</strong></span> – The primary treatment, aiming for clear margins</p>
+    <p><span style="color: #0048ad;"><strong>✔ Radiation Therapy</strong></span> – Often used post-surgery to reduce recurrence risk</p>
+    <p><span style="color: #0048ad;"><strong>✔ Proton Beam Therapy</strong></span> – Beneficial for tumors near critical structures</p>
+    <p><span style="color: #0048ad;"><strong>✔ Chemotherapy/Targeted Therapy</strong></span> – For metastatic or inoperable cases</p>
+    <p><span style="color: #0048ad;"><strong>✔ Immunotherapy</strong></span> – Under investigation for resistant ACC cases</p>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Presence of a mass, nerve pain, difficulty swallowing or breathing</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Tumor removal, reduced symptoms, and close monitoring for recurrence</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Early Treatment</strong></span></h2>
+    <p>✔ Reduces the risk of nerve damage and metastasis</p>
+    <p>✔ Long-term survival rates improve with complete tumor resection</p>
+    <p>✔ Radiation therapy enhances local control</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Nerve damage</strong></span> during surgery, especially in salivary gland cases</p>
+    <p><span style="color: #0048ad;"><strong>✔ High likelihood of distant metastases</strong></span> despite initial treatment</p>
+    <p><span style="color: #0048ad;"><strong>✔ Side effects from radiation</strong></span> including dry mouth or difficulty swallowing</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Long-term follow-up is crucial due to ACC’s potential for late metastasis</p>
+    <p>✔ Proton therapy offers precision treatment for skull base or airway tumors</p>
+    <p>✔ Research into genetic therapies is ongoing to improve outcomes</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Adenoid Cystic Carcinoma Treatment?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Head & Neck Surgeons:</strong></span> Skilled in complex tumor resections</p>
+    <p><span style="color: #0048ad;"><strong>✔ Access to Advanced Radiotherapy:</strong></span> Proton beam and stereotactic radiation</p>
+    <p><span style="color: #0048ad;"><strong>✔ Multidisciplinary Approach:</strong></span> Combining oncology, radiology, and rehabilitation</p>
+    <p><span style="color: #0048ad;"><strong>✔ Long-Term Surveillance Programs:</strong></span> For recurrence monitoring</p>
+
+</div>
+`,
+  },
+  // stromal-tumors
+  {
+    name: "stromal-tumors",
+    img: "/treatment/stromal-tumors.webp",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Gastrointestinal Stromal Tumors (GIST): Advanced Diagnosis & Treatment</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Gastrointestinal Stromal Tumors (GISTs) are rare cancers that develop from specialized cells in the walls of the gastrointestinal (GI) tract called interstitial cells of Cajal. These cells act as pacemakers, helping regulate the movement of food through the digestive system.</p>
+    <p>GISTs most commonly occur in the stomach or small intestine but can appear anywhere along the GI tract. They are often driven by mutations in the KIT or PDGFRA genes, making them responsive to targeted therapy.</p>
+    <p>While some GISTs are benign, others can be aggressive and metastasize. Early diagnosis and treatment are crucial to prevent spread.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Common Sites for Stromal Tumors</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Stomach</strong></span> (60-70%)</p>
+    <p><span style="color: #0048ad;"><strong>✔ Small Intestine</strong></span> (20-30%)</p>
+    <p><span style="color: #0048ad;"><strong>✔ Esophagus, Colon, Rectum</strong></span> and other GI tract areas (rare)</p>
+    <p><span style="color: #0048ad;"><strong>✔ Omentum and Mesentery</strong></span> (less common)</p>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms of Stromal Tumors</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Abdominal pain</strong></span> or discomfort</p>
+    <p><span style="color: #0048ad;"><strong>✔ GI bleeding</strong></span> (visible in vomit or stools)</p>
+    <p><span style="color: #0048ad;"><strong>✔ A palpable mass</strong></span> in the abdomen</p>
+    <p><span style="color: #0048ad;"><strong>✔ Nausea, vomiting</strong></span> or early satiety</p>
+    <p><span style="color: #0048ad;"><strong>✔ Fatigue and anemia</strong></span> due to blood loss</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ Most GISTs are caused by mutations in the KIT gene or PDGFRA gene, leading to uncontrolled cell growth.</p>
+    <p>✔ CD117 (KIT protein) is a key diagnostic marker, detectable via immunohistochemistry.</p>
+    <p>✔ GISTs have varying malignant potential based on size, location, and mitotic rate.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Diagnosis Process</strong></span></h2>
+    <ul>
+        <li>Endoscopy or Endoscopic Ultrasound (EUS) for visualization and biopsy</li>
+        <li>CT Scan or MRI to assess tumor size and spread</li>
+        <li>PET Scan to detect metastases</li>
+        <li>Biopsy with Immunohistochemistry to confirm KIT or PDGFRA mutations</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Treatment Options</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Surgical Resection</strong></span> – The primary treatment for localized GISTs</p>
+    <p><span style="color: #0048ad;"><strong>✔ Targeted Therapy</strong></span> – Imatinib (Gleevec) is the first-line drug for unresectable or metastatic GISTs</p>
+    <p><span style="color: #0048ad;"><strong>✔ Second-Line Therapy</strong></span> – Sunitinib or Regorafenib for Imatinib-resistant cases</p>
+    <p><span style="color: #0048ad;"><strong>✔ Radiation Therapy</strong></span> – Rarely used but considered for pain control in advanced cases</p>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Abdominal pain, GI bleeding, anemia, and mass effect symptoms</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Tumor removal or control, restored GI function, and regular surveillance to monitor for recurrence</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Targeted Therapy</strong></span></h2>
+    <p>✔ High response rates in KIT-positive tumors</p>
+    <p>✔ Less toxic than traditional chemotherapy</p>
+    <p>✔ Extends survival in metastatic or recurrent cases</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Resistance to Imatinib</strong></span> over time in some patients</p>
+    <p><span style="color: #0048ad;"><strong>✔ Side effects of targeted therapy</strong></span> including nausea, fatigue, and edema</p>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of recurrence</strong></span> even after complete resection</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Early-stage GISTs often have excellent outcomes post-surgery</p>
+    <p>✔ Genetic profiling guides treatment decisions and improves outcomes</p>
+    <p>✔ Research into new tyrosine kinase inhibitors is expanding treatment options</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Stromal Tumor Treatment?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert GI Oncologists:</strong></span> Specializing in rare tumors</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Surgical Techniques:</strong></span> For complex resections</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Targeted Therapy Programs:</strong></span> For personalized treatment</p>
+    <p><span style="color: #0048ad;"><strong>✔ Personalized Treatment Plans:</strong></span> Based on genetic profiling</p>
+
+</div>
+`,
+  },
+  // chemotherapy
+  {
+    name: "chemotherapy",
+    img: "/treatment/chemotherapy.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Chemotherapy: Advanced Cancer Treatment</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Chemotherapy is a form of cancer treatment that uses powerful drugs to kill rapidly dividing cells, primarily targeting cancer cells. As one of the most established methods for treating cancer, chemotherapy can be used alone or in combination with other treatments such as surgery, radiation, immunotherapy, and targeted therapy.</p>
+    <p>Chemotherapy works by interfering with cancer cell growth and replication. However, because it also affects some healthy cells that divide rapidly (such as those in hair follicles, the digestive tract, and bone marrow), it can cause side effects.</p>
+    <p>Depending on the type and stage of cancer, chemotherapy can be curative, adjuvant (post-surgical), neoadjuvant (pre-surgical), or palliative (to relieve symptoms and improve quality of life).</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of Chemotherapy</strong></span></h2>
+    <ul>
+        <li><strong>Alkylating Agents:</strong> e.g., Cyclophosphamide, Cisplatin</li>
+        <li><strong>Antimetabolites:</strong> e.g., Methotrexate, 5-Fluorouracil</li>
+        <li><strong>Anthracyclines:</strong> e.g., Doxorubicin</li>
+        <li><strong>Plant Alkaloids:</strong> e.g., Vincristine, Paclitaxel</li>
+        <li><strong>Topoisomerase Inhibitors:</strong> e.g., Etoposide</li>
+        <li><strong>Targeted Chemotherapy:</strong> e.g., Imatinib for specific cancers</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Cancers Treated with Chemotherapy</strong></span></h2>
+    <ul>
+        <li>Breast Cancer</li>
+        <li>Lung Cancer</li>
+        <li>Leukemia & Lymphoma</li>
+        <li>Colorectal Cancer</li>
+        <li>Ovarian and Cervical Cancer</li>
+        <li>Prostate Cancer</li>
+        <li>Multiple Myeloma</li>
+        <li>Pancreatic Cancer</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ Chemotherapy drugs disrupt various stages of the cell cycle, preventing cancer cells from replicating.</p>
+    <p>✔ Some tumors are more sensitive to chemotherapy than others, making personalized treatment planning essential.</p>
+    <p>✔ Combination chemotherapy uses multiple drugs to target cancer cells in different ways, increasing treatment efficacy.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><strong>Pre-Treatment Evaluation:</strong></li>
+        <ul>
+            <li>Blood tests, imaging, and organ function assessments.</li>
+            <li>Insertion of a port-a-cath or PICC line for easy administration in long-term treatments.</li>
+        </ul>
+        <li><strong>Chemotherapy Administration Methods:</strong></li>
+        <ul>
+            <li><strong>Intravenous (IV):</strong> Most common, administered in cycles.</li>
+            <li><strong>Oral:</strong> Pills or capsules taken at home.</li>
+            <li><strong>Intrathecal:</strong> Directly into cerebrospinal fluid for certain brain cancers.</li>
+            <li><strong>Intraperitoneal:</strong> Into the abdominal cavity for cancers like ovarian cancer.</li>
+        </ul>
+        <li><strong>Post-Treatment Monitoring:</strong></li>
+        <ul>
+            <li>Regular blood tests to monitor blood counts and organ function.</li>
+            <li>Imaging scans to evaluate treatment effectiveness.</li>
+        </ul>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Cancer diagnosis confirmed, treatment plan established.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Tumor shrinkage, cancer remission, or improved symptom control.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Chemotherapy</strong></span></h2>
+    <p>✔ Can shrink tumors before surgery (neoadjuvant).</p>
+    <p>✔ Eliminates microscopic cancer cells post-surgery (adjuvant).</p>
+    <p>✔ Slows cancer growth and improves quality of life in advanced cases.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p>✔ Side effects: fatigue, nausea, hair loss, weakened immunity, and anemia.</p>
+    <p>✔ Long-term risks: potential organ damage, infertility, and secondary cancers (rare).</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Advances in precision oncology allow for chemotherapy tailored to tumor genetics.</p>
+    <p>✔ Newer targeted therapies and immunotherapies can complement traditional chemotherapy.</p>
+    <p>✔ Supportive treatments (anti-nausea meds, growth factors) have significantly improved tolerability.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Chemotherapy?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ State-of-the-Art Oncology Centers:</strong></span> Comfortable infusion rooms for outpatient chemotherapy.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Experienced Oncologists:</strong></span> Specializing in personalized cancer treatment plans.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Supportive Care:</strong></span> Including nutritional counseling and psychological support.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Access to Clinical Trials:</strong></span> Offering cutting-edge experimental therapies for eligible patients.</p>
+</div>
+
+`,
+  },
+  // truncus-arteriosus-repair
+  {
+    name: "truncus-arteriosus-repair",
+    img: "/treatment/truncus-arteriosus-repair.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Truncus Arteriosus Repair: Advanced Pediatric Cardiac Surgery</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Truncus Arteriosus is a rare congenital heart defect in which a single blood vessel (truncus) arises from both the right and left ventricles instead of the normal two separate vessels (the pulmonary artery and the aorta). This malformation causes mixed oxygenated and deoxygenated blood to circulate throughout the body, leading to cyanosis and heart failure if left untreated.</p>
+    <p>Truncus Repair is a complex surgical procedure that separates the pulmonary artery from the truncus and establishes a direct connection between the right ventricle and pulmonary arteries using a conduit. The surgery is typically performed within the first few weeks of a baby’s life to prevent irreversible lung damage.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of Truncus Arteriosus</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Type I:</strong></span> A single pulmonary artery originates from the truncus.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Type II:</strong></span> Right and left pulmonary arteries arise separately but close together from the truncus.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Type III:</strong></span> Right and left pulmonary arteries arise separately and widely apart.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Type IV (Pseudo-Truncus):</strong></span> Absent pulmonary artery with bronchial arteries supplying the lungs.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ Without repair, pulmonary overcirculation leads to irreversible pulmonary hypertension.</p>
+    <p>✔ The anatomical focus during surgery includes closing the ventricular septal defect (VSD) and reconstructing the right ventricular outflow tract.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Imaging:</strong></span> Echocardiogram, CT, or MRI.</li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span>
+            <ul>
+                <li>Cardiopulmonary bypass initiation.</li>
+                <li>Closing the VSD with a patch.</li>
+                <li>Separating pulmonary arteries from the truncus.</li>
+                <li>Placing a conduit from the right ventricle to pulmonary arteries.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> ICU monitoring, ventilatory support, and management of pulmonary hypertension.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Cyanosis, shortness of breath, poor feeding, failure to thrive.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved oxygen saturation, better growth, reduced heart failure symptoms.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Truncus Repair</strong></span></h2>
+    <p>✔ Prevents pulmonary hypertension.</p>
+    <p>✔ Corrects oxygenation problems.</p>
+    <p>✔ Enhances life expectancy and quality of life.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Conduit obstruction:</strong></span> Over time, the conduit may require replacement.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of endocarditis:</strong></span> Infection of the heart lining.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Arrhythmias:</strong></span> Irregular heart rhythms may develop post-surgery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Persistent pulmonary hypertension:</strong></span> Some cases may require long-term management.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Recent advancements in valve-sparing conduits and tissue-engineered grafts reduce the need for reoperation.</p>
+    <p>✔ Molecular studies on truncus arteriosus link genetic mutations in the TBX1 gene to the defect.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Truncus Arteriosus Repair?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Experienced Pediatric Cardiac Surgeons:</strong></span> Specialists in complex congenital repairs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Imaging Facilities:</strong></span> 3D heart mapping ensures surgical precision.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Tailored Post-Op Care:</strong></span> Comprehensive neonatal cardiac ICU with expert staff.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Success Rates:</strong></span> Surpassing global benchmarks in pediatric cardiac surgery.</p>
+
+</div>
+`,
+  },
+  // radiation-therapy
+  {
+    name: "radiation-therapy",
+    img: "/treatment/radiation-therapy.webp",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Radiation Therapy: Precision Cancer Treatment</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Radiation Therapy (or Radiotherapy) uses high-energy rays or particles to destroy cancer cells by damaging their DNA, preventing them from growing and dividing. It is one of the most effective treatments for many types of cancer and can be used alone or alongside other treatments like chemotherapy and surgery.</p>
+    <p>Radiation can be external beam radiation (delivered from outside the body) or internal radiation (brachytherapy), where radioactive sources are placed directly inside or near the tumor.</p>
+    <p>The goal of radiation therapy can be curative, adjuvant (to prevent recurrence), neoadjuvant (to shrink tumors before surgery), or palliative (to relieve pain and symptoms in advanced cancer).</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of Radiation Therapy</strong></span></h2>
+    <ul>
+        <li><strong>External Beam Radiation Therapy (EBRT)</strong></li>
+        <li><strong>3D Conformal Radiation Therapy (3D-CRT)</strong></li>
+        <li><strong>Intensity-Modulated Radiation Therapy (IMRT)</strong></li>
+        <li><strong>Stereotactic Radiosurgery (SRS):</strong> e.g., Gamma Knife, CyberKnife</li>
+        <li><strong>Stereotactic Body Radiation Therapy (SBRT)</strong></li>
+        <li><strong>Internal Radiation (Brachytherapy)</strong></li>
+        <li><strong>Proton Beam Therapy:</strong> Advanced form with less damage to surrounding tissue.</li>
+        <li><strong>Intraoperative Radiation Therapy (IORT):</strong> Delivered during surgery.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Cancers Treated with Radiation Therapy</strong></span></h2>
+    <ul>
+        <li>Breast Cancer</li>
+        <li>Prostate Cancer</li>
+        <li>Brain Tumors</li>
+        <li>Lung Cancer</li>
+        <li>Head and Neck Cancers</li>
+        <li>Cervical and Uterine Cancers</li>
+        <li>Lymphoma</li>
+        <li>Bone Metastases (for pain control)</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ Radiation causes irreparable DNA damage in cancer cells, leading to cell death.</p>
+    <p>✔ Cancer cells are less capable of repairing radiation-induced damage than normal cells.</p>
+    <p>✔ Fractionated radiation (spread out over multiple sessions) minimizes harm to healthy tissues.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><strong>Pre-Treatment Planning:</strong></li>
+        <ul>
+            <li>CT Simulation to map the exact location of the tumor.</li>
+            <li>Creation of custom immobilization devices for precise targeting.</li>
+        </ul>
+        <li><strong>Radiation Sessions:</strong></li>
+        <ul>
+            <li>Treatment sessions last 10–30 minutes, typically 5 days a week over several weeks.</li>
+            <li>Painless procedure, with patients remaining awake throughout.</li>
+        </ul>
+        <li><strong>Post-Treatment Monitoring:</strong></li>
+        <ul>
+            <li>Follow-up scans to assess tumor response.</li>
+            <li>Management of side effects like skin irritation or fatigue.</li>
+        </ul>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Tumor confirmed via imaging and biopsy, radiation plan designed.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Tumor shrinkage or elimination, with improved symptom control.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Radiation Therapy</strong></span></h2>
+    <p>✔ Non-invasive treatment.</p>
+    <p>✔ Can precisely target tumors while sparing healthy tissue.</p>
+    <p>✔ Effective for both curative and palliative purposes.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p>✔ Short-term side effects: skin redness, fatigue, nausea, and hair loss (localized to the treated area).</p>
+    <p>✔ Long-term risks: potential for radiation fibrosis or secondary cancers (rare).</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Advances like IMRT and proton therapy allow for highly targeted treatment with fewer side effects.</p>
+    <p>✔ Ongoing research in radiation sensitizers aims to improve tumor responsiveness.</p>
+    <p>✔ Image-Guided Radiation Therapy (IGRT) improves precision during each session.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Radiation Therapy?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Cutting-Edge Radiation Facilities:</strong></span> Offering IMRT, SBRT, and proton therapy options.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Radiation Oncologists:</strong></span> Providing personalized treatment planning.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Multidisciplinary Cancer Care Teams:</strong></span> Ensuring integrated and comprehensive treatment.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Side Effect Management:</strong></span> Including skin care, nutrition, and psychological support.</p>
+</div>
+`,
+  },
+  // blalock-taussig-shunt
+  {
+    name: "blalock-taussig-shunt",
+    img: "/treatment/blalock-taussig-shunt.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Blalock-Taussig (BT) Shunt: Life-Saving Palliative Cardiac Surgery</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>The Blalock-Taussig (BT) Shunt is a palliative surgical procedure used in cyanotic congenital heart defects to increase pulmonary blood flow. Commonly used in conditions like Tetralogy of Fallot (TOF) and Pulmonary Atresia, the BT shunt creates a connection between a systemic artery (usually the subclavian) and the pulmonary artery, allowing more oxygen-rich blood to reach the lungs.</p>
+    <p>Originally developed in 1944 by Dr. Alfred Blalock and Dr. Helen Taussig, this life-saving procedure has undergone several modifications, including the use of Gore-Tex shunts for better durability.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Indications for BT Shunt</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Tetralogy of Fallot (TOF)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Pulmonary Atresia</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Tricuspid Atresia</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Hypoplastic Right Heart Syndrome</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Other Cyanotic Congenital Heart Defects</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The shunt increases pulmonary blood flow, improving oxygenation until definitive repair can be performed.</p>
+    <p>✔ Proper shunt size selection is critical to avoid complications like over or under-circulation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Evaluation:</strong></span> Echocardiography and cardiac catheterization to assess anatomy and blood flow.</li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span>
+            <ul>
+                <li>A Gore-Tex tube graft connects the subclavian artery to the pulmonary artery.</li>
+                <li>Shunt size is adjusted based on patient weight and pulmonary pressure.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span>
+            <ul>
+                <li>Monitoring oxygen levels and blood flow through the shunt.</li>
+                <li>Anticoagulation therapy to prevent shunt blockage.</li>
+                <li>Regular follow-ups to assess the need for definitive surgery.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Cyanosis, fatigue, failure to thrive due to inadequate oxygenation.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved oxygen saturation, enhanced activity levels, and better growth.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of BT Shunt</strong></span></h2>
+    <p>✔ Acts as a bridge to complete repair, allowing time for the baby to grow before major surgery.</p>
+    <p>✔ Improves quality of life in neonates with complex heart defects.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Shunt blockage or thrombosis:</strong></span> Can cause acute cyanotic spells requiring emergency intervention.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of over-circulation:</strong></span> Excessive pulmonary blood flow can lead to heart failure.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Long-term anticoagulation:</strong></span> Some patients may require blood thinners to prevent clotting.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Computational fluid dynamics studies help optimize shunt placement and size for improved blood flow.</p>
+    <p>✔ Long-term data reveal variable durability of Gore-Tex shunts, necessitating regular follow-ups.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Blalock-Taussig Shunt Surgery?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Pediatric Cardiothoracic Surgeons:</strong></span> Skilled in complex congenital heart procedures.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Imaging & Planning:</strong></span> 3D echocardiography and cardiac MRI for precise surgery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Post-Op Monitoring:</strong></span> Dedicated neonatal cardiac ICU for recovery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Success Rates:</strong></span> With a multidisciplinary approach to long-term cardiac care.</p>
+
+</div>
+`,
+  },
+  // double-switch-operations
+  {
+    name: "double-switch-operations",
+    img: "/treatment/double-switch-operations.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Double Switch Operation: Advanced Surgical Correction for L-TGA</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>The Double Switch Operation is a complex congenital heart surgery primarily used to correct L-Transposition of the Great Arteries (L-TGA), a rare heart defect where the ventricles and great arteries are reversed. In L-TGA, although the blood circulation functions, the right ventricle is forced to act as the systemic ventricle, leading to heart failure over time.</p>
+    <p>The Double Switch Operation involves two major surgical maneuvers:</p>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Atrial Switch</strong></span> (Senning or Mustard procedure) – redirects blood flow at the atrial level.</li>
+        <li><span style="color: #0048ad;"><strong>Arterial Switch</strong></span> – repositions the great arteries to their correct anatomical locations.</li>
+    </ul>
+    <p>This dual correction restores normal circulation, allowing the left ventricle to handle systemic blood flow and reducing the long-term risk of heart failure.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of Patients Who Benefit</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ L-TGA without Ventricular Septal Defect (VSD)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ L-TGA with VSD and Pulmonary Stenosis</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Congenitally Corrected TGA (ccTGA)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Patients with Systemic Ventricular Dysfunction</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Complex Congenital Heart Defects</strong></span> involving malpositioned arteries</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ In ccTGA, the heart’s "plumbing" is correct despite anatomical abnormalities, but long-term pressure overload on the right ventricle causes dysfunction.</p>
+    <p>✔ The double switch places the left ventricle back as the systemic pump, reducing long-term strain and preventing heart failure.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Work-Up:</strong></span> 
+            <ul>
+                <li>Detailed echocardiogram, cardiac MRI, and sometimes cardiac catheterization.</li>
+                <li>Assessment of ventricular function and coronary artery anatomy.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>Atrial Switch: Redirects venous blood to the correct ventricles.</li>
+                <li>Arterial Switch: Repositions the pulmonary artery and aorta.</li>
+                <li>May include VSD closure and pulmonary artery banding.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>ICU monitoring for arrhythmias, systemic ventricular function, and valve performance.</li>
+                <li>Long-term follow-up for coronary artery health.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Fatigue, cyanosis, heart failure symptoms, arrhythmias.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved oxygenation, normalized blood circulation, and enhanced ventricular function.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Double Switch</strong></span></h2>
+    <p>✔ Re-establishes normal circulation.</p>
+    <p>✔ Reduces the risk of systemic ventricular failure.</p>
+    <p>✔ Improves long-term survival and quality of life.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of arrhythmias:</strong></span> Patients may require long-term monitoring for heart rhythm abnormalities.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Potential coronary artery complications:</strong></span> Due to arterial repositioning.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Lifelong cardiac monitoring:</strong></span> Necessary to ensure long-term heart function and detect complications early.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Long-term data suggest higher survival rates with double switch over single-ventricle palliation.</p>
+    <p>✔ Advanced 3D modeling helps surgeons plan precise reconstructions in complex anatomies.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Double Switch Operations?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Pediatric Cardiac Experts:</strong></span> Specialized in high-risk congenital heart surgeries.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Pre-Surgical Imaging:</strong></span> 3D heart mapping for precision planning.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Survival Rates:</strong></span> Exceeding global benchmarks for complex congenital surgeries.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Dedicated Pediatric ICU:</strong></span> Ensuring comprehensive post-operative care.</p>
+
+</div>
+`,
+  },
+  // fontan-procedure
+  {
+    name: "fontan-procedure",
+    img: "/treatment/fontan-procedure.webp",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Fontan Procedure: Advanced Surgery for Single-Ventricle Defects</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>The Fontan Procedure is a life-saving heart surgery for patients with single-ventricle defects, such as Tricuspid Atresia, Hypoplastic Left Heart Syndrome (HLHS), and Double Inlet Left Ventricle. These conditions leave the heart unable to pump blood effectively through both circulations.</p>
+    <p>The Fontan Procedure redirects venous blood directly to the pulmonary arteries, bypassing the right ventricle, allowing oxygen-poor blood to reach the lungs without passing through a nonfunctional ventricle.</p>
+    <p>This surgery is often the final stage of a multi-step surgical approach (typically after Norwood and Glenn procedures), performed between ages 2-5.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of Defects Treated</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Tricuspid Atresia</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Hypoplastic Left Heart Syndrome (HLHS)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Double Inlet Left Ventricle</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Pulmonary Atresia with Intact Ventricular Septum</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Single Ventricle Physiology</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The procedure aims to optimize oxygen delivery while minimizing strain on the single functioning ventricle.</p>
+    <p>✔ Long-term effects include increased venous pressure, which can impact liver and kidney function, necessitating careful monitoring.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Evaluation:</strong></span> 
+            <ul>
+                <li>Cardiac MRI, echocardiogram, and catheterization.</li>
+                <li>Liver function tests (Fontan-associated liver disease is a risk).</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>Connection of the inferior vena cava directly to the pulmonary arteries.</li>
+                <li>Use of a lateral tunnel or extracardiac conduit for blood flow.</li>
+                <li>Often includes a fenestration (small hole) to reduce pressure build-up.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>ICU monitoring, anticoagulation therapy, and fluid management.</li>
+                <li>Long-term surveillance for arrhythmias and protein-losing enteropathy.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Cyanosis, fatigue, failure to thrive.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved oxygen levels, increased activity tolerance, and extended life expectancy.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Fontan Procedure</strong></span></h2>
+    <p>✔ Enables near-normal oxygenation.</p>
+    <p>✔ Improves quality of life for single-ventricle patients.</p>
+    <p>✔ Delays or eliminates the need for heart transplantation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of arrhythmias:</strong></span> Post-surgery patients may require pacemaker implantation.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Fontan-associated liver disease (FALD):</strong></span> Increased venous pressure may cause progressive liver fibrosis.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Long-term risk of heart failure:</strong></span> Some patients may eventually require a transplant.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Emerging research on Fenestrated Fontan shows benefits in reducing pressure buildup.</p>
+    <p>✔ Liver fibrosis is a known complication; ongoing research focuses on minimizing this long-term risk.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Fontan Procedures?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Experienced Congenital Heart Team:</strong></span> Leading pediatric surgeons with expertise in single-ventricle physiology.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Post-Op Monitoring:</strong></span> Long-term surveillance protocols for complications like FALD.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Family-Centered Care:</strong></span> Education and support for families navigating complex congenital defects.</p>
+
+</div>
+`,
+  },
+  // rastelli-procedure
+  {
+    name: "rastelli-procedure",
+    img: "/treatment/rastelli-procedure.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Rastelli Procedure: Advanced Surgery for Complex Congenital Heart Defects</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>The Rastelli Procedure is a surgical treatment for children with complex congenital heart defects such as Tetralogy of Fallot (TOF) with Pulmonary Atresia, Double Outlet Right Ventricle (DORV), or Transposition of the Great Arteries (TGA) with VSD and pulmonary stenosis. This procedure redirects blood flow from the left ventricle to the aorta and creates a new pathway from the right ventricle to the pulmonary artery using a conduit.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Defects Treated</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ TOF with Pulmonary Atresia</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ TGA with VSD and Pulmonary Stenosis</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Double Outlet Right Ventricle (DORV)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Truncus Arteriosus with Complex Anatomy</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The procedure closes the VSD and redirects blood flow to improve oxygenation.</p>
+    <p>✔ Over time, the conduit may require replacement due to patient growth or calcification.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Work-Up:</strong></span> Imaging and pressure studies to assess heart function.</li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>Closure of the VSD to direct oxygenated blood to the aorta.</li>
+                <li>Placement of a valved conduit from the right ventricle to the pulmonary arteries.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>ICU monitoring for oxygen levels, heart function, and arrhythmias.</li>
+                <li>Anticoagulation therapy to prevent clot formation.</li>
+                <li>Regular follow-ups to assess conduit function and growth-related complications.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Cyanosis, fatigue, failure to thrive due to poor oxygenation.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Normalized oxygen levels, improved growth, and enhanced activity levels.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Rastelli Procedure</strong></span></h2>
+    <p>✔ Restores near-normal blood circulation.</p>
+    <p>✔ Reduces symptoms and lowers the risk of heart failure.</p>
+    <p>✔ Enhances quality of life and extends life expectancy.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Conduit may need replacement:</strong></span> Growth and calcification can lead to dysfunction over time.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of arrhythmias:</strong></span> Patients may require monitoring or pacemaker implantation.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Lifelong follow-up required:</strong></span> Ongoing cardiac check-ups are necessary to monitor conduit function and overall heart health.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Advances in bioengineered conduits reduce the need for multiple reoperations.</p>
+    <p>✔ 3D printing of patient-specific conduits is being explored to improve surgical outcomes.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Rastelli Procedures?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Pioneering Pediatric Surgeons:</strong></span> High success rates in complex congenital heart repairs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Innovative Conduit Options:</strong></span> Utilizing the latest bioengineered materials to improve longevity.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Integrated Cardiac Care:</strong></span> Long-term follow-up programs for growing children with congenital heart defects.</p>
+
+</div>`,
+  },
+  // cochlear-implant-surgery
+  {
+    name: "cochlear-implant-surgery",
+    img: "/treatment/cochlear-implant-surgery.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Cochlear Implant Surgery: Restoring Hearing Ability</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>A Cochlear Implant is an advanced medical device that restores hearing in individuals with severe to profound sensorineural hearing loss who do not benefit from conventional hearing aids. Unlike hearing aids, which amplify sounds, cochlear implants bypass damaged parts of the ear and directly stimulate the auditory nerve.</p>
+    <p>The device consists of an external sound processor and an internal implant. The external component captures sounds and transmits them to the internal electrode array, which stimulates the auditory nerve, allowing the brain to perceive sound.</p>
+    <p>Cochlear implants have transformed the lives of millions, enabling children born deaf to develop language skills and adults with acquired hearing loss to regain communication abilities.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Ideal Candidates for Cochlear Implants</strong></span></h2>
+    <ul>
+        <li>Individuals with severe to profound sensorineural hearing loss.</li>
+        <li>Patients who receive little or no benefit from hearing aids.</li>
+        <li>Children as young as 12 months (earlier in some cases).</li>
+        <li>Adults with sudden or progressive hearing loss.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms Indicating Cochlear Implant Candidacy</strong></span></h2>
+    <ul>
+        <li>Inability to understand speech, even with hearing aids.</li>
+        <li>Social withdrawal due to communication challenges.</li>
+        <li>Delayed speech development in children.</li>
+        <li>Difficulty using telephones or understanding conversations.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ Sensorineural hearing loss results from damage to the inner ear (cochlea) or auditory nerve.</p>
+    <p>✔ Cochlear implants bypass the damaged hair cells in the cochlea and provide direct electrical stimulation to the auditory nerve.</p>
+    <p>✔ Neuroplasticity in children allows for significant language development post-implant.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><strong>Pre-Operative Evaluation:</strong></li>
+        <ul>
+            <li>Audiological tests, speech-language evaluations, and imaging (CT/MRI).</li>
+            <li>Counseling to set realistic expectations.</li>
+        </ul>
+        <li><strong>Surgical Process:</strong></li>
+        <ul>
+            <li>Performed under general anesthesia.</li>
+            <li>A small incision is made behind the ear to place the internal implant.</li>
+            <li>Electrodes are threaded into the cochlea.</li>
+        </ul>
+        <li><strong>Post-Operative Care:</strong></li>
+        <ul>
+            <li>Activation of the external processor occurs 2–4 weeks post-surgery.</li>
+            <li>Ongoing audiological mapping and adjustments.</li>
+            <li>Speech therapy, especially for pediatric patients.</li>
+        </ul>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Difficulty understanding speech, social isolation, and reduced quality of life.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved speech comprehension, better communication skills, and enhanced social interactions.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Cochlear Implants</strong></span></h2>
+    <p>✔ Significant improvement in speech perception.</p>
+    <p>✔ Better sound localization.</p>
+    <p>✔ Enhanced quality of life and social integration.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p>✔ Surgical risks (infection, facial nerve damage — rare).</p>
+    <p>✔ The need for ongoing audiological adjustments.</p>
+    <p>✔ Variability in hearing outcomes based on age and duration of deafness.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Early implantation in children leads to better language development.</p>
+    <p>✔ Bilateral implants offer improved sound localization and speech understanding in noise.</p>
+    <p>✔ Continuous advancements in sound processing improve hearing outcomes.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Cochlear Implants?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Skilled ENT Surgeons:</strong></span> Extensive experience in cochlear implant surgeries.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Audiology Services:</strong></span> Pre- and post-op hearing assessments and adjustments.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Specialized Pediatric Programs:</strong></span> Focused on speech and language development post-implant.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Implant Options:</strong></span> Tailored to meet individual patient needs for optimal hearing restoration.</p>
+</div>`,
+  },
+  // subaortic-membrane-resection
+  {
+    name: "subaortic-membrane-resection",
+    img: "/treatment/subaortic-membrane-resection.png",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Subaortic Membrane Resection: Surgical Treatment for Subaortic Stenosis</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Subaortic Membrane Resection is a cardiac surgical procedure aimed at treating subaortic stenosis, a condition where a fibrous or muscular membrane forms below the aortic valve, obstructing the blood flow from the left ventricle to the aorta. This obstruction increases the workload on the heart and can lead to left ventricular hypertrophy, heart failure, and damage to the aortic valve if left untreated.</p>
+    <p>Subaortic stenosis can be either congenital or acquired and is the second most common form of left ventricular outflow tract obstruction in children. While mild cases might remain asymptomatic for years, moderate to severe cases require surgical intervention to prevent long-term complications.</p>
+    <p>Subaortic Membrane Resection involves the precise removal of the obstructive membrane while carefully preserving the integrity of the aortic valve and surrounding structures. The goal is to restore normal blood flow, reduce left ventricular strain, and prevent future complications.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with Subaortic Membrane Resection</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Discrete Subaortic Stenosis:</strong></span> The most common form, involving a thin fibrous membrane.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Tunnel-Like Subaortic Stenosis:</strong></span> A muscular narrowing that forms a long obstruction.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Hypertrophic Cardiomyopathy:</strong></span> If subaortic obstruction is present.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Associated Aortic Valve Regurgitation:</strong></span> Due to turbulent blood flow damaging the valve.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Congenital Heart Defects:</strong></span> Subaortic membranes often coexist with VSDs or other structural anomalies.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The increased afterload caused by subaortic stenosis leads to compensatory left ventricular hypertrophy, increasing the risk of heart failure and arrhythmias.</p>
+    <p>✔ The high-velocity blood flow can damage the aortic valve, leading to regurgitation.</p>
+    <p>✔ Early intervention reduces the risk of aortic valve replacement later in life.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span> 
+            <ul>
+                <li>Echocardiogram – To evaluate the extent of obstruction and measure the pressure gradient.</li>
+                <li>Cardiac MRI or CT Scan – For precise anatomical visualization.</li>
+                <li>Electrocardiogram (ECG) – To check for left ventricular hypertrophy or arrhythmias.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>The procedure is performed under general anesthesia using cardiopulmonary bypass.</li>
+                <li>An incision is made in the aorta (aortotomy) to directly visualize the membrane.</li>
+                <li>The subaortic membrane is carefully excised, ensuring complete removal to minimize the risk of recurrence.</li>
+                <li>The aortic valve is examined for any regurgitation or damage and repaired if necessary.</li>
+                <li>The heart is restarted, and the patient is weaned off bypass.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>ICU monitoring for arrhythmias and cardiac function.</li>
+                <li>Echocardiograms to assess the success of the resection.</li>
+                <li>Long-term follow-up to monitor for potential membrane recurrence.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Symptoms may include shortness of breath, chest pain, fatigue, palpitations, and in severe cases, fainting or heart failure.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Patients experience improved exercise tolerance, normalized blood flow, and a reduced risk of long-term cardiac complications.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Subaortic Membrane Resection</strong></span></h2>
+    <p>✔ Restores normal left ventricular outflow.</p>
+    <p>✔ Prevents progression to severe aortic valve damage.</p>
+    <p>✔ Reduces the risk of sudden cardiac death in severe cases.</p>
+    <p>✔ Improves quality of life and long-term survival rates.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Recurrence of Membrane:</strong></span> In some cases, the membrane can regrow, necessitating reoperation.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Aortic Valve Damage:</strong></span> If the membrane was tightly adherent to the valve, repair or replacement might be needed.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Arrhythmias:</strong></span> Temporary or permanent arrhythmias can occur post-surgery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Infection or Bleeding:</strong></span> As with any open-heart surgery, there’s a small risk of these complications.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Early surgical intervention reduces the likelihood of future valve replacement.</p>
+    <p>✔ Advances in intraoperative imaging have improved the accuracy of membrane removal.</p>
+    <p>✔ Regular echocardiographic monitoring post-surgery is critical to detect any recurrence early.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Subaortic Membrane Resection?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Experienced Cardiac Surgeons:</strong></span> Specialized in treating complex outflow tract obstructions.</p>
+    <p><span style="color: #0048ad;"><strong>✔ State-of-the-Art Imaging:</strong></span> Intraoperative 3D imaging ensures precise membrane resection.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Cardiac Monitoring:</strong></span> Post-operative care includes continuous monitoring for arrhythmias and valve function.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Low Recurrence Rates:</strong></span> Our surgical techniques minimize the risk of membrane regrowth.</p>
+
+</div>
+`,
+  },
+  // tetralogy-of-fallot-repair
+  {
+    name: "tetralogy-of-fallot-repair",
+    img: "/treatment/tetralogy-of-fallot-repair.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Tetralogy of Fallot (TOF) Repair: Restoring Normal Blood Flow in Cyanotic Heart Disease</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Tetralogy of Fallot (TOF) is one of the most common congenital heart defects and is classified as a cyanotic congenital heart disease. First described by Étienne-Louis Fallot in 1888, it is characterized by four anatomical abnormalities that affect blood flow through the heart, leading to oxygen-poor blood being pumped into the body. This results in cyanosis — a bluish tint to the skin and lips.</p>
+    <p>The four defining features of TOF are:</p>
+    <p><span style="color: #0048ad;"><strong>✔ Ventricular Septal Defect (VSD):</strong></span> A hole between the right and left ventricles.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Pulmonary Stenosis:</strong></span> Narrowing of the pulmonary valve and right ventricular outflow tract.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Overriding Aorta:</strong></span> The aorta is positioned directly above the VSD, receiving blood from both ventricles.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Right Ventricular Hypertrophy:</strong></span> Thickening of the right ventricular muscle due to increased workload.</p>
+    <p>TOF Repair is a life-saving surgical procedure that corrects these defects, enabling the heart to pump oxygen-rich blood throughout the body. The surgery is typically performed in infancy, though timing can vary depending on the child's condition.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of TOF and Variants</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Classic TOF</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ TOF with Pulmonary Atresia</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ TOF with Major Aortopulmonary Collateral Arteries (MAPCAs)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ TOF with Absent Pulmonary Valve</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ TOF with Complete Atrioventricular Canal Defect</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ In TOF, reduced blood flow to the lungs results in systemic hypoxemia (low blood oxygen levels).</p>
+    <p>✔ “Tet Spells” (hypercyanotic spells) are acute episodes of hypoxia that can be life-threatening and require immediate management.</p>
+    <p>✔ Long-term, the right ventricle can become strained, leading to heart failure if left untreated.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span> 
+            <ul>
+                <li>Echocardiogram – To evaluate the anatomy and blood flow.</li>
+                <li>Cardiac MRI or CT – For complex TOF variants.</li>
+                <li>Pulse Oximetry and Blood Tests – To assess oxygen saturation and overall health.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>The procedure is performed under general anesthesia using cardiopulmonary bypass.</li>
+                <li><span style="color: #0048ad;">VSD Closure:</span> A patch is used to close the hole between the ventricles, ensuring the aorta receives only oxygen-rich blood.</li>
+                <li><span style="color: #0048ad;">Pulmonary Stenosis Repair:</span> The narrowed pulmonary valve and right ventricular outflow tract are widened using a patch (transannular patch) if necessary.</li>
+                <li>In complex cases, a conduit might be used to connect the right ventricle to the pulmonary artery.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>ICU monitoring for arrhythmias and heart function.</li>
+                <li>Oxygen therapy and medications to support heart function.</li>
+                <li>Long-term follow-up includes regular echocardiograms and exercise testing.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Cyanosis, difficulty feeding, fatigue, delayed growth, and frequent “Tet Spells.”</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved oxygen saturation, normal skin color, better energy levels, and overall growth and development.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of TOF Repair</strong></span></h2>
+    <p>✔ Resolves cyanosis and improves oxygen delivery.</p>
+    <p>✔ Enhances exercise capacity and quality of life.</p>
+    <p>✔ Significantly increases life expectancy, with many patients living into adulthood.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Pulmonary Regurgitation:</strong></span> Can occur if the transannular patch is used.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Arrhythmias:</strong></span> Right ventricular scarring may lead to irregular heartbeats.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Residual VSD or Obstruction:</strong></span> In some cases, additional surgeries may be needed.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Infective Endocarditis:</strong></span> Prophylactic antibiotics are recommended before certain procedures.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Advances in 3D heart modeling and intraoperative imaging have improved surgical outcomes.</p>
+    <p>✔ Long-term studies show that over 90% of TOF patients survive into adulthood post-repair.</p>
+    <p>✔ Pulmonary valve replacement is sometimes needed later in life due to post-surgical regurgitation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for TOF Repairs?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Top Pediatric Cardiac Surgeons:</strong></span> Extensive experience in handling complex TOF cases.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Surgical Techniques:</strong></span> Minimizing the need for future valve replacements.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Post-Surgical Rehabilitation:</strong></span> Comprehensive care including physiotherapy and nutritional guidance.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Long-Term Follow-Up:</strong></span> Structured care plans ensure lifelong cardiac health.</p>
+
+</div>
+`,
+  },
+  // arterial-switch-operation
+  {
+    name: "arterial-switch-operation",
+    img: "/treatment/arterial-switch-operation.png",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Arterial Switch Operation (ASO): Life-Saving Correction for Transposition of the Great Arteries</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>The Arterial Switch Operation (ASO) is a life-saving surgical procedure primarily used to treat Transposition of the Great Arteries (TGA), a congenital heart defect where the positions of the pulmonary artery and aorta are switched. This abnormal connection results in oxygen-poor blood being circulated to the body, causing severe cyanosis and life-threatening complications if left untreated.</p>
+    <p>First successfully performed in 1975, the ASO is now the standard surgical correction for TGA. The surgery involves repositioning the great arteries to their correct anatomical locations and reattaching the coronary arteries to the new aorta. It is typically performed within the first few weeks of life to prevent complications related to prolonged oxygen deprivation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with Arterial Switch</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Transposition of the Great Arteries (TGA)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Double Outlet Right Ventricle (DORV) with Subpulmonary VSD (Taussig-Bing anomaly)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Congenitally Corrected TGA (in select cases)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Complex Congenital Heart Defects with Malposed Arteries</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ In TGA, the parallel circulation prevents oxygenated blood from reaching the body, leading to cyanosis.</p>
+    <p>✔ The ASO restores normal "series" circulation, where oxygen-poor blood is sent to the lungs and oxygen-rich blood is pumped to the body.</p>
+    <p>✔ Early intervention is crucial as the left ventricle quickly loses the ability to function under systemic pressures if not corrected soon after birth.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span> 
+            <ul>
+                <li>Echocardiogram and Cardiac MRI for detailed anatomical mapping.</li>
+                <li>Balloon Atrial Septostomy may be performed pre-surgery to improve oxygenation.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>The heart is placed on cardiopulmonary bypass.</li>
+                <li><span style="color: #0048ad;">Great Artery Repositioning:</span> The pulmonary artery and aorta are transected and reattached to their correct ventricles.</li>
+                <li><span style="color: #0048ad;">Coronary Artery Transfer:</span> The coronary arteries are meticulously excised from the original aorta and reimplanted onto the new aorta.</li>
+                <li>Any associated defects (like VSDs) are repaired during the same procedure.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>Intensive monitoring for coronary artery perfusion and arrhythmias.</li>
+                <li>Oxygen and fluid management.</li>
+                <li>Long-term follow-up to monitor for coronary artery issues or neoaortic valve regurgitation.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Severe cyanosis, poor feeding, rapid breathing, heart failure symptoms.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved oxygen saturation, normal skin color, and restored cardiac function.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Arterial Switch</strong></span></h2>
+    <p>✔ Restores normal blood circulation.</p>
+    <p>✔ Offers near-normal long-term life expectancy.</p>
+    <p>✔ Fewer complications compared to older procedures like the Mustard or Senning operations.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Coronary Artery Complications:</strong></span> Risk of narrowing or kinking after reimplantation.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Neoaortic Valve Regurgitation:</strong></span> Requires monitoring.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Arrhythmias:</strong></span> Can occur post-surgery but are generally rare.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Long-term studies show ASO patients have excellent survival rates and quality of life.</p>
+    <p>✔ Advances in 3D imaging improve coronary artery reimplantation precision.</p>
+    <p>✔ Regular follow-up is essential to detect late-onset complications.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Arterial Switch Operations?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Pediatric Cardiac Surgeons:</strong></span> Specialized in complex congenital repairs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Imaging and Surgical Planning:</strong></span> High-precision 3D heart mapping.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Post-Op Monitoring:</strong></span> Long-term surveillance for coronary and valve health.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Success Rates:</strong></span> Consistently above national and global averages.</p>
+</div>
+`,
+  },
+  // atrioventricular-canal-repair
+  {
+    name: "atrioventricular-canal-repair",
+    img: "/treatment/atrioventricular-canal-repair.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Atrioventricular Canal Repair: Correcting Congenital Heart Defects for a Healthier Future</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Atrioventricular (AV) Canal Defect, also known as Endocardial Cushion Defect, is a complex congenital heart anomaly that involves a combination of defects affecting the atrial and ventricular septa and the AV valves. This defect creates a large hole in the center of the heart where the septal walls meet, allowing oxygen-rich and oxygen-poor blood to mix and overloading the lungs with excessive blood flow.</p>
+    <p>AV canal defects are categorized into:</p>
+    <p><span style="color: #0048ad;"><strong>✔ Complete AV Canal Defect:</strong></span> A large central hole and a single common AV valve.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Partial (Incomplete) AV Canal Defect:</strong></span> Atrial septal defect (ASD) and a cleft in the mitral valve.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Transitional AV Canal Defect:</strong></span> A combination of partial and complete features.</p>
+    <p>This defect is commonly associated with <strong>Down Syndrome (Trisomy 21)</strong> and requires surgical correction within the first few months of life to prevent irreversible lung damage.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with AV Canal Repair</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Complete AV Septal Defect</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Partial AV Septal Defect</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Transitional AV Canal Defect</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Associated Congenital Defects (e.g., Tetralogy of Fallot)</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The mixing of blood in AV canal defects leads to pulmonary overcirculation, risking pulmonary hypertension if left untreated.</p>
+    <p>✔ The defect can lead to congestive heart failure in infancy, with symptoms like rapid breathing, poor feeding, and failure to thrive.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Evaluation:</strong></span> 
+            <ul>
+                <li>Echocardiogram for assessing septal defects and valve anatomy.</li>
+                <li>Chest X-ray and ECG.</li>
+                <li>Pulmonary pressure assessment to evaluate the degree of pulmonary hypertension.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>The heart is placed on cardiopulmonary bypass.</li>
+                <li><span style="color: #0048ad;">Septal Defect Closure:</span> The central defect is closed using synthetic or pericardial patches.</li>
+                <li><span style="color: #0048ad;">AV Valve Reconstruction:</span> The common AV valve is divided and reconstructed into separate tricuspid and mitral valves.</li>
+                <li>Any valve clefts are repaired to prevent regurgitation.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>ICU monitoring for fluid balance, oxygenation, and arrhythmias.</li>
+                <li>Oxygen therapy and medications to support heart function.</li>
+                <li>Echocardiographic follow-ups to assess valve function and residual defects.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Rapid breathing, fatigue, cyanosis, failure to thrive, and recurrent lung infections.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved breathing, weight gain, increased energy, and normalized heart function.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of AV Canal Repair</strong></span></h2>
+    <p>✔ Restores normal heart function.</p>
+    <p>✔ Reduces the risk of pulmonary hypertension and heart failure.</p>
+    <p>✔ Enhances growth and development in infants.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Residual Leaks:</strong></span> In some cases, small leaks can remain in the septal patches or valves.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of Heart Block:</strong></span> Some patients may require pacemaker placement.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Valve Regurgitation:</strong></span> Some patients may develop mitral or tricuspid valve regurgitation over time, requiring future intervention.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Early intervention before pulmonary hypertension develops ensures better outcomes.</p>
+    <p>✔ Long-term follow-ups are crucial for valve function monitoring.</p>
+    <p>✔ 3D echocardiography has improved surgical planning and precision.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for AV Canal Repair?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Specialized Pediatric Cardiac Team:</strong></span> Experts in complex congenital repairs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Imaging Techniques:</strong></span> Real-time 3D echocardiography for precise surgical planning.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Dedicated Pediatric ICU:</strong></span> Round-the-clock care post-surgery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Long-Term Success Rates:</strong></span> Leading outcomes in pediatric heart surgery.</p>
+</div>
+`,
+  },
+  // senning-procedure
+  {
+    name: "senning-procedure",
+    img: "/treatment/senning-procedure.png",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Senning Procedure: Atrial Switch for Transposition of the Great Arteries</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>The Senning Procedure is an atrial switch operation used to correct <strong>Transposition of the Great Arteries (TGA)</strong> — a congenital heart defect where the two main arteries leaving the heart are reversed. In TGA, oxygen-poor blood is circulated to the body, while oxygen-rich blood is recirculated to the lungs, leading to severe cyanosis and hypoxia.</p>
+    <p>Developed by Dr. Åke Senning in the late 1950s, the procedure involves constructing a baffle within the atria using the patient’s own tissue to redirect blood flow, allowing oxygen-poor blood to reach the lungs and oxygen-rich blood to circulate through the body.</p>
+    <p>While largely replaced by the <strong>Arterial Switch Operation (ASO)</strong>, the Senning Procedure remains a valuable alternative in specific cases, such as when the coronary arteries are unsuitable for reimplantation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with the Senning Procedure</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Dextro-Transposition of the Great Arteries (D-TGA)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Congenitally Corrected TGA (ccTGA)</strong></span> in select cases</p>
+    <p><span style="color: #0048ad;"><strong>✔ Double Outlet Right Ventricle (DORV)</strong></span> with complex anatomy</p>
+    <p><span style="color: #0048ad;"><strong>✔ Patients unsuitable for Arterial Switch</strong></span> due to coronary anomalies</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The Senning Procedure redirects venous return at the atrial level, allowing the right ventricle to pump oxygen-rich blood to the body.</p>
+    <p>✔ Though effective, the right ventricle remains the systemic ventricle, leading to long-term strain and potential failure.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Evaluation:</strong></span> 
+            <ul>
+                <li>Echocardiography and cardiac MRI to assess cardiac anatomy.</li>
+                <li>Catheterization may be performed to evaluate pressures.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>The atrial septum is excised, and a baffle is constructed using atrial tissue.</li>
+                <li>The baffle redirects systemic venous blood to the left ventricle and pulmonary artery, while pulmonary venous blood is sent to the right ventricle and aorta.</li>
+                <li>The atrial walls are reconstructed around the baffle.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>Monitoring for arrhythmias (a known complication).</li>
+                <li>Regular imaging to assess baffle patency and ventricular function.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Cyanosis, rapid breathing, poor feeding, heart failure symptoms.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved oxygenation, enhanced activity tolerance, and normalized circulation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of the Senning Procedure</strong></span></h2>
+    <p>✔ No coronary artery reimplantation, reducing certain surgical risks.</p>
+    <p>✔ Effective correction of TGA with stable long-term outcomes in select cases.</p>
+    <p>✔ Can be performed when ASO is contraindicated.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of Arrhythmias:</strong></span> Atrial scarring can cause irregular heart rhythms.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Systemic Right Ventricle Dysfunction:</strong></span> The right ventricle, which was originally designed to pump to the lungs, may struggle over time when pumping to the entire body.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Baffle Obstruction or Leakage:</strong></span> Some patients may require follow-up procedures to correct baffle-related complications.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Long-term follow-up is essential to monitor systemic ventricular function.</p>
+    <p>✔ The procedure remains a viable option when ASO isn’t feasible.</p>
+    <p>✔ Advances in pacemaker technology have improved outcomes in cases of post-op arrhythmias.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Senning Procedure?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Pediatric Cardiac Surgeons:</strong></span> Experts in rare and complex congenital surgeries.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Post-Operative Monitoring:</strong></span> Early detection of arrhythmias and baffle complications.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Customized Care Plans:</strong></span> Tailored follow-ups to ensure long-term heart health.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Survival Rates:</strong></span> Successful management even in high-risk cases.</p>
+</div>`,
+  },
+  // ventricular-septal-defect-repair
+  {
+    name: "ventricular-septal-defect-repair",
+    img: "/treatment/ventricular-septal-defect-repair.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Ventricular Septal Defect (VSD) Repair</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>A Ventricular Septal Defect (VSD) is one of the most common congenital heart defects, characterized by a hole in the septum that separates the heart’s lower chambers (the ventricles). This defect allows oxygen-rich blood from the left ventricle to mix with oxygen-poor blood in the right ventricle, leading to increased blood flow to the lungs and overloading the heart.</p>
+    <p>VSDs vary in size and location within the septum and can cause symptoms ranging from mild to life-threatening. In small VSDs, spontaneous closure may occur, but larger defects often require surgical intervention to prevent complications such as heart failure, pulmonary hypertension, and growth delays in children.</p>
+    <p>VSD Repair involves closing the hole using a patch or direct suturing, restoring normal blood flow and reducing the strain on the heart.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of VSDs</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Perimembranous VSD:</strong></span> Located near the heart valves (most common).</p>
+    <p><span style="color: #0048ad;"><strong>✔ Muscular VSD:</strong></span> Found in the lower muscular part of the septum.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Inlet VSD:</strong></span> Near the tricuspid and mitral valves.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Outlet (Supracristal) VSD:</strong></span> Close to the aortic and pulmonary valves.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The left-to-right shunt created by a VSD increases pulmonary blood flow, leading to volume overload in the left heart and lungs.</p>
+    <p>✔ Long-standing uncorrected VSDs can cause Eisenmenger Syndrome, where pulmonary hypertension reverses the shunt direction, leading to cyanosis.</p>
+    <p>✔ The size and location of the VSD directly influence symptoms and treatment strategies.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span> 
+            <ul>
+                <li>Echocardiogram to visualize the defect and measure pressure gradients.</li>
+                <li>Cardiac MRI or Catheterization if complex anatomy is suspected.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>Performed under general anesthesia using cardiopulmonary bypass.</li>
+                <li>The surgeon accesses the heart through a sternotomy and opens the right atrium or ventricle.</li>
+                <li>The VSD is closed using a synthetic patch or direct suturing.</li>
+                <li>The heart is restarted, and the patient is weaned off bypass.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>ICU monitoring for arrhythmias, residual shunting, and infection.</li>
+                <li>Follow-up echocardiograms to ensure successful closure.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Symptoms can include shortness of breath, failure to thrive, rapid breathing, heart murmurs, and frequent respiratory infections.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved breathing, better weight gain, increased energy levels, and normalized heart function.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of VSD Repair</strong></span></h2>
+    <p>✔ Eliminates abnormal blood flow between ventricles.</p>
+    <p>✔ Reduces the risk of pulmonary hypertension and heart failure.</p>
+    <p>✔ Enhances quality of life and long-term survival.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of Residual VSD:</strong></span> Small leaks may remain post-repair in some cases.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Arrhythmias:</strong></span> Heart block or other rhythm disturbances due to proximity to conduction pathways.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Infection or Bleeding:</strong></span> As with any open-heart surgery, infection and bleeding risks must be monitored.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Minimally invasive catheter-based closures are now possible for select muscular VSDs.</p>
+    <p>✔ Early intervention in large VSDs reduces the risk of irreversible pulmonary damage.</p>
+    <p>✔ Long-term prognosis is excellent post-repair, with most patients leading normal lives.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for VSD Repairs?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Pediatric Cardiac Surgeons:</strong></span> Specialized in congenital defect repairs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Imaging Techniques:</strong></span> Real-time echocardiography and 3D imaging for precise defect mapping.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Minimally Invasive Options:</strong></span> Available for select cases.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Success Rates:</strong></span> With minimal post-operative complications.</p>
+</div>
+`,
+  },
+  // atrial-septal-defect-repair
+  {
+    name: "atrial-septal-defect-repair",
+    img: "/treatment/atrial-septal-defect-repair.webp",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Atrial Septal Defect (ASD) Repair</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>An Atrial Septal Defect (ASD) is a congenital heart defect characterized by a hole in the septum that separates the heart's upper chambers (the atria). This opening allows oxygen-rich blood from the left atrium to mix with oxygen-poor blood in the right atrium, leading to increased blood flow to the lungs and enlargement of the right side of the heart.</p>
+    <p>While small ASDs may close spontaneously during childhood, larger defects can cause complications such as heart failure, arrhythmias, pulmonary hypertension, and stroke. In such cases, surgical or catheter-based closure is necessary.</p>
+    <p>ASDs are often asymptomatic in infancy and childhood but may present later in life with fatigue, shortness of breath, or palpitations.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Types of ASDs</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Secundum ASD:</strong></span> Located in the middle part of the atrial septum (most common).</p>
+    <p><span style="color: #0048ad;"><strong>✔ Primum ASD:</strong></span> Located near the lower part of the septum, often associated with AV valve abnormalities.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Sinus Venosus ASD:</strong></span> Near the superior vena cava or inferior vena cava.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Coronary Sinus ASD:</strong></span> Rare, involves the coronary sinus wall.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The left-to-right shunt increases pulmonary circulation, leading to right atrial and ventricular enlargement.</p>
+    <p>✔ Over time, uncorrected ASDs can result in atrial fibrillation, stroke, or Eisenmenger Syndrome.</p>
+    <p>✔ ASDs may go undetected for decades, highlighting the importance of regular screening in adults with unexplained murmurs or strokes.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span> 
+            <ul>
+                <li>Echocardiogram (including bubble study) for shunt detection.</li>
+                <li>Cardiac MRI or CT Scan for complex defects.</li>
+                <li>Transesophageal Echocardiogram (TEE) before and during closure.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical & Catheter-Based Options:</strong></span> 
+            <ul>
+                <li><strong>Catheter-Based Closure:</strong> Suitable for secundum ASDs. A closure device (e.g., Amplatzer septal occluder) is placed via a catheter through the femoral vein.</li>
+                <li><strong>Surgical Repair:</strong> Reserved for primum, sinus venosus, or large secundum ASDs. Involves patch closure via open-heart surgery.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>Monitoring for arrhythmias and residual shunting.</li>
+                <li>Antiplatelet therapy post-catheter closure to prevent clots.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Symptoms can include fatigue, shortness of breath, heart palpitations, and in some cases, stroke.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved energy levels, normalized heart size, and reduced risk of future complications.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of ASD Repair</strong></span></h2>
+    <p>✔ Reduces the risk of stroke and arrhythmias.</p>
+    <p>✔ Improves exercise capacity and heart function.</p>
+    <p>✔ Minimally invasive options available for suitable cases.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Device Migration or Embolization:</strong></span> Rare in catheter-based closure.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Arrhythmias:</strong></span> Can occur post-surgery, particularly atrial fibrillation.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Residual Shunt:</strong></span> In complex ASDs, small leaks may persist.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Early closure reduces the risk of long-term complications.</p>
+    <p>✔ 3D imaging has improved precision in catheter-based closures.</p>
+    <p>✔ Adults with previously undiagnosed ASDs benefit significantly from late closure.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for ASD Repairs?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ State-of-the-Art Cath Labs:</strong></span> Offering minimally invasive closure techniques.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Highly Skilled Surgeons:</strong></span> Specializing in complex ASD repairs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Imaging:</strong></span> Providing accurate diagnosis and surgical planning.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Post-Operative Care:</strong></span> Ensuring optimal recovery and long-term success.</p>
+</div>
+`,
+  },
+  // bidirectional-glenn-shunt
+  {
+    name: "bidirectional-glenn-shunt",
+    img: "/treatment/bidirectional-glenn-shunt.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Bidirectional Glenn (BD Glenn) Shunt</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>The Bidirectional Glenn Shunt is a palliative surgical procedure performed in patients with complex single-ventricle congenital heart defects. It serves as the second stage in the Fontan pathway and is typically performed between 4 to 6 months of age.</p>
+    <p>The Glenn shunt connects the superior vena cava (SVC) directly to the right pulmonary artery, allowing oxygen-poor blood from the upper body to flow directly into the lungs without passing through the heart. This reduces the workload on the single functional ventricle and improves oxygenation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Conditions Treated with BD Glenn Shunt</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Hypoplastic Left Heart Syndrome (HLHS)</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Tricuspid Atresia</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Double Inlet Left Ventricle</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Pulmonary Atresia</strong></span></p>
+    <p><span style="color: #0048ad;"><strong>✔ Other Single Ventricle Physiology Defects</strong></span></p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The Glenn shunt reduces volume overload on the heart, preserving ventricular function.</p>
+    <p>✔ It serves as a bridge to the Fontan Procedure, the final surgical stage for single-ventricle defects.</p>
+    <p>✔ Pulmonary artery pressure must be within a normal range for the Glenn to function effectively.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><span style="color: #0048ad;"><strong>Pre-Operative Assessment:</strong></span> 
+            <ul>
+                <li>Echocardiogram and Cardiac MRI to assess pulmonary artery size and ventricular function.</li>
+                <li>Cardiac Catheterization to measure pulmonary pressures.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Surgical Process:</strong></span> 
+            <ul>
+                <li>Performed under general anesthesia using cardiopulmonary bypass.</li>
+                <li>The SVC is disconnected from the heart and attached directly to the right pulmonary artery.</li>
+                <li>The shunt allows blood from the upper body to flow directly into the lungs.</li>
+            </ul>
+        </li>
+        <li><span style="color: #0048ad;"><strong>Post-Operative Care:</strong></span> 
+            <ul>
+                <li>ICU monitoring for oxygen saturation and fluid balance.</li>
+                <li>Management of pleural effusions, a common post-op complication.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Cyanosis, fatigue, heart failure symptoms.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Improved oxygenation, decreased ventricular workload, and preparation for the Fontan procedure.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of BD Glenn Shunt</strong></span></h2>
+    <p>✔ Reduces heart strain and pulmonary overcirculation.</p>
+    <p>✔ Improves oxygen saturation.</p>
+    <p>✔ Serves as a crucial step toward achieving balanced circulation in single-ventricle physiology.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Risk of Pleural Effusions and Chylothorax:</strong></span> Common post-surgical complications requiring drainage and management.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Arrhythmias:</strong></span> Patients may develop heart rhythm abnormalities post-surgery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Potential Shunt Narrowing:</strong></span> Requires long-term follow-up.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Long-Term Anticoagulation:</strong></span> May be required in certain cases.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Early Glenn shunt reduces the risk of heart failure in single-ventricle patients.</p>
+    <p>✔ Advances in 3D modeling help optimize shunt placement.</p>
+    <p>✔ Close follow-up is essential to prepare for the Fontan completion.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for BD Glenn Shunt?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Leading Pediatric Surgeons:</strong></span> Specializing in complex congenital heart repairs.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Advanced Pre-Surgical Planning:</strong></span> Using 3D imaging for precise surgical execution.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Dedicated Pediatric ICU:</strong></span> Ensuring round-the-clock post-operative monitoring.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Long-Term Success Rates:</strong></span> Supporting single-ventricle patients through their entire surgical pathway.</p>
+</div>
+`,
+  },
   // bone-marrow-transplant
   {
     name: "bone-marrow-transplant",
@@ -3852,6 +5801,224 @@ Every surgery comes with some risks. The common risks associated with the proced
 <p>Need assistance with advanced treatment for <strong>bone marrow transplant</strong> to be performed in India? <strong>Contact us today!</strong></p>
 
 		</div>`,
+  },
+  // robotic-bladder-diverticulectomy
+  {
+    name: "robotic-bladder-diverticulectomy",
+    img: "/treatment/robotic-bladder-diverticulectomy.png",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Robotic Bladder Diverticulectomy: Precision in Urological Surgery</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>A Bladder Diverticulum is an outpouching of the bladder wall that can trap urine, leading to infections, stones, and, in rare cases, cancer. A Robotic Bladder Diverticulectomy is a minimally invasive surgical procedure to remove the diverticulum using robotic-assisted technology.</p>
+    <p>This approach provides surgeons with enhanced precision and flexibility, resulting in smaller incisions, less pain, faster recovery, and reduced hospital stays compared to traditional open surgery.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Causes of Bladder Diverticula</strong></span></h2>
+    <ul>
+        <li>Congenital Defects – Present from birth.</li>
+        <li>Bladder Outlet Obstruction – Due to enlarged prostate or strictures.</li>
+        <li>Chronic Bladder Infections.</li>
+        <li>Neurogenic Bladder Disorders.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms of Bladder Diverticula</strong></span></h2>
+    <ul>
+        <li>Frequent urinary tract infections (UTIs).</li>
+        <li>Difficulty fully emptying the bladder.</li>
+        <li>Blood in the urine (hematuria).</li>
+        <li>Urinary retention or incontinence.</li>
+        <li>Abdominal pain or discomfort.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ Stagnant urine within the diverticulum increases the risk of infection and stone formation.</p>
+    <p>✔ Long-standing diverticula may lead to malignancy if left untreated.</p>
+    <p>✔ Robotic surgery allows for precise dissection near critical structures like the ureters and bladder neck.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Diagnosis Process</strong></span></h2>
+    <ul>
+        <li><strong>Ultrasound or CT Urogram:</strong> To visualize the diverticulum.</li>
+        <li><strong>Cystoscopy:</strong> Direct examination of the bladder lining.</li>
+        <li><strong>MRI:</strong> To evaluate surrounding tissues if malignancy is suspected.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Treatment Options</strong></span></h2>
+    <ul>
+        <li><strong>Robotic Bladder Diverticulectomy:</strong> Preferred for large or symptomatic diverticula.</li>
+        <li><strong>Open Surgery:</strong> Reserved for complex cases.</li>
+        <li><strong>Endoscopic Management:</strong> For small, uncomplicated diverticula.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><strong>Pre-Operative Imaging:</strong> To map diverticulum location.</li>
+        <li><strong>Robotic Surgery:</strong> Using small incisions and advanced instruments.</li>
+        <li><strong>Excision of the Diverticulum:</strong> With bladder wall reconstruction.</li>
+        <li><strong>Post-Operative Monitoring:</strong> For urinary function and healing.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Recurrent UTIs, bladder pain, and urinary difficulties.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Restored bladder function, reduced infection risk, and faster recovery.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Robotic Surgery</strong></span></h2>
+    <p>✔ Minimally invasive with less pain and scarring.</p>
+    <p>✔ Shorter hospital stays and quicker return to normal activities.</p>
+    <p>✔ Enhanced precision reduces risk of injury to nearby structures.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p>✔ Urinary leakage post-surgery.</p>
+    <p>✔ Risk of infection or bleeding.</p>
+    <p>✔ Potential need for catheterization during recovery.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Robotic surgery offers better visualization of deep pelvic structures.</p>
+    <p>✔ Early intervention prevents complications like bladder cancer.</p>
+    <p>✔ Post-operative urodynamic testing ensures optimal bladder function.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Robotic Bladder Diverticulectomy?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ State-of-the-Art Robotic Surgery Suites:</strong></span> Ensuring precision and faster recovery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Experienced Urologists:</strong></span> Specializing in minimally invasive techniques.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Post-Surgical Care:</strong></span> Including bladder training and rehabilitation.</p>
+    <p><span style="color: #0048ad;"><strong>✔ High Success Rates:</strong></span> With reduced complication risks and improved patient outcomes.</p>
+</div>
+`,
+  },
+  // car-t-cell-therapy
+  {
+    name: "car-t-cell-therapy",
+    img: "/treatment/car-t-cell-therapy.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>CAR-T Cell Therapy: A Revolutionary Cancer Treatment</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>CAR-T Cell Therapy is a groundbreaking form of immunotherapy where a patient’s own T-cells are genetically modified to recognize and attack cancer cells. It has revolutionized the treatment of certain blood cancers and is under investigation for use in solid tumors.</p>
+    <p>CAR-T therapy involves extracting a patient’s T-cells, reprogramming them to target specific cancer antigens, and re-infusing them to fight cancer. This highly personalized treatment has shown remarkable success in cases resistant to traditional therapies.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Cancers Treated with CAR-T Cell Therapy</strong></span></h2>
+    <ul>
+        <li>Acute Lymphoblastic Leukemia (ALL)</li>
+        <li>Diffuse Large B-Cell Lymphoma (DLBCL)</li>
+        <li>Mantle Cell Lymphoma</li>
+        <li>Multiple Myeloma</li>
+        <li>Chronic Lymphocytic Leukemia (under investigation)</li>
+        <li>Glioblastoma and Pancreatic Cancer (clinical trials for solid tumors)</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ CAR-T cells are engineered to express chimeric antigen receptors (CARs) that recognize proteins on cancer cells.</p>
+    <p>✔ Once reintroduced into the body, these cells multiply and attack cancer cells aggressively.</p>
+    <p>✔ Cytokine Release Syndrome (CRS) is a common side effect, caused by the immune system’s strong activation.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Procedure: Step-by-Step</strong></span></h2>
+    <ul>
+        <li><strong>T-Cell Collection:</strong> Leukapheresis is used to collect T-cells from the patient’s blood.</li>
+        <li><strong>Cell Engineering:</strong> T-cells are genetically modified in a lab to express CARs.</li>
+        <li><strong>Lymphodepleting Chemotherapy:</strong> Prepares the body to receive CAR-T cells.</li>
+        <li><strong>CAR-T Cell Infusion:</strong> Modified cells are re-infused into the patient.</li>
+        <li><strong>Post-Treatment Monitoring:</strong> Watch for CRS and neurological side effects.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Refractory or relapsed cancer with limited treatment options.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Potential complete remission in cases previously deemed incurable.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of CAR-T Cell Therapy</strong></span></h2>
+    <p>✔ High remission rates in certain blood cancers.</p>
+    <p>✔ Long-term immune surveillance against cancer relapse.</p>
+    <p>✔ One-time infusion with long-lasting effects.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p>✔ Cytokine Release Syndrome (CRS): Can cause high fevers, low blood pressure, and organ dysfunction.</p>
+    <p>✔ Neurological Toxicities: Confusion, seizures, or headaches.</p>
+    <p>✔ B-Cell Aplasia: Requires immunoglobulin replacement in some cases.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ Ongoing research is expanding CAR-T use to solid tumors.</p>
+    <p>✔ Next-gen CAR-T therapies aim to reduce toxicity while enhancing efficacy.</p>
+    <p>✔ Combination therapies (CAR-T + checkpoint inhibitors) are showing promise in clinical trials.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for CAR-T Cell Therapy?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Specialized Cellular Therapy Units:</strong></span> With advanced laboratory facilities.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Experienced Oncologists:</strong></span> Trained in managing complex CAR-T protocols.</p>
+    <p><span style="color: #0048ad;"><strong>✔ State-of-the-Art Monitoring:</strong></span> For managing CRS and neurotoxicities.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Access to Clinical Trials:</strong></span> Exploring next-generation CAR-T therapies.</p>
+</div>
+`,
+  },
+  // ear-reconstruction-and-plastic-surgery
+  {
+    name: "ear-reconstruction-and-plastic-surgery",
+    img: "/treatment/ear-reconstruction-and-plastic-surgery.jpg",
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;"><strong>Ear Reconstruction and Plastic Surgery: Restoring Form & Function</strong></span></h2>
+
+    <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+    <p>Ear Reconstruction and Plastic Surgery involves restoring the form and function of the external ear after congenital deformities, trauma, or surgical removal due to cancer. The most common congenital ear deformity treated is <strong>microtia</strong> — a condition where the outer ear is underdeveloped.</p>
+    <p>Reconstruction can involve using the patient’s own cartilage or synthetic implants. In cases of trauma or cancer, reconstructive surgery restores appearance and, in some cases, improves hearing.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Common Indications for Ear Reconstruction</strong></span></h2>
+    <ul>
+        <li>Microtia (congenital ear deformity)</li>
+        <li>Traumatic Injuries (accidents, burns, etc.)</li>
+        <li>Cancer Resection (e.g., after basal cell carcinoma removal)</li>
+        <li>Infections or complications from previous surgeries</li>
+        <li>Cosmetic Ear Reshaping (Otoplasty) for prominent ears</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Symptoms and Functional Concerns</strong></span></h2>
+    <p>✔ Psychological distress due to appearance.</p>
+    <p>✔ Hearing loss (if ear canal is involved).</p>
+    <p>✔ Difficulty wearing glasses or masks.</p>
+    <p>✔ Scarring or deformities post-trauma or surgery.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Biological & Medical Insights</strong></span></h2>
+    <p>✔ The outer ear plays a crucial role in directing sound waves into the ear canal.</p>
+    <p>✔ Cartilage-based reconstructions offer long-lasting and natural-looking results.</p>
+    <p>✔ Advances in 3D printing and tissue engineering have improved aesthetic outcomes.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Diagnosis & Planning</strong></span></h2>
+    <ul>
+        <li><strong>Physical Examination</strong> and imaging (CT scan) to assess bone structure.</li>
+        <li><strong>Hearing Tests</strong> if canal involvement is suspected.</li>
+        <li><strong>3D Modeling</strong> for custom implant planning.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Treatment Options</strong></span></h2>
+    <ul>
+        <li><strong>Autologous Reconstruction</strong> – Using rib cartilage for microtia cases.</li>
+        <li><strong>Medpor Implant Reconstruction</strong> – Synthetic framework covered by patient’s tissue.</li>
+        <li><strong>Prosthetic Ears</strong> – Non-surgical, removable solutions.</li>
+        <li><strong>Otoplasty</strong> – Cosmetic reshaping of prominent ears.</li>
+        <li><strong>Reconstruction Post-Trauma</strong> – Skin grafts, cartilage grafts, or synthetic implants.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;"><strong>Before & After Treatment</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>Before:</strong></span> Deformity, scarring, or underdeveloped ear structure.</p>
+    <p><span style="color: #0048ad;"><strong>After:</strong></span> Restored ear appearance, improved symmetry, and enhanced confidence.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Advantages of Modern Ear Reconstruction</strong></span></h2>
+    <p>✔ Natural-looking results with advanced surgical techniques.</p>
+    <p>✔ Restoration of function when possible.</p>
+    <p>✔ Boosts self-esteem and social confidence.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Precautions & Risks</strong></span></h2>
+    <p>✔ Risk of infection or cartilage resorption.</p>
+    <p>✔ Multiple staged surgeries may be required.</p>
+    <p>✔ Scar formation or asymmetry in complex cases.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Insights</strong></span></h2>
+    <p>✔ 3D-printed implants are emerging as alternatives to traditional cartilage grafts.</p>
+    <p>✔ Early intervention in children can improve psychological outcomes.</p>
+    <p>✔ Combined hearing restoration procedures are possible in specific cases.</p>
+
+    <h2><span style="color: #0048ad;"><strong>Why Choose MediHelp for Ear Reconstruction?</strong></span></h2>
+    <p><span style="color: #0048ad;"><strong>✔ Expert Plastic & Reconstructive Surgeons:</strong></span> Specializing in craniofacial surgery.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Custom 3D Modeling:</strong></span> For personalized reconstructions.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Comprehensive Post-Operative Care:</strong></span> Ensuring optimal healing.</p>
+    <p><span style="color: #0048ad;"><strong>✔ Support Services:</strong></span> Including counseling for children and families.</p>
+</div>
+`,
   },
   // pediatric-liver-transplant-surgery
   {
@@ -9433,115 +11600,74 @@ Here are some treatment options available for ptosis in India:</p>
   {
     name: "coronary-artery-bypass-graft",
     img: "/treatment/coronary-artery-bypass-graft.webp",
-    data: `<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid" id="DColumns"></div><div class="align wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
-	<div class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
-		
-	</div>
+    data: `<div class="wpb_wrapper">
+    <h2><span style="color: #0048ad;">Coronary Artery Bypass Grafting (CABG): Restoring Heart Health</span></h2>
 
-	<div class="wpb_text_column wpb_content_element">
-		<div class="wpb_wrapper">
-			
-		</div>
-	</div>
-<h2><span style="color: #0048ad;">Cost of CABG Surgery in the Top Hospitals of India</span></h2><h2><span style="color: #0048ad;"><table><tbody><tr><td><span>Indraprastha Apollo Hospital&nbsp;</span></td><td><span>6300$</span></td></tr><tr><td><span>Max Healthcare&nbsp;</span></td><td><span>5800$&nbsp;</span></td></tr><tr><td><span>Fortis Escorts Heart Institute&nbsp;</span></td><td><span>5500$&nbsp;</span></td></tr><tr><td><span>Artemis Hospital&nbsp;</span></td><td><span>5200$</span></td></tr><tr><td><span>Metro Heart Institute&nbsp;</span></td><td><span>5300$</span></td></tr><tr><td><span>PSRI Hospital&nbsp;</span></td><td><span>4000$</span></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><span style="color: #0048ad;"><b>Your Package Will Cover</b></span></p><table><tbody><tr><td><b>Package Inclusion</b></td><td><b>Package Exclusion</b></td></tr><tr><td><span>Pre-Operative Investigations&nbsp;</span></td><td><span>Stay beyond package days&nbsp;</span></td></tr><tr><td><span>Single / Private Room&nbsp;</span></td><td><span>Consultation with other speciality&nbsp;</span></td></tr><tr><td><span>Surgeons Fees&nbsp;</span></td><td><span>The complications that may occur&nbsp;</span></td></tr><tr><td><span>OT and Anesthesia Charges&nbsp;</span></td><td><span>An implant that is not part of the package will not be included in the Price&nbsp;</span></td></tr><tr><td><span>Rehabilitation during hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>Medication during the hospital stay&nbsp;</span></td><td></td></tr><tr><td><span>The attendant stays with three times meals&nbsp;</span></td><td></td></tr><tr><td><span>Hospital stay – 08 Days&nbsp;</span></td><td></td></tr></tbody></table><p style="color: black; font-size: medium; font-weight: 400;"><b>India Stay: 2 weeks&nbsp;</b></p><p style="color: black; font-size: medium; font-weight: 400;"><b>Success rate of the surgery:&nbsp;</b><span>99 %&nbsp;</span></p></span></h2><h2><span style="color: #0048ad;">Coronary Artery Bypass Graft (CABG) Surgery in India</span></h2>
-<p>Coronary artery by-pass grafting (CABG) or heart bypass surgery is a procedure in which healthy blood vessels are taken from other part of the body and connected above and below the blocked artery. This ensures improved blood flow to the heart and significantly lowers the risk of a heart attack by creating a new route for the blood to flow.</p>
-<h2><span style="color: #0048ad;">Minimally Invasive – Coronary Artery Bypass Surgery (MICS CABG)</span></h2>
-<p>This is a much newer and advanced technique of performing coronary bypass for the&nbsp;treatment of coronary heart disease. In this technique, a small 4 – 6 cm incision is made on the left side of the chest. This incision is used to approach the heart through the ribs without cutting any bones and the surgery is performed using laproscopy. The different techniques used are:</p>
-<ul>
-<li>Minimally Invasive – Direct Coronary Artery Bypass (MIDCAB)</li>
-<li>Off-Pump Coronary Artery Bypass (OPCAB)</li>
-<li>Totally Endoscopic, <strong>Robot-Assisted Coronary Artery Bypass Grafting</strong> (TECAB)</li>
-</ul>
-<p>Few hospitals in India follow a new technique and take artery grafts from chest and leg vein are taken only if many grants are needed. This saves the additional incision to the leg and faster recovery. Arterial grafts (mostly radial artery) are considered to be most durable grafts of this approach.</p>
-<h2><span style="color: #0048ad;">Advantages of Minimally Invasive Cardiac Surgery over the traditional CABG:</span></h2>
-<ul>
-<li>The biggest advantage of this technique is that, since no bones are cut, there is lesser pain and minimal impact on retaining function and breathing.</li>
-<li>Shorter hospital stay i.e. usually the procedure lasts only 5 days unlike the conventional heart surgery that takes 9 days and hence the return to normal life is faster and easier.</li>
-<li>Lesser blood loss eliminates the need for blood transfusion and hence no risk of any blood borne infections</li>
-<li>Due to a small cut the risk of all infections is significantly reduced. Making this technique ideal for high risk patients such as diabetics and older patients with weaker resistance to infections.</li>
-<li>Since the incision is just 2 – 3 inches it leaves a very small scar.</li>
-</ul>
-<p><strong><em>Limitations of Minimally Invasive Cardiac Surgery:</em></strong></p>
-<ul>
-<li>Since this is a new technique it requires specialised surgeons and at specialised hospitals.</li>
-<li>The procedure is expensive compared to the traditional CABG</li>
-<li>Strict patient selection criteria. Patients with extensive disease or very poor heart function are not suitable for this technique.</li>
-</ul>
-<h2><span style="color: #0048ad;">Endoscopic Vein Harvesting (EVH)</span></h2>
-<p>EVH adds further benefit to MICS CABG. State of the art equipment ensures quality with exceptional patient comfort. In this technique the leg vein is harvested to be used as a bypass conduit using an endoscope. Many studies have reported, that endoscopic vein-graft harvesting reduces post-operative pain, wound complications, duration of hospital stay, and a need for a large longitudinal incision.</p>
-<h2><span style="color: #0048ad;">Redo CABG’s</span></h2>
-<p>Redo coronary artery bypass grafting (CABG) occurs when patients who previously underwent CABG develop progression of their native coronary artery disease or graft occlusion that requires another surgical revascularization.</p>
-<h3><span style="color: #0048ad;">Top Surgeons offering CABG in India</span></h3>
-<ul>
-<li><a href="#/dr-bhaba-nanda-das-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Bhaba Nanda Das</strong></a> – Chief Cardiac Surgeon (CTVS), Indraprastha Apollo Hospital, New Delhi, (Experience <strong>38</strong> years).</li>
-<li><a href="#/dr-anil-bhan-pediatric-cardiac-surgeon-in-delhi/"><strong>Dr Anil Bhan</strong></a> – Chairman, Cardiac Surgery, Heart Institute, Medanta the Medicity, Gurugram, (Experience <strong>40</strong> years).</li>
-<li><a href="#/dr-z-s-meharwal-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Z.S. Meherwal</strong></a> – Executive Director, Fortis Escorts Heart Institute, New Delhi, (Experience <strong>30</strong> years).</li>
-<li><a href="#/dr-s-k-sinha-cardiothoracic-and-vascular-surgeon/"><strong>Dr S K Sinha</strong></a> – Senior Director, Cardiac Sciences, Cardiac Surgery (CTVS), Max Super Speciality Hospital, Saket, (Experience <strong>33</strong> years).</li>
-<li><a href="#/dr-y-k-mishra-cardiothoracic-and-vascular-surgeon/"><strong>Dr Y K Mishra</strong></a> – Chief of Clinical Services, Head of Cardiac Sciences and Chief Cardio Vascular Surgeon, Manipal Hospitals, (Experience <strong>34 </strong>years).</li>
-<li><a href="#/dr-rajneesh-malhotra-cardiothoracic-vascular-surgeon-in-delhi/"><strong>Dr Rajneesh Malhotra</strong> </a>– Principal Director – Cardio Thoracic &amp; Vascular Surgery Cardiac Sciences, (CTVS) at Max Super Speciality Hospital, Saket, (Experience <strong>35</strong> years).</li>
-<li><a href="#/dr-udgeath-dhir-cardiothoracic-and-vascular-surgeon/"><strong>Dr Udgeath Dhir</strong></a> – Director &amp; Head, Cardiothoracic and Vascular Surgery (CTVS), Fortis Escorts Hospital, Faridabad | Fortis Memorial Research Institute, Gurugram, (Experience <strong>15</strong> years).</li>
-<li><a href="#/dr-akhil-govil-cardiothoracic-and-vascular-surgeon/"><strong>Dr Akhil Govil</strong></a> – Unit Head – Cardio Thoracic and Vascular Surgery, Artemis Hospital, New Delhi, (Experience <strong>20</strong> years).</li>
-</ul>
-<h2><span style="color: #0048ad;"><b>Factors Affecting the Overall Cost of the Treatment CABG:&nbsp;</b></span></h2>
-<ul>
-<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The cost of CABG surgery is very high in Western countries.&nbsp;</span></li>
-<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">India is known worldwide for its advanced medical facilities and promising technology for CABG surgery.&nbsp;</span></li>
-<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The average cost of surgery in India is less than that of Western countries.&nbsp;</span></li>
-<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">The average cost of coronary Artery Bypass Surgery is around $ 4000 to $ 5500.&nbsp;</span></li>
-</ul>
-<h3><span style="color: #0048ad;"><b>The various deciding factors that affect the total cost are:&nbsp;</b></span></h3>
-<p><b>Hospital Factors:&nbsp;</b></p>
-<ul>
-<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Type of Hospital( government or private)&nbsp;</span></li>
-<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Accreditation of the hospital ( JCI OR NABH)</span></li>
-<li aria-level="1" style="font-weight: 400;"><span style="font-weight: 400;">Reputation and brand value of the hospital.&nbsp;</span></li>
-</ul>
-<p><b>Surgeons Fee: </b><span style="font-weight: 400;">The credentials and the experience of the cardiac surgeon also affect the overall cost of the surgery. Highly skilled and renowned surgeons increase overall expenses.&nbsp;</span></p>
-<p><b>Geographic Location of the Hospital: </b><span style="font-weight: 400;">The cost of heart bypass surgery also depends on the city or location where the surgery is performed. Major metropolitan areas like Mumbai, Delhi, and Bangalore translate into high medical expenses.&nbsp;</span></p>
-<p><b>Technology Used: </b><span style="font-weight: 400;">The technology used in the surgery affects the overall cost. The various technologies used in CABG are:&nbsp;</span></p>
-<ul>
-<li aria-level="1" style="font-weight: 400;">Beating heart CABG</li>
-<li aria-level="1" style="font-weight: 400;">Minimally Invasive CABG surgery</li>
-<li aria-level="1" style="font-weight: 400;">Off-Pump Coronary Artery Bypass</li>
-<li aria-level="1" style="font-weight: 400;">Endoscopic, Robot-Assisted Coronary Artery Bypass Grafting (TECAB)</li>
-</ul>
-<p><b>Duration of the Hospital Stay: </b><span style="font-weight: 400;">The length of the hospitalization affects the overall cost. Prolonged stay due to complications or other medical conditions may increase the overall cost.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Also, the type of room selected for the stay determines the cost.&nbsp;</span></p>
-<p><b>Pre-operative Costs: </b><span style="font-weight: 400;">Before the surgery, extensive evaluations are conducted to assess the patient’s condition. These evaluations may involve tests, consultations, and imaging studies. The cost of the evaluations is based on their complexity and the number of tests.&nbsp;</span></p>
-<p><b>Post-operative Care: </b><span style="font-weight: 400;">After coronary artery bypass surgery, patients require post-operative care like medications, monitoring, and follow-up care. The duration and the intensity of post-operative care can impact the cost.&nbsp;</span></p>
-<h2><br /></h2>
-<p><span style="color: #0048ad;"><b>Heart Health on a Budget: Service Cost</b></span></p>
-<table>
-<tbody>
-<tr>
-<td><b>Services</b></td>
-<td><b>Cost</b></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Hotel with kitchen</span></td>
-<td><span style="font-weight: 400;">20$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Food</span></td>
-<td><span style="font-weight: 400;">10$ per day</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local Travelling (taxi)</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Local SIM Card</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Language Translator</span></td>
-<td><span style="font-weight: 400;">Free of cost</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400;">For those planning a medical trip to India, meticulous planning is crucial. Researching accredited hospitals, consulting with renowned cardiac surgeons, and understanding the visa and travel requirements are essential steps. Collaborating with medical tourism agencies like Medihelp Global , that specialize in facilitating healthcare journeys can simplify logistics, including accommodation and transportation.</span></p>
-<p><span style="color: #0048ad;"><b>Contact Dr. Nadeem Khan today, if you are planning your CABG surgery in India.&nbsp;</b></span></p>
-</div>`,
+    <h2><span style="color: #0048ad;">Introduction & Overview</span></h2>
+    <p>Coronary Artery Bypass Grafting (CABG) is a surgical procedure aimed at improving blood flow to the heart in patients with severe coronary artery disease (CAD). In CAD, the coronary arteries become narrowed or blocked due to atherosclerosis—the buildup of plaque—reducing oxygen-rich blood supply to the heart muscle, increasing the risk of heart attacks and heart failure.</p>
+    <p>CABG involves creating a detour around the blocked arteries by grafting healthy blood vessels from other parts of the body—typically the saphenous vein from the leg, the internal mammary artery from the chest, or the radial artery from the arm—to restore adequate blood flow to the heart.</p>
+    <p>As one of the most commonly performed heart surgeries globally, CABG significantly improves survival rates, alleviates symptoms like chest pain (angina), and enhances overall quality of life.</p>
+
+    <h2><span style="color: #0048ad;">Conditions Treated with CABG</span></h2>
+    <p>Coronary Artery Disease (CAD): The most common reason for CABG, involving blocked coronary arteries.</p>
+    <p>Acute Myocardial Infarction (Heart Attack): CABG may be necessary after a severe heart attack.</p>
+    <p>Chronic Angina: Persistent chest pain due to inadequate blood supply.</p>
+    <p>Left Main Coronary Artery Disease: A blockage in the main artery supplying the heart.</p>
+    <p>Triple-Vessel Disease: Severe blockages in three major coronary arteries.</p>
+    <p>Failed Percutaneous Coronary Interventions (PCI): When stents or angioplasty fail to keep arteries open.</p>
+
+    <h2><span style="color: #0048ad;">Biological & Medical Insights</span></h2>
+    <p>Blocked coronary arteries prevent oxygenated blood from reaching heart tissues, leading to ischemia and potential heart muscle damage.</p>
+    <p>CABG provides an alternative route for blood flow, reducing strain on the heart and preventing further ischemic events.</p>
+    <p>The longevity of the graft varies based on the type of vessel used and patient lifestyle factors.</p>
+
+    <h2><span style="color: #0048ad;">Procedure: Step-by-Step</span></h2>
+    <p>Pre-Operative Assessment:</p>
+    <ul>
+        <li>Coronary Angiography: Identifies blocked arteries.</li>
+        <li>Echocardiogram & Stress Test: Evaluates heart function.</li>
+        <li>Blood Tests & Chest X-rays: Assesses overall surgical readiness.</li>
+    </ul>
+
+    <p>Surgical Process:</p>
+    <ul>
+        <li>Performed under general anesthesia.</li>
+        <li>The heart may be stopped using a heart-lung machine (on-pump CABG) or kept beating (off-pump CABG).</li>
+        <li>Healthy blood vessels are grafted above and below the blocked artery to restore blood flow.</li>
+    </ul>
+
+    <p>Post-Operative Care:</p>
+    <ul>
+        <li>ICU monitoring for heart rhythm, blood pressure, and fluid balance.</li>
+        <li>Pain management and gradual physical rehabilitation.</li>
+        <li>Long-term follow-up includes medication management and lifestyle counseling.</li>
+    </ul>
+
+    <h2><span style="color: #0048ad;">Before & After Treatment</span></h2>
+    <p>Before: Symptoms include chest pain (angina), shortness of breath, fatigue, and risk of heart attack.</p>
+    <p>After: Improved heart function, increased energy levels, reduced chest pain, and lowered risk of cardiac events.</p>
+
+    <h2><span style="color: #0048ad;">Advantages of CABG</span></h2>
+    <p>✔ Provides long-term relief from angina.</p>
+    <p>✔ Reduces the risk of heart attacks.</p>
+    <p>✔ Improves life expectancy, especially in high-risk patients.</p>
+
+    <h2><span style="color: #0048ad;">Precautions & Risks</span></h2>
+    <p>Potential Risks: Risk of infection or bleeding, arrhythmias (especially atrial fibrillation), stroke or heart attack during/after surgery (rare), and graft occlusion over time requiring future interventions.</p>
+
+    <h2><span style="color: #0048ad;">Insights</span></h2>
+    <p>✔ Arterial grafts (like the internal mammary artery) have longer patency rates than vein grafts.</p>
+    <p>✔ Off-pump CABG reduces the risk of certain complications but may not be suitable for all patients.</p>
+    <p>✔ Post-operative cardiac rehabilitation improves long-term outcomes.</p>
+
+    <h2><span style="color: #0048ad;">Why Choose MediHelp for CABG?</span></h2>
+    <p>✔ Expert Cardiothoracic Surgeons: Extensive experience in both on-pump and off-pump CABG.</p>
+    <p>✔ Advanced Pre-Surgical Planning: Using 3D angiography for precision.</p>
+    <p>✔ Comprehensive Cardiac Rehabilitation Programs: Ensuring holistic recovery.</p>
+    <p>✔ High Success Rates: Industry-leading patient outcomes.</p>
+</div>
+
+`,
   },
   // minimally-invasive-cardiac-surgery
   {
