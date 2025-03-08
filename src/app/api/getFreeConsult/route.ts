@@ -17,6 +17,8 @@ export async function POST(req: NextRequest) {
     const age = formdata.get("ageOrDOB");
     const medicalProblem = formdata.get("medicalProblem");
 
+    console.log(formdata)
+
     // Validate input
     if (!name || !phone || !email || !country || !age || !city || !medicalProblem) {
       return NextResponse.json(
