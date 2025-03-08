@@ -428,3 +428,63 @@ export const EmailTempHealthAdvisor: React.FC<Readonly<EmailTempHealthAdvisorPro
     </Tailwind>
   );
 };
+
+interface GetFreeConsultProps {
+  name: string;
+  phone: string;
+  email: string;
+  country: string;
+  city: string;
+  age: string;
+  medicalProblem: string;
+}
+
+export const GetFreeConsult: React.FC<Readonly<GetFreeConsultProps>> = ({ name, phone, email, country, age, medicalProblem, city }) => {
+
+  return (
+    <Tailwind>
+      <Html lang="en">
+        <Container className="mx-auto my-0 max-w-lg p-6 bg-white shadow-lg rounded-lg">
+          <Heading className="text-2xl font-semibold text-brand text-center mb-6">
+            Health Advisor Request Details
+          </Heading>
+
+          <div className="space-y-2 w-full">
+            <div className="flex justify-between border-b pb-2">
+              <Text className="text-lg font-semibold text-gray-600 pr-4">Name:</Text>
+              <Text className="text-lg text-gray-800">{name}</Text>
+            </div>
+            <div className="flex justify-between border-b pb-2">
+              <Text className="text-lg font-semibold text-gray-600 pr-4">Phone:</Text>
+              <Text className="text-lg text-gray-800">{phone}</Text>
+            </div>
+            <div className="flex justify-between border-b pb-2">
+              <Text className="text-lg font-semibold text-gray-600 pr-4">Email:</Text>
+              <Text className="text-lg text-gray-800">{email}</Text>
+            </div>
+            <div className="flex justify-between border-b pb-2">
+              <Text className="text-lg font-semibold text-gray-600 pr-4">City:</Text>
+              <Text className="text-lg text-gray-800">{city}</Text>
+            </div>
+            <div className="flex justify-between border-b pb-2">
+              <Text className="text-lg font-semibold text-gray-600 pr-4">Country:</Text>
+              <Text className="text-lg text-gray-800">{country}</Text>
+            </div>
+            <div className="flex justify-between border-b pb-2">
+              <Text className="text-lg font-semibold text-gray-600 pr-4">Age:</Text>
+              <Text className="text-lg text-gray-800">{age}</Text>
+            </div>
+            <div className="flex justify-between border-b pb-2">
+              <Text className="text-lg font-semibold text-gray-600 pr-4">Message:</Text>
+              <Text className="text-lg text-gray-800">{medicalProblem}</Text>
+            </div>
+          </div>
+
+          <Text className="text-center text-sm text-green-400 mt-6">
+            Thank you for submitting your health advisor request!
+          </Text>
+        </Container>
+      </Html>
+    </Tailwind>
+  );
+};

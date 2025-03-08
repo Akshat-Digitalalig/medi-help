@@ -6,13 +6,13 @@ import Link from "next/link";
 
 export default function Footer() {
     return (
-        <footer className="bg-[#E1F5FF] py-12">
+        <footer className="bg-[#E1F5FF] py-5 md:py-12">
             {/* Container */}
             <div className="container mx-auto px-4 md:px-8">
                 {/* Top Section */}
-                <div className="grid gap-12 md:grid-cols-3 lg:grid-cols-5 lg:gap-16">
+                <div className="grid grid-cols-1 grid-row-2 md:grid-cols-2 space-around md:space-between">
                     {/* Branding and Social Links */}
-                    <div className="lg:col-span-2 flex flex-col items-center lg:items-start">
+                    <div className="flex flex-col mb-5 items-center md:mr-20 lg:mr-40">
                         <Link href="/" className="mb-4">
                             <Image
                                 src="/medilogo.webp"
@@ -22,10 +22,10 @@ export default function Footer() {
                                 className="object-contain"
                             />
                         </Link>
-                        <p className=" text-myblue font-semibold text-center lg:text-left">
+                        <p className="text-[14px] lg:text-[16px] text-myblue font-semibold text-center lg:text-left">
                             One Destination For All Treatment
                         </p>
-                        <p className="mb-6 mt-2 text-myblue font-semibold text-center lg:text-left">
+                        <p className="text-[14px] lg:text-[16px] mb-6 mt-2 text-myblue font-semibold text-center lg:text-left">
                            +91 98971 86585
                         </p>
                         <SocialLinks />
@@ -35,23 +35,23 @@ export default function Footer() {
                     </div>
 
                     {/* Footer Navigation */}
-                    <div className="grid grid-cols-3 gap-8 lg:gap-12 lg:col-span-3">
+                    <div className="grid grid-cols-3 gap-[1rem] lg:gap-8 lg:gap-12">
                         {/* Products Section */}
                         <div className="text-center lg:text-left">
                             <h3 className="mb-4 font-bold uppercase tracking-widest text-myblue">
                                 Services
                             </h3>
                             <nav className="flex flex-col gap-3">
-                                <Link href="/hospitals" className="text-gray-500 transition hover:text-blue-500">
+                                <Link href="/hospitals" className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500">
                                     Hospitals
                                 </Link>
-                                <Link href="/doctors" className="text-gray-500 transition hover:text-blue-500">
+                                <Link href="/doctors" className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500">
                                     Doctors
                                 </Link>
-                                <Link href="/treatments" className="text-gray-500 transition hover:text-blue-500">
+                                <Link href="/treatments" className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500">
                                     Treatment
                                 </Link>
-                                <Link href="/about" className="text-gray-500 transition hover:text-blue-500">
+                                <Link href="/about" className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500">
                                     About
                                 </Link>
                             </nav>
@@ -63,16 +63,16 @@ export default function Footer() {
                                 Support
                             </h3>
                             <nav className="flex flex-col gap-3">
-                                <Link href="/consult-online" className="text-gray-500 transition hover:text-blue-500">
+                                <Link href="/consult-online" className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500">
                                     Contact Us
                                 </Link>
-                                <Link href="/consult-online" className="text-gray-500 transition hover:text-blue-500">
+                                <Link href="/consult-online" className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500">
                                     Consult Online
                                 </Link>
-                                <Link href="/consult-online" className="text-gray-500 transition hover:text-blue-500">
+                                <Link href="/consult-online" className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500">
                                     Help
                                 </Link>
-                                <Link href="/consult-online" className="text-gray-500 transition hover:text-blue-500">
+                                <Link href="/consult-online" className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500">
                                     For More
                                 </Link>
                             </nav>
@@ -86,19 +86,19 @@ export default function Footer() {
                             <nav className="flex flex-col gap-3">
                                 <Link
                                     href="/info/terms-conditions"
-                                    className="text-gray-500 transition hover:text-blue-500"
+                                    className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500"
                                 >
                                     Terms of Service
                                 </Link>
                                 <Link
                                     href="/info/privacy-policy"
-                                    className="text-gray-500 transition hover:text-blue-500"
+                                    className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500"
                                 >
                                     Privacy Policy
                                 </Link>
                                 <Link
                                     href="/about"
-                                    className="text-gray-500 transition hover:text-blue-500"
+                                    className="text-[14px] lg:text-[16px] text-gray-500 transition hover:text-blue-500"
                                 >
                                     About
                                 </Link>

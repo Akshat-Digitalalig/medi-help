@@ -3,7 +3,7 @@ import { render } from "@react-email/components";
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 
-import { EmailTempHealthAdvisor } from "@/lib/Email/EmailTemp";
+import { GetFreeConsult } from "@/lib/Email/EmailTemp";
 
 // Handle POST requests
 export async function POST(req: NextRequest) {
@@ -13,12 +13,12 @@ export async function POST(req: NextRequest) {
     const phone = formdata.get("phone");
     const email = formdata.get("email");
     const country = formdata.get("country");
-    const age = formdata.get("age");
-    const gender = formdata.get("gender");
-    const messageForUs = formdata.get("messageForUs");
+    const city = formdata.get("city");
+    const age = formdata.get("ageOrDOB");
+    const medicalProblem = formdata.get("medicalProblem");
 
     // Validate input
-    if (!name || !phone || !email || !country || !age || !gender || !messageForUs) {
+    if (!name || !phone || !email || !country || !age || !city || !medicalProblem) {
       return NextResponse.json(
         { message: "All fields are required" },
         { status: 400 }
@@ -38,14 +38,14 @@ export async function POST(req: NextRequest) {
 
     // Render the email template
     const emailHtml = await render(
-      React.createElement(EmailTempHealthAdvisor, {
+      React.createElement(GetFreeConsult, {
         name: String(name),
         phone: String(phone),
         email: String(email),
         country: String(country),
+        city: String(city),
         age: String(age),
-        gender: String(gender),
-        messageForUs: String(messageForUs)
+        medicalProblem: String(medicalProblem)
       })
     );
 

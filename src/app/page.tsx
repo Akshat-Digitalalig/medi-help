@@ -41,8 +41,8 @@ export default function Home() {
       <div className='flex justify-center items-center px-6 md:px-10 mb-4 '>
         <div className='bg-[#240f6a] text-[#8c6df7] flex  justify-around overflow-hidden items-center rounded-2xl h-48 w-full '>
           <div className='pl-4'>
-            <h1 className='text-xl md:text-4xl leading-none font-bold'>Connect!</h1>
-            <h1 className='text-xl leading-none md:text-6xl font-bold text-white'>With Top Hospitals</h1>
+            <h1 className='text-xl md:text-2xl lg:text-4xl leading-none font-bold'>Connect!</h1>
+            <h1 className='text-xl leading-none md:text-4xl lg:text-6xl font-bold text-white'>With Top Hospitals</h1>
           </div>
           <Image src={'/Hospitals.png'} alt="Free Consult" className=' w-96' height={290} width={490} />
         </div>

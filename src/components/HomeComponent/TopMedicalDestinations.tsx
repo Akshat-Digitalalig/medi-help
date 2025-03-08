@@ -33,7 +33,7 @@ export default function TopMedicalDestinations() {
         <div className='flex flex-col justify-center items-center pt-10 pb-10'>
             <h1 className='font-bold text-xl py-3'>Top Medical Destinations</h1>
             <p className='text-sm w-[80vw] text-center'>Our network spans the top medical tourism hubs worldwide - giving you the choice of cities, doctors and price.</p>
-            <div className='grid grid-cols-2 md:grid-cols-6 gap-4 my-4 '>
+            <div className='grid grid-cols-2 md:grid-cols-3 md:grid-rows-2 lg:grid-cols-6 gap-4 my-4 '>
                 {destinations.map((destination, index) => (
                     <div key={index} className=' flex py-2 md:py-3 px-2 md:px-3 gap-x-2 rounded-lg w-40 border-indigo-950 border-[1px] bg-[#e1f5ff]'>
                         <Image src={destination.image} height={20} width={20} alt={destination.name} />

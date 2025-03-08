@@ -23,9 +23,9 @@ export default function GetFreeConsult() {
   ) => {
     const { name, value } = e.target;
 
-    if (name === "country") {
-      setCountryCode(countryCodeData[value as keyof typeof countryCodeData]);
-    }
+    // if (name === "country") {
+    //   setCountryCode(countryCodeData[value as keyof typeof countryCodeData]);
+    // }
 
     setFormData((prevData) => ({
       ...prevData,
@@ -35,6 +35,7 @@ export default function GetFreeConsult() {
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
+    console.log(formData)
     toast.success("Email Sending....");
     e.preventDefault();
     if (
@@ -50,18 +51,18 @@ export default function GetFreeConsult() {
     }
 
     try {
+      const formDataPayload = new FormData();
+      formDataPayload.append("name", formData.name);
+      formDataPayload.append("email", formData.email);
+      formDataPayload.append("medicalProblem", formData.medicalProblem);
+      formDataPayload.append("country", formData.country);
+      formDataPayload.append("city", formData.city);
+      formDataPayload.append("phone", formData.phone);
+      formDataPayload.append("ageOrDOB", formData.ageOrDOB);
       const response = await fetch("/api/sendEmail", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: formData.name,
-          email: formData.email,
-          medicalProblem: formData.medicalProblem,
-          country: formData.country,
-          city: formData.city,
-          phone: countryCode + formData.phone,
-          ageOrDOB: formData.ageOrDOB,
-        }),
+        body: formDataPayload
       });
 
       const data = await response.json();
@@ -147,7 +148,7 @@ export default function GetFreeConsult() {
             value={formData.city}
             onChange={handleChange}
             className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-            disabled={!formData.country} 
+            disabled={!formData.country}
           >
             <option value="">Select City</option>
             {formData.country &&
