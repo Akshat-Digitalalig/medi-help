@@ -11,6 +11,8 @@ import "react-phone-number-input/style.css";
 
 
 const PatientForm: React.FC = () => {
+    const [loading, setLoading] = useState(false);
+    const [success, setSuccess] = useState(false);
     const searchParams = useSearchParams();
     const hospital = searchParams.get('hospital');
     const router = useRouter()
@@ -52,6 +54,7 @@ const PatientForm: React.FC = () => {
     };
 
     const handleSubmit = async (e: React.FormEvent) => {
+        setLoading(true);
 
         e.preventDefault();
         if (!formData.name || !formData.email || !formData.city || !formData.phone || !formData.medicalProblem || !formData.ageOrDOB) {
@@ -66,7 +69,7 @@ const PatientForm: React.FC = () => {
             formDataPayload.append("medicalProblem", formData.medicalProblem);
             formDataPayload.append("country", formData.country);
             formDataPayload.append("city", formData.city);
-            formDataPayload.append("phone",  formData.phone);
+            formDataPayload.append("phone", formData.phone);
             formDataPayload.append("ageOrDOB", formData.ageOrDOB);
             formDataPayload.append("hospital", formData.hospital || '');
             formDataPayload.append("doctor", formData.doctor || '');
@@ -82,16 +85,20 @@ const PatientForm: React.FC = () => {
 
             const data = await response.json();
             if (response.ok) {
+                setSuccess(true);
+                setLoading(false);
                 sendSuccuss()
                 setFormData({ name: '', email: '', country: 'India', city: '', phone: '', medicalProblem: '', ageOrDOB: '', hospital: hospital, doctor: doctor });
                 setFiles([]); // Reset file input
                 router.push("/")
             } else {
                 failedMail()
+                setLoading(false);
                 console.log(data.message);
             }
         } catch (error) {
             console.error('Error:', error);
+            setLoading(false);
             failedMail()
         }
     };
@@ -201,16 +208,16 @@ const PatientForm: React.FC = () => {
                             Phone Number<span className='text-red-500'>*</span>
                         </label>
                         <div className="flex">
-                           
+
                             <PhoneInput
-                            className='w-full focus:outline-none focus:ring-2 focus:ring-blue-500'
-                            international
-                            countryCallingCodeEditable={false}
-                            defaultCountry="IN"
+                                className='w-full focus:outline-none focus:ring-2 focus:ring-blue-500'
+                                international
+                                countryCallingCodeEditable={false}
+                                defaultCountry="IN"
                                 placeholder="Enter phone number"
                                 value={formData.phone}
                                 onChange={(value) => setFormData({ ...formData, phone: value || '' })} />
-                           
+
                         </div>
                     </div>
                     <div>
@@ -242,7 +249,7 @@ const PatientForm: React.FC = () => {
                     </div>
                     <div>
                         <label htmlFor="file" className="block py-1 text-sm font-medium">
-                           Documents (Medical Reports And Other Releted to Health) <span className='text-red-500'>*</span>
+                            Documents (Medical Reports And Other Releted to Health) <span className='text-red-500'>*</span>
                         </label>
                         <input
                             type="file"
@@ -255,12 +262,20 @@ const PatientForm: React.FC = () => {
                         />
                         <p className="text-xs text-gray-500">Supported formats: .jpg, .jpeg, .png, .pdf</p>
                     </div>
-                    <button
-                        type="submit"
-                        className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-red-700 transition duration-300"
-                    >
-                        Submit
-                    </button>
+                    <div className="col-span-1 sm:col-span-2">
+                        {success ? (
+                            <p className="text-green-500 text-center">
+                                Request sent successfully!
+                            </p>
+                        ) : (
+                            <button
+                                type="submit"
+                                className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                            >
+                                {loading ? "Please wait..." : "Submit"}
+                            </button>
+                        )}
+                    </div>
                     <p className="text-xs text-center text-gray-500 mt-2">
                         By submitting the form I agree to the{" "}
                         <Link href="/info/terms-conditions" className="text-blue-600">

@@ -8,8 +8,10 @@ import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/Uni
 import PhoneInput from "react-phone-number-input";
 import "./phone.css";
 import "react-phone-number-input/style.css";
+import { fail } from "assert";
 
 export default function VisaInvitation() {
+  const [loading, setLoading] = useState(false);
 
   const [formData, setFormData] = useState({
     patientName: "",
@@ -46,6 +48,7 @@ export default function VisaInvitation() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setLoading(true)
     // Validate required fields
     if (
       !formData.patientName ||
@@ -57,6 +60,7 @@ export default function VisaInvitation() {
       !formData.city ||
       !formData.message
     ) {
+      setLoading(false)
       toast.error("All fields are required.");
       return;
     }
@@ -86,6 +90,7 @@ export default function VisaInvitation() {
       });
 
       if (response.ok) {
+        setLoading(false)
         sendSuccuss();
         setFormData({
           patientName: "",
@@ -102,11 +107,13 @@ export default function VisaInvitation() {
       } else {
         const errorData = await response.json();
         failedMail();
+        setLoading(false)
         toast.error(`Failed to send request: ${errorData.message}`);
       }
     } catch (error) {
       console.error("Error during form submission:", error);
       toast.error("Something went wrong. Please try again later.");
+      setLoading(false);
       failedMail();
     }
   };
@@ -301,8 +308,8 @@ export default function VisaInvitation() {
                 rows={4}
               ></textarea>
             </div>
-            <div>
-              {success ? (
+            <div className="col-span-1 sm:col-span-2">
+            {success ? (
                 <p className="text-green-500 text-center">
                   Request sent successfully!
                 </p>
@@ -311,7 +318,7 @@ export default function VisaInvitation() {
                   type="submit"
                   className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 >
-                  Submit
+                  {loading? "Please wait...":"Submit"}
                 </button>
               )}
             </div>

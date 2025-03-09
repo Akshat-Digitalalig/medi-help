@@ -9,6 +9,7 @@ import "./phone.css";
 import "react-phone-number-input/style.css";
 
 export default function AirportPickup() {
+  const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
     patientName: "",
     phoneNumber: "",
@@ -40,6 +41,7 @@ export default function AirportPickup() {
   };
 
   const handleSubmit = async (e: React.FormEvent) => {  
+    setLoading(true);
     e.preventDefault();
     // Validate required fields
     if (
@@ -49,6 +51,7 @@ export default function AirportPickup() {
       !formData.vehicle ||
       !formData.message
     ) {
+      setLoading(false);
       toast.error("All fields are required.");
       return;
     }
@@ -83,15 +86,18 @@ export default function AirportPickup() {
           message: "",
         });
         setFile([]);
+        setLoading(false);
         setSuccess(true);
       } else {
         const errorData = await response.json();
+        setLoading(false);
         failedMail();
         toast.error(`Failed to send request: ${errorData.message}`);
       }
     } catch (error) {
       console.error("Error during form submission:", error);
       toast.error("Something went wrong. Please try again later.");
+      setLoading(false);
       failedMail();
     }
   };
@@ -226,7 +232,7 @@ export default function AirportPickup() {
               ></textarea>
             </div>
 
-            <div>
+            <div className="col-span-1 sm:col-span-2">
             {success ? (
                 <p className="text-green-500 text-center">
                   Request sent successfully!
@@ -234,9 +240,9 @@ export default function AirportPickup() {
               ) : (
                 <button
                   type="submit"
-                  className="w-full sticky bottom-[50%] py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 >
-                  Submit
+                  {loading? "Please wait...":"Submit"}
                 </button>
               )}
             </div>

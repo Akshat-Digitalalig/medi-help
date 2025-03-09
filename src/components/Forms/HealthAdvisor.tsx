@@ -11,6 +11,8 @@ import "./phone.css";
 import "react-phone-number-input/style.css";
 
 export default function HealthAdvisor() {
+  const [loading, setLoading] = useState(false);
+  const [success, setSuccess] = useState(false);
   const [formData, setFormData] = useState({
     patientName: "",
     phoneNumber: "",
@@ -20,7 +22,6 @@ export default function HealthAdvisor() {
     gender: "",
     message: "",
   });
-  const [success, setSuccess] = useState(false);
 
   const handleChange = (
     e: React.ChangeEvent<
@@ -39,8 +40,8 @@ export default function HealthAdvisor() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-   
-
+    setLoading(true)
+    
     // Validate required fields
     if (
       !formData.patientName ||
@@ -51,6 +52,7 @@ export default function HealthAdvisor() {
       !formData.gender ||
       !formData.message
     ) {
+      setLoading(false)
       toast.error("All fields are required.");
       return;
     }
@@ -84,13 +86,16 @@ export default function HealthAdvisor() {
           message: "",
         });
         setSuccess(true);
+        setLoading(false);
       } else {
         const errorData = await response.json();
+        setLoading(false);
         toast.error(`Failed to send request: ${errorData.message}`);
         
       }
     } catch (error) {
       console.error("Error during form submission:", error);
+      setLoading(false);
       failedMail()
     }
   };
@@ -259,7 +264,7 @@ export default function HealthAdvisor() {
                   type="submit"
                   className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 >
-                  Submit
+                  {loading? "Please wait...":"Submit"}
                 </button>
               )}
             </div>
