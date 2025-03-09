@@ -12,17 +12,12 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import React, { useRef, useState } from "react";
-import { Manrope } from "next/font/google";
 import { Nav } from "./Nav";
 import Link from "next/link";
 import UtilsBar from "./UtilsBar";
 import SearchBar from "./SearchBar";
 import HealthAdvisor from "../Forms/HealthAdvisor";
 
-const manrope = Manrope({
-  subsets: ["latin"],
-  weight: ["200", "400", "600", "800"],
-});
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

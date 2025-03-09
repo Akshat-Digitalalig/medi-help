@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import { toast } from "sonner";
 import { countryCityData, countryCodeData } from "@/lib/constant/unversal";
+import PhoneInput from "react-phone-number-input";
 import Link from "next/link";
 
 export default function GetFreeConsult() {
@@ -40,24 +41,24 @@ export default function GetFreeConsult() {
     e.preventDefault();
     setLoading(true);
     toast.success("Email Sending...");
-  
+
     if (Object.values(formData).some((val) => val.trim() === "")) {
       alert("All fields are required");
       return;
     }
-  
+
     try {
       const response = await fetch("/api/getFreeConsult", {
         method: "POST",
         headers: { "Content-Type": "application/json" }, // ✅ Set JSON content type
         body: JSON.stringify(formData), // ✅ Send JSON instead of FormData
       });
-  
+
       const data = await response.json();
       if (!response.ok) {
         throw new Error(data.message || "Failed to send email");
       }
-  
+
       toast.success("Email Sent Successfully");
       setSuccess(true);
       setLoading(false)
@@ -76,7 +77,7 @@ export default function GetFreeConsult() {
       setLoading(false);
     }
   };
-  
+
   return (
     <div className=" max-w-md mx-auto p-6 my-2  rounded-lg bg-gray-100 shadow-lg">
       <h2 className="text-center text-xl font-semibold mb-2">
@@ -151,24 +152,22 @@ export default function GetFreeConsult() {
           </select>
         </div>
         <div>
-          <label htmlFor="phone" className="block py-1 text-sm font-medium">
-            Phone Number<span className="text-red-500">*</span>
+          <label
+            htmlFor="phoneNumber"
+            className="block text-sm font-medium text-gray-700 labelGap"
+          >
+            Phone Number
           </label>
-          <div className="flex">
-            <span className="inline-flex items-center px-3 text-gray-600 bg-gray-200 border border-r-0 rounded-l-md">
-              {countryCode}
-            </span>
-            <input
-              type="text"
-              id="phone"
-              name="phone"
-              value={formData.phone}
-              onChange={handleChange}
-              placeholder="Your Phone number"
-              className="w-full px-4 py-2 border rounded-r-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-            />
-          </div>
+          <PhoneInput
+            className='w-full focus:outline-none focus:ring-2 focus:ring-blue-500'
+            international
+            countryCallingCodeEditable={false}
+            defaultCountry="IN"
+            placeholder="Enter phone number"
+            value={formData.phone}
+            onChange={(value) => setFormData({ ...formData, phone: value || '' })} />
         </div>
+        
         <div>
           <label
             htmlFor="medicalProblem"
@@ -200,19 +199,19 @@ export default function GetFreeConsult() {
           />
         </div>
         <div className="col-span-1 sm:col-span-2">
-            {success ? (
-                <p className="text-green-500 text-center">
-                  Request sent successfully!
-                </p>
-              ) : (
-                <button
-                  type="submit"
-                  className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
-                >
-                  {loading? "Please wait...":"Submit"}
-                </button>
-              )}
-            </div>
+          {success ? (
+            <p className="text-green-500 text-center">
+              Request sent successfully!
+            </p>
+          ) : (
+            <button
+              type="submit"
+              className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            >
+              {loading ? "Please wait..." : "Submit"}
+            </button>
+          )}
+        </div>
         <p className="text-xs text-center text-gray-500 mt-2">
           By submitting the form I agree to the{" "}
           <Link href="/info/terms-conditions" className="text-blue-600">

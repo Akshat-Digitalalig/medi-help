@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { Dialog, DialogClose, DialogContent, DialogFooter, DialogTrigger } from "../ui/dialog";
+import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { doctors } from "@/lib/constant/Doctors";
 import { toast } from "sonner";

@@ -8,7 +8,6 @@ import { failedMail, sendingMail, sendSuccuss } from "@/components/Universal/Uni
 import PhoneInput from "react-phone-number-input";
 import "./phone.css";
 import "react-phone-number-input/style.css";
-import { fail } from "assert";
 
 export default function VisaInvitation() {
   const [loading, setLoading] = useState(false);

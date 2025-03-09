@@ -355,7 +355,7 @@ export default function VisaInvitation() {
               ></textarea>
             </div>
 
-            <div>
+            <div className="col-span-1 sm:col-span-2">
             {success ? (
                 <p className="text-green-500 text-center">
                   Request sent successfully!
@@ -365,7 +365,7 @@ export default function VisaInvitation() {
                   type="submit"
                   className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 >
-                  Submit
+                  {loading? "Please wait...":"Submit"}
                 </button>
               )}
             </div>
