@@ -8,7 +8,6 @@ import Link from "next/link";
 export default function GetFreeConsult() {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
-  const [countryCode, setCountryCode] = useState(countryCodeData["India"]);
   const [formData, setFormData] = useState({
     name: "",
     email: "",
