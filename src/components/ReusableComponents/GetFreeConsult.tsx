@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import { toast } from "sonner";
-import { countryCityData, countryCodeData } from "@/lib/constant/unversal";
+import { countryCityData } from "@/lib/constant/unversal";
 import PhoneInput from "react-phone-number-input";
 import Link from "next/link";
 
