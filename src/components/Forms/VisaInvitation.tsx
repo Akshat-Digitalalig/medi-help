@@ -10,6 +10,7 @@ import "./phone.css";
 import "react-phone-number-input/style.css";
 
 export default function VisaInvitation() {
+  const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
     patientName: "",
     phoneNumber: "",
@@ -64,7 +65,7 @@ export default function VisaInvitation() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-
+    setLoading(true);
     // Validate required fields
     if (
       !formData.patientName ||
@@ -76,10 +77,11 @@ export default function VisaInvitation() {
       !formData.message
     ) {
       toast.error("All fields are required.");
+      setLoading(false);
       return;
     }
     sendingMail();
-
+    
     // Prepare form data
     const data = new FormData();
     data.append("name", formData.patientName);
@@ -89,7 +91,7 @@ export default function VisaInvitation() {
     data.append("numberOfAttendants", formData.attendantsNumber);
     data.append("hospitalName", formData.hospital);
     data.append("messageForUs", formData.message);
-
+    
     // Add file attachments to form data
     patientPassport.forEach((file) => {
       data.append("patientPassport", file);
@@ -100,7 +102,7 @@ export default function VisaInvitation() {
     medicalReports.forEach((file) => {
       data.append("medicalReports", file);
     });
-
+    
     try {
       // Make API call
       const response = await fetch("/api/visaInvitation", {
@@ -109,6 +111,7 @@ export default function VisaInvitation() {
       });
 
       if (response.ok) {
+        setLoading(false);
         sendSuccuss();
         setFormData({
           patientName: "",
@@ -126,11 +129,13 @@ export default function VisaInvitation() {
       } else {
         const errorData = await response.json();
         toast.error(`Failed to send request: ${errorData.message}`);
+        setLoading(false);
         failedMail()
       }
     } catch (error) {
       console.error("Error during form submission:", error);
       toast.error("Something went wrong. Please try again later.");
+      setLoading(false);
       failedMail()
     }
   };
@@ -350,7 +355,7 @@ export default function VisaInvitation() {
               ></textarea>
             </div>
 
-            <div>
+            <div className="col-span-1 sm:col-span-2">
             {success ? (
                 <p className="text-green-500 text-center">
                   Request sent successfully!
@@ -360,7 +365,7 @@ export default function VisaInvitation() {
                   type="submit"
                   className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 >
-                  Submit
+                  {loading? "Please wait...":"Submit"}
                 </button>
               )}
             </div>

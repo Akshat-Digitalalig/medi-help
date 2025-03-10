@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { Dialog, DialogClose, DialogContent, DialogFooter, DialogTrigger } from "../ui/dialog";
+import { Dialog, DialogContent, DialogTrigger } from "../ui/dialog";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { doctors } from "@/lib/constant/Doctors";
 import { toast } from "sonner";
@@ -10,6 +10,7 @@ import "./phone.css";
 import "react-phone-number-input/style.css";
 
 export default function VideoConsulting() {
+  const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
     patientName: "",
     phoneNumber: "",
@@ -50,6 +51,7 @@ export default function VideoConsulting() {
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
+    setLoading(true);
     e.preventDefault();
     // Validate required fields
     if (
@@ -60,6 +62,7 @@ export default function VideoConsulting() {
       !formData.disease ||
       !formData.message
     ) {
+      setLoading(false);
       toast.error("All fields are required.");
       return;
     }
@@ -84,10 +87,10 @@ export default function VideoConsulting() {
     medicalReports.forEach((file) => {
       data.append("medicalReports", file);
     });
-
+    
     console.log(data.getAll('passport'))
-
-
+    
+    
     try {
       // Make an API call to submit the data
       const response = await fetch("/api/videoConsultation", {
@@ -97,6 +100,7 @@ export default function VideoConsulting() {
 
 
       if (response.ok) {
+        setLoading(false);
         sendSuccuss()
         // Optionally reset the form
         setFormData({
@@ -112,12 +116,14 @@ export default function VideoConsulting() {
         setSuccess(true);
       } else {
         const errorData = await response.json();
+        setLoading(false);
         failedMail();
         toast.error(`Failed to send email: ${errorData.message}`);
       }
     } catch (error) {
       console.error("Error during form submission:", error);
       toast.error("Something went wrong. Please try again later.");
+      setLoading(false);
       failedMail()
     }
   };
@@ -288,28 +294,19 @@ export default function VideoConsulting() {
                 rows={4}
               ></textarea>
             </div>
-            <div>
-              {success && (
+            <div className="col-span-1 sm:col-span-2">
+            {success ? (
                 <p className="text-green-500 text-center">
-                  Email sent successfully!
+                  Request sent successfully!
                 </p>
+              ) : (
+                <button
+                  type="submit"
+                  className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                >
+                  {loading? "Please wait...":"Submit"}
+                </button>
               )}
-              {!success ? <button
-                type="submit"
-                className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
-
-              >
-                Submit
-              </button> : <DialogFooter className="sm:justify-start">
-                <DialogClose asChild>
-                  <button
-                    className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
-                  >
-                    Close
-                  </button>
-                </DialogClose>
-              </DialogFooter>
-              }
             </div>
           </form>
         </div>
