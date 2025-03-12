@@ -115,7 +115,7 @@ export default function AirportPickup() {
           <h2 className="text-2xl font-semibold mb-6 text-center">
             Airport Pickup
           </h2>
-          <form onSubmit={handleSubmit} className="grid grid-cols-1 gap-6 ">
+          <form onSubmit={handleSubmit} className="grid grid-cols-1 sm:grid-cols-2 gap-6 ">
             <div>
               <label
                 htmlFor="patientName"

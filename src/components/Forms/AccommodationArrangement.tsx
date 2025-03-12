@@ -130,7 +130,7 @@ export default function VisaInvitation() {
           <h2 className="text-2xl font-semibold mb-6 text-center">
             Accommodation Arrangement
           </h2>
-          <form onSubmit={handleSubmit} className="grid grid-cols-1 gap-6">
+          <form onSubmit={handleSubmit} className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div>
               <label
                 htmlFor="patientName"

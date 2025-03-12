@@ -116,7 +116,7 @@ export default function HealthAdvisor() {
           </h2>
           <form
             onSubmit={handleSubmit}
-            className="grid grid-cols-1 gap-6 sm:grid-cols-2"
+            className="grid grid-cols-1 sm:grid-cols-2 gap-6 sm:grid-cols-2"
           >
             <div>
               <label
