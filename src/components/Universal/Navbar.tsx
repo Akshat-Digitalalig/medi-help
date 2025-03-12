@@ -17,6 +17,7 @@ import Link from "next/link";
 import UtilsBar from "./UtilsBar";
 import SearchBar from "./SearchBar";
 import HealthAdvisor from "../Forms/HealthAdvisor";
+import TabBar from "./TabBar";
 
 
 export default function Navbar() {
@@ -29,13 +30,14 @@ export default function Navbar() {
   return (
     <>
       <UtilsBar />
+      <TabBar/>
       <div className="bg-[#e1f5ff] w-full">
         <header
           className={`mx-auto px-2 flex items-center justify-around`}
         >
           <Link
             href={"/"}
-            className="cursor-pointer relative w-[48%] h-[70px] sm:h-[80px] sm:w-[35%] md:w-[30%] md:h-[60px] lg:h-[90px] lg:w-[25%] my-1 mx-1 md:mx-2 text-lg text-white font-semibold p-2 md:p-0"
+            className="cursor-pointer relative w-[48%] h-[70px] sm:h-[80px] sm:w-[35%] md:w-[30%] md:h-[60px] lg:h-[65px] lg:w-[22%] my-1 mx-1 md:mx-2 text-lg text-white font-semibold p-2 md:p-0"
             aria-label="logo"
           >
             <Image

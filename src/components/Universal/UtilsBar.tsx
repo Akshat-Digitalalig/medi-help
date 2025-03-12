@@ -60,9 +60,9 @@ export default function UtilsBar() {
 
         // Filter doctors
         const filteredDoctors = doctors
-        .filter((doctor) =>
-          doctor?.tags?.some((tag) => tag.toLowerCase().includes(query.toLowerCase()))
-        );
+            .filter((doctor) =>
+                doctor?.tags?.some((tag) => tag.toLowerCase().includes(query.toLowerCase()))
+            );
 
         // Filter treatments
         const filteredTreatments = treatmentLinks.filter((treatment) =>
@@ -80,7 +80,7 @@ export default function UtilsBar() {
         <div className='bg-myblue text-white h-fit flex justify-between items-center'>
             <div className='ml-4 flex'>
                 {/* <h1 className='text-sm hidden md:block'>We Are Providing Best Services And Facility! </h1> */}
-                <h1 className='text-sm ml-1 font-semibold'>For any support 📞 +91 98971 86585</h1>
+                <h1 className='text-sm ml-1 font-semibold flex flex-col md:block'>For any support <span className='phone-number'>📞 +91 98971 86585</span></h1>
             </div>
             <div className='flex'>
                 <nav className=" hidden md:flex items-center gap-2.5 ">
@@ -171,26 +171,26 @@ interface ListItemsProps {
 
 const ListItems: React.FC<ListItemsProps> = ({ img, name, location, onClick }) => {
     return (
-      <div
-        className="flex gap-x-4   rounded-lg  transition-all duration-300 cursor-pointer items-center"
-        onClick={onClick}
-      >
-        {/* Image Section */}
-        <div className="flex-shrink-0">
-          <Image
-            src={img}
-            alt="img"
-            className="rounded-lg object-cover"
-            height={80}
-            width={80}
-          />
+        <div
+            className="flex gap-x-4   rounded-lg  transition-all duration-300 cursor-pointer items-center"
+            onClick={onClick}
+        >
+            {/* Image Section */}
+            <div className="flex-shrink-0">
+                <Image
+                    src={img}
+                    alt="img"
+                    className="rounded-lg object-cover"
+                    height={80}
+                    width={80}
+                />
+            </div>
+
+            {/* Text Section */}
+            <div className="flex flex-col justify-center">
+                <p className="font-semibold text-sm truncate">{name}</p>
+                <p className="text-blue-500 text-sm truncate">{location}</p>
+            </div>
         </div>
-  
-        {/* Text Section */}
-        <div className="flex flex-col justify-center">
-          <p className="font-semibold text-sm truncate">{name}</p>
-          <p className="text-blue-500 text-sm truncate">{location}</p>
-        </div>
-      </div>
     );
-  };
+};

@@ -37,7 +37,7 @@ const LanguageSwitcher: React.FC = () => {
 
     let languageValue = "";
 
-    // Get the language from the cookie
+    // Extract the language from the cookie
     if (existingLanguageCookieValue) {
       const sp = existingLanguageCookieValue.split("/");
       if (sp.length > 2) {
@@ -45,43 +45,46 @@ const LanguageSwitcher: React.FC = () => {
       }
     }
 
-    // If no language value is found in cookies, set the default language
+    // Use default language if no language is found in cookies
     if (!languageValue && window.__GOOGLE_TRANSLATION_CONFIG__) {
       languageValue = window.__GOOGLE_TRANSLATION_CONFIG__.defaultLanguage;
     }
 
-    // Set the current language if found
-    if (languageValue) {
-      setCurrentLanguage(languageValue);
-    }
-
-    // Set language config if available
+    // Set state values
+    setCurrentLanguage(languageValue || "en"); // Fallback to English if undefined
     if (window.__GOOGLE_TRANSLATION_CONFIG__) {
       setLanguageConfig(window.__GOOGLE_TRANSLATION_CONFIG__);
     }
   }, []);
 
-  // Render nothing until current language and language config are available
+  // Render nothing until currentLanguage and languageConfig are available
   if (!currentLanguage || !languageConfig) {
     return null;
   }
 
   const switchLanguage = (lang: string) => {
-    setCookie(null, COOKIE_NAME, "/auto/" + lang, {
-      path: '/', // Ensure cookie is available across the site
-    });
-    window.location.reload(); // Reload the page to apply the new language
+    if (lang !== currentLanguage) {
+      setCurrentLanguage(lang); // Update state before reloading
+      setCookie(null, COOKIE_NAME, `/auto/${lang}`, {
+        path: "/", // Ensure cookie is available across the site
+      });
+
+      // Delay reload slightly to allow state to update
+      setTimeout(() => {
+        window.location.reload();
+      }, 100);
+    }
   };
 
   return (
-    <div className="text-center notranslate ml-2  md:mr-4 ">
-      <Select onValueChange={switchLanguage}  defaultValue={currentLanguage}>
-        <SelectTrigger className="w-[130px] capitalize  rounded-lg mr-1  my-1">
-          <SelectValue className="text-xs " placeholder="Select Language"  />
+    <div className="text-center notranslate ml-2 md:mr-4">
+      <Select onValueChange={switchLanguage} value={currentLanguage}>
+        <SelectTrigger className="w-[130px] capitalize rounded-lg mr-1 my-1">
+          <SelectValue className="text-xs" placeholder="Select Language" />
         </SelectTrigger>
         <SelectContent className="text-xs">
           {languageConfig.languages.map((ld: LanguageDescriptor) => (
-            <SelectItem  key={ld.name} value={ld.name} className=" text-xs ">
+            <SelectItem key={ld.name} value={ld.name} className="text-xs">
               {ld.title}
             </SelectItem>
           ))}

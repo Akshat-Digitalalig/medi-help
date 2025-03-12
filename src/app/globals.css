@@ -79,3 +79,8 @@ body {
 .labelGap {
   padding-bottom: 8px;
 }
+
+.phone-number {
+  unicode-bidi: plaintext; /* Keeps numbers in correct order */
+  direction: ltr; /* Ensures correct reading order */
+}
