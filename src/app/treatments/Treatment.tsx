@@ -12,6 +12,25 @@ export const allSubTreatmentLinks = () => {
 
 export const Treatments = [
   {
+    name: "Reproductive Medicine",
+    icon: <ReproductiveMedicineIcon />, // Replace with an appropriate icon
+    description: "Advanced fertility treatments and reproductive health services.",
+    sublinks: [
+      {
+        name: "IVF Procedure",
+        link: "/treatments/ivf-procedure"
+      },
+      {
+        name: "Male Infertility Treatment",
+        link: "/treatments/male-infertility-treatment"
+      },
+      {
+        name: "Female Infertility Treatment",
+        link: "/treatments/female-infertility-treatment"
+      }
+    ]
+  },
+  {
     name: "Robotic Surgery",
     icon: <RoboticIcon />,
     description: "Advanced minimally invasive surgeries using robotic technology for precision and faster recovery.",
@@ -708,25 +727,6 @@ export const Treatments = [
       {
         name: "Gynecology Treatments",
         link: "/treatments/gynecology-treatments"
-      }
-    ]
-  },
-  {
-    name: "Reproductive Medicine",
-    icon: <ReproductiveMedicineIcon />, // Replace with an appropriate icon
-    description: "Advanced fertility treatments and reproductive health services.",
-    sublinks: [
-      {
-        name: "IVF Procedure",
-        link: "/treatments/ivf-procedure"
-      },
-      {
-        name: "Male Infertility Treatment",
-        link: "/treatments/male-infertility-treatment"
-      },
-      {
-        name: "Female Infertility Treatment",
-        link: "/treatments/female-infertility-treatment"
       }
     ]
   }

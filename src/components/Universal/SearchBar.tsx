@@ -53,19 +53,19 @@ export default function SearchBar() {
 
 		// Filter hospitals
 		const filteredHospitals = hospitalData.filter((hospital) =>
-			hospital.name.toLowerCase().includes(query.toLowerCase())
-		).slice(0, 10);
+			hospital.name.toLowerCase().includes(query.trim().toLowerCase())
+		);
 
 		// Filter doctors
 		const filteredDoctors = doctors
 			.filter((doctor) =>
-				doctor?.tags?.some((tag) => tag.toLowerCase().includes(query.toLowerCase()))
+				doctor?.tags?.some((tag) => tag.toLowerCase().includes(query.trim().toLowerCase()))
 			);
 
 		// Filter treatments
 		const filteredTreatments = treatmentLinks.filter((treatment) =>
-			treatment.name.toLowerCase().includes(query.toLowerCase())
-		).slice(0, 10);
+			treatment.name.toLowerCase().includes(query.trim().toLowerCase())
+		);
 
 		setSearchResults({
 			hospitals: filteredHospitals,

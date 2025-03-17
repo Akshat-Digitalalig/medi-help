@@ -17,6 +17,7 @@ import Link from "next/link";
 import UtilsBar from "./UtilsBar";
 import SearchBar from "./SearchBar";
 import HealthAdvisor from "../Forms/HealthAdvisor";
+import NavBarHealthAdvisor from '../Forms/NavBarHealthAdvisor';
 
 
 export default function Navbar() {
@@ -31,11 +32,11 @@ export default function Navbar() {
       <UtilsBar />
       <div className="bg-[#e1f5ff] w-full">
         <header
-          className={`mx-auto px-2 flex items-center justify-around`}
+          className={`mx-auto px-2 grid grid-cols-3 sm:flex items-center justify-around`}
         >
           <Link
-            href={"/"}
-            className="cursor-pointer relative w-[48%] h-[70px] sm:h-[80px] sm:w-[35%] md:w-[30%] md:h-[60px] lg:h-[90px] lg:w-[25%] my-1 mx-1 md:mx-2 text-lg text-white font-semibold p-2 md:p-0"
+            href={"/"} 
+            className="cursor-pointer relative w-[45%] h-[67px] sm:h-[100px] sm:w-[30%] md:w-[30%] md:h-[60px] lg:h-[90px] lg:w-[25%] my-1 mx-1 text-lg text-white font-semibold p-2 sm:p-0"
             aria-label="logo"
           >
             <Image
@@ -115,7 +116,7 @@ export default function Navbar() {
               </Link>
             ))}
 
-            <HealthAdvisor />
+            <NavBarHealthAdvisor />
             <Link
               href={"/consult-online"}
               className="flex items-center  justify-start mt-2  leading-none text-xs font-semibold bg-myred gap-x-4 px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-white hover:text-mybg-myred hover:border-mybg-myred border-2 duration-300"

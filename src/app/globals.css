@@ -79,3 +79,7 @@ body {
 .labelGap {
   padding-bottom: 8px;
 }
+
+@theme {
+  --breakpoint-xs: 30rem;
+}
