@@ -127,8 +127,8 @@ export default function UtilsBar() {
   return (
     <div className="bg-myblue text-white h-fit flex justify-between items-center">
       <div className="ml-4 flex">
-        <h1 className="text-sm ml-1 font-semibold">
-          For any support 📞 +91 98971 86585
+        <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row">
+          For any support <span className="phone-number">📞 +91 98971 86585</span>
         </h1>
       </div>
       <div className="flex">

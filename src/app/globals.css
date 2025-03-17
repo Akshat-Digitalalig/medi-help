@@ -83,3 +83,8 @@ body {
 @theme {
   --breakpoint-xs: 30rem;
 }
+
+.phone-number {
+  unicode-bidi: plaintext; /* Keeps numbers in correct order */
+  direction: ltr; /* Ensures correct reading order */
+}
