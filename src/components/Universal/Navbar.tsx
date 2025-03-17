@@ -32,11 +32,11 @@ export default function Navbar() {
       <UtilsBar />
       <div className="bg-[#e1f5ff] w-full">
         <header
-          className={`mx-auto px-2 grid grid-cols-3 sm:flex items-center justify-around`}
+          className={`mx-auto px-2 grid grid-cols-3 sm:flex items-center sm:justify-around lg:justify-center`}
         >
           <Link
             href={"/"} 
-            className="cursor-pointer relative w-[45%] h-[67px] sm:h-[100px] sm:w-[30%] md:w-[30%] md:h-[60px] lg:h-[90px] lg:w-[25%] my-1 mx-1 text-lg text-white font-semibold p-2 sm:p-0"
+            className="cursor-pointer relative w-[100%] h-[45px] sm:h-[70px] sm:w-[30%] md:w-[30%] md:h-[60px] lg:h-[54px] lg:w-[18%] xl:h-[65px] xl:w-[20%] my-1 mx-1 text-lg text-white font-semibold p-2 sm:p-0"
             aria-label="logo"
           >
             <Image
@@ -50,18 +50,18 @@ export default function Navbar() {
           <HealthAdvisor />
           <Link
             href={"/consult-online"}
-            className="hidden lg:w-[110px] lg:flex items-center justify-center leading-none text-xs font-semibold bg-myred gap-1 px-2 lg:px-4 py-2 cursor-pointer text-white rounded-md hover:bg-white hover:text-myred hover:border-myred border-2 duration-300"
+            className="hidden w-[110px] lg:flex items-center justify-center leading-none text-xs font-semibold bg-myred gap-[0px] xl:gap-1 px-1 xl:px-4 py-2 cursor-pointer text-white rounded-md hover:bg-white hover:text-myred hover:border-myred border-2 duration-300"
           >
             Free Consults
             <ClipboardPlus size={25} />
           </Link>
 
-          <div className="flex md:hidden">
+          <div className="flex md:hidden justify-center">
             <SearchBar />
           </div>
           <button
             onClick={toggleSidebar}
-            className="text-indigo-950 block md:hidden border-2 border-myblue p-1 rounded-md mx-2"
+            className="text-indigo-950 w-[36px] justify-self-end block md:hidden border-2 border-myblue p-1 rounded-md mx-2"
           >
             <Menu size={24} />
           </button>
