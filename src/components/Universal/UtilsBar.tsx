@@ -4,9 +4,7 @@ import {
   Command,
   CommandDialog,
   CommandEmpty,
-  CommandGroup,
   CommandInput,
-  CommandItem,
   CommandList,
   CommandSeparator,
 } from "@/components/ui/command";
@@ -74,7 +72,7 @@ export default function UtilsBar() {
       };
     }
 
-    const q = input.toLowerCase();
+    const q = input.trim().toLowerCase();
 
     const filteredHospitals = hospitalData.filter((h) => {
       const matchName = h.name.toLowerCase().includes(q);
@@ -109,26 +107,33 @@ export default function UtilsBar() {
 
   // 4) Re-run filter whenever query changes (including backspace!)
   useEffect(() => {
-    setSearchResults(filterData(query));
+    const filteredData = filterData(query);
+    console.log(filteredData);
+    setSearchResults(filteredData);
   }, [query]);
 
-  // 5) Keyboard Shortcut (optional)
   useEffect(() => {
-    const down = (e: KeyboardEvent) => {
-      if (e.key === "j" && (e.metaKey || e.ctrlKey)) {
-        e.preventDefault();
-        setOpen((prev) => !prev);
-      }
-    };
-    document.addEventListener("keydown", down);
-    return () => document.removeEventListener("keydown", down);
-  }, []);
+    console.log("searchResults ===", searchResults);
+  }, [searchResults]);
+
+  // 5) Keyboard Shortcut (optional)
+  // useEffect(() => {
+  //   const down = (e: KeyboardEvent) => {
+  //     if (e.key === "j" && (e.metaKey || e.ctrlKey)) {
+  //       e.preventDefault();
+  //       setOpen((prev) => !prev);
+  //     }
+  //   };
+  //   document.addEventListener("keydown", down);
+  //   return () => document.removeEventListener("keydown", down);
+  // }, []);
 
   return (
     <div className="bg-myblue text-white h-fit flex justify-between items-center">
       <div className="ml-4 flex">
         <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row">
-          For any support <span className="phone-number">📞 +91 98971 86585</span>
+          For any support{" "}
+          <span className="phone-number">📞 +91 98971 86585</span>
         </h1>
       </div>
       <div className="flex">
@@ -160,57 +165,77 @@ export default function UtilsBar() {
                 searchResults.treatments.length > 0 ? (
                   <>
                     {/* ---- Hospitals ---- */}
-                    <CommandGroup heading="Hospitals">
-                      {searchResults.hospitals.map((hospital) => (
-                        <CommandItem key={hospital.id} className="cursor-pointer">
-                          <ListItems
-                            onClick={() => {
-                              router.push(`/hospitals/${hospital.id}`);
-                              setOpen(false);
-                            }}
-                            img={hospital.mainImage}
-                            name={hospital.name}
-                            location={hospital.address.city}
-                          />
-                        </CommandItem>
-                      ))}
-                    </CommandGroup>
+                    {searchResults.hospitals.length > 0 && (
+                      <div className="p-4">
+                        <div className="text-lg font-semibold mb-4">
+                          Hospitals
+                        </div>
+                        <div className="space-y-4">
+                          {searchResults.hospitals.map((hospital) => (
+                            <ListItems
+                              key={hospital.id}
+                              onClick={() => {
+                                router.push(`/hospitals/${hospital.id}`);
+                                setOpen(false);
+                              }}
+                              img={hospital.mainImage}
+                              name={hospital.name}
+                              location={hospital.address.city}
+                            />
+                          ))}
+                        </div>
+                      </div>
+                    )}
                     <CommandSeparator />
 
                     {/* ---- Doctors ---- */}
-                    <CommandGroup heading="Doctors">
-                      {searchResults.doctors.map((doctor) => (
-                        <CommandItem key={doctor.id} className="cursor-pointer">
-                          <ListItems
-                            onClick={() => {
-                              router.push(`/doctors/${doctor.id}`);
-                              setOpen(false);
-                            }}
-                            img={doctor.image}
-                            name={doctor.name}
-                            location={doctor.designation}
-                          />
-                        </CommandItem>
-                      ))}
-                    </CommandGroup>
+                    {searchResults.doctors.length > 0 && (
+                      <div className="p-4">
+                        <div className="text-lg font-semibold mb-4">
+                          Doctors
+                        </div>
+                        <div className="space-y-4">
+                          {searchResults.doctors.map((doctor) => (
+                            <ListItems
+                              key={doctor.id}
+                              onClick={() => {
+                                router.push(`/doctors/${doctor.id}`);
+                                setOpen(false);
+                              }}
+                              img={doctor.image}
+                              name={doctor.name}
+                              location={doctor.designation}
+                            />
+                          ))}
+                        </div>
+                      </div>
+                    )}
                     <CommandSeparator />
 
                     {/* ---- Treatments ---- */}
-                    <CommandGroup heading="Treatments">
-                      {searchResults.treatments.map((treatment, index) => (
-                        <CommandItem key={index} className="cursor-pointer">
-                          <div
-                            className="flex gap-x-2 hover:text-myblue"
-                            onClick={() => {
-                              router.push(treatment.link);
-                              setOpen(false);
-                            }}
-                          >
-                            <p className="hover:text-myblue">{treatment.name}</p>
-                          </div>
-                        </CommandItem>
-                      ))}
-                    </CommandGroup>
+                    {searchResults.treatments.length > 0 && (
+                      <div className="p-4">
+                        <div className="text-lg font-semibold mb-4">
+                          Treatments
+                        </div>
+                        <div className="space-y-4">
+                          {searchResults.treatments.map((treatment, index) => (
+                            <div
+                              key={index}
+                              className="cursor-pointer p-2 rounded-md hover:bg-gray-100 transition-colors duration-200"
+                              onClick={() => {
+                                setOpen(false);
+                                router.push(treatment.link);
+                              }}
+                            >
+                              <p className="text-sm text-gray-800 hover:text-blue-600">
+                                {treatment.name}
+                              </p>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                   </>
                 ) : (
                   <CommandEmpty>No results found.</CommandEmpty>
@@ -233,7 +258,12 @@ interface ListItemsProps {
   onClick: () => void;
 }
 
-const ListItems: React.FC<ListItemsProps> = ({ img, name, location, onClick }) => {
+const ListItems: React.FC<ListItemsProps> = ({
+  img,
+  name,
+  location,
+  onClick,
+}) => {
   return (
     <div
       className="flex gap-x-4 rounded-lg transition-all duration-300 cursor-pointer items-center"
