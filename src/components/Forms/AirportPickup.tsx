@@ -40,7 +40,7 @@ export default function AirportPickup() {
     }
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {  
+  const handleSubmit = async (e: React.FormEvent) => {
     setLoading(true);
     e.preventDefault();
     // Validate required fields
@@ -55,7 +55,7 @@ export default function AirportPickup() {
       toast.error("All fields are required.");
       return;
     }
-     sendingMail()
+    sendingMail()
     // Prepare form data
     const data = new FormData();
     data.append("name", formData.patientName);
@@ -109,131 +109,133 @@ export default function AirportPickup() {
           Send Request
         </button>
       </DialogTrigger>
-      <DialogContent className="max-w-[90%] sm:max-w-[50%] h-[85%] sm:h-[90%] rounded-lg overflow-y-scroll overflow-x-hidden p-4 sm:p-6">
+      <DialogContent className="max-w-[90%] lg:max-w-[50%] h-[85%] sm:h-[90%] rounded-lg overflow-y-scroll overflow-x-hidden p-4 sm:p-6">
         <DialogTitle></DialogTitle>
         <div className="w-full mx-auto p-4 sm:p-6 bg-white rounded-lg">
           <h2 className="text-2xl font-semibold mb-6 text-center">
             Airport Pickup
           </h2>
-          <form onSubmit={handleSubmit} className="grid grid-cols-1 gap-6 ">
-            <div>
-              <label
-                htmlFor="patientName"
-                className="block text-sm font-medium text-gray-700 labelGap"
-              >
-                Patient Name
-              </label>
-              <input
-                type="text"
-                id="patientName"
-                name="patientName"
-                value={formData.patientName}
-                onChange={handleChange}
-                placeholder="Enter patient name"
-                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                required
-              />
+          <form onSubmit={handleSubmit} className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            <div className="flex flex-col">
+              <div>
+                <label
+                  htmlFor="patientName"
+                  className="block text-sm font-medium text-gray-700 labelGap"
+                >
+                  Patient Name
+                </label>
+                <input
+                  type="text"
+                  id="patientName"
+                  name="patientName"
+                  value={formData.patientName}
+                  onChange={handleChange}
+                  placeholder="Enter patient name"
+                  className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  required
+                />
+              </div>
+              <div>
+                <label
+                  htmlFor="email"
+                  className="block text-sm font-medium text-gray-700 labelGap"
+                >
+                  Email
+                </label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  value={formData.email}
+                  onChange={handleChange}
+                  placeholder="Enter Email"
+                  className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  required
+                />
+              </div>
+              <div>
+                <label
+                  htmlFor="vehicle"
+                  className="block text-sm font-medium text-gray-700 labelGap"
+                >
+                  Vehicle
+                </label>
+                <select
+                  id="vehicle"
+                  name="vehicle"
+                  value={formData.vehicle}
+                  onChange={handleChange}
+                  className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  required
+                >
+                  <option value="">Select</option>
+                  <option value="small">Small</option>
+                  <option value="medium">Medium</option>
+                  <option value="large">Large</option>
+                </select>
+              </div>
             </div>
+            <div className="flex flex-col">
+              <div>
+                <label
+                  htmlFor="phoneNumber"
+                  className="block text-sm font-medium text-gray-700 labelGap"
+                >
+                  Phone Number
+                </label>
+                <PhoneInput
+                  className="w-full focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  international
+                  countryCallingCodeEditable={false}
+                  defaultCountry="IN"
+                  placeholder="Enter phone number"
+                  value={formData.phoneNumber}
+                  onChange={(value) => setFormData({ ...formData, phoneNumber: value || '' })}
+                />
+              </div>
 
-            <div>
-              <label
-                htmlFor="phoneNumber"
-                className="block text-sm font-medium text-gray-700 labelGap"
-              >
-                Phone Number
-              </label>
-              <PhoneInput
-                className='w-full focus:outline-none focus:ring-2 focus:ring-blue-500'
-                international
-                countryCallingCodeEditable={false}
-                defaultCountry="IN"
-                placeholder="Enter phone number"
-                value={formData.phoneNumber}
-                onChange={(value) => setFormData({ ...formData, phoneNumber: value || '' })} />
-            </div>
+              <div>
+                <label
+                  htmlFor="patient"
+                  className="block text-sm font-medium text-gray-700 labelGap"
+                >
+                  Air Ticket (Max 3)
+                </label>
+                <input
+                  type="file"
+                  id="patient"
+                  name="patient"
+                  multiple
+                  onChange={handleFileChange}
+                  className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  accept=".jpg, .jpeg, .png, .pdf"
+                />
+                <p className="text-xs text-gray-500">
+                  Supported formats: .jpg, .jpeg, .png, .pdf
+                </p>
+              </div>
 
-            <div>
-              <label
-                htmlFor="email"
-                className="block text-sm font-medium text-gray-700 labelGap"
-              >
-                Email
-              </label>
-              <input
-                type="email"
-                id="email"
-                name="email"
-                value={formData.email}
-                onChange={handleChange}
-                placeholder="Enter Email"
-                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                required
-              />
-            </div>
-
-            <div>
-              <label
-                htmlFor="patient"
-                className="block text-sm font-medium text-gray-700 labelGap"
-              >
-                Air Ticket (Max 3)
-              </label>
-              <input
-                type="file"
-                id="patient"
-                name="patient"
-                multiple
-                onChange={handleFileChange}
-                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                accept=".jpg, .jpeg, .png, .pdf"
-              />
-              <p className="text-xs text-gray-500">
-                Supported formats: .jpg, .jpeg, .png, .pdf
-              </p>
-            </div>
-
-            <div>
-              <label
-                htmlFor="vehicle"
-                className="block text-sm font-medium text-gray-700 labelGap"
-              >
-                Vehicle
-              </label>
-              <select
-                id="vehicle"
-                name="vehicle"
-                value={formData.vehicle}
-                onChange={handleChange}
-                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                required
-              >
-                <option value="">Select</option>
-                <option value="small">Small</option>
-                <option value="medium">Medium</option>
-                <option value="large">Large</option>
-              </select>
-            </div>
-
-            <div>
-              <label
-                htmlFor="message"
-                className="block text-sm font-medium text-gray-700 labelGap"
-              >
-                Message for Us
-              </label>
-              <textarea
-                id="message"
-                name="message"
-                value={formData.message}
-                onChange={handleChange}
-                placeholder="Write your message here..."
-                className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                rows={4}
-              ></textarea>
+              <div>
+                <label
+                  htmlFor="message"
+                  className="block text-sm font-medium text-gray-700 labelGap"
+                >
+                  Message for Us
+                </label>
+                <textarea
+                  id="message"
+                  name="message"
+                  value={formData.message}
+                  onChange={handleChange}
+                  placeholder="Write your message here..."
+                  className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  rows={4}
+                ></textarea>
+              </div>
             </div>
 
             <div className="col-span-1 sm:col-span-2">
-            {success ? (
+              {success ? (
                 <p className="text-green-500 text-center">
                   Request sent successfully!
                 </p>
@@ -242,7 +244,7 @@ export default function AirportPickup() {
                   type="submit"
                   className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 >
-                  {loading? "Please wait...":"Submit"}
+                  {loading ? "Please wait..." : "Submit"}
                 </button>
               )}
             </div>

@@ -113,13 +113,13 @@ export default function GetTranslator() {
           Send Request
         </button>
       </DialogTrigger>
-      <DialogContent className="max-w-[90%] sm:max-w-[50%] h-[85%] sm:h-[90%] rounded-lg overflow-y-scroll overflow-x-hidden p-4 sm:p-6">
+      <DialogContent className="max-w-[90%] lg:max-w-[50%] h-[85%] sm:h-[90%] rounded-lg overflow-y-scroll overflow-x-hidden p-4 sm:p-6">
         <DialogTitle></DialogTitle>
         <div className="w-full mx-auto p-4 sm:p-6 bg-white rounded-lg">
           <h2 className="text-2xl font-semibold mb-6 text-center">
             Get Translator
           </h2>
-          <form onSubmit={handleSubmit} className="grid grid-cols-1 gap-6">
+          <form onSubmit={handleSubmit} className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             <div>
               <label
                 htmlFor="patientName"

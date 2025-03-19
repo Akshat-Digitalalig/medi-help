@@ -108,7 +108,7 @@ export default function HealthAdvisor() {
           <HeartHandshake size={25} />
         </button>
       </DialogTrigger>
-      <DialogContent className="max-w-[90%] sm:max-w-[50%] h-[85%] sm:h-[90%] rounded-lg overflow-y-scroll overflow-x-hidden p-4 sm:p-6">
+      <DialogContent className="max-w-[90%] lg:max-w-[50%] h-[85%] sm:h-[90%] rounded-lg overflow-y-scroll overflow-x-hidden p-4 sm:p-6">
         <DialogTitle></DialogTitle>
         <div className="w-full mx-auto p-6 my-2 bg-white rounded-lg">
           <h2 className="text-2xl font-semibold mb-4 text-center">
@@ -116,7 +116,7 @@ export default function HealthAdvisor() {
           </h2>
           <form
             onSubmit={handleSubmit}
-            className="grid grid-cols-1 gap-6 sm:grid-cols-2"
+            className="grid grid-cols-1 lg:grid-cols-2 gap-6"
           >
             <div>
               <label
