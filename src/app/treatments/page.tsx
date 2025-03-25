@@ -14,9 +14,9 @@ import { useRouter } from 'next/navigation';
 export default function Page() {
   return (
     <div className="max-w-screen-2xl mx-auto">
-      <div className="bg-[#e1f5ff] flex flex-col items-center pt-6  pb-8 gap-y-2 px-4 rounded-md w-full mx-auto">
+      <div className="bg-primary flex flex-col items-center pt-6  pb-8 gap-y-2 px-4 rounded-md w-full mx-auto">
         {/* <Image src={'/icons/treatment.webp'} width={200} height={200} alt="treatment" /> */}
-        <h2 className="text-3xl font-bold text-center mb-3 text-myblue">
+        <h2 className="text-3xl font-bold text-center mb-3 my-text">
           Are You Looking For Treatment In India?
         </h2>
         <SearchBar />
@@ -76,10 +76,10 @@ const SearchBar = () => {
   };
 
   return (
-    <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl border-myblue border-4 md:rounded-full font-sans">
+    <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl my-border border-4 md:rounded-full font-sans">
       {/* Treatment Dropdown */}
       <div className="flex items-center w-full">
-      <Hospital size={24} className="text-myblue" />
+      <Hospital size={24} className="my-text" />
         <select
           className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
           value={selectedTreatment}
@@ -99,7 +99,7 @@ const SearchBar = () => {
 
       {/* Sublink Dropdown */}
       <div className="flex items-center w-full">
-      <ClipboardPlus  size={24} className="text-myblue" />
+      <ClipboardPlus  size={24} className="my-text" />
         <select
           className="flex-1 p-2 rounded bg-transparent w-40 border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
           value={selectedSublink}
@@ -121,7 +121,7 @@ const SearchBar = () => {
       {/* Search Button */}
       <button
         onClick={handleSearch}
-        className="p-2 bg-myblue text-white rounded-full px-6 hover:bg-myblue/70 transition-colors"
+        className="p-2 bg-button-sec text-white rounded-full px-6 hover:bg-myblue/70 transition-colors"
         disabled={!selectedSublink} // Disable button if no sublink is selected
       >
         Search
