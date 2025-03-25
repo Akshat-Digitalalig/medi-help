@@ -40,8 +40,9 @@ export default function GetFreeConsult() {
     e.preventDefault();
     setLoading(true);
     toast.success("Email Sending...");
-
+    
     if (Object.values(formData).some((val) => val.trim() === "")) {
+      setLoading(false);
       alert("All fields are required");
       return;
     }
@@ -205,7 +206,7 @@ export default function GetFreeConsult() {
           ) : (
             <button
               type="submit"
-              className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full py-2 bg-button-sec text-white rounded-md hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-blue-800"
             >
               {loading ? "Please wait..." : "Submit"}
             </button>
@@ -213,11 +214,11 @@ export default function GetFreeConsult() {
         </div>
         <p className="text-xs text-center text-gray-500 mt-2">
           By submitting the form I agree to the{" "}
-          <Link href="/info/terms-conditions" className="text-blue-600">
+          <Link href="/info/terms-conditions" className="text-blue-800">
             Terms of Use
           </Link>{" "}
           and{" "}
-          <Link href="/info/privacy-policy" className="text-blue-600">
+          <Link href="/info/privacy-policy" className="text-blue-800">
             Privacy Policy
           </Link>{" "}
           of MediHelp Global.

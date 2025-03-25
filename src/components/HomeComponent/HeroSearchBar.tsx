@@ -45,7 +45,7 @@ const SearchBar = () => {
         <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto">
             <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl md:rounded-full font-sans">
                 <div className='flex items-center  w-full'>
-                    <MapPin size={24} className="text-myblue" />
+                    <MapPin size={24} className="my-text-sec" />
                     <select
                         className="flex-1 p-2 rounded  bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedCountry}
@@ -62,7 +62,7 @@ const SearchBar = () => {
                 </div>
 
                 <div className='flex items-center w-full'>
-                    <MapPinHouse size={24} className="text-myblue" />
+                    <MapPinHouse size={24} className="my-text-sec" />
                     <select
                         className="flex-1 p-2 rounded bg-transparent border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
                         value={selectedCity}
@@ -76,7 +76,7 @@ const SearchBar = () => {
                 </div>
 
                 <div className='flex items-center w-full'>
-                    <Building size={24} className="text-myblue" />
+                    <Building size={24} className="my-text-sec" />
                     <select
                         className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-mytext-myblue"
                         value={selectedDepartment}
@@ -91,7 +91,7 @@ const SearchBar = () => {
 
                 <button
                     onClick={handleSearch}
-                    className="p-2 bg-myblue text-white rounded-full px-6 hover:bg-myblue/70 transition-colors"
+                    className="p-2 bg-secondary text-white rounded-full px-6 hover:bg-myblue/70 transition-colors"
                 >
                     Search
                 </button>

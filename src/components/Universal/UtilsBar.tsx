@@ -129,9 +129,9 @@ export default function UtilsBar() {
   // }, []);
 
   return (
-    <div className="bg-myblue text-white h-fit flex justify-between items-center">
+    <div className="bg-white text-white h-fit flex justify-between items-center">
       <div className="ml-4 flex">
-        <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row">
+        <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row my-text">
           For any support{" "}
           <span className="phone-number">📞 +91 98971 86585</span>
         </h1>
@@ -141,9 +141,9 @@ export default function UtilsBar() {
           {/* ---- Button to open the Command Dialog ---- */}
           <button
             onClick={() => setOpen(true)}
-            className="flex items-center text-sm border w-full px-3 rounded-2xl border-white md:gap-x-4 p-1"
+            className="flex items-center text-sm border w-full px-3 rounded-2xl my-border md:gap-x-4 p-1"
           >
-            <span className="flex items-center w-80 gap-x-1"> Search... </span>
+            <span className="flex items-center w-80 gap-x-1 my-text"> Search... </span>
             <span>
               <Search size={16} strokeWidth={3} />
             </span>

@@ -15,7 +15,7 @@ export default function Hero() {
     <section className="flex flex-col">
       <div className="flex flex-col items-center w-full">
         <div
-          className="bg-[#e1f5ff] bg-center bg-cover px-2  w-full pb-10"
+          className="bg-primary bg-center bg-cover px-2  w-full pb-10"
           style={{
             backgroundImage: `url('/medibg.png')`,
             backgroundRepeat: "no-repeat",
@@ -24,10 +24,10 @@ export default function Hero() {
           <p className="mb-2 mx-auto font-semibold w-fit border-2 border-transparent text-myred mt-4 my-4 p-2 rounded-full px-4 text-center md:mb-2 md:text-2xl">
             Healing Beyond Borders
           </p>
-          <h1 className="mb-4 text-3xl font-bold text-myblue text-center sm:text-5xl md:mb-4 md:text-6xl">
+          <h1 className="mb-4 text-3xl font-bold my-text text-center sm:text-5xl md:mb-4 md:text-6xl">
             One Destination For All Treatment
           </h1>
-          <p className="mb-2 font-semibold text-myblue/70 mt-4 pt-4 text-center md:text-lg">
+          <p className="mb-2 font-semibold my-text-sec mt-4 pt-4 text-center md:text-lg">
             24/7 You to Trusted Medical Care Worldwide
           </p>
 

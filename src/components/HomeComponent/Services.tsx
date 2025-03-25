@@ -11,7 +11,7 @@ import { useRouter } from "next/navigation";
 export default function Services() {
   const router = useRouter();
   return (
-    <div className="bg-[#e0f5ff] py-6 sm:py-8 mb-8 lg:py-12">
+    <div className="bg-light py-6 sm:py-8 mb-8 lg:py-12">
       <div className="mx-auto max-w-screen-2xl px-4 md:px-12">
         <div className="mb-10 md:mb-16">
           <h2 className="mb-4 text-center text-2xl font-bold text-indigo-950 md:mb-6 lg:text-3xl">
@@ -73,7 +73,7 @@ export default function Services() {
             >
               <button
                 onClick={() => router.push("/consult-online")}
-                className="bg-blue-500 text-white text-xs px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="bg-secondary text-white text-xs px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
               >
                 Send Request
               </button>

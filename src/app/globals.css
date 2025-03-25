@@ -88,3 +88,35 @@ body {
   unicode-bidi: plaintext; /* Keeps numbers in correct order */
   direction: ltr; /* Ensures correct reading order */
 }
+
+.bg-primary{
+  background-color: #b2f6ee;
+}
+
+.bg-light{
+  background-color: #e8fffc;
+}
+
+.bg-secondary{
+  background-color:#1b4c84;
+}
+
+.my-text{
+  color: #1b4c84;
+}
+
+.my-text-sec{
+  color: #042b63;
+}
+
+.my-border{
+  border-color: #012D5E;
+}
+
+.bg-button{
+  background-color: #8cf2e7;
+}
+
+.bg-button-sec{
+  background-color: #012D5E;
+}

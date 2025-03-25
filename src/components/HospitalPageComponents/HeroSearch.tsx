@@ -6,8 +6,8 @@ import { countryData } from "@/components/HomeComponent/HeroSearchBar";
 
 const SearchHospitals = () => {
   return (
-    <div className="bg-[#e1f5ff] flex flex-col items-center pt-6 pb-8 px-4 rounded-md w-full mx-auto">
-      <h2 className="text-3xl font-bold text-center text-myblue">Find Your Ideal Hospital</h2>
+    <div className="bg-primary flex flex-col items-center pt-6 pb-8 px-4 rounded-md w-full mx-auto">
+      <h2 className="text-3xl font-bold text-center my-text-sec">Find Your Ideal Hospital</h2>
       <SearchBar />
     </div>
   );
@@ -50,9 +50,9 @@ const SearchBar = () => {
 
   return (
     <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto">
-      <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white border-4 border-myblue p-3 rounded-xl md:rounded-full font-sans">
+      <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white border-4 my-border p-3 rounded-xl md:rounded-full font-sans">
         <div className="flex items-center w-full">
-          <MapPin size={24} className="text-myblue" />
+          <MapPin size={24} className="my-text" />
           <select
             className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
             value={selectedCountry}
@@ -71,7 +71,7 @@ const SearchBar = () => {
         </div>
 
         <div className="flex items-center w-full">
-          <MapPinHouse size={24} className="text-myblue" />
+          <MapPinHouse size={24} className="my-text" />
           <select
             className="flex-1 p-2 rounded bg-transparent border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-950"
             value={selectedCity}
@@ -87,7 +87,7 @@ const SearchBar = () => {
         </div>
 
         <div className="flex items-center w-full">
-          <Building size={24} className="text-myblue" />
+          <Building size={24} className="my-text" />
           <select
             className="flex-1 p-2 rounded bg-transparent focus:outline-none focus:ring-2 focus:ring-myblue"
             value={selectedDepartment}
@@ -104,7 +104,7 @@ const SearchBar = () => {
 
         <button
           onClick={handleSearch}
-          className="p-2 bg-myblue text-white rounded-full px-6 hover:bg-myblue/70 transition-colors"
+          className="p-2 bg-button-sec text-white rounded-full px-6 hover:bg-myblue/70 transition-colors"
         >
           Search
         </button>
