@@ -22,7 +22,7 @@ export const Nav = () => {
           >
             <Link
               href={navItem.link || "#"}
-              className="cursor-pointer text-myblue hover:bg-myblue hover:text-white md:text-[13px] lg:text-[14px] p-[5px] lg:px-4 lg:py-1 rounded font-semibold"
+              className="cursor-pointer my-text hover:bg-myblue hover:text-white md:text-[13px] lg:text-[14px] p-[5px] lg:px-4 lg:py-1 rounded font-semibold"
             >
               {navItem.title}
             </Link>

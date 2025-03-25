@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default function Footer() {
     return (
-        <footer className="bg-[#E1F5FF] py-5 md:py-12">
+        <footer className="bg-primary py-5 md:py-12">
             {/* Container */}
             <div className="container mx-auto px-4 md:px-8">
                 {/* Top Section */}
@@ -22,10 +22,10 @@ export default function Footer() {
                                 className="object-contain"
                             />
                         </Link>
-                        <p className="text-[14px] lg:text-[16px] text-myblue font-semibold text-center lg:text-left">
+                        <p className="text-[14px] lg:text-[16px] my-text-sec font-semibold text-center lg:text-left">
                             One Destination For All Treatment
                         </p>
-                        <p className="text-[14px] lg:text-[16px] mb-6 mt-2 text-myblue font-semibold text-center lg:text-left">
+                        <p className="text-[14px] lg:text-[16px] mb-6 mt-2 my-text-sec font-semibold text-center lg:text-left">
                            +91 98971 86585
                         </p>
                         <SocialLinks />
@@ -38,7 +38,7 @@ export default function Footer() {
                     <div className="grid grid-cols-3 gap-[1rem] lg:gap-8 lg:gap-12">
                         {/* Products Section */}
                         <div className="text-center lg:text-left">
-                            <h3 className="mb-4 font-bold uppercase tracking-widest text-myblue">
+                            <h3 className="mb-4 font-bold uppercase tracking-widest my-text-sec">
                                 Services
                             </h3>
                             <nav className="flex flex-col gap-3">
@@ -59,7 +59,7 @@ export default function Footer() {
 
                         {/* Support Section */}
                         <div className="text-center lg:text-left">
-                            <h3 className="mb-4 font-bold uppercase tracking-widest text-myblue">
+                            <h3 className="mb-4 font-bold uppercase tracking-widest my-text-sec">
                                 Support
                             </h3>
                             <nav className="flex flex-col gap-3">
@@ -80,7 +80,7 @@ export default function Footer() {
 
                         {/* Legal Section */}
                         <div className="text-center lg:text-left">
-                            <h3 className="mb-4 font-bold uppercase tracking-widest text-myblue">
+                            <h3 className="mb-4 font-bold uppercase tracking-widest my-text-sec">
                                 Legal
                             </h3>
                             <nav className="flex flex-col gap-3">
@@ -111,7 +111,7 @@ export default function Footer() {
             {/* Bottom Section */}
             <div className="border-t mt-12 py-4 text-center text-sm ">
                 <p>
-                    © 2025 Present <span className="font-semibold text-myblue">MediHelp</span>. All rights reserved.
+                    © 2025 Present <span className="font-semibold my-text-sec">MediHelp</span>. All rights reserved.
                 </p>
             </div>
         </footer>
@@ -122,19 +122,19 @@ const SocialLinks = () => (
     <div className="flex justify-center lg:justify-start gap-4">
         <SocialLink
             href="https://www.facebook.com/profile.php?id=100040951937272&mibextid=ZbWKwL"
-            icon={<Facebook size={20} />}
+            icon={<Facebook size={20} color="#042b63"/>}
         />
         <SocialLink
             href="https://www.instagram.com/medihelpglobal/profilecard/?igsh=MWJhejJ0cTd0cmd3aA=="
-            icon={<Instagram size={20} />}
+            icon={<Instagram size={20} color="#042b63"/>}
         />
         <SocialLink
             href="https://youtube.com/@medihelpglobal?si=6ejgn6QYEyJWhE-p"
-            icon={<Youtube size={20} />}
+            icon={<Youtube size={20} color="#042b63"/>}
         />
         <SocialLink
             href="mailto:help@medihelpglobal.com"
-            icon={<Mail size={20} />}
+            icon={<Mail size={20} color="#042b63"/>}
         />
     </div>
 );
@@ -149,7 +149,7 @@ const SocialLink = ({ href, icon }: SocialLinkProps) => (
         href={href}
         target="_blank"
         rel="noopener noreferrer"
-        className="text-myblue border-myblue rounded-full p-2 border-2 transition hover:text-blue-500 hover:border-blue-500"
+        className="text-myblue my-border rounded-full p-2 border-2 transition hover:text-blue-800 hover:border-blue-800"
     >
         {icon}
     </a>

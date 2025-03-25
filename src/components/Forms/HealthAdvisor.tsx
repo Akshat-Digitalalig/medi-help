@@ -103,7 +103,7 @@ export default function HealthAdvisor() {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <button className="hidden lg:flex w-[110px] flex-row-reverse md:flex-row w-full md:w-fit  items-center justify-end md:justify-center  leading-none text-xs font-semibold bg-myblue gap-[0px] xl:gap-1 px-1 xl:px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-white hover:text-myblue hover:border-myblue border-2 duration-300">
+        <button className="hidden text-left lg:flex w-[110px] flex-row-reverse md:flex-row w-full md:w-fit  items-center justify-end md:justify-center  leading-none text-xs font-semibold bg-secondary border-none gap-[0px] xl:gap-1 px-1 xl:px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-white hover:text-myblue hover:border-2 hover:border-myblue  duration-300">
           Health Advisor
           <HeartHandshake size={25} />
         </button>
@@ -262,7 +262,7 @@ export default function HealthAdvisor() {
               ) : (
                 <button
                   type="submit"
-                  className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full py-2 bg-button-sec text-white rounded-md hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 >
                   {loading? "Please wait...":"Submit"}
                 </button>

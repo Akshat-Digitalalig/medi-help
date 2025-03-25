@@ -30,7 +30,7 @@ export default function Navbar() {
   return (
     <>
       <UtilsBar />
-      <div className="bg-[#e1f5ff] w-full">
+      <div className="bg-primary w-full">
         <header
           className={`mx-auto px-2 grid grid-cols-3 sm:flex items-center sm:justify-around lg:justify-center`}
         >
@@ -50,7 +50,7 @@ export default function Navbar() {
           <HealthAdvisor />
           <Link
             href={"/consult-online"}
-            className="hidden w-[110px] lg:flex items-center justify-center leading-none text-xs font-semibold bg-myred gap-[0px] xl:gap-1 px-1 xl:px-4 py-2 cursor-pointer text-white rounded-md hover:bg-white hover:text-myred hover:border-myred border-2 duration-300"
+            className="hidden w-[110px] ml-1 lg:flex items-center justify-center leading-none text-xs font-semibold bg-myred border-none gap-[0px] xl:gap-1 px-1 xl:px-4 py-2 cursor-pointer text-white rounded-md hover:bg-white hover:text-myred hover:border-myred border-2 duration-300"
           >
             Free Consults
             <ClipboardPlus size={25} />
