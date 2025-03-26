@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import {
 	Command,
 	CommandDialog,
@@ -17,62 +17,104 @@ import { useRouter } from 'next/navigation';
 import { doctors } from "@/lib/constant/Doctors";
 import { allSubTreatmentLinks } from "@/app/treatments/Treatment"
 
+// ---------- Types (adjust as needed) ----------
+interface Hospital {
+	id: string;
+	name: string;
+	mainImage: string;
+	address: {
+	  city: string;
+	};
+	specialties: string[];
+  }
+  
+  interface Doctor {
+	id: string;
+	name: string;
+	designation: string;
+	image: string;
+	tags?: string[];
+	specialties?: string[];
+  }
+  
+  interface Treatment {
+	name: string;
+	link: string;
+  }
+
 export default function SearchBar() {
-	const treatmentLinks = allSubTreatmentLinks();
-	const [searchResults, setSearchResults] = useState({
-		hospitals: hospitalData.slice(0, 5),
-		doctors: doctors.slice(0, 5),
-		treatment: treatmentLinks.slice(0, 5),
-	});
-	const [open, setOpen] = React.useState(false)
-
-
-
-	React.useEffect(() => {
-		const down = (e: KeyboardEvent) => {
-			if (e.key === "j" && (e.metaKey || e.ctrlKey)) {
-				e.preventDefault()
-				setOpen((open) => !open)
-			}
-		}
-
-		document.addEventListener("keydown", down)
-		return () => document.removeEventListener("keydown", down)
-	}, [])
 	const router = useRouter();
+	const [open, setOpen] = useState(false);
+	const [query, setQuery] = useState("");
 
-	const handleSearch = (query: string) => {
-		if (!query) {
-			setSearchResults({
-				hospitals: hospitalData.slice(0, 10),
-				doctors: doctors.slice(0, 10),
-				treatment: treatmentLinks.slice(0, 10),
-			});
-			return;
+	// 1) Original Data
+	const treatmentLinks: Treatment[] = allSubTreatmentLinks(); // or your actual data source
+
+	// 2) State to store filtered results
+	const [searchResults, setSearchResults] = useState<{
+		hospitals: Hospital[];
+		doctors: Doctor[];
+		treatments: Treatment[];
+	}>({
+		hospitals: hospitalData,
+		doctors: doctors,
+		treatments: treatmentLinks,
+	});
+
+	// 3) The actual filter function
+	const filterData = (input: string) => {
+		if (!input) {
+			// If query is empty, show all
+			return {
+				hospitals: hospitalData,
+				doctors: doctors,
+				treatments: treatmentLinks,
+			};
 		}
 
-		// Filter hospitals
-		const filteredHospitals = hospitalData.filter((hospital) =>
-			hospital.name.toLowerCase().includes(query.trim().toLowerCase())
-		);
+		const q = input.trim().toLowerCase();
 
-		// Filter doctors
-		const filteredDoctors = doctors
-			.filter((doctor) =>
-				doctor?.tags?.some((tag) => tag.toLowerCase().includes(query.trim().toLowerCase()))
+		const filteredHospitals = hospitalData.filter((h) => {
+			const matchName = h.name.toLowerCase().includes(q);
+			const matchCity = h.address.city.toLowerCase().includes(q);
+			const matchSpecialty = h.specialties.some((spec) =>
+				spec.toLowerCase().includes(q)
 			);
+			return matchName || matchCity || matchSpecialty;
+		});
 
-		// Filter treatments
-		const filteredTreatments = treatmentLinks.filter((treatment) =>
-			treatment.name.toLowerCase().includes(query.trim().toLowerCase())
+		const filteredDoctors = doctors.filter((d) => {
+			const matchName = d.name.toLowerCase().includes(q);
+			const matchDesignation = d.designation.toLowerCase().includes(q);
+			const matchTags =
+				d.tags?.some((tag) => tag.toLowerCase().includes(q)) ?? false;
+			const matchSpecialties =
+				d.specialties?.some((spec) => spec.toLowerCase().includes(q)) ?? false;
+
+			return matchName || matchDesignation || matchTags || matchSpecialties;
+		});
+
+		const filteredTreatments = treatmentLinks.filter((t) =>
+			t.name.toLowerCase().includes(q)
 		);
 
-		setSearchResults({
+		return {
 			hospitals: filteredHospitals,
 			doctors: filteredDoctors,
-			treatment: filteredTreatments,
-		});
+			treatments: filteredTreatments,
+		};
 	};
+
+	// 4) Re-run filter whenever query changes (including backspace!)
+	useEffect(() => {
+		const filteredData = filterData(query);
+		console.log(filteredData);
+		setSearchResults(filteredData);
+	}, [query]);
+
+	useEffect(() => {
+		console.log("searchResults ===", searchResults);
+	}, [searchResults]);
 	return (
 		<div>
 			<nav className="flex items-center ml-8">
@@ -81,63 +123,91 @@ export default function SearchBar() {
 					<span>Search</span>
 				</button>
 				<Command>
-					<CommandDialog open={open} onOpenChange={setOpen} >
+					<CommandDialog open={open} onOpenChange={setOpen}>
 						<DialogTitle className="text-lg font-semibold"></DialogTitle>
-						<CommandInput placeholder="Search Hospitals, Doctors, Treatments, etc..." onValueChange={handleSearch} />
+						<CommandInput
+							placeholder="Search Hospitals, Doctors, Treatments..."
+							// Use the state to control the input
+							value={query}
+							onValueChange={setQuery}
+						/>
 						<CommandList>
-							{searchResults.hospitals.length > 0 || searchResults.doctors.length > 0 || searchResults.treatment.length > 0 ? (
+							{searchResults.hospitals.length > 0 ||
+								searchResults.doctors.length > 0 ||
+								searchResults.treatments.length > 0 ? (
 								<>
-									<CommandGroup heading="Hospitals">
-										{searchResults.hospitals.map((hospital, index) => (
-											<CommandItem key={index} className="cursor-pointer">
-												<ListItems
-													onClick={() => {
-														router.push(`/hospitals/${hospital.id}`);
-														setOpen(false);
-													}}
-													img={hospital.mainImage}
-													name={hospital.name}
-													location={hospital.address.city}
-												/>
-											</CommandItem>
-										))}
-									</CommandGroup>
+									{/* ---- Hospitals ---- */}
+									{searchResults.hospitals.length > 0 && (
+										<div className="p-4">
+											<div className="text-lg font-semibold mb-4">
+												Hospitals
+											</div>
+											<div className="space-y-4">
+												{searchResults.hospitals.map((hospital) => (
+													<ListItems
+														key={hospital.id}
+														onClick={() => {
+															router.push(`/hospitals/${hospital.id}`);
+															setOpen(false);
+														}}
+														img={hospital.mainImage}
+														name={hospital.name}
+														location={hospital.address.city}
+													/>
+												))}
+											</div>
+										</div>
+									)}
 									<CommandSeparator />
-									<CommandGroup heading="Doctors">
-										{searchResults.doctors.map((doctor, index) => (
-											<CommandItem key={index} className="cursor-pointer">
-												<ListItems
-													onClick={() => {
-														router.push(`/doctors/${doctor.id}`);
-														setOpen(false);
-													}}
-													img={doctor.image}
-													name={doctor.name}
-													location={doctor.designation}
-												/>
-											</CommandItem>
-										))}
-									</CommandGroup>
 
+									{/* ---- Doctors ---- */}
+									{searchResults.doctors.length > 0 && (
+										<div className="p-4">
+											<div className="text-lg font-semibold mb-4">
+												Doctors
+											</div>
+											<div className="space-y-4">
+												{searchResults.doctors.map((doctor) => (
+													<ListItems
+														key={doctor.id}
+														onClick={() => {
+															router.push(`/doctors/${doctor.id}`);
+															setOpen(false);
+														}}
+														img={doctor.image}
+														name={doctor.name}
+														location={doctor.designation}
+													/>
+												))}
+											</div>
+										</div>
+									)}
 									<CommandSeparator />
-									<CommandGroup heading="Treatments">
-										{searchResults.treatment.map((treatment, index) => (
-											<CommandItem key={index} className="cursor-pointer">
-												<div className="flex gap-x-2" onClick={() => {
-													router.push(`${treatment.link}`);
-													setOpen(false);
-												}}>
-													<div>
-														{/* <Image src={img} alt="img" className="rounded-lg" height={70} width={70} /> */}
+
+									{/* ---- Treatments ---- */}
+									{searchResults.treatments.length > 0 && (
+										<div className="p-4">
+											<div className="text-lg font-semibold mb-4">
+												Treatments
+											</div>
+											<div className="space-y-4">
+												{searchResults.treatments.map((treatment, index) => (
+													<div
+														key={index}
+														className="cursor-pointer p-2 rounded-md hover:bg-gray-100 transition-colors duration-200"
+														onClick={() => {
+															setOpen(false);
+															router.push(treatment.link);
+														}}
+													>
+														<p className="text-sm text-gray-800 hover:text-blue-600">
+															{treatment.name}
+														</p>
 													</div>
-													<div>
-														<p>{treatment.name} </p>
-														{/* <p className="text-blue-500">{location}</p> */}
-													</div>
-												</div>
-											</CommandItem>
-										))}
-									</CommandGroup>
+												))}
+											</div>
+										</div>
+									)}
 								</>
 							) : (
 								<CommandEmpty>No results found.</CommandEmpty>
