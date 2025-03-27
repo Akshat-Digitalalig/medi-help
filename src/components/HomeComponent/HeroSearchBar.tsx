@@ -42,7 +42,7 @@ const SearchBar = () => {
     };
 
     return (
-        <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto">
+        <div className="flex flex-col items-center mt-5 pb-10 px-4 rounded-md w-full mx-auto">
             <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl md:rounded-full font-sans">
                 <div className='flex items-center  w-full'>
                     <MapPin size={24} className="my-text-sec" />
