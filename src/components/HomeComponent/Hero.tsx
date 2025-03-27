@@ -18,7 +18,7 @@ export default function Hero() {
         {/* Background Image Div */}
         <div className="relative w-full h-[65vh] sm:h-[60vh] md:h-[70vh] bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `url('/123.jpg')` }}>
           {/* Overlay or content container */}
-          <div className="absolute inset-0 bg-black opacity-30"></div> {/* Optional overlay */}
+          <div className="absolute inset-0 bg-black opacity-[0.5]"></div> {/* Optional overlay */}
           <div className="flex flex-col relative z-10 flex justify-center items-center h-full">
             <p className="mb-2 mx-auto font-semibold w-fit border-2 border-transparent text-white mt-4 my-4 p-2 rounded-full px-4 text-center md:mb-2 md:text-2xl">
               Healing Beyond Borders
@@ -26,8 +26,8 @@ export default function Hero() {
             <h1 className="mb-4 text-3xl font-bold text-white text-center sm:text-4xl md:mb-4 md:text-5xl">
               One Destination For All Treatment
             </h1>
-            <p className="mb-2 font-semibold text-white mt-0 sm:mt-2 pt-4 text-center md:text-lg">
-              24/7 You to Trusted Medical Care Worldwide
+            <p className="mb-2 font-semibold text-white mt-0 sm:mt-2 pt-2 text-[15px] sm:pt-4 text-center md:text-lg">
+              24/7 Connecting You to Trusted Medical Care Worldwide
             </p>
             <SearchBar />
           </div>
