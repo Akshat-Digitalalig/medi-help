@@ -30,8 +30,8 @@ export default function Home() {
       <div className='flex justify-center items-center px-6 md:px-10 '>
         <div className='bg-[#240f6a] text-[#8c6df7] flex justify-around overflow-hidden items-center rounded-2xl h-48 w-full '>
           <div className='pl-4'>
-            <h1 className='text-xl md:text-4xl leading-none font-bold'>Do You Want Free Consultant</h1>
-            <h1 className='text-xl leading-none md:text-6xl font-bold text-white'>With Top Doctors</h1>
+            <h1 className='text-xl md:text-2xl xl:text-4xl leading-none font-bold'>Do You Want Free Consultant</h1>
+            <h1 className='text-xl leading-none md:text-3xl xl:text-6xl font-bold text-white'>With Top Doctors</h1>
           </div>
           <Image src={'/Doctors.png'} alt="Free Consult" className='' height={290} width={490} />
         </div>
