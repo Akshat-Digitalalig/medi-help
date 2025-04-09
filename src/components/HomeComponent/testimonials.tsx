@@ -25,7 +25,7 @@ export default function Testimonials() {
         },
         {
             name: "Shivani Deshmukh, Nagpur",
-            review: "e were worried about hidden costs, but MediHelp was upfront and clear. Great support throughout my treatment.",
+            review: "We were worried about hidden costs, but MediHelp was upfront and clear. Great support throughout my treatment.",
             rating: 4,
             img:'https://theforumpractice.com/wp-content/uploads/2020/08/placeholder-female.png'
         },
@@ -49,7 +49,7 @@ export default function Testimonials() {
                 opts={{
                     align: "center",
                 }}
-                className="w-full max-w-6xl"
+                className="w-full max-w-6xl relative"
             >
                 <CarouselContent>
                     {reviews.map((item, index) => (
