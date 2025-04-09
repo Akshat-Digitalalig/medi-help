@@ -103,7 +103,7 @@ export default function NavBarHealthAdvisor() {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <button className="lg:hidden flex md:w-[110px] flex-row-reverse md:flex-row w-full md:w-fit  items-center justify-end md:justify-center  leading-none text-xs font-semibold bg-myblue gap-x-4 px-2 py-2 gap-1 lg:px-4  cursor-pointer text-white  rounded-md hover:bg-white hover:text-myblue hover:border-myblue border-2 duration-300">
+        <button className="hidden md:flex lg:hidden md:w-[110px] flex-row-reverse md:flex-row w-full md:w-fit  items-center justify-end md:justify-center  leading-none text-xs font-semibold bg-myblue gap-x-4 px-2 py-2 gap-1 lg:px-4  cursor-pointer text-white  rounded-md hover:bg-white hover:text-myblue hover:border-myblue border-2 duration-300">
           Health Advisor
           <HeartHandshake size={25} />
         </button>

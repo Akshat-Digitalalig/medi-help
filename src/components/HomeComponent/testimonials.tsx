@@ -44,7 +44,7 @@ export default function Testimonials() {
     ];
 
     return (
-        <div className="flex justify-center ">
+        <div className="flex justify-center overflow-hidden">
             <Carousel
                 opts={{
                     align: "center",
