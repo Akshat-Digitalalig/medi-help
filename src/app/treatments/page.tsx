@@ -23,7 +23,7 @@ export default function Page() {
       </div>
       
       <div className='mx-2 md:mx-16 my-10'>
-        <Accordion type="single" collapsible className="grid grid-cols-1 md:grid-cols-3 gap-x-6">
+        <Accordion type="single" collapsible className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6">
           {Treatments.map((treatment, index) => (
             <AccordionItem key={index} value={`item-${index + 1}`}>
               <AccordionTrigger className="font-semibold text-start">
