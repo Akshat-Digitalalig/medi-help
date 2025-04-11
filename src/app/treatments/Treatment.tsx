@@ -479,8 +479,8 @@ export const Treatments = [
     description: "Comprehensive treatment for ear, nose, and throat conditions.",
     sublinks: [
       {
-        name: "Cochlear Implant Surgery",
-        link: "/treatments/vsd-closure"
+        name: "ENT Surgery",
+        link: "/treatments/ent-treatment"
       }
     ]
   },

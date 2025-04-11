@@ -13,6 +13,7 @@ export default function Page() {
   return (
     <Suspense fallback={<div>Loading...</div>}>
     <div className='max-w-screen-2xl mx-auto'>
+      
       <SearchDoctors />
       <div className="main flex flex-col-reverse mx-8 md:flex-row">
         <div className="mx-2  md:w-[40%]">

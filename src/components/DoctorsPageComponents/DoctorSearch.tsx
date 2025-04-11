@@ -6,8 +6,10 @@ import { countryData } from "@/components/HomeComponent/HeroSearchBar";
 
 const SearchDoctors = () => {
   return (
-    <div className="bg-primary flex flex-col items-center pt-6 pb-8 px-4 rounded-md w-full mx-auto">
-      <h2 className="text-3xl font-bold text-center my-text">Find Your Ideal Doctor</h2>
+    <div style={{ backgroundImage: `url('/123.jpg')` }} className="flex flex-col items-center pt-6 w-full h-[65vh] sm:h-[45vh] md:h-[50vh] mx-auto bg-cover bg-center relative">
+      {/* Overlay or content container */}
+      <div className="absolute inset-0 bg-black opacity-[0.4]"></div> {/* Optional overlay */}
+      <h2 className="text-3xl font-bold text-center text-white mt-[100px] relative">Find Your Ideal Doctor</h2>
       <SearchBar />
     </div>
   );
@@ -51,8 +53,8 @@ const SearchBar = () => {
   };
 
   return (
-    <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto ">
-      <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl border-myblue border-4 md:rounded-full font-sans">
+    <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto relative">
+      <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white p-3 rounded-xl border-white border-4 md:rounded-full font-sans">
         {/* Country Selection */}
         <div className="flex items-center w-full">
           <MapPin size={24} className="my-text" />

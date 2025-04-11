@@ -5085,6 +5085,92 @@ Every surgery comes with some risks. The common risks associated with the proced
     <p><span style="color: #0048ad;"><strong>✔ Advanced Implant Options:</strong></span> Tailored to meet individual patient needs for optimal hearing restoration.</p>
 </div>`,
   },
+  // ent-treatment
+  {
+    name: "ent-treatment",
+    img: "/treatment/ent-treatment.jpg",
+    data: `<div class="wpb_wrapper">
+  <h2><span style="color: #0048ad;"><strong>ENT Surgery in India: A Complete Guide</strong></span></h2>
+
+  <h2><span style="color: #0048ad;"><strong>Introduction & Overview</strong></span></h2>
+  <p>ENT surgery, or otolaryngology, is a medical specialty focused on treating conditions related to the ear, nose, and throat, as well as related structures in the head and neck. It covers a wide range of procedures to manage chronic infections, breathing issues, hearing loss, and more.</p>
+  <p>India is a preferred destination for ENT treatments, offering modern healthcare infrastructure, skilled surgeons, and affordable pricing compared to many countries.</p>
+
+  <h2><span style="color: #0048ad;"><strong>Common ENT Conditions Treated</strong></span></h2>
+  <ul>
+    <li>✔ Chronic ear infections and hearing loss</li>
+    <li>✔ Deviated nasal septum and nasal polyps</li>
+    <li>✔ Sinusitis and breathing issues</li>
+    <li>✔ Tonsillitis and sleep apnea</li>
+    <li>✔ Voice disorders and swallowing problems</li>
+    <li>✔ Thyroid and salivary gland disorders</li>
+  </ul>
+
+  <h2><span style="color: #0048ad;"><strong>Diagnostic Methods</strong></span></h2>
+  <ul>
+    <li><strong>Endoscopy:</strong> To visually inspect internal ENT structures</li>
+    <li><strong>Audiometry:</strong> Hearing evaluation using calibrated sound</li>
+    <li><strong>Imaging:</strong> CT scans and MRIs for deeper assessment</li>
+    <li><strong>Lab Tests:</strong> Bloodwork and swabs for infections</li>
+  </ul>
+
+  <h2><span style="color: #0048ad;"><strong>Popular ENT Surgical Procedures</strong></span></h2>
+  <ul>
+    <li><strong>Tympanoplasty:</strong> Repair of the eardrum</li>
+    <li><strong>Septoplasty:</strong> Correction of a deviated septum</li>
+    <li><strong>FESS (Functional Endoscopic Sinus Surgery):</strong> Minimally invasive treatment for sinusitis</li>
+    <li><strong>Tonsillectomy:</strong> Removal of inflamed tonsils</li>
+    <li><strong>Cochlear Implant:</strong> Hearing restoration for severe hearing loss</li>
+    <li><strong>Mastoidectomy:</strong> Removal of infected mastoid bone</li>
+  </ul>
+
+  <h2><span style="color: #0048ad;"><strong>Estimated Cost of ENT Surgery in India (USD)</strong></span></h2>
+  <table border="1" cellpadding="8" cellspacing="0">
+    <tr>
+      <th><strong>Procedure</strong></th>
+      <th><strong>Cost Range (USD)</strong></th>
+    </tr>
+    <tr>
+      <td>Tympanoplasty</td>
+      <td>$1,500 – $2,500</td>
+    </tr>
+    <tr>
+      <td>FESS (Sinus Surgery)</td>
+      <td>$3,000 – $5,000</td>
+    </tr>
+    <tr>
+      <td>Septoplasty</td>
+      <td>$2,000 – $3,000</td>
+    </tr>
+    <tr>
+      <td>Tonsillectomy</td>
+      <td>$1,200 – $2,000</td>
+    </tr>
+    <tr>
+      <td>Cochlear Implant</td>
+      <td>$17,000 – $25,000</td>
+    </tr>
+    <tr>
+      <td>Mastoidectomy</td>
+      <td>$2,800 – $3,500</td>
+    </tr>
+  </table>
+
+  <h2><span style="color: #0048ad;"><strong>Benefits of Choosing India</strong></span></h2>
+  <ul>
+    <li>✔ Affordable treatment costs</li>
+    <li>✔ Experienced ENT specialists</li>
+    <li>✔ Advanced diagnostic and surgical technology</li>
+    <li>✔ Patient-centric approach and personalized care</li>
+    <li>✔ Minimal waiting time and smooth recovery process</li>
+  </ul>
+
+  <h2><span style="color: #0048ad;"><strong>Conclusion</strong></span></h2>
+  <p>India offers top-quality ENT care for a wide range of ear, nose, and throat conditions. With state-of-the-art infrastructure and skilled professionals, patients can expect excellent outcomes at a fraction of the global cost. Whether you are dealing with hearing loss, sinus issues, or throat-related concerns, India provides a comprehensive and cost-effective solution for ENT treatments.</p>
+</div>
+
+`,
+  },
   // subaortic-membrane-resection
   {
     name: "subaortic-membrane-resection",

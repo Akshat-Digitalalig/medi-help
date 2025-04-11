@@ -20,7 +20,7 @@ export default  function DoctorsCarousel() {
     const reviews = doctors.slice(1, 7)
 
     return (
-        <div className="flex justify-center my-4 pb-4 mt-6 overflow-hidden"> 
+        <div className="flex justify-center my-4 pb-4 mt-6"> 
             <Carousel
 			//  plugins={[autoplay]}
                 opts={{
