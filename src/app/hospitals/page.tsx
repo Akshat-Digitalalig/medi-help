@@ -11,7 +11,7 @@ export default function Page() {
     <Suspense fallback={<div>Loading...</div>}>
     <div className="max-w-screen-2xl mx-auto">
       <SearchHospitals />
-      <div className="main flex flex-col-reverse mx-8 md:flex-row">
+      <div className="main flex flex-col-reverse mx-4 md:flex-row">
         <div className="mx-2  md:w-[40%]">
           <div className="sticky -top-10 scale-90">
             <GetFreeConsult />
