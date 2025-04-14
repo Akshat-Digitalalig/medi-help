@@ -8,24 +8,37 @@ import {
     CarouselPrevious,
 } from "@/components/ui/carousel"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+import Image from "next/image";
 
 export default function Testimonials() {
     const videoList = [
         {
             src:'https://res.cloudinary.com/dgt9qochj/video/upload/v1744370829/e3veivwkgc4blw5l2tjq.mp4',
-            poster: '/poster/poster1.jpg'
+            poster: '/poster/poster1.jpg',
+            name: "Hillary Guuillianne Herma",
+            country: "Seychelles",
+            flag:"/icons/seychelles.png"
         },
         {
             src:'https://res.cloudinary.com/dgt9qochj/video/upload/v1744370830/iorcjy7kgulrs5ixdb0u.mp4',
-            poster: '/poster/poster2.jpg'
+            poster: '/poster/poster2.jpg',
+            name: "Aurelina Mica",
+            country: "Seychelles",
+            flag:"/icons/seychelles.png"
         },
         {
             src:'https://res.cloudinary.com/dgt9qochj/video/upload/v1744370833/wxsbfqfreaouzsu2k93c.mp4',
-            poster: '/poster/poster3.jpg'
+            poster: '/poster/poster3.jpg',
+            name: "Adenike Bamidele Kareem",
+            country: "Nigeria",
+            flag:"/icons/nigeria.png"
         },
         {
             src:'https://res.cloudinary.com/dgt9qochj/video/upload/v1744370835/lmuj2hyalnpdeiimfycl.mp4',
-            poster: '/poster/poster4.jpg'
+            poster: '/poster/poster4.jpg',
+            name: "Omowunim Omolabake Eyide",
+            country: "Nigeria",
+            flag:"/icons/nigeria.png"
         },
     ];
     const reviews = [
@@ -103,7 +116,7 @@ export default function Testimonials() {
             </div>
 
             <section className="py-12 px-[2rem] m:px-[7rem] lg:px-[10rem] xl:px-[12rem] mt-5">
-                <h2 className="text-xl lg:text-3xl font-bold text-center mb-8">Video Testimonials</h2>
+                <h2 className="text-xl lg:text-3xl font-bold text-center mb-8">Real Stories from Our Patients</h2>
                 <div className="grid gap-6 md:grid-cols-3 lg:grid-cols-4">
                     {videoList.map((item, index) => (
                         <div key={index} className="w-full rounded-lg overflow-hidden shadow-md">
@@ -114,6 +127,13 @@ export default function Testimonials() {
                                 className="w-full aspect-[3/4] object-cover"
                                 preload="metadata"
                             />
+                            <div className="mt-1">
+                                <p className="text-center font-semibold">{item.name}</p>
+                                <div className="flex items-center justify-center gap-2 mt-2 mb-2">
+                                    <Image src={item.flag} height={20} width={20} alt={item.country} />
+                                    <p className="text-center">{item.country}</p>
+                                </div>
+                            </div>
                         </div>
                     ))}
                 </div>
