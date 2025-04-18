@@ -121,6 +121,7 @@ export default function Testimonials() {
                     {videoList.map((item, index) => (
                         <div key={index} className="w-full rounded-lg overflow-hidden shadow-md">
                             <video
+                                controlsList="nodownload"
                                 src={item.src}
                                 poster={item.poster}
                                 controls

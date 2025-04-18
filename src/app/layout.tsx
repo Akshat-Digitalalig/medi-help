@@ -5,6 +5,7 @@ import {  Poppins  } from 'next/font/google';
 import Footer from "@/components/Universal/Footer";
 import Script from "next/script";
 import { Toaster } from "@/components/ui/sonner";
+import BottomWhatsapp from "@/components/Universal/BottomWhtsapp";
 
 // const manrope = Manrope({
 //   subsets: ['latin'],
@@ -43,8 +44,9 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${poppins.className} antialiased`}
+        className={`${poppins.className} antialiased relative`}
       >
+        <BottomWhatsapp/>
         <Navbar />
         {children}
         <Footer />
