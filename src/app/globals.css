@@ -120,3 +120,8 @@ body {
 .bg-button-sec{
   background-color: #012D5E;
 }
+
+.active-nav{
+  background: #186dce;
+  color: white;
+}

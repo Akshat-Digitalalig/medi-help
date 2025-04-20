@@ -17,10 +17,12 @@ import Link from "next/link";
 import UtilsBar from "./UtilsBar";
 import SearchBar from "./SearchBar";
 import HealthAdvisor from "../Forms/HealthAdvisor";
-import NavBarHealthAdvisor from '../Forms/NavBarHealthAdvisor';
+import SideNavBarHealthAdvisor from "../Forms/SideNavHealthAdvisor";
+import { usePathname } from "next/navigation";
 
 
 export default function Navbar() {
+  const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
   const toggleSidebar = () => {
     setIsOpen(!isOpen);
@@ -106,7 +108,7 @@ export default function Navbar() {
               <Link
                 href={option.path}
                 key={idx}
-                className="flex gap-2 p-4 text-black font-semibold hover:bg-blue-400 hover:text-white rounded-md transition duration-100 hover:cursor-pointer"
+                className={`flex gap-2 p-4 text-black font-semibold hover:bg-blue-400 hover:text-white rounded-md transition duration-100 hover:cursor-pointer ${pathname===option.path? "active-nav":""}`}
                 onClick={() => {
                   toggleSidebar();
                 }}
@@ -116,7 +118,7 @@ export default function Navbar() {
               </Link>
             ))}
 
-            <NavBarHealthAdvisor />
+            <SideNavBarHealthAdvisor />
             <Link
               href={"/consult-online"}
               className="flex items-center  justify-start mt-2  leading-none text-xs font-semibold bg-myred gap-x-4 px-4 py-2 cursor-pointer text-white  rounded-md hover:bg-white hover:text-mybg-myred hover:border-mybg-myred border-2 duration-300"

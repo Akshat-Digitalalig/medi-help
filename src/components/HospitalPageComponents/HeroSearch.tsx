@@ -6,8 +6,10 @@ import { countryData } from "@/components/HomeComponent/HeroSearchBar";
 
 const SearchHospitals = () => {
   return (
-    <div className="bg-primary flex flex-col items-center pt-6 pb-8 px-4 rounded-md w-full mx-auto">
-      <h2 className="text-3xl font-bold text-center my-text-sec">Find Your Ideal Hospital</h2>
+    <div style={{ backgroundImage: `url('/123.jpg')` }} className="flex flex-col items-center pt-6 w-full h-[65vh] sm:h-[45vh] md:h-[50vh] mx-auto bg-cover bg-center relative">
+      {/* Overlay or content container */}
+      <div className="absolute inset-0 bg-black opacity-[0.4]"></div> {/* Optional overlay */}
+      <h2 className="text-3xl font-bold text-center text-white relative mt-[100px]">Find Your Ideal Hospital</h2>
       <SearchBar />
     </div>
   );
@@ -49,8 +51,8 @@ const SearchBar = () => {
   };
 
   return (
-    <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto">
-      <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white border-4 my-border p-3 rounded-xl md:rounded-full font-sans">
+    <div className="flex flex-col items-center pt-6 pb-10 px-4 rounded-md w-full mx-auto relative">
+      <div className="flex font-semibold max-w-3xl flex-col sm:flex-row gap-2 md:items-center w-full bg-white border-4 border-white p-3 rounded-xl md:rounded-full font-sans">
         <div className="flex items-center w-full">
           <MapPin size={24} className="my-text" />
           <select

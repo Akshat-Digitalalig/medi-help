@@ -23,7 +23,7 @@ export default function HospitalsCarousel() {
     const reviews = hospitalData.slice(1, 7)
 
     return (
-        <div className="flex justify-center my-4 pb-4 mt-6 "> 
+        <div className="flex justify-center my-4 pb-4 mt-6"> 
             <Carousel
                 //  plugins={[autoplay]}
                 opts={{

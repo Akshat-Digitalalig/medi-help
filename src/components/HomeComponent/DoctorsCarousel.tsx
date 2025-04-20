@@ -20,7 +20,7 @@ export default  function DoctorsCarousel() {
     const reviews = doctors.slice(1, 7)
 
     return (
-        <div className="flex justify-center my-4 pb-4 mt-6 "> 
+        <div className="flex justify-center my-4 pb-4 mt-6"> 
             <Carousel
 			//  plugins={[autoplay]}
                 opts={{
@@ -33,8 +33,9 @@ export default  function DoctorsCarousel() {
 				// 	  delay: 2000,
 				// 	}),
 				//   ]}
+                
             >
-                <CarouselContent>
+                <CarouselContent >
                     {reviews.map((item, index) => (
                         <CarouselItem key={index} className="basis-80 md:basis-1/4">
                             

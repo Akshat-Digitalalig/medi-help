@@ -1,23 +1,23 @@
 import { Microscope, ShieldPlus, Stethoscope } from "lucide-react";
 
 export  const benefitOne = {
-    title: "Highlight your benefits",
-    desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+    title: "Why Choose MediHelp",
+    desc: "MediHelp Global offers a comprehensive suite of services designed to facilitate seamless medical care for international patients. Key benefits include:",
     image: '/doctor-consult-illustration.svg',
     bullets: [
       {
-        title: "Understand your customers",
-        desc: "Then explain the first point breifly in one or two lines.",
+        title: "Seamless International Medical Travel",
+        desc: "From free visa assistance to airport pickup & drop, MediHelp Global makes your medical journey stress-free.",
         icon: <ShieldPlus />,
       },
       {
-        title: "Improve acquisition",
-        desc: "Here you can add the next benefit point.",
+        title: "Trusted Access to Top Hospitals & Doctors",
+        desc: "Connect with accredited hospitals and specialist doctors across India.",
         icon: <Microscope />,
       },
       {
-        title: "Drive customer retention",
-        desc: "This will be your last bullet point in this section.",
+        title: "24/7 Support with Multilingual Assistance",
+        desc: "Enjoy round-the-clock support and free translator services so language and time zones are never a barrier to your healing journey.",
         icon: <Stethoscope />,
       },
     ],

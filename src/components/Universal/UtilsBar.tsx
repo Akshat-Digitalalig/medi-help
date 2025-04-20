@@ -9,12 +9,14 @@ import {
   CommandSeparator,
 } from "@/components/ui/command";
 import { hospitalData } from "@/lib/constant/Hospital";
-import { Search } from "lucide-react";
+import { ClipboardPlus, Search } from "lucide-react";
 import Image from "next/image";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { useRouter } from "next/navigation";
 import { doctors } from "@/lib/constant/Doctors";
 import { allSubTreatmentLinks } from "@/app/treatments/Treatment";
+import Link from "next/link";
+import NavBarHealthAdvisor from "../Forms/NavBarHealthAdvisor";
 
 // ---------- Types (adjust as needed) ----------
 interface Hospital {
@@ -129,15 +131,27 @@ export default function UtilsBar() {
   // }, []);
 
   return (
-    <div className="bg-white text-white h-fit flex justify-between items-center">
+    <div className="bg-white text-white h-fit flex justify-between items-center py-0 md:py-2 lg:py-0">
       <div className="ml-4 flex">
         <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row my-text">
           For any support{" "}
           <span className="phone-number">📞 +91 98971 86585</span>
         </h1>
       </div>
+      <div>
+        <div className="flex">
+          <NavBarHealthAdvisor />
+          <Link
+            href={"/consult-online"}
+            className="hidden md:flex ml-1 lg:hidden items-center justify-center leading-none text-xs font-semibold bg-myred border-none gap-[0px] xl:gap-1 px-1 xl:px-4 py-2 cursor-pointer text-white rounded-md hover:bg-white hover:text-myred hover:border-myred border-2 duration-300"
+          >
+            Free Consults
+            <ClipboardPlus size={25} />
+          </Link>
+        </div>
+      </div>
       <div className="flex">
-        <nav className="hidden md:flex items-center gap-2.5">
+        <nav className="hidden md:flex md:w-[200px] lg:w-[300px] items-center gap-2.5">
           {/* ---- Button to open the Command Dialog ---- */}
           <button
             onClick={() => setOpen(true)}
@@ -161,8 +175,8 @@ export default function UtilsBar() {
               />
               <CommandList>
                 {searchResults.hospitals.length > 0 ||
-                searchResults.doctors.length > 0 ||
-                searchResults.treatments.length > 0 ? (
+                  searchResults.doctors.length > 0 ||
+                  searchResults.treatments.length > 0 ? (
                   <>
                     {/* ---- Hospitals ---- */}
                     {searchResults.hospitals.length > 0 && (
