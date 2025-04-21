@@ -12,10 +12,8 @@ export async function generateStaticParams() {
 }
 
 export default async function CategoryPage({ params }: Props) {
-  //await the params promise
   const { category } = await params
 
-  //now you can safely lookup:
   const cat = Treatments.find((t) => t.category === category)
   if (!cat) return notFound()
 
@@ -39,7 +37,7 @@ export default async function CategoryPage({ params }: Props) {
           return (
             <Link
               key={disease}
-              href={`/treatments/${category}/${disease}`}
+              href={`/diseases/${category}/${disease}`}
               className="block border rounded-lg p-6 hover:shadow-lg transition"
             >
               {sub.name}
