@@ -64,10 +64,6 @@ export const Treatments = [
       {
         name: "Brain Aneurysm Surgery",
         link: "brain-aneurysm-surgery"
-      },
-      {
-        name: "Cochlear Implant Surgery",
-        link: "cochlear-implant-surgery"
       }
     ]
   },

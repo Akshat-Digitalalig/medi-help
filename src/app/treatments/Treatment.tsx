@@ -345,10 +345,7 @@ export const Treatments = [
     icon: <BrainIcon />,
     description: "Enhancing brain and sensory function through specialized therapies for improved cognitive, motor, and sensory processing.",
     sublinks: [
-      {
-        name: "Cochlear Implant Surgery",
-        link: "/treatments/cochlear-implant-surgery"
-      }
+      
     ]
   },
   {
@@ -481,6 +478,10 @@ export const Treatments = [
       {
         name: "ENT Surgery",
         link: "/treatments/ent-treatment"
+      },
+      {
+        name: "Cochlear Implant Surgery",
+        link: "/treatments/cochlear-implant-surgery"
       }
     ]
   },
