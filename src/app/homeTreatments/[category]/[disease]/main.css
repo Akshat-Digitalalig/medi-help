@@ -1,0 +1,21 @@
+p {
+	color: black;
+}
+
+h2 {
+	margin-top: 20px;
+	font-size: x-large;
+}
+
+li {
+	/* list-style: disc; */
+	/* font-size: medium; */
+}
+
+table {
+	border: 2px solid black;
+}
+
+tr td {
+	border: 1px solid black;
+}
