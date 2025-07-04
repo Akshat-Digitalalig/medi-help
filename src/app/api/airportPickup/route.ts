@@ -1,104 +1,97 @@
+/* ------------------------------------------------------------------ */
+/*  app/api/sendAirportEmail/route.ts                                 */
+/* ------------------------------------------------------------------ */
 import React from "react";
 import { render } from "@react-email/components";
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
-import path from "path";
-import fs from "fs";
+
 import { EmailTempAirport } from "@/lib/Email/EmailTemp";
 
-const UPLOAD_DIR = path.resolve("/tmp/uploads");
-
-// Handle POST requests
+/* ------------------------------------------------------------------ */
+/* POST  -- handles the airport-pickup enquiry form                   */
+/* ------------------------------------------------------------------ */
 export async function POST(req: NextRequest) {
   try {
-    const formdata = await req.formData();
-    const name = formdata.get("name");
-    const email = formdata.get("email");
-    const phone = formdata.get("phone");
-    const vehicle = formdata.get("vehicle");
-    const messageForUs = formdata.get("messageForUs");
+    /* ---------- 1. Parse form data ---------- */
+    const fd = await req.formData();
 
-    // Handle multiple file uploads
-    const files = formdata.getAll("airTicket") as File[];
-    const filePaths: string[] = [];
+    const name         = fd.get("name")?.toString().trim();
+    const email        = fd.get("email")?.toString().trim();
+    const phone        = fd.get("phone")?.toString();
+    const vehicle      = fd.get("vehicle")?.toString();
+    const messageForUs = fd.get("messageForUs")?.toString();
 
-    // Validate input
+    /* multiple files under <input name="airTicket" multiple> */
+    const files = fd.getAll("airTicket") as File[];
+
+    /* ---------- 2. Basic validation ---------- */
     if (!name || !email || !phone || !vehicle || !messageForUs) {
       return NextResponse.json(
-        { message: "All fields are required" },
-        { status: 400 }
+        { message: "All fields are required." },
+        { status: 400 },
       );
     }
 
-    // Process file uploads
-    for (const file of files) {
-      const buffer = Buffer.from(await file.arrayBuffer());
-      if (!fs.existsSync(UPLOAD_DIR)) {
-        fs.mkdirSync(UPLOAD_DIR, { recursive: true });
-      }
-
-      const filePath = path.resolve(UPLOAD_DIR, file.name);
-      fs.writeFileSync(filePath, buffer);
-      filePaths.push(filePath);
-    }
-
-     // Set up Nodemailer
-        const transporter = nodemailer.createTransport({
-          host: "smtpout.secureserver.net", // GoDaddy's SMTP server
-          port: 465, // Use 465 for SSL
-          secure: true,
-          auth: {
-            user: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-            pass: process.env.NEXT_PUBLIC_SENDER_EMAIL_PASSWORD,
-          },
-        });
-
-    // Render the email template
+    /* ---------- 3. Render e-mail HTML ---------- */
     const emailHtml = await render(
       React.createElement(EmailTempAirport, {
-        name: String(name),
-        email: String(email),
-        phoneNumber: String(phone),
-        vehicle: String(vehicle),
-        messageForUs: String(messageForUs),
-      })
+        name,
+        email,
+        phoneNumber: phone,
+        vehicle,
+        messageForUs,
+      }),
     );
 
-    // Define mail options
-    const mailOptions: nodemailer.SendMailOptions = {
-      from: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-      to: process.env.NEXT_PUBLIC_SUBMIT_EMAIL,
-      subject: `👋 ${name}, Sent a Query!`,
-      html: emailHtml,
-      attachments: filePaths.map((filePath, index) => ({
-        filename: files[index].name,
-        path: filePath,
+    /* ---------- 4. Build attachments straight from memory ---------- */
+    const attachments = await Promise.all(
+      files.map(async (file) => ({
+        filename: file.name,
+        content:  Buffer.from(await file.arrayBuffer()),
       })),
-    };
+    );
 
-    // Send the email
-    await transporter.sendMail(mailOptions);
+    /* ---------- 5. Nodemailer transport (GoDaddy) ---------- */
+    const transporter = nodemailer.createTransport({
+      host: "smtpout.secureserver.net",
+      port: 587,               // STARTTLS
+      secure: false,
+      requireTLS: true,
+      auth: {
+        user: process.env.SENDER_EMAIL!,
+        pass: process.env.SENDER_EMAIL_PASSWORD!,
+      },
+      connectionTimeout: 8_000,
+      greetingTimeout:   8_000,
+      tls: { rejectUnauthorized: false },
+    });
 
-   // Remove the files after sending the email
-       if (fs.existsSync(UPLOAD_DIR)) {
-         fs.rmSync(UPLOAD_DIR, { recursive: true });
-       } 
-   
+    /* ---------- 6. Send the e-mail ---------- */
+    await transporter.sendMail({
+      from:    process.env.SENDER_EMAIL,
+      to:      process.env.SUBMIT_EMAIL,
+      subject: `✈️  ${name} requested an airport pickup!`,
+      html:    emailHtml,
+      attachments,
+    });
 
     return NextResponse.json(
       { message: "Email sent successfully" },
-      { status: 200 }
+      { status: 200 },
     );
-  } catch (error) {
-    console.error("Error sending email:", error);
+  } catch (err) {
+    console.error("Airport email error →", err);
     return NextResponse.json(
       { message: "Failed to send email" },
-      { status: 500 }
+      { status: 500 },
     );
   }
 }
 
-// Handle GET requests
+/* ------------------------------------------------------------------ */
+/* GET -- simple health-check                                         */
+/* ------------------------------------------------------------------ */
 export function GET() {
-  return NextResponse.json({ message: "Hello from the API!" });
+  return NextResponse.json({ message: "Airport-pickup API is live." });
 }

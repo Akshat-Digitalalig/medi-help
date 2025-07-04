@@ -1,3 +1,6 @@
+/* ------------------------------------------------------------------ */
+/*  app/api/sendHealthAdvisorEmail/route.ts                           */
+/* ------------------------------------------------------------------ */
 import React from "react";
 import { render } from "@react-email/components";
 import { NextRequest, NextResponse } from "next/server";
@@ -5,78 +8,85 @@ import nodemailer from "nodemailer";
 
 import { EmailTempHealthAdvisor } from "@/lib/Email/EmailTemp";
 
-// Handle POST requests
+/* ------------------------------------------------------------------ */
+/* POST  -- handles the Health-Advisor enquiry form                   */
+/* ------------------------------------------------------------------ */
 export async function POST(req: NextRequest) {
   try {
-    const formdata = await req.formData();
-    const name = formdata.get("name");
-    const phone = formdata.get("phone");
-    const email = formdata.get("email");
-    const country = formdata.get("country");
-    const age = formdata.get("age");
-    const gender = formdata.get("gender");
-    const messageForUs = formdata.get("messageForUs");
+    /* ---------- 1. Parse form data ---------- */
+    const fd = await req.formData();
 
-    // Validate input
-    if (!name || !phone || !email || !country || !age || !gender || !messageForUs) {
+    const name         = fd.get("name")?.toString().trim();
+    const phone        = fd.get("phone")?.toString();
+    const email        = fd.get("email")?.toString().trim();
+    const country      = fd.get("country")?.toString();
+    const age          = fd.get("age")?.toString();
+    const gender       = fd.get("gender")?.toString();
+    const messageForUs = fd.get("messageForUs")?.toString();
+
+    /* ---------- 2. Basic validation ---------- */
+    if (
+      !name || !phone || !email ||
+      !country || !age || !gender || !messageForUs
+    ) {
       return NextResponse.json(
-        { message: "All fields are required" },
-        { status: 400 }
+        { message: "All fields are required." },
+        { status: 400 },
       );
     }
 
-    // Set up Nodemailer
-    const transporter = nodemailer.createTransport({
-      host: "smtpout.secureserver.net", // GoDaddy's SMTP server
-      port: 465, // Use 465 for SSL
-      secure: true,
-      auth: {
-        user: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-        pass: process.env.NEXT_PUBLIC_SENDER_EMAIL_PASSWORD,
-      },
-    });
-
-    // Render the email template
+    /* ---------- 3. Render HTML e-mail body ---------- */
     const emailHtml = await render(
       React.createElement(EmailTempHealthAdvisor, {
-        name: String(name),
-        phone: String(phone),
-        email: String(email),
-        country: String(country),
-        age: String(age),
-        gender: String(gender),
-        messageForUs: String(messageForUs)
-      })
+        name,
+        phone,
+        email,
+        country,
+        age,
+        gender,
+        messageForUs,
+      }),
     );
 
-    // Define mail options
-    const mailOptions: nodemailer.SendMailOptions = {
-      from: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-      to: process.env.NEXT_PUBLIC_SUBMIT_EMAIL,
-      subject: `👋 ${name}, Submitted Basic Information!`,
-      html: emailHtml,
-    };
-
-    // Send the email
-    const result = await transporter.sendMail(mailOptions);
-    console.log("Email sent successfully:", result);
-    return NextResponse.json(
-      {
-        message: "Email sent successfully",
-        details: result // Include email sending details in the response
+    /* ---------- 4. Nodemailer transport ---------- */
+    const transporter = nodemailer.createTransport({
+      host: "smtpout.secureserver.net",
+      port: 587,                 // STARTTLS (faster + unblocked)
+      secure: false,
+      requireTLS: true,
+      auth: {
+        user: process.env.SENDER_EMAIL!,
+        pass: process.env.SENDER_EMAIL_PASSWORD!,
       },
-      { status: 200 }
+      connectionTimeout: 8_000,
+      greetingTimeout:   8_000,
+      tls: { rejectUnauthorized: false },
+    });
+
+    /* ---------- 5. Send the e-mail ---------- */
+    const result = await transporter.sendMail({
+      from:    process.env.SENDER_EMAIL,
+      to:      process.env.SUBMIT_EMAIL,
+      subject: `🩺  ${name} submitted health-advisor info!`,
+      html:    emailHtml,
+    });
+
+    return NextResponse.json(
+      { message: "Email sent successfully", details: result },
+      { status: 200 },
     );
-  } catch (error) {
-    console.error("Error sending email:", error);
+  } catch (err) {
+    console.error("Health-advisor email error →", err);
     return NextResponse.json(
       { message: "Failed to send email" },
-      { status: 500 }
+      { status: 500 },
     );
   }
 }
 
-// Handle GET requests
+/* ------------------------------------------------------------------ */
+/* GET -- simple health-check                                         */
+/* ------------------------------------------------------------------ */
 export function GET() {
-  return NextResponse.json({ message: "Hello from the API!" });
+  return NextResponse.json({ message: "Health-advisor API is live." });
 }

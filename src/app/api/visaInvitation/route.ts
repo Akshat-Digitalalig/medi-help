@@ -1,111 +1,123 @@
+/* ------------------------------------------------------------------ */
+/*  app/api/sendVisaInvitationEmail/route.ts                          */
+/* ------------------------------------------------------------------ */
 import React from "react";
 import { render } from "@react-email/components";
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
-import path from "path";
-import fs from "fs";
-import { EmailTempVisaInvitations  } from "@/lib/Email/EmailTemp";
 
-const UPLOAD_DIR = path.resolve("/tmp/uploads");
+import { EmailTempVisaInvitations } from "@/lib/Email/EmailTemp";
 
-// Handle POST requests
+/* ------------------------------------------------------------------ */
+/* POST  -- handles the visa-invitation request form                  */
+/* ------------------------------------------------------------------ */
 export async function POST(req: NextRequest) {
   try {
-    const formdata = await req.formData();
-    const name = formdata.get("name");
-    const email = formdata.get("email");
-    const phone = formdata.get("phone");
-    const numberOfAttendants = formdata.get("numberOfAttendants");
-    const appointmentDate = formdata.get("appointmentDate");
-    const hospitalName = formdata.get("hospitalName");
-    const messageForUs = formdata.get("messageForUs");
+    /* ---------- 1. Parse multipart form ---------- */
+    const fd = await req.formData();
 
-    // Handle multiple file uploads
-    const medicalReports = formdata.getAll("medicalReports") as File[];
-    const patientPassport = formdata.get("patientPassport") as File;
-    const attendantsPassports = formdata.getAll("attendantsPassports") as File[];
-    const filePaths: string[] = [];
+    const name               = fd.get("name")?.toString().trim();
+    const email              = fd.get("email")?.toString().trim();
+    const phone              = fd.get("phone")?.toString();
+    const numberOfAttendants = fd.get("numberOfAttendants")?.toString();
+    const appointmentDate    = fd.get("appointmentDate")?.toString();
+    const hospitalName       = fd.get("hospitalName")?.toString();
+    const messageForUs       = fd.get("messageForUs")?.toString();
 
-    // Validate input
-    if (!name || !email || !phone || !numberOfAttendants || !appointmentDate || !hospitalName || !messageForUs) {
+    const medicalReports      = fd.getAll("medicalReports")     as File[];
+    const patientPassport     = fd.get("patientPassport")       as File | null;
+    const attendantsPassports = fd.getAll("attendantsPassports") as File[];
+
+    /* ---------- 2. Basic validation ---------- */
+    if (
+      !name || !email || !phone ||
+      !numberOfAttendants || !appointmentDate || !hospitalName || !messageForUs ||
+      !patientPassport
+    ) {
       return NextResponse.json(
-        { message: "All fields are required" },
-        { status: 400 }
+        { message: "All fields are required." },
+        { status: 400 },
       );
     }
 
-    // Process file uploads
-    const allFiles = [...medicalReports, patientPassport, ...attendantsPassports];
-    for (const file of allFiles) {
-      const buffer = Buffer.from(await file.arrayBuffer());
-      if (!fs.existsSync(UPLOAD_DIR)) {
-        fs.mkdirSync(UPLOAD_DIR, { recursive: true });
-      }
+    /* ---------- 3. Build attachments from memory ---------- */
+    const attachments: { filename: string; content: Buffer }[] = [];
 
-      const filePath = path.resolve(UPLOAD_DIR, file.name);
-      fs.writeFileSync(filePath, buffer);
-      filePaths.push(filePath);
+    /* 3-a. Patient passport (required) */
+    attachments.push({
+      filename: patientPassport.name,
+      content:  Buffer.from(await patientPassport.arrayBuffer()),
+    });
+
+    /* 3-b. Medical reports */
+    for (const file of medicalReports) {
+      attachments.push({
+        filename: file.name,
+        content:  Buffer.from(await file.arrayBuffer()),
+      });
     }
 
-    // Set up Nodemailer
-       const transporter = nodemailer.createTransport({
-         host: "smtpout.secureserver.net", // GoDaddy's SMTP server
-         port: 465, // Use 465 for SSL
-         secure: true,
-         auth: {
-           user: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-           pass: process.env.NEXT_PUBLIC_SENDER_EMAIL_PASSWORD,
-         },
-       });
+    /* 3-c. Attendants’ passports */
+    for (const file of attendantsPassports) {
+      attachments.push({
+        filename: file.name,
+        content:  Buffer.from(await file.arrayBuffer()),
+      });
+    }
 
-    // Render the email template
+    /* ---------- 4. Render HTML e-mail body ---------- */
     const emailHtml = await render(
       React.createElement(EmailTempVisaInvitations, {
-        name: String(name),
-        email: String(email),
-        phoneNumber: String(phone),
-        numberOfAttendants: String(numberOfAttendants),
-        appointmentDate: String(appointmentDate),
-        hospitalName: String(hospitalName),
-        messageForUs: String(messageForUs),
-      })
+        name,
+        email,
+        phoneNumber: phone,
+        numberOfAttendants,
+        appointmentDate,
+        hospitalName,
+        messageForUs,
+      }),
     );
 
-    // Define mail options
-    const mailOptions: nodemailer.SendMailOptions = {
-      from: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-      to: process.env.NEXT_PUBLIC_SUBMIT_EMAIL,
-      subject: `👋 ${name}, Sent a Query!`,
-      html: emailHtml,
-      attachments: filePaths.map((filePath, index) => ({
-        filename: allFiles[index].name,
-        path: filePath,
-      })),
-    };
+    /* ---------- 5. Nodemailer transport (GoDaddy) ---------- */
+    const transporter = nodemailer.createTransport({
+      host: "smtpout.secureserver.net",
+      port: 587,                 // STARTTLS – reliable in serverless
+      secure: false,
+      requireTLS: true,
+      auth: {
+        user: process.env.SENDER_EMAIL!,
+        pass: process.env.SENDER_EMAIL_PASSWORD!,
+      },
+      connectionTimeout: 8_000,
+      greetingTimeout:   8_000,
+      tls: { rejectUnauthorized: false },
+    });
 
-    // Send the email
-    await transporter.sendMail(mailOptions);
-
-   
-    // Remove the files after sending the email
-       if (fs.existsSync(UPLOAD_DIR)) {
-         fs.rmSync(UPLOAD_DIR, { recursive: true });
-       } 
+    /* ---------- 6. Send the e-mail ---------- */
+    await transporter.sendMail({
+      from:    process.env.SENDER_EMAIL,
+      to:      process.env.SUBMIT_EMAIL,
+      subject: `🛂  ${name} requested visa-invitation letters!`,
+      html:    emailHtml,
+      attachments,
+    });
 
     return NextResponse.json(
       { message: "Email sent successfully" },
-      { status: 200 }
+      { status: 200 },
     );
-  } catch (error) {
-    console.error("Error sending email:", error);
+  } catch (err) {
+    console.error("Visa-invitation email error →", err);
     return NextResponse.json(
       { message: "Failed to send email" },
-      { status: 500 }
+      { status: 500 },
     );
   }
 }
 
-// Handle GET requests
+/* ------------------------------------------------------------------ */
+/* GET -- simple health-check                                         */
+/* ------------------------------------------------------------------ */
 export function GET() {
-  return NextResponse.json({ message: "Hello from the API!" });
+  return NextResponse.json({ message: "Visa-invitation API is live." });
 }
