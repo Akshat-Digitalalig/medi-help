@@ -1,105 +1,108 @@
+/* ------------------------------------------------------------------ */
+/*  app/api/sendVideoConsultEmail/route.ts                            */
+/* ------------------------------------------------------------------ */
 import React from "react";
 import { render } from "@react-email/components";
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
-import path from "path";
-import fs from "fs";
+import type Mail from "nodemailer/lib/mailer";
+
 import { EmailTempVideoConsult } from "@/lib/Email/EmailTemp";
 
-const UPLOAD_DIR = path.resolve("/tmp/uploads");
-
-// Handle POST requests
+/* ------------------------------------------------------------------ */
+/* POST  -- handles the video-consult enquiry form                    */
+/* ------------------------------------------------------------------ */
 export async function POST(req: NextRequest) {
   try {
-    const formdata = await req.formData();
-    const name = formdata.get("name");
-    const email = formdata.get("email");
-    const phone = formdata.get("phone");
-    const passport = formdata.get("passport") as File;
-    const doctorName = formdata.get("doctorName");
-    const disease = formdata.get("disease");
-    const messageForUs = formdata.get("messageForUs");
+    /* ---------- 1. Parse multipart form ---------- */
+    const fd = await req.formData();
 
-    // Handle multiple medical report uploads
-    const medicalReports = formdata.getAll("medicalReports") as File[];
-    const filePaths: string[] = [];
+    const name = fd.get("name")?.toString().trim();
+    const email = fd.get("email")?.toString().trim();
+    const phone = fd.get("phone")?.toString();
+    const passport = fd.get("passport") as File | null;
+    const doctorName = fd.get("doctorName")?.toString();
+    const disease = fd.get("disease")?.toString();
+    const messageForUs = fd.get("messageForUs")?.toString();
 
-    // Validate input
-    if (!name || !email || !phone || !passport || !doctorName || !disease || !messageForUs) {
+    /* medical reports (optional multiple) */
+    const medicalReports = fd.getAll("medicalReports") as File[];
+
+    /* ---------- 2. Basic validation ---------- */
+    if (
+      !name ||
+      !email ||
+      !phone ||
+      !passport ||
+      !doctorName ||
+      !disease ||
+      !messageForUs
+    ) {
       return NextResponse.json(
-        { message: "All fields are required" },
+        { message: "All fields are required." },
         { status: 400 }
       );
     }
 
-    // Process passport upload
-    const passportBuffer = Buffer.from(await passport.arrayBuffer());
-    if (!fs.existsSync(UPLOAD_DIR)) {
-      fs.mkdirSync(UPLOAD_DIR, { recursive: true });
-    }
+    /* ---------- 3. Build attachments directly from memory ---------- */
+    const attachments: Mail.Attachment[] = [];
 
-    const passportPath = path.resolve(UPLOAD_DIR, passport.name);
-    fs.writeFileSync(passportPath, passportBuffer);
-    filePaths.push(passportPath);
+    /* 3-a. Passport (always first attachment) */
+    attachments.push({
+      filename: passport.name,
+      content: Buffer.from(await passport.arrayBuffer()),
+    });
 
-    // Process medical report uploads
+    /* 3-b. Medical reports (if any) */
     for (const file of medicalReports) {
-      const buffer = Buffer.from(await file.arrayBuffer());
-      const filePath = path.resolve(UPLOAD_DIR, file.name);
-      fs.writeFileSync(filePath, buffer);
-      filePaths.push(filePath);
+      attachments.push({
+        filename: file.name,
+        content: Buffer.from(await file.arrayBuffer()),
+      });
     }
 
-     // Set up Nodemailer
-        const transporter = nodemailer.createTransport({
-          host: "smtpout.secureserver.net", // GoDaddy's SMTP server
-          port: 465, // Use 465 for SSL
-          secure: true,
-          auth: {
-            user: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-            pass: process.env.NEXT_PUBLIC_SENDER_EMAIL_PASSWORD,
-          },
-        });
-
-    // Render the email template
+    /* ---------- 4. Render HTML e-mail body ---------- */
     const emailHtml = await render(
       React.createElement(EmailTempVideoConsult, {
-        name: String(name),
-        email: String(email),
-        phoneNumber: String(phone),
-        doctorName: String(doctorName),
-        disease: String(disease),
-        messageForUs: String(messageForUs),
+        name,
+        email,
+        phoneNumber: phone,
+        doctorName,
+        disease,
+        messageForUs,
       })
     );
 
-    // Define mail options
-    const mailOptions: nodemailer.SendMailOptions = {
-      from: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-      to: process.env.NEXT_PUBLIC_SUBMIT_EMAIL,
-      subject: `👋 ${name}, Sent a Query for Medical Reports!`,
+    /* ---------- 5. Nodemailer transport (GoDaddy) ---------- */
+    const transporter = nodemailer.createTransport({
+      host: "smtpout.secureserver.net",
+      port: 587, // STARTTLS – reliable in serverless
+      secure: false,
+      requireTLS: true,
+      auth: {
+        user: process.env.SENDER_EMAIL!,
+        pass: process.env.SENDER_EMAIL_PASSWORD!,
+      },
+      connectionTimeout: 8_000,
+      greetingTimeout: 8_000,
+      tls: { rejectUnauthorized: false },
+    });
+
+    /* ---------- 6. Send the e-mail ---------- */
+    await transporter.sendMail({
+      from: process.env.SENDER_EMAIL,
+      to: process.env.SUBMIT_EMAIL,
+      subject: `📹 ${name} requested a video consultation!`,
       html: emailHtml,
-      attachments: filePaths.map((filePath, index) => ({
-        filename: index === 0 ? passport.name : medicalReports[index - 1].name,
-        path: filePath,
-      })),
-    };
-
-    // Send the email
-    await transporter.sendMail(mailOptions);
-
-    // Remove the files after sending the email
-    if (fs.existsSync(UPLOAD_DIR)) {
-      fs.rmSync(UPLOAD_DIR, { recursive: true });
-    } 
-
+      attachments,
+    });
 
     return NextResponse.json(
       { message: "Email sent successfully" },
       { status: 200 }
     );
-  } catch (error) {
-    console.error("Error sending email:", error);
+  } catch (err) {
+    console.error("Video-consult email error →", err);
     return NextResponse.json(
       { message: "Failed to send email" },
       { status: 500 }
@@ -107,7 +110,9 @@ export async function POST(req: NextRequest) {
   }
 }
 
-// Handle GET requests
+/* ------------------------------------------------------------------ */
+/* GET -- simple health-check                                         */
+/* ------------------------------------------------------------------ */
 export function GET() {
-  return NextResponse.json({ message: "Hello from the API!" });
+  return NextResponse.json({ message: "Video-consult API is live." });
 }
