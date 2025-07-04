@@ -1,121 +1,100 @@
+// app/api/sendEmail/route.ts
 import React from "react";
 import { render } from "@react-email/components";
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
-import path from "path";
-import fs from "fs";
+
 import { EmailTemp } from "@/lib/Email/EmailTemp";
 
-const UPLOAD_DIR = path.resolve("/tmp/uploads");
-
-// Handle POST requests
+/* ------------------------------------------------------------------ */
+/* POST /api/sendEmail                                                */
+/* ------------------------------------------------------------------ */
 export async function POST(req: NextRequest) {
   try {
-    const formdata = await req.formData();
-    const name = formdata.get("name");
-    const email = formdata.get("email");
-    const country = formdata.get("country");
-    const city = formdata.get("city");
-    const phone = formdata.get("phone");
-    const medicalProblem = formdata.get("medicalProblem");
-    const ageOrDOB = formdata.get("ageOrDOB");
-    const hospital = formdata.get("hospital");
-    const doctor = formdata.get("doctors");
-    const file = formdata.get("file1") as File;
+    /* ---------- 1. Parse form data ---------- */
+    const fd = await req.formData();
+    const name            = fd.get("name")?.toString().trim();
+    const email           = fd.get("email")?.toString().trim();
+    const country         = fd.get("country")?.toString();
+    const city            = fd.get("city")?.toString();
+    const phone           = fd.get("phone")?.toString();
+    const medicalProblem  = fd.get("medicalProblem")?.toString();
+    const ageOrDOB        = fd.get("ageOrDOB")?.toString();
+    const hospital        = fd.get("hospital")?.toString() || "";
+    const doctor          = fd.get("doctors")?.toString() || "";
+    const file            = fd.get("file1") as File | null;
 
-    // Validate input
+    /* ---------- 2. Basic validation ---------- */
     if (
-      !name ||
-      !email ||
-      !country ||
-      !city ||
-      !phone ||
-      !medicalProblem ||
-      !ageOrDOB
+      !name || !email || !country || !city ||
+      !phone || !medicalProblem || !ageOrDOB
     ) {
       return NextResponse.json(
-        { message: "All fields are required" },
-        { status: 400 }
+        { message: "All required fields must be filled." },
+        { status: 400 },
       );
     }
 
-    // Handle file upload if file is provided
-    let filePath = null;
-    console.log(file);
-    if (file) {
-      const buffer = Buffer.from(await file.arrayBuffer());
-      if (!fs.existsSync(UPLOAD_DIR)) {
-        fs.mkdirSync(UPLOAD_DIR, { recursive: true });
-      }
-
-      filePath = path.resolve(UPLOAD_DIR, file.name);
-      fs.writeFileSync(filePath, buffer);
-    }
-
-    // Set up Nodemailer
-    const transporter = nodemailer.createTransport({
-      host: "smtpout.secureserver.net", // GoDaddy's SMTP server
-      port: 465, // Use 465 for SSL
-      secure: true,
-      auth: {
-        user: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-        pass: process.env.NEXT_PUBLIC_SENDER_EMAIL_PASSWORD,
-      },
-    });
-    
-
-    // Render the email template
+    /* ---------- 3. Render e-mail HTML ---------- */
     const emailHtml = await render(
       React.createElement(EmailTemp, {
-        name: String(name),
-        email: String(email),
-        country: String(country),
-        city: String(city),
-        phoneNumber: String(phone),
-        medicalProblem: String(medicalProblem),
-        ageOrDOB: String(ageOrDOB),
-        hospital: String(`${hospital}`),
-        doctor: String(`${doctor}`),
-      })
+        name,
+        email,
+        country,
+        city,
+        phoneNumber: phone,
+        medicalProblem,
+        ageOrDOB,
+        hospital,
+        doctor,
+      }),
     );
 
-    // Define mail options
-    const mailOptions: nodemailer.SendMailOptions = {
-      from: process.env.NEXT_PUBLIC_SENDER_EMAIL,
-      to: process.env.NEXT_PUBLIC_SUBMIT_EMAIL,
-      subject: `🙋‍♂️ ${name}, Sent a Query!`,
+    /* ---------- 4. Build mail object ---------- */
+    const mail = {
+      from: process.env.SENDER_EMAIL,
+      to:   process.env.SUBMIT_EMAIL,
+      subject: `${name} sent a query!`,
       html: emailHtml,
-    };
+    } as nodemailer.SendMailOptions;
 
-    // Attach file if exists
-    if (filePath) {
-      console.log("file path", filePath);
-      mailOptions.attachments = [
-        {
-          filename: file.name,
-          path: filePath,
-        },
-      ];
+    /* Attach uploaded file (if any) straight from memory */
+    if (file && file.size) {
+      const buffer = Buffer.from(await file.arrayBuffer());
+      mail.attachments = [{
+        filename: file.name,
+        content: buffer,
+      }];
     }
 
-    // Send the email
-    await transporter.sendMail(mailOptions);
-    
-     // Remove the files after sending the email
-       if (fs.existsSync(UPLOAD_DIR)) {
-        fs.rmSync(UPLOAD_DIR, { recursive: true });
-      } 
-    
+    /* ---------- 5. Nodemailer transport (GoDaddy) ---------- */
+    const transporter = nodemailer.createTransport({
+      host: "smtpout.secureserver.net",
+      port: 587,              // STARTTLS
+      secure: false,
+      requireTLS: true,
+      auth: {
+        user: process.env.SENDER_EMAIL!,
+        pass: process.env.SENDER_EMAIL_PASSWORD!,
+      },
+      /* keep Netlify Lambda < 10 s */
+      connectionTimeout: 8_000,
+      greetingTimeout:   8_000,
+      tls: { rejectUnauthorized: false }, // GoDaddy’s cert chain can be odd
+    });
+
+    /* ---------- 6. Send the message ---------- */
+    await transporter.sendMail(mail);
 
     return NextResponse.json(
       { message: "Email sent successfully" },
-      { status: 200 }
+      { status: 200 },
     );
-  } catch (error) {
-    console.error("Error sending email:", error);
+  } catch (err) {
+    console.error("Email send error →", err);
     return NextResponse.json(
       { message: "Failed to send email" },
-      { status: 500 }
+      { status: 500 },
     );
   }
 }
