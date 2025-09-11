@@ -131,7 +131,6 @@ export default function UtilsBar() {
   // }, );
   
   return (
-  <>
     {/* Desktop Support Bar */}
     <div className="ml-4 flex">
       <div className="hidden sm:flex items-center text-sm font-semibold my-text">
