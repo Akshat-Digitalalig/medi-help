@@ -135,11 +135,20 @@ export default function UtilsBar() {
       <div className="ml-4 flex">
         <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row my-text">
           For any support{" "}
-          <div className="flex flex-col ml-2 mt-1">
-              <span className="phone-number">📞 +251954676767 (Ethiopia)</span>
-              <span className="phone-number">📞 +971585114522 (UAE - WhatsApp)</span>
-              <span className="phone-number">📞 +919897186585 (India)</span>
-          </div>
+          <span className="hidden sm:flex ml-2">
+    Ethiopia Office 📞 +251954676767
+    <span className="mx-2">&amp;</span>
+    UAE Office 📞 +971585114522
+    <span className="mx-2">&amp;</span>
+    India Office 📞 +919897186585
+  </span>
+
+  {/* Mobile version */}
+  <span className="sm:hidden w-full bg-black text-white px-3 py-2 rounded-md text-xs text-center mt-2 sm:mt-0">
+    Ethiopia: 📞 +251954676767 &nbsp; | &nbsp;
+    UAE: 📞 +971585114522 &nbsp; | &nbsp;
+    India: 📞 +919897186585
+  </span>
         </h1>
       </div>
       <div>
