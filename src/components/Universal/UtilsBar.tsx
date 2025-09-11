@@ -131,6 +131,7 @@ export default function UtilsBar() {
   // }, );
   
   return (
+  <>
     {/* Desktop Support Bar */}
     <div className="ml-4 flex">
       <div className="hidden sm:flex items-center text-sm font-semibold my-text">
@@ -144,6 +145,7 @@ export default function UtilsBar() {
         </span>
       </div>
     </div>
+
 
     {/* Mobile Support Bar (not fixed, below navbar, with black bg) */}
     <div className="sm:hidden w-full bg-black/70 text-white px-3 py-2 text-xs text-center">
@@ -270,7 +272,6 @@ export default function UtilsBar() {
         </nav>
         <LanguageSwitcher />
       </div>
-    </div>
   );
 }
 
