@@ -131,10 +131,11 @@ export default function UtilsBar() {
   // }, );
   
   return (
-    {/* Desktop Support Bar */}
+
+    <div className="bg-white text-white h-fit flex justify-between items-center py-0 md:py-2 lg:py-0">
     <div className="ml-4 flex">
       <div className="hidden sm:flex items-center text-sm font-semibold my-text">
-        For any support
+        For any support{" "}
         <span className="ml-2">
           Ethiopia 📞 +251954676767
           <span className="mx-2">&amp;</span>
@@ -143,6 +144,7 @@ export default function UtilsBar() {
           India 📞 +919897186585
         </span>
       </div>
+    </div>
     </div>
 
 
