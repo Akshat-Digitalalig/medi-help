@@ -132,7 +132,37 @@ export default function UtilsBar() {
   
   return (
 
-   <div className="bg-white text-white h-fit flex justify-between items-center py-0 md:py-2 lg:py-0"> <div className="ml-4 flex"> <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row my-text"> For any support{" "} <div className="ml-4 flex items-center"> <h1 className="text-sm ml-1 font-semibold flex flex-wrap my-text w-full"> {/* Desktop version */} <span className="hidden sm:flex"> Ethiopia Office 📞 +251954676767 <span className="mx-2">&amp;</span> UAE Office 📞 +971585114522 <span className="mx-2">&amp;</span> India Office 📞 +919897186585 </span> {/* Mobile version */} <span className="sm:hidden w-full bg-black text-white px-3 py-2 rounded-md text-xs text-center"> Ethiopia: 📞 +251954676767 &nbsp; | &nbsp; UAE: 📞 +971585114522 &nbsp; | &nbsp; India: 📞 +919897186585 </span> </h1> </div> </h1> </div> <div>
+    <div className="bg-white text-white h-fit flex justify-between items-center py-0 md:py-2 lg:py-0">
+      <div className="ml-4 flex">
+        <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row my-text">
+          For any support{" "}
+          <span className="hidden sm:flex ml-2">
+    Ethiopia Office 📞 +251954676767
+        <div className="hidden sm:flex items-center text-sm font-semibold my-text">
+  For any support
+  <span className="ml-2">
+    Ethiopia 📞 +251954676767
+    <span className="mx-2">&amp;</span>
+    UAE Office 📞 +971585114522
+    UAE 📞 +971585114522
+    <span className="mx-2">&amp;</span>
+    India Office 📞 +919897186585
+    India 📞 +919897186585
+  </span>
+</div>
+
+  {/* Mobile version */}
+    <span className="sm:hidden fixed top-6 left-0 w-full bg-black/80 text-white px-3 py-2 text-xs text-center z-50">
+{/* Mobile Support Bar */}
+<div className="sm:hidden fixed top-8 left-0 w-full bg-black/70 text-white px-3 py-2 text-xs text-center z-50">
+  Ethiopia 📞 +251954676767 &nbsp; &amp; &nbsp;
+  UAE 📞 +971585114522 &nbsp; &amp; &nbsp;
+  India 📞 +919897186585
+</span>
+
+        </h1>
+</div>
+      </div>
         <div className="flex">
           <NavBarHealthAdvisor />
           <Link
