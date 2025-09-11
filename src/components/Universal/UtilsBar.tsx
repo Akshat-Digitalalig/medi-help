@@ -128,8 +128,8 @@ export default function UtilsBar() {
   //   };
   //   document.addEventListener("keydown", down);
   //   return () => document.removeEventListener("keydown", down);
-  // }, []);
-
+  // }, );
+  
   return (
     <>
     {/* Desktop Support Bar */}
