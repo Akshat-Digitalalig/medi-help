@@ -145,7 +145,7 @@ export default function UtilsBar() {
   </div>
 
   {/* Mobile version */}
-  <span className="sm:hidden fixed top-6 left-0 w-full bg-black/80 text-white px-3 py-2 text-xs text-center z-50">
+  <span className="sm:hidden w-full bg-black/80 text-white px-3 py-2 text-xs text-center">
     Ethiopia 📞 +251954676767 &nbsp; &amp; &nbsp;
     UAE 📞 +971585114522 &nbsp; &amp; &nbsp;
     India 📞 +919897186585
