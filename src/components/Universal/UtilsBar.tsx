@@ -144,10 +144,10 @@ export default function UtilsBar() {
   </span>
 
   {/* Mobile version */}
-  <span className="sm:hidden w-full bg-black text-white px-3 py-2 rounded-md text-xs text-center mt-2 sm:mt-0">
-    Ethiopia: 📞 +251954676767 &nbsp; | &nbsp;
-    UAE: 📞 +971585114522 &nbsp; | &nbsp;
-    India: 📞 +919897186585
+    <span className="sm:hidden fixed top-0 left-0 w-full bg-black text-white px-3 py-2 text-xs text-center z-50">
+    Ethiopia 📞 +251954676767 &nbsp; &amp; &nbsp;
+    UAE 📞 +971585114522 &nbsp; &amp; &nbsp;
+    India 📞 +919897186585
   </span>
         </h1>
       </div>
