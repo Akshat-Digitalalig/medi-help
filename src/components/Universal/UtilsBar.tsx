@@ -161,9 +161,7 @@ export default function UtilsBar() {
             Free Consults
             <ClipboardPlus size={25} />
           </Link>
-        </div>
-      </div>
-      <div className="flex">
+          
         <nav className="hidden md:flex md:w-[200px] lg:w-[300px] items-center gap-2.5">
           {/* ---- Button to open the Command Dialog ---- */}
           <button
