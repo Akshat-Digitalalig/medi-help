@@ -68,7 +68,11 @@ export default function Navbar() {
             <Menu size={24} />
           </button>
         </header>
-
+        <div className="sm:hidden w-full bg-black/80 text-white px-3 py-2 text-xs text-center">
+          Ethiopia 📞 +251954676767 &nbsp; &amp; &nbsp;
+          UAE 📞 +971585114522 &nbsp; &amp; &nbsp;
+          India 📞 +919897186585
+        </div>
         <div
           ref={sidebarRef}
           className={`flex flex-col justify-between fixed inset-y-0 right-0 bg-black bg-opacity-50 z-50 transition-transform transform ${isOpen ? "translate-x-0" : "translate-x-full"
