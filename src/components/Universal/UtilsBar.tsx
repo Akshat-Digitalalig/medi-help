@@ -131,27 +131,27 @@ export default function UtilsBar() {
   // }, []);
 
   return (
-    <div className="bg-white text-white h-fit flex justify-between items-center py-0 md:py-2 lg:py-0">
-      <div className="ml-4 flex">
-        <div className="hidden sm:flex items-center text-sm font-semibold my-text">
-  For any support
-  <span className="ml-2">
-    Ethiopia 📞 +251954676767
-    <span className="mx-2">&amp;</span>
-    UAE 📞 +971585114522
-    <span className="mx-2">&amp;</span>
-    India 📞 +919897186585
-  </span>
-</div>
-
-{/* Mobile Support Bar */}
-<div className="sm:hidden fixed top-8 left-0 w-full bg-black/70 text-white px-3 py-2 text-xs text-center z-50">
-  Ethiopia 📞 +251954676767 &nbsp; &amp; &nbsp;
-  UAE 📞 +971585114522 &nbsp; &amp; &nbsp;
-  India 📞 +919897186585
-</div>
+    <>
+    {/* Desktop Support Bar */}
+    <div className="ml-4 flex">
+      <div className="hidden sm:flex items-center text-sm font-semibold my-text">
+        For any support
+        <span className="ml-2">
+          Ethiopia 📞 +251954676767
+          <span className="mx-2">&amp;</span>
+          UAE 📞 +971585114522
+          <span className="mx-2">&amp;</span>
+          India 📞 +919897186585
+        </span>
       </div>
-      <div>
+    </div>
+
+    {/* Mobile Support Bar (not fixed, below navbar, with black bg) */}
+    <div className="sm:hidden w-full bg-black/70 text-white px-3 py-2 text-xs text-center">
+      Ethiopia 📞 +251954676767 &nbsp; &amp; &nbsp;
+      UAE 📞 +971585114522 &nbsp; &amp; &nbsp;
+      India 📞 +919897186585
+    </div>
         <div className="flex">
           <NavBarHealthAdvisor />
           <Link
