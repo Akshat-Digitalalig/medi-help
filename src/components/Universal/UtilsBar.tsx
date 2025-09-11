@@ -129,149 +129,164 @@ export default function UtilsBar() {
   //   document.addEventListener("keydown", down);
   //   return () => document.removeEventListener("keydown", down);
   // }, []);
-  
-return (
-  <>
-    {/* Desktop Support Bar */}
+
+  return (
     <div className="bg-white text-white h-fit flex justify-between items-center py-0 md:py-2 lg:py-0">
       <div className="ml-4 flex">
+        <h1 className="text-sm ml-1 font-semibold flex flex-col sm:flex-row my-text">
+          For any support{" "}
+          <span className="hidden sm:flex ml-2">
+    Ethiopia Office 📞 +251954676767
         <div className="hidden sm:flex items-center text-sm font-semibold my-text">
-          For any support
-          <span className="ml-2">
-            Ethiopia 📞 +251954676767
-            <span className="mx-2">&amp;</span>
-            UAE 📞 +971585114522
-            <span className="mx-2">&amp;</span>
-            India 📞 +919897186585
-          </span>
+  For any support
+  <span className="ml-2">
+    Ethiopia 📞 +251954676767
+    <span className="mx-2">&amp;</span>
+    UAE Office 📞 +971585114522
+    UAE 📞 +971585114522
+    <span className="mx-2">&amp;</span>
+    India Office 📞 +919897186585
+    India 📞 +919897186585
+  </span>
+</div>
+
+  {/* Mobile version */}
+    <span className="sm:hidden fixed top-6 left-0 w-full bg-black/80 text-white px-3 py-2 text-xs text-center z-50">
+{/* Mobile Support Bar */}
+<div className="sm:hidden fixed top-8 left-0 w-full bg-black/70 text-white px-3 py-2 text-xs text-center z-50">
+  Ethiopia 📞 +251954676767 &nbsp; &amp; &nbsp;
+  UAE 📞 +971585114522 &nbsp; &amp; &nbsp;
+  India 📞 +919897186585
+</span>
+
+        </h1>
+</div>
+      </div>
+      <div>
+        <div className="flex">
+          <NavBarHealthAdvisor />
+          <Link
+            href={"/consult-online"}
+            className="hidden md:flex ml-1 lg:hidden items-center justify-center leading-none text-xs font-semibold bg-myred border-none gap-[0px] xl:gap-1 px-1 xl:px-4 py-2 cursor-pointer text-white rounded-md hover:bg-white hover:text-myred hover:border-myred border-2 duration-300"
+          >
+            Free Consults
+            <ClipboardPlus size={25} />
+          </Link>
         </div>
       </div>
-    </div>
+      <div className="flex">
+        <nav className="hidden md:flex md:w-[200px] lg:w-[300px] items-center gap-2.5">
+          {/* ---- Button to open the Command Dialog ---- */}
+          <button
+            onClick={() => setOpen(true)}
+            className="flex items-center text-sm border w-full px-3 rounded-2xl my-border md:gap-x-4 p-1"
+          >
+            <span className="flex items-center w-80 gap-x-1 my-text"> Search... </span>
+            <span>
+              <Search size={16} strokeWidth={3} />
+            </span>
+          </button>
 
-    {/* Mobile Support Bar */}
-    <div className="sm:hidden fixed top-8 left-0 w-full bg-black/70 text-white px-3 py-2 text-xs text-center z-50">
-      Ethiopia 📞 +251954676767 &nbsp; &amp; &nbsp;
-      UAE 📞 +971585114522 &nbsp; &amp; &nbsp;
-      India 📞 +919897186585
-    </div>
-
-    {/* Navigation + Free Consults */}
-    <div className="flex">
-      <NavBarHealthAdvisor />
-      <Link
-        href={"/consult-online"}
-        className="hidden md:flex ml-1 lg:hidden items-center justify-center leading-none text-xs font-semibold bg-myred border-none gap-[0px] xl:gap-1 px-1 xl:px-4 py-2 cursor-pointer text-white rounded-md hover:bg-white hover:text-myred hover:border-myred border-2 duration-300"
-      >
-        Free Consults
-        <ClipboardPlus size={25} />
-      </Link>
-
-      <nav className="hidden md:flex md:w-[200px] lg:w-[300px] items-center gap-2.5">
-        {/* ---- Button to open the Command Dialog ---- */}
-        <button
-          onClick={() => setOpen(true)}
-          className="flex items-center text-sm border w-full px-3 rounded-2xl my-border md:gap-x-4 p-1"
-        >
-          <span className="flex items-center w-80 gap-x-1 my-text"> Search... </span>
-          <span>
-            <Search size={16} strokeWidth={3} />
-          </span>
-        </button>
-
-        {/* ---- Command Dialog ---- */}
-        <Command>
-          <CommandDialog open={open} onOpenChange={setOpen}>
-            <DialogTitle className="text-lg font-semibold"></DialogTitle>
-            <CommandInput
-              placeholder="Search Hospitals, Doctors, Treatments..."
-              value={query}
-              onValueChange={setQuery}
-            />
-            <CommandList>
-              {searchResults.hospitals.length > 0 ||
-              searchResults.doctors.length > 0 ||
-              searchResults.treatments.length > 0 ? (
-                <>
-                  {/* Hospitals */}
-                  {searchResults.hospitals.length > 0 && (
-                    <div className="p-4">
-                      <div className="text-lg font-semibold mb-4">Hospitals</div>
-                      <div className="space-y-4">
-                        {searchResults.hospitals.map((hospital) => (
-                          <ListItems
-                            key={hospital.id}
-                            onClick={() => {
-                              router.push(`/hospitals/${hospital.id}`);
-                              setOpen(false);
-                            }}
-                            img={hospital.mainImage}
-                            name={hospital.name}
-                            location={hospital.address.city}
-                          />
-                        ))}
+          {/* ---- Command Dialog ---- */}
+          <Command>
+            <CommandDialog open={open} onOpenChange={setOpen}>
+              <DialogTitle className="text-lg font-semibold"></DialogTitle>
+              <CommandInput
+                placeholder="Search Hospitals, Doctors, Treatments..."
+                // Use the state to control the input
+                value={query}
+                onValueChange={setQuery}
+              />
+              <CommandList>
+                {searchResults.hospitals.length > 0 ||
+                  searchResults.doctors.length > 0 ||
+                  searchResults.treatments.length > 0 ? (
+                  <>
+                    {/* ---- Hospitals ---- */}
+                    {searchResults.hospitals.length > 0 && (
+                      <div className="p-4">
+                        <div className="text-lg font-semibold mb-4">
+                          Hospitals
+                        </div>
+                        <div className="space-y-4">
+                          {searchResults.hospitals.map((hospital) => (
+                            <ListItems
+                              key={hospital.id}
+                              onClick={() => {
+                                router.push(`/hospitals/${hospital.id}`);
+                                setOpen(false);
+                              }}
+                              img={hospital.mainImage}
+                              name={hospital.name}
+                              location={hospital.address.city}
+                            />
+                          ))}
+                        </div>
                       </div>
-                    </div>
-                  )}
-                  <CommandSeparator />
+                    )}
+                    <CommandSeparator />
 
-                  {/* Doctors */}
-                  {searchResults.doctors.length > 0 && (
-                    <div className="p-4">
-                      <div className="text-lg font-semibold mb-4">Doctors</div>
-                      <div className="space-y-4">
-                        {searchResults.doctors.map((doctor) => (
-                          <ListItems
-                            key={doctor.id}
-                            onClick={() => {
-                              router.push(`/doctors/${doctor.id}`);
-                              setOpen(false);
-                            }}
-                            img={doctor.image}
-                            name={doctor.name}
-                            location={doctor.designation}
-                          />
-                        ))}
+                    {/* ---- Doctors ---- */}
+                    {searchResults.doctors.length > 0 && (
+                      <div className="p-4">
+                        <div className="text-lg font-semibold mb-4">
+                          Doctors
+                        </div>
+                        <div className="space-y-4">
+                          {searchResults.doctors.map((doctor) => (
+                            <ListItems
+                              key={doctor.id}
+                              onClick={() => {
+                                router.push(`/doctors/${doctor.id}`);
+                                setOpen(false);
+                              }}
+                              img={doctor.image}
+                              name={doctor.name}
+                              location={doctor.designation}
+                            />
+                          ))}
+                        </div>
                       </div>
-                    </div>
-                  )}
-                  <CommandSeparator />
+                    )}
+                    <CommandSeparator />
 
-                  {/* Treatments */}
-                  {searchResults.treatments.length > 0 && (
-                    <div className="p-4">
-                      <div className="text-lg font-semibold mb-4">Treatments</div>
-                      <div className="space-y-4">
-                        {searchResults.treatments.map((treatment, index) => (
-                          <div
-                            key={index}
-                            className="cursor-pointer p-2 rounded-md hover:bg-gray-100 transition-colors duration-200"
-                            onClick={() => {
-                              setOpen(false);
-                              router.push(treatment.link);
-                            }}
-                          >
-                            <p className="text-sm text-gray-800 hover:text-blue-600">
-                              {treatment.name}
-                            </p>
-                          </div>
-                        ))}
+                    {/* ---- Treatments ---- */}
+                    {searchResults.treatments.length > 0 && (
+                      <div className="p-4">
+                        <div className="text-lg font-semibold mb-4">
+                          Treatments
+                        </div>
+                        <div className="space-y-4">
+                          {searchResults.treatments.map((treatment, index) => (
+                            <div
+                              key={index}
+                              className="cursor-pointer p-2 rounded-md hover:bg-gray-100 transition-colors duration-200"
+                              onClick={() => {
+                                setOpen(false);
+                                router.push(treatment.link);
+                              }}
+                            >
+                              <p className="text-sm text-gray-800 hover:text-blue-600">
+                                {treatment.name}
+                              </p>
+                            </div>
+                          ))}
+                        </div>
                       </div>
-                    </div>
-                  )}
-                </>
-              ) : (
-                <CommandEmpty>No results found.</CommandEmpty>
-              )}
-            </CommandList>
-          </CommandDialog>
-        </Command>
-      </nav>
-
-      <LanguageSwitcher />
+                    )}
+                  </>
+                ) : (
+                  <CommandEmpty>No results found.</CommandEmpty>
+                )}
+              </CommandList>
+            </CommandDialog>
+          </Command>
+        </nav>
+        <LanguageSwitcher />
+      </div>
     </div>
-  </>
-);
-
+  );
+}
 
 // ---- A Reusable List Item Component ----
 interface ListItemsProps {
@@ -307,4 +322,4 @@ const ListItems: React.FC<ListItemsProps> = ({
       </div>
     </div>
   );
-}
+};
