@@ -136,11 +136,11 @@ export default function UtilsBar() {
   <div className="hidden sm:flex items-center text-sm font-semibold my-text">
     For any support
     <span className="ml-2">
-      Ethiopia 📞 +251954676767
+      India 📞 +919897186585
       <span className="mx-2">&amp;</span>
       UAE 📞 +971585114522
       <span className="mx-2">&amp;</span>
-      India 📞 +919897186585
+      Ethiopia 📞 +251954676767
     </span>
   </div>
 
