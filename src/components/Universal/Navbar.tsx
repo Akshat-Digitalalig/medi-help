@@ -38,7 +38,7 @@ export default function Navbar() {
         >
           <Link
             href={"/"} 
-            className="cursor-pointer relative w-[160px] h-[45px] sm:h-[70px] sm:w-[30%] md:w-[30%] md:h-[60px] lg:h-[54px] lg:w-[18%] xl:h-[65px] xl:w-[20%] my-1 mx-1 text-lg text-white font-semibold p-2 sm:p-0"
+            className="cursor-pointer relative w-[160px] h-[45px] sm:h-[70px] sm:w-[30%] md:w-[30%] md:h-[60px] lg:h-[54px] lg:w-[18%] xl:h-[65px] xl:w-[20%] my-1 mx-2 text-lg text-white font-semibold p-2 sm:p-0"
             aria-label="logo"
           >
             <Image
